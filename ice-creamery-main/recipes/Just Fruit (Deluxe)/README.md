@@ -1,0 +1,111 @@
+---
+canonical_url: https://jhermann.github.io/ice-creamery/J/Just%20Fruit%20(Deluxe)/
+description: Recipe for the Ninja Creami Deluxe [24oz]
+excluded_steps:
+- ^$
+excluded_tags:
+- Allulose
+- Dairy$
+tags:
+- Dairy-Free
+- Erythritol
+- Fruit
+- Light
+- Low-Fat
+- Low-Sugar
+- Polysaccharide Gum
+- Scoopable
+- Simple
+- Sorbet
+- Sucralose
+- Tylo Powder (CMC)
+- Vegan
+- Xylitol
+---
+# Just Fruit (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-Just-Fruit.png" />
+
+Sorbet mostly from fresh / frozen fruit, with minimal additions to make it processable (soft, scoopable).
+
+> 🌿 **Vegan & Dairy-free**
+
+Note that strawberries, with their relatively low sugar content, are well suited for this.
+So are many types of melon.
+With pineapple, the tub has about 440kcal and a small serving 16g net carbs.
+
+You can reduce the amount of fruit and replace it by water to get better macros (lower carbs / sugar).
+That needs compensation for the removed sugar though, replace with
+trehalose (same amount as the removed fruit sugar, but it has a way lower GI),
+alcohol 40 vol% (half the amount of ‘lost’ sugar), or more sugar alcohols (also half the sugar amount).
+
+*Example:* Just 300g strawberries and 5g more sugar alcohols has 231 kcal and 30g net carbs.
+
+Spin on “Sorbet”, scrape down, and respin.
+This one literally ‘grew on me’ — look at the middle picture, the tub is almost overflowing.
+> <img width=220 alt="After Sorbet" src="Just-Fruit-SB_2025-08-28_1.jpg" class="zoomable" />
+> <img width=220 alt="After Respin" src="Just-Fruit-SB_2025-08-28_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Just-Fruit-SB_2025-08-28_3.jpg" class="zoomable" />
+
+Rating: 😋🍓🍓🍓🍨 (very smooth, more like ice cream than a sorbet)
+
+> <img width=442 alt="Served" src="Just-Fruit-SB_2025-08-28_4.jpg" class="zoomable" />
+
+> ℹ️ Read [About 'Simple' Recipes](/ice-creamery/info/tips%2Btricks/#about-simple-recipes) regarding 'exotic' ingredients and their alternatives.
+
+# INGREDIENTS
+
+ℹ️ Brand names are in square brackets `[...]`.
+
+**Wet**
+
+  - _450g_ Strawberries
+  - _100ml_ Water (cold)
+  - _20g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • Sweetness = 60%; GI = 5; Density = 1.26 g/ml
+  - _10ml_ Lemon juice
+
+**Dry**
+
+  - _35g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • alternatives: 47g allulose or dextrose; POD ≈ 85%; GI < 7
+  - _1.25g_ [Carboxymethyl Cellulose (CMC / E466) \[GoodBake\]](/ice-creamery/info/ingredients/#carboxymethyl-cellulose-cmc-e466){target="_blank"}<sup>↗</sup> • alternatives: guar gum (same amount)
+  - _1.25g_ [Xanthan gum (E415, XG)](/ice-creamery/info/ingredients/#xanthan-gum-xg-e415){target="_blank"}<sup>↗</sup> • 1tsp ≈ 2.8g
+  - _1.5g_ Salt
+  - _1.5g_ ❔Beet Root Powder (organic) [Mandoi] • *optional*, for color (strawberry, watermelon, cherry)
+  - _1g_ ❔Matcha green tea powder (organic) [Mandoi] • *optional*, for color (melon, kiwi)
+  - _1 pinch_ ❔Turmeric • *optional*, for color (mango, pineapple)
+
+**Fill to MAX**
+
+  - _61ml_ Water to MAX line
+  - _≈5 drops_ Flavor drops (sucralose) [IronMaxx] • to taste; or use maple syrup
+
+**Optional / Choices**
+
+  - _450g_ Galia melon (organic) • fresh [117kcal, 25g sugar]
+  - _450g_ Strawberries • fresh or frozen [140kcal, 26g sugar]
+  - _450g_ Watermelon • fresh [135kcal, 28g sugar]
+  - _450g_ Honeydew melon (organic) • fresh [162kcal, 36g sugar]
+  - _450g_ Kiwi • fresh [234kcal, 39g sugar]
+  - _450g_ Blueberries • fresh or frozen [216kcal, 40g sugar]
+  - _450g_ Cherries • fresh or frozen [275kcal, 43g sugar]
+  - _450g_ Mango • fresh or frozen [279kcal, 59g sugar]
+  - _450g_ Pineapple in juice [Del Monte] • canned [306kcal, 68g sugar]
+
+# DIRECTIONS
+
+ 1. Add "wet" ingredients to empty Creami tub.
+ 1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
+ 1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
+ 1. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
+ 1. Add remaining ingredients (to the MAX line) and stir with a spoon.
+ 1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
+ 1. Process with RE-SPIN mode when not creamy enough after the first spin.
+
+# NUTRITIONAL & OTHER INFO
+
+- **Nutritional values per 100g/ml:** 100g; 40.0 kcal; fat 0.3g; carbs 12.2g; sugar 3.8g; protein 0.5g; salt 0.2g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 135.9 kcal; fat 0.9g; carbs 41.6g; sugar 12.9g; protein 1.9g; salt 0.8g
+- **Nutritional values total:** 680g; 271.9 kcal; fat 1.8g; carbs 83.1g; sugar 25.8g; protein 3.7g; salt 1.5g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.47
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 5.45% • LOW-CAL • LOW-FAT • Low-Sugar
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 0.0g • 0.0%
+- **Net carbs:** 38.1g • *∝ 5 servings@136g:* 7.6g • *∝ 3 servings@227g:* 12.7g • *energy ratio (low <20%):* 56.1%

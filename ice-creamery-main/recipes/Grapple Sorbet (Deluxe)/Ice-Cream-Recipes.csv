@@ -1,0 +1,43 @@
+Grapple Sorbet (Deluxe);;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
+Nutritional values per 100g/ml;100;g;;65.1;0.1;19.4;8.5;0.1;0.0;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;221.2;0.4;66.0;28.8;0.5;0.1;;;;;
+Nutritional values total;672;g;;437.2;0.8;130.4;56.9;0.9;0.3;;;;;
+;;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);30.28;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";0.84%;;;;LOW-FAT;;;;Low-Salt;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);0.0;g;;0.0%;;;;;;;;;;
+ℹ️ Net carbs;87.9;g;;*∝ 5 servings@134g:* 17.6g;;;*∝ 3 servings@224g:* 29.3g;;;*energy ratio (low <20%):* 80.5%;;;;
+"This sorbet blends clear apple juice and white grape juice into a light, refreshing dessert with a smooth texture and a clean finish.
+It’s simple, bright, and easy to enjoy — perfect as a palate cleanser or a cool treat on warm days.
+
+> 🌿 **Vegan & Dairy-free**
+
+You can replace the water — used to improve the macros (less sugar) — with juice,
+but then you have to compensate by lowering VG and/or the sweetener.
+
+*Example:* When using just grape juice (600ml, white or red), reduce the VG to 7g.";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Spin on “Sorbet”, scrape down, and re-mix.;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+> Apple + Pear juice • *Rating:* 😋🍎🍏🍐❄️ (non-sharp ice crystals due to the low solids, as sorbet-like as it gets);;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
+Apple Juice (clear, filtered);300.00;ml;1;51.00;0.00;11.81;10.97;0.00;0.01;0.11;;;;1
+Grape Juice (white);150.00;ml;1;67.00;0.50;16.00;16.00;0.50;0.07;0.16;;;;1
+Water (cold);150.00;ml;1;;;;;;;;;;;1
+Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;;50.00;1
+Grape Juice (white);600.00;ml;1;67.00;0.50;16.00;16.00;0.50;0.07;0.16;;;;0
+Glycerin (E422, VG) [hd-line];7.00;g;1;400.00;;99.00;;;;3.70;;;50.00;0
+SweEX (Erythritol + Xylitol 3:2);35.00;g;2;109.60;;100.00;;;;2.56;;*alternative:* 47g allulose or dextrose;100.00;1
+Waxy Maize Starch (E1442) [Ultratex];20.00;g;2;391.00;0.15;97.00;0.00;0.50;0.50;;;"dissolves easily; use 1-5%";;1
+Citric Acid;1.00;g;2;391.00;0.15;97.00;0.00;0.50;0.50;;;0.5–1g ≈ 15ml lemon juice;;1
+Xanthan gum (E415, XG);1.00;g;2;320.00;;78.00;;6.00;1.00;;;1tsp ≈ 2.8g;;1
+Stevia drops “natural” [Nick’s];≈8;drops;3;;;;;;;;;to taste • unflavored;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Pear Juice (clear, filtered);225.00;ml;6;47.00;;11.00;10.50;;;0.11;;instead of grape juice, reduce water accordingly [106kcal, 24g sugar];;

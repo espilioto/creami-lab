@@ -1,0 +1,94 @@
+---
+canonical_url: https://jhermann.github.io/ice-creamery/M/Mango%20Kulfi%20(Deluxe)/
+description: Recipe for the Ninja Creami Deluxe [24oz]
+excluded_steps:
+- hydrating in hot water
+excluded_tags:
+- Allulose
+- Dairy$
+- Vanilla
+tags:
+- Coconut
+- Dairy-Free
+- Emulsifier
+- Erythritol
+- Fruit
+- Polysaccharide Gum
+- Scoopable
+- Sucralose
+- Tylo Powder (CMC)
+- Vegan
+- Xylitol
+---
+# Mango Kulfi (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/mango-ice-cream-logo.png" />
+
+*Mango Kulfi* is a rich and creamy frozen dessert that combines the tropical sweetness of mangoes
+with the smooth, velvety texture of coconut milk and a hint of fragrant cardamom.
+
+This dairy-free twist on the traditional Indian treat is both refreshing and indulgent,
+making it a perfect way to cool down on hot days or end a meal with something exotic yet comforting.
+
+> <img style="float: left; margin-right: 1.5em;" width=180 alt="Spun Ice Cream" src="Mango-Kulfi_2025-01-06.jpg" class="zoomable" />
+>
+> *Older version processed on Sorbet, then a scrape-down and a mix-in run.* <br /><br />Rating: 😋🥥🥭  (needs improvement)<br clear=all />
+
+In September 2025 I rewrote this to use the new sweetener and stabilizer blends, coconut milk powder for convenience, and a bit of WMS for an extra creaminess boost.
+
+> <img width=220 alt="After Sorbet" src="Mango-Kulfi_2025-09-20_1.jpg" class="zoomable" />
+> <img width=220 alt="After Respin" src="Mango-Kulfi_2025-09-20_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Mango-Kulfi_2025-09-20_3.jpg" class="zoomable" />
+> 
+> *Current version processed on Sorbet, then a scrape-down and a respin.* <br /><br />Rating: 😋🥥🥭🥭  (I think I do not like mango too much, but it’s creamy all right)
+
+# INGREDIENTS
+
+ℹ️ Brand names are in square brackets `[...]`.
+
+**Prep**
+
+  - _150ml_ Water (hot) • *alternative:* 225ml coconut milk 18.5%
+  - _75g_ [Coconut Milk Powder 54% \[Green Essence\]](/ice-creamery/info/ingredients/#coconut-milk){target="_blank"}<sup>↗</sup>
+  - _2g_ [Glycerol Monostearate (E471) \[Bulk\]](/ice-creamery/info/ingredients/#glycerol-monostearate-gms-e471){target="_blank"}<sup>↗</sup> • *alternative:* lecithin
+
+**Wet**
+
+  - _300g_ Mango
+  - _30ml_ Lemon juice
+  - _15g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup>
+  - _10g_ [Brandy or Vodka 40 vol%](/ice-creamery/info/ingredients/#alcohol-ethanol){target="_blank"}<sup>↗</sup> • *alternative:* 8g (additional) VG for a sober recipe
+
+**Dry**
+
+  - _40g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 53g allulose or dextrose
+  - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • *not-as-good substitute:* 1g guar, 0.3g xanthan, and 0.3g salt
+  - _5g_ [Waxy Maize Starch (E1442) \[Ultratex\]](/ice-creamery/info/ingredients/#waxy-maize-starch-e1442){target="_blank"}<sup>↗</sup> • *optional*
+  - _1 pinch_ Cardamom
+
+**Fill to MAX**
+
+  - _43ml_ Water to MAX line
+  - _≈4 drops_ Flavor drops Peach / Maracuja (sucralose) [IronMaxx] • to taste
+
+# DIRECTIONS
+
+ 1. Mix the coconut milk powder and the GMS in a medium-sized bowl.
+ 1. Add the hot water and whisk until clump-free.
+ 1. Add "wet" ingredients to empty Creami tub.
+ 1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
+ 1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
+ 1. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
+ 1. Add remaining ingredients (to the MAX line) and stir with a spoon.
+ 1. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
+ 1. Process with RE-SPIN mode when not creamy enough after the first spin.
+
+# NUTRITIONAL & OTHER INFO
+
+- **Nutritional values per 100g/ml:** 100g; 126.5 kcal; fat 6.3g; carbs 20.4g; sugar 6.0g; protein 1.0g; salt 0.1g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 430.0 kcal; fat 21.6g; carbs 69.4g; sugar 20.5g; protein 3.3g; salt 0.2g
+- **Nutritional values total:** 680g; 859.9 kcal; fat 43.1g; carbs 138.7g; sugar 41.0g; protein 6.6g; salt 0.5g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 33.88
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 3.09% • Low-Salt
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 34.9g • 5.1%
+- **Net carbs:** 83.9g • *∝ 5 servings@136g:* 16.8g • *∝ 3 servings@227g:* 28g • *energy ratio (low <20%):* 39%
+- **10g 'Salty Stability' is:** 7.3g Inulin • 1.2g Glycerol Monostearate (GMS / E471) • 0.6g Tylose powder (E466, Tylo, CMC) • 0.4g Guar gum (E412) • 0.33g Salt • 0.13g Xanthan gum (E415, XG).

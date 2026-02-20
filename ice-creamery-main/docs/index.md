@@ -1,0 +1,96 @@
+# About
+A collection of my Ninja Creami recipes; the goal is to have only tested / approved ones,
+but on the way there [draft](https://jhermann.github.io/ice-creamery/tags/#tag:draft) and
+[promising](https://jhermann.github.io/ice-creamery/tags/#tag:promising) recipes
+are tagged as such.
+Most recipes are formulated so that they also work in a classic churning machine.
+
+It currently has `{{ path(config.docs_dir).glob('?/*.md') | list | length }}` recipes.
+
+> <img width=720 alt="Gelato Cart" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/gelato-cart.webp" />
+
+!!! info "Last Commit"
+
+    Last changed *{{ git.date_ISO | rchop(14) }}* by *{{ git.author }}*
+
+    [{{ git.short_commit }}](https://github.com/jhermann/ice-creamery/commit/{{ git.short_commit }}){target="_blank"} `{{ git.message | truncate(50) }}`
+
+## How to Use This Site?
+Use the top bar to navigate using [Tags](tags/) or the first letter of a recipe name.
+
+!!! tip "Offline Reading"
+
+    You can load the <a href="/ice-creamery/print_page/" target="_blank">All You Can Read<sup>↗</sup></a>
+    version to save the site as a stand-alone HTML or PDF document, to read off-line.
+
+Check out the [Info](info/) section to get background information on the 'philosophy'
+behind the specific formulation of these recipes, the ingredients used, and some tips & tricks
+to successfully reproduce them in your kitchen.
+
+That section also contains a FAQ page and a glossary, in case some abbreviations used are unknown to you.
+
+!!! tip "Audio Summary"
+
+    <span id="audio">Another way to explore background topics is to listen to this ~18min long interview-style summary of the site.</span>
+
+    <audio controls><source src="https://github.com/jhermann/ice-creamery/raw/refs/heads/main/assets/audio/interview-style-tour-of-the-site-96k.mp3" type="audio/mpeg" /></audio>
+
+    If your browser does not support the audio element, try to [download](https://github.com/jhermann/ice-creamery/raw/refs/heads/main/assets/audio/interview-style-tour-of-the-site-96k.mp3) the MP3 file.
+
+## How to Use the AI Chat?
+
+This recipe collection is available via a [read-only link][1] to
+a [Google NotebookLM](https://notebooklm.google/) workspace.
+
+Open [the link][1] in your browser, and enter questions like this into the chat prompt:
+
+    list recipes with less than 5g net carbs per 100g
+
+You can also ask for ingredients, like in this case:
+
+    I have coconut milk, xanthan, and allulose. List some suitable recipes,
+    and what I need in addition.
+
+To add links to the recipes in the result, ask like this:
+
+    list all recipes above a total of 1000kcal,
+    and use their canonical url to create links for the names
+
+So if you're lost in the collection of more than 100 recipes and neither the search nor [tags](tags/) help,
+you can get pretty specific and ask for a short list according to *your* requirements.
+
+And if you have a classic Creami model or the Swirl, try this:
+
+> <img width=720 alt="AI chat" src="https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/ai-chat-scale-2-thirds.png" />
+
+[1]: https://notebooklm.google.com/notebook/4849972b-b449-40b9-bc93-5a0660ef518d
+
+## How It's Made?
+This website is based on a collection of calculated recipes stored in a
+[GitHub repository](https://github.com/jhermann/ice-creamery#readme).
+
+```embed
+url: https://github.com/jhermann/ice-creamery#readme
+```
+
+The recipes are written as [LibreOffice](https://www.libreoffice.org/download/download-libreoffice/)
+spreadsheets, which allows to directly use formulas for the calculation of
+important ice cream metrics and nutritional information.
+
+```embed
+url: https://www.libreoffice.org/
+image: https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/libre-office-logo.png
+favicon: https://raw.githubusercontent.com/jhermann/ice-creamery/refs/heads/main/assets/libre-office-favicon.ico
+```
+
+A Python script then converts CSV exports of the spreadsheets to markdown files, which are combined with manually created informational pages (like the one you're reading right now), and finally used to render this HTML web site using
+[MkDocs](https://github.com/mkdocs/mkdocs#readme).
+
+```embed
+url: https://www.mkdocs.org/
+```
+
+<!--
+{ macros_info() }}
+{ context(git) | pretty }}
+-->

@@ -1,0 +1,2223 @@
+1
+00:00:00,000 --> 00:00:00,200
+<u>This</u> tutorial demonstrates adjusting my
+spin settings for my ideal creamy
+
+2
+00:00:00,200 --> 00:00:00,600
+This <u>tutorial</u> demonstrates adjusting my
+spin settings for my ideal creamy
+
+3
+00:00:00,600 --> 00:00:01,120
+This tutorial <u>demonstrates</u> adjusting my
+spin settings for my ideal creamy
+
+4
+00:00:01,120 --> 00:00:01,680
+This tutorial demonstrates <u>adjusting</u> my
+spin settings for my ideal creamy
+
+5
+00:00:01,680 --> 00:00:01,980
+This tutorial demonstrates adjusting <u>my</u>
+spin settings for my ideal creamy
+
+6
+00:00:01,980 --> 00:00:02,240
+This tutorial demonstrates adjusting my
+<u>spin</u> settings for my ideal creamy
+
+7
+00:00:02,240 --> 00:00:02,620
+This tutorial demonstrates adjusting my
+spin <u>settings</u> for my ideal creamy
+
+8
+00:00:02,620 --> 00:00:02,840
+This tutorial demonstrates adjusting my
+spin settings <u>for</u> my ideal creamy
+
+9
+00:00:02,840 --> 00:00:03,000
+This tutorial demonstrates adjusting my
+spin settings for <u>my</u> ideal creamy
+
+10
+00:00:03,000 --> 00:00:03,400
+This tutorial demonstrates adjusting my
+spin settings for my <u>ideal</u> creamy
+
+11
+00:00:03,400 --> 00:00:03,740
+This tutorial demonstrates adjusting my
+spin settings for my ideal <u>creamy</u>
+
+12
+00:00:03,740 --> 00:00:04,200
+<u>texture.</u> Following various scrape tests,
+let's begin. By scraping a spoon on out
+
+13
+00:00:04,200 --> 00:00:04,800
+texture. Following various scrape tests,
+let's begin. By scraping a spoon on out
+
+14
+00:00:04,800 --> 00:00:05,080
+texture. <u>Following</u> various scrape tests,
+let's begin. By scraping a spoon on out
+
+15
+00:00:05,080 --> 00:00:05,500
+texture. Following <u>various</u> scrape tests,
+let's begin. By scraping a spoon on out
+
+16
+00:00:05,500 --> 00:00:05,740
+texture. Following various <u>scrape</u> tests,
+let's begin. By scraping a spoon on out
+
+17
+00:00:05,740 --> 00:00:06,080
+texture. Following various scrape <u>tests,</u>
+let's begin. By scraping a spoon on out
+
+18
+00:00:06,080 --> 00:00:06,480
+texture. Following various scrape tests,
+let's begin. By scraping a spoon on out
+
+19
+00:00:06,480 --> 00:00:06,660
+texture. Following various scrape tests,
+<u>let's</u> begin. By scraping a spoon on out
+
+20
+00:00:06,660 --> 00:00:06,900
+texture. Following various scrape tests,
+let's <u>begin.</u> By scraping a spoon on out
+
+21
+00:00:06,900 --> 00:00:07,620
+texture. Following various scrape tests,
+let's begin. By scraping a spoon on out
+
+22
+00:00:07,620 --> 00:00:07,780
+texture. Following various scrape tests,
+let's begin. <u>By</u> scraping a spoon on out
+
+23
+00:00:07,780 --> 00:00:08,039
+texture. Following various scrape tests,
+let's begin. By <u>scraping</u> a spoon on out
+
+24
+00:00:08,039 --> 00:00:08,320
+texture. Following various scrape tests,
+let's begin. By scraping <u>a</u> spoon on out
+
+25
+00:00:08,320 --> 00:00:08,520
+texture. Following various scrape tests,
+let's begin. By scraping a <u>spoon</u> on out
+
+26
+00:00:08,520 --> 00:00:08,740
+texture. Following various scrape tests,
+let's begin. By scraping a spoon <u>on</u> out
+
+27
+00:00:08,740 --> 00:00:08,900
+texture. Following various scrape tests,
+let's begin. By scraping a spoon on <u>out</u>
+
+28
+00:00:08,900 --> 00:00:09,080
+<u>my</u> frozen mixture, I get a feel for what
+setting to use. This mix is hard and
+
+29
+00:00:09,080 --> 00:00:09,360
+my <u>frozen</u> mixture, I get a feel for what
+setting to use. This mix is hard and
+
+30
+00:00:09,360 --> 00:00:09,700
+my frozen <u>mixture,</u> I get a feel for what
+setting to use. This mix is hard and
+
+31
+00:00:09,700 --> 00:00:10,360
+my frozen mixture, I get a feel for what
+setting to use. This mix is hard and
+
+32
+00:00:10,360 --> 00:00:10,520
+my frozen mixture, <u>I</u> get a feel for what
+setting to use. This mix is hard and
+
+33
+00:00:10,520 --> 00:00:10,640
+my frozen mixture, I <u>get</u> a feel for what
+setting to use. This mix is hard and
+
+34
+00:00:10,640 --> 00:00:10,720
+my frozen mixture, I get <u>a</u> feel for what
+setting to use. This mix is hard and
+
+35
+00:00:10,720 --> 00:00:10,940
+my frozen mixture, I get a <u>feel</u> for what
+setting to use. This mix is hard and
+
+36
+00:00:10,940 --> 00:00:11,200
+my frozen mixture, I get a feel <u>for</u> what
+setting to use. This mix is hard and
+
+37
+00:00:11,200 --> 00:00:11,400
+my frozen mixture, I get a feel for <u>what</u>
+setting to use. This mix is hard and
+
+38
+00:00:11,400 --> 00:00:11,720
+my frozen mixture, I get a feel for what
+<u>setting</u> to use. This mix is hard and
+
+39
+00:00:11,720 --> 00:00:12,400
+my frozen mixture, I get a feel for what
+setting <u>to</u> use. This mix is hard and
+
+40
+00:00:12,400 --> 00:00:12,680
+my frozen mixture, I get a feel for what
+setting to <u>use.</u> This mix is hard and
+
+41
+00:00:12,680 --> 00:00:13,320
+my frozen mixture, I get a feel for what
+setting to use. This mix is hard and
+
+42
+00:00:13,320 --> 00:00:13,460
+my frozen mixture, I get a feel for what
+setting to use. <u>This</u> mix is hard and
+
+43
+00:00:13,460 --> 00:00:13,600
+my frozen mixture, I get a feel for what
+setting to use. This <u>mix</u> is hard and
+
+44
+00:00:13,600 --> 00:00:13,820
+my frozen mixture, I get a feel for what
+setting to use. This mix <u>is</u> hard and
+
+45
+00:00:13,820 --> 00:00:14,080
+my frozen mixture, I get a feel for what
+setting to use. This mix is <u>hard</u> and
+
+46
+00:00:14,080 --> 00:00:14,320
+my frozen mixture, I get a feel for what
+setting to use. This mix is hard <u>and</u>
+
+47
+00:00:14,320 --> 00:00:14,520
+<u>I'll</u> use the sorbet setting. I spun it
+with no thawing and right out of the
+
+48
+00:00:14,520 --> 00:00:14,680
+I'll <u>use</u> the sorbet setting. I spun it
+with no thawing and right out of the
+
+49
+00:00:14,680 --> 00:00:14,840
+I'll use <u>the</u> sorbet setting. I spun it
+with no thawing and right out of the
+
+50
+00:00:14,840 --> 00:00:15,180
+I'll use the <u>sorbet</u> setting. I spun it
+with no thawing and right out of the
+
+51
+00:00:15,180 --> 00:00:15,620
+I'll use the sorbet <u>setting.</u> I spun it
+with no thawing and right out of the
+
+52
+00:00:15,620 --> 00:00:16,660
+I'll use the sorbet setting. I spun it
+with no thawing and right out of the
+
+53
+00:00:16,660 --> 00:00:16,840
+I'll use the sorbet setting. <u>I</u> spun it
+with no thawing and right out of the
+
+54
+00:00:16,840 --> 00:00:17,040
+I'll use the sorbet setting. I <u>spun</u> it
+with no thawing and right out of the
+
+55
+00:00:17,040 --> 00:00:17,260
+I'll use the sorbet setting. I spun <u>it</u>
+with no thawing and right out of the
+
+56
+00:00:17,260 --> 00:00:17,360
+I'll use the sorbet setting. I spun it
+<u>with</u> no thawing and right out of the
+
+57
+00:00:17,360 --> 00:00:17,560
+I'll use the sorbet setting. I spun it
+with <u>no</u> thawing and right out of the
+
+58
+00:00:17,560 --> 00:00:18,100
+I'll use the sorbet setting. I spun it
+with no <u>thawing</u> and right out of the
+
+59
+00:00:18,100 --> 00:00:18,520
+I'll use the sorbet setting. I spun it
+with no thawing <u>and</u> right out of the
+
+60
+00:00:18,520 --> 00:00:18,720
+I'll use the sorbet setting. I spun it
+with no thawing and <u>right</u> out of the
+
+61
+00:00:18,720 --> 00:00:18,940
+I'll use the sorbet setting. I spun it
+with no thawing and right <u>out</u> of the
+
+62
+00:00:18,940 --> 00:00:19,060
+I'll use the sorbet setting. I spun it
+with no thawing and right out <u>of</u> the
+
+63
+00:00:19,060 --> 00:00:19,140
+I'll use the sorbet setting. I spun it
+with no thawing and right out of <u>the</u>
+
+64
+00:00:19,140 --> 00:00:19,380
+<u>freezer.</u> This one is really soft. I'll
+use ice cream setting then mix in. It
+
+65
+00:00:19,380 --> 00:00:20,600
+freezer. This one is really soft. I'll
+use ice cream setting then mix in. It
+
+66
+00:00:20,600 --> 00:00:20,840
+freezer. <u>This</u> one is really soft. I'll
+use ice cream setting then mix in. It
+
+67
+00:00:20,840 --> 00:00:20,980
+freezer. This <u>one</u> is really soft. I'll
+use ice cream setting then mix in. It
+
+68
+00:00:20,980 --> 00:00:21,100
+freezer. This one <u>is</u> really soft. I'll
+use ice cream setting then mix in. It
+
+69
+00:00:21,100 --> 00:00:21,340
+freezer. This one is <u>really</u> soft. I'll
+use ice cream setting then mix in. It
+
+70
+00:00:21,340 --> 00:00:21,740
+freezer. This one is really <u>soft.</u> I'll
+use ice cream setting then mix in. It
+
+71
+00:00:21,740 --> 00:00:22,300
+freezer. This one is really soft. I'll
+use ice cream setting then mix in. It
+
+72
+00:00:22,300 --> 00:00:22,380
+freezer. This one is really soft. <u>I'll</u>
+use ice cream setting then mix in. It
+
+73
+00:00:22,380 --> 00:00:22,560
+freezer. This one is really soft. I'll
+<u>use</u> ice cream setting then mix in. It
+
+74
+00:00:22,560 --> 00:00:22,980
+freezer. This one is really soft. I'll
+use <u>ice</u> cream setting then mix in. It
+
+75
+00:00:22,980 --> 00:00:23,240
+freezer. This one is really soft. I'll
+use ice <u>cream</u> setting then mix in. It
+
+76
+00:00:23,240 --> 00:00:23,520
+freezer. This one is really soft. I'll
+use ice cream <u>setting</u> then mix in. It
+
+77
+00:00:23,520 --> 00:00:23,800
+freezer. This one is really soft. I'll
+use ice cream setting <u>then</u> mix in. It
+
+78
+00:00:23,800 --> 00:00:24,020
+freezer. This one is really soft. I'll
+use ice cream setting then <u>mix</u> in. It
+
+79
+00:00:24,020 --> 00:00:24,280
+freezer. This one is really soft. I'll
+use ice cream setting then mix <u>in.</u> It
+
+80
+00:00:24,280 --> 00:00:25,000
+freezer. This one is really soft. I'll
+use ice cream setting then mix in. It
+
+81
+00:00:25,000 --> 00:00:25,480
+freezer. This one is really soft. I'll
+use ice cream setting then mix in. <u>It</u>
+
+82
+00:00:25,480 --> 00:00:25,560
+<u>will</u> likely result in soft serve. I can
+skip mix in or freeze for a bit after.
+
+83
+00:00:25,560 --> 00:00:25,740
+will <u>likely</u> result in soft serve. I can
+skip mix in or freeze for a bit after.
+
+84
+00:00:25,740 --> 00:00:26,140
+will likely <u>result</u> in soft serve. I can
+skip mix in or freeze for a bit after.
+
+85
+00:00:26,140 --> 00:00:26,340
+will likely result <u>in</u> soft serve. I can
+skip mix in or freeze for a bit after.
+
+86
+00:00:26,340 --> 00:00:26,560
+will likely result in <u>soft</u> serve. I can
+skip mix in or freeze for a bit after.
+
+87
+00:00:26,560 --> 00:00:26,860
+will likely result in soft <u>serve.</u> I can
+skip mix in or freeze for a bit after.
+
+88
+00:00:26,860 --> 00:00:27,460
+will likely result in soft serve. I can
+skip mix in or freeze for a bit after.
+
+89
+00:00:27,460 --> 00:00:27,560
+will likely result in soft serve. <u>I</u> can
+skip mix in or freeze for a bit after.
+
+90
+00:00:27,560 --> 00:00:27,700
+will likely result in soft serve. I <u>can</u>
+skip mix in or freeze for a bit after.
+
+91
+00:00:27,700 --> 00:00:27,900
+will likely result in soft serve. I can
+<u>skip</u> mix in or freeze for a bit after.
+
+92
+00:00:27,900 --> 00:00:28,080
+will likely result in soft serve. I can
+skip <u>mix</u> in or freeze for a bit after.
+
+93
+00:00:28,080 --> 00:00:28,420
+will likely result in soft serve. I can
+skip mix <u>in</u> or freeze for a bit after.
+
+94
+00:00:28,420 --> 00:00:28,640
+will likely result in soft serve. I can
+skip mix in <u>or</u> freeze for a bit after.
+
+95
+00:00:28,640 --> 00:00:28,880
+will likely result in soft serve. I can
+skip mix in or <u>freeze</u> for a bit after.
+
+96
+00:00:28,880 --> 00:00:28,880
+will likely result in soft serve. I can
+skip mix in or freeze <u>for</u> a bit after.
+
+97
+00:00:28,880 --> 00:00:29,780
+will likely result in soft serve. I can
+skip mix in or freeze for <u>a</u> bit after.
+
+98
+00:00:29,780 --> 00:00:29,920
+will likely result in soft serve. I can
+skip mix in or freeze for a <u>bit</u> after.
+
+99
+00:00:29,920 --> 00:00:30,240
+will likely result in soft serve. I can
+skip mix in or freeze for a bit <u>after.</u>
+
+100
+00:00:30,960 --> 00:00:31,080
+<u>It</u> is important to note this is based on
+my machine freezer and mixes. You may
+
+101
+00:00:31,080 --> 00:00:31,180
+It <u>is</u> important to note this is based on
+my machine freezer and mixes. You may
+
+102
+00:00:31,180 --> 00:00:31,400
+It is <u>important</u> to note this is based on
+my machine freezer and mixes. You may
+
+103
+00:00:31,400 --> 00:00:31,720
+It is important <u>to</u> note this is based on
+my machine freezer and mixes. You may
+
+104
+00:00:31,720 --> 00:00:31,940
+It is important to <u>note</u> this is based on
+my machine freezer and mixes. You may
+
+105
+00:00:31,940 --> 00:00:32,640
+It is important to note <u>this</u> is based on
+my machine freezer and mixes. You may
+
+106
+00:00:32,640 --> 00:00:32,800
+It is important to note this <u>is</u> based on
+my machine freezer and mixes. You may
+
+107
+00:00:32,800 --> 00:00:33,000
+It is important to note this is <u>based</u> on
+my machine freezer and mixes. You may
+
+108
+00:00:33,000 --> 00:00:33,220
+It is important to note this is based <u>on</u>
+my machine freezer and mixes. You may
+
+109
+00:00:33,220 --> 00:00:33,380
+It is important to note this is based on
+<u>my</u> machine freezer and mixes. You may
+
+110
+00:00:33,380 --> 00:00:33,740
+It is important to note this is based on
+my <u>machine</u> freezer and mixes. You may
+
+111
+00:00:33,740 --> 00:00:34,120
+It is important to note this is based on
+my machine <u>freezer</u> and mixes. You may
+
+112
+00:00:34,120 --> 00:00:34,480
+It is important to note this is based on
+my machine freezer <u>and</u> mixes. You may
+
+113
+00:00:34,480 --> 00:00:34,640
+It is important to note this is based on
+my machine freezer and <u>mixes.</u> You may
+
+114
+00:00:34,640 --> 00:00:35,500
+It is important to note this is based on
+my machine freezer and mixes. You may
+
+115
+00:00:35,500 --> 00:00:35,600
+It is important to note this is based on
+my machine freezer and mixes. <u>You</u> may
+
+116
+00:00:35,600 --> 00:00:35,740
+It is important to note this is based on
+my machine freezer and mixes. You <u>may</u>
+
+117
+00:00:35,740 --> 00:00:35,940
+<u>need</u> to experiment. In my opinion, when
+learning, the safest first spin is
+
+118
+00:00:35,940 --> 00:00:36,060
+need <u>to</u> experiment. In my opinion, when
+learning, the safest first spin is
+
+119
+00:00:36,060 --> 00:00:36,400
+need to <u>experiment.</u> In my opinion, when
+learning, the safest first spin is
+
+120
+00:00:36,400 --> 00:00:37,180
+need to experiment. In my opinion, when
+learning, the safest first spin is
+
+121
+00:00:37,180 --> 00:00:37,340
+need to experiment. <u>In</u> my opinion, when
+learning, the safest first spin is
+
+122
+00:00:37,340 --> 00:00:37,480
+need to experiment. In <u>my</u> opinion, when
+learning, the safest first spin is
+
+123
+00:00:37,480 --> 00:00:37,780
+need to experiment. In my <u>opinion,</u> when
+learning, the safest first spin is
+
+124
+00:00:37,780 --> 00:00:38,100
+need to experiment. In my opinion, <u>when</u>
+learning, the safest first spin is
+
+125
+00:00:38,100 --> 00:00:38,440
+need to experiment. In my opinion, when
+<u>learning,</u> the safest first spin is
+
+126
+00:00:38,440 --> 00:00:38,840
+need to experiment. In my opinion, when
+learning, the safest first spin is
+
+127
+00:00:38,840 --> 00:00:38,920
+need to experiment. In my opinion, when
+learning, <u>the</u> safest first spin is
+
+128
+00:00:38,920 --> 00:00:39,140
+need to experiment. In my opinion, when
+learning, the <u>safest</u> first spin is
+
+129
+00:00:39,140 --> 00:00:39,500
+need to experiment. In my opinion, when
+learning, the safest <u>first</u> spin is
+
+130
+00:00:39,500 --> 00:00:39,820
+need to experiment. In my opinion, when
+learning, the safest first <u>spin</u> is
+
+131
+00:00:39,820 --> 00:00:40,020
+need to experiment. In my opinion, when
+learning, the safest first spin <u>is</u>
+
+132
+00:00:40,020 --> 00:00:40,440
+<u>sorbet.</u> I can tell this will be perfect.
+Sorbet and mix in will be my ideal
+
+133
+00:00:40,440 --> 00:00:42,180
+sorbet. I can tell this will be perfect.
+Sorbet and mix in will be my ideal
+
+134
+00:00:42,180 --> 00:00:42,660
+sorbet. <u>I</u> can tell this will be perfect.
+Sorbet and mix in will be my ideal
+
+135
+00:00:42,660 --> 00:00:42,840
+sorbet. I <u>can</u> tell this will be perfect.
+Sorbet and mix in will be my ideal
+
+136
+00:00:42,840 --> 00:00:43,060
+sorbet. I can <u>tell</u> this will be perfect.
+Sorbet and mix in will be my ideal
+
+137
+00:00:43,060 --> 00:00:43,280
+sorbet. I can tell <u>this</u> will be perfect.
+Sorbet and mix in will be my ideal
+
+138
+00:00:43,280 --> 00:00:43,420
+sorbet. I can tell this <u>will</u> be perfect.
+Sorbet and mix in will be my ideal
+
+139
+00:00:43,420 --> 00:00:43,560
+sorbet. I can tell this will <u>be</u> perfect.
+Sorbet and mix in will be my ideal
+
+140
+00:00:43,560 --> 00:00:43,880
+sorbet. I can tell this will be <u>perfect.</u>
+Sorbet and mix in will be my ideal
+
+141
+00:00:43,880 --> 00:00:44,540
+sorbet. I can tell this will be perfect.
+Sorbet and mix in will be my ideal
+
+142
+00:00:44,540 --> 00:00:45,020
+sorbet. I can tell this will be perfect.
+<u>Sorbet</u> and mix in will be my ideal
+
+143
+00:00:45,020 --> 00:00:45,200
+sorbet. I can tell this will be perfect.
+Sorbet <u>and</u> mix in will be my ideal
+
+144
+00:00:45,200 --> 00:00:45,340
+sorbet. I can tell this will be perfect.
+Sorbet and <u>mix</u> in will be my ideal
+
+145
+00:00:45,340 --> 00:00:45,560
+sorbet. I can tell this will be perfect.
+Sorbet and mix <u>in</u> will be my ideal
+
+146
+00:00:45,560 --> 00:00:45,720
+sorbet. I can tell this will be perfect.
+Sorbet and mix in <u>will</u> be my ideal
+
+147
+00:00:45,720 --> 00:00:45,920
+sorbet. I can tell this will be perfect.
+Sorbet and mix in will <u>be</u> my ideal
+
+148
+00:00:45,920 --> 00:00:46,480
+sorbet. I can tell this will be perfect.
+Sorbet and mix in will be <u>my</u> ideal
+
+149
+00:00:46,480 --> 00:00:46,900
+sorbet. I can tell this will be perfect.
+Sorbet and mix in will be my <u>ideal</u>
+
+150
+00:00:46,900 --> 00:00:47,360
+<u>texture.</u>
+
+151
+00:00:50,140 --> 00:00:50,620
+<u>For</u> softer serve, I would mix in twice.
+Alternatively, if not adding mix ins,
+
+152
+00:00:50,620 --> 00:00:50,840
+For <u>softer</u> serve, I would mix in twice.
+Alternatively, if not adding mix ins,
+
+153
+00:00:50,840 --> 00:00:51,220
+For softer <u>serve,</u> I would mix in twice.
+Alternatively, if not adding mix ins,
+
+154
+00:00:51,220 --> 00:00:51,560
+For softer serve, I would mix in twice.
+Alternatively, if not adding mix ins,
+
+155
+00:00:51,560 --> 00:00:51,680
+For softer serve, <u>I</u> would mix in twice.
+Alternatively, if not adding mix ins,
+
+156
+00:00:51,680 --> 00:00:51,780
+For softer serve, I <u>would</u> mix in twice.
+Alternatively, if not adding mix ins,
+
+157
+00:00:51,780 --> 00:00:51,940
+For softer serve, I would <u>mix</u> in twice.
+Alternatively, if not adding mix ins,
+
+158
+00:00:51,940 --> 00:00:52,120
+For softer serve, I would mix <u>in</u> twice.
+Alternatively, if not adding mix ins,
+
+159
+00:00:52,120 --> 00:00:52,360
+For softer serve, I would mix in <u>twice.</u>
+Alternatively, if not adding mix ins,
+
+160
+00:00:52,360 --> 00:00:54,200
+For softer serve, I would mix in twice.
+Alternatively, if not adding mix ins,
+
+161
+00:00:54,200 --> 00:00:54,680
+For softer serve, I would mix in twice.
+<u>Alternatively,</u> if not adding mix ins,
+
+162
+00:00:54,680 --> 00:00:54,900
+For softer serve, I would mix in twice.
+Alternatively, if not adding mix ins,
+
+163
+00:00:54,900 --> 00:00:55,180
+For softer serve, I would mix in twice.
+Alternatively, <u>if</u> not adding mix ins,
+
+164
+00:00:55,180 --> 00:00:55,320
+For softer serve, I would mix in twice.
+Alternatively, if <u>not</u> adding mix ins,
+
+165
+00:00:55,320 --> 00:00:55,720
+For softer serve, I would mix in twice.
+Alternatively, if not <u>adding</u> mix ins,
+
+166
+00:00:55,720 --> 00:00:55,960
+For softer serve, I would mix in twice.
+Alternatively, if not adding <u>mix</u> ins,
+
+167
+00:00:55,960 --> 00:00:56,240
+For softer serve, I would mix in twice.
+Alternatively, if not adding mix <u>ins,</u>
+
+168
+00:00:56,280 --> 00:00:56,900
+<u>one</u> respin after sorbet would likely be
+ideal. For even softer, three spins max.
+
+169
+00:00:56,900 --> 00:00:57,460
+one <u>respin</u> after sorbet would likely be
+ideal. For even softer, three spins max.
+
+170
+00:00:57,460 --> 00:00:57,780
+one respin <u>after</u> sorbet would likely be
+ideal. For even softer, three spins max.
+
+171
+00:00:57,780 --> 00:00:58,320
+one respin after <u>sorbet</u> would likely be
+ideal. For even softer, three spins max.
+
+172
+00:00:58,320 --> 00:00:58,820
+one respin after sorbet <u>would</u> likely be
+ideal. For even softer, three spins max.
+
+173
+00:00:58,820 --> 00:00:59,040
+one respin after sorbet would <u>likely</u> be
+ideal. For even softer, three spins max.
+
+174
+00:00:59,040 --> 00:00:59,340
+one respin after sorbet would likely <u>be</u>
+ideal. For even softer, three spins max.
+
+175
+00:00:59,340 --> 00:00:59,700
+one respin after sorbet would likely be
+<u>ideal.</u> For even softer, three spins max.
+
+176
+00:00:59,700 --> 00:01:01,640
+one respin after sorbet would likely be
+ideal. For even softer, three spins max.
+
+177
+00:01:01,640 --> 00:01:01,800
+one respin after sorbet would likely be
+ideal. <u>For</u> even softer, three spins max.
+
+178
+00:01:01,800 --> 00:01:02,000
+one respin after sorbet would likely be
+ideal. For <u>even</u> softer, three spins max.
+
+179
+00:01:02,000 --> 00:01:02,320
+one respin after sorbet would likely be
+ideal. For even <u>softer,</u> three spins max.
+
+180
+00:01:02,320 --> 00:01:02,840
+one respin after sorbet would likely be
+ideal. For even softer, three spins max.
+
+181
+00:01:02,840 --> 00:01:02,980
+one respin after sorbet would likely be
+ideal. For even softer, <u>three</u> spins max.
+
+182
+00:01:02,980 --> 00:01:03,300
+one respin after sorbet would likely be
+ideal. For even softer, three <u>spins</u> max.
+
+183
+00:01:03,300 --> 00:01:03,760
+one respin after sorbet would likely be
+ideal. For even softer, three spins <u>max.</u>
+
+184
+00:01:04,480 --> 00:01:04,940
+<u>Sorbet</u> respin mix in. This is a very
+flexible result.
+
+185
+00:01:04,940 --> 00:01:05,640
+Sorbet <u>respin</u> mix in. This is a very
+flexible result.
+
+186
+00:01:05,640 --> 00:01:06,020
+Sorbet respin <u>mix</u> in. This is a very
+flexible result.
+
+187
+00:01:06,020 --> 00:01:06,300
+Sorbet respin mix <u>in.</u> This is a very
+flexible result.
+
+188
+00:01:06,300 --> 00:01:06,600
+Sorbet respin mix in. This is a very
+flexible result.
+
+189
+00:01:06,600 --> 00:01:06,720
+Sorbet respin mix in. <u>This</u> is a very
+flexible result.
+
+190
+00:01:06,720 --> 00:01:06,840
+Sorbet respin mix in. This <u>is</u> a very
+flexible result.
+
+191
+00:01:06,840 --> 00:01:06,960
+Sorbet respin mix in. This is <u>a</u> very
+flexible result.
+
+192
+00:01:06,960 --> 00:01:07,160
+Sorbet respin mix in. This is a <u>very</u>
+flexible result.
+
+193
+00:01:07,160 --> 00:01:07,460
+Sorbet respin mix in. This is a very
+<u>flexible</u> result.
+
+194
+00:01:07,460 --> 00:01:08,040
+Sorbet respin mix in. This is a very
+flexible <u>result.</u>
+
+195
+00:01:11,700 --> 00:01:12,320
+<u>This</u> is another one that is questionably
+soft. I'd probably freeze it longer or
+
+196
+00:01:12,320 --> 00:01:12,420
+This <u>is</u> another one that is questionably
+soft. I'd probably freeze it longer or
+
+197
+00:01:12,420 --> 00:01:12,660
+This is <u>another</u> one that is questionably
+soft. I'd probably freeze it longer or
+
+198
+00:01:12,660 --> 00:01:12,960
+This is another <u>one</u> that is questionably
+soft. I'd probably freeze it longer or
+
+199
+00:01:12,960 --> 00:01:13,120
+This is another one <u>that</u> is questionably
+soft. I'd probably freeze it longer or
+
+200
+00:01:13,120 --> 00:01:13,400
+This is another one that <u>is</u> questionably
+soft. I'd probably freeze it longer or
+
+201
+00:01:13,400 --> 00:01:14,020
+This is another one that is <u>questionably</u>
+soft. I'd probably freeze it longer or
+
+202
+00:01:14,020 --> 00:01:14,340
+This is another one that is questionably
+<u>soft.</u> I'd probably freeze it longer or
+
+203
+00:01:14,340 --> 00:01:15,300
+This is another one that is questionably
+soft. I'd probably freeze it longer or
+
+204
+00:01:15,300 --> 00:01:15,660
+This is another one that is questionably
+soft. <u>I'd</u> probably freeze it longer or
+
+205
+00:01:15,660 --> 00:01:15,960
+This is another one that is questionably
+soft. I'd <u>probably</u> freeze it longer or
+
+206
+00:01:15,960 --> 00:01:16,280
+This is another one that is questionably
+soft. I'd probably <u>freeze</u> it longer or
+
+207
+00:01:16,280 --> 00:01:16,480
+This is another one that is questionably
+soft. I'd probably freeze <u>it</u> longer or
+
+208
+00:01:16,480 --> 00:01:16,740
+This is another one that is questionably
+soft. I'd probably freeze it <u>longer</u> or
+
+209
+00:01:16,740 --> 00:01:17,520
+This is another one that is questionably
+soft. I'd probably freeze it longer <u>or</u>
+
+210
+00:01:17,520 --> 00:01:17,720
+<u>use</u> ice cream plus mix in, accepting it
+may be more like soft serve. Absolutely
+
+211
+00:01:17,720 --> 00:01:17,980
+use <u>ice</u> cream plus mix in, accepting it
+may be more like soft serve. Absolutely
+
+212
+00:01:17,980 --> 00:01:18,260
+use ice <u>cream</u> plus mix in, accepting it
+may be more like soft serve. Absolutely
+
+213
+00:01:18,260 --> 00:01:18,580
+use ice cream <u>plus</u> mix in, accepting it
+may be more like soft serve. Absolutely
+
+214
+00:01:18,580 --> 00:01:18,880
+use ice cream plus <u>mix</u> in, accepting it
+may be more like soft serve. Absolutely
+
+215
+00:01:18,880 --> 00:01:19,200
+use ice cream plus mix <u>in,</u> accepting it
+may be more like soft serve. Absolutely
+
+216
+00:01:19,200 --> 00:01:19,420
+use ice cream plus mix in, accepting it
+may be more like soft serve. Absolutely
+
+217
+00:01:19,420 --> 00:01:19,820
+use ice cream plus mix in, <u>accepting</u> it
+may be more like soft serve. Absolutely
+
+218
+00:01:19,820 --> 00:01:20,080
+use ice cream plus mix in, accepting <u>it</u>
+may be more like soft serve. Absolutely
+
+219
+00:01:20,080 --> 00:01:20,260
+use ice cream plus mix in, accepting it
+<u>may</u> be more like soft serve. Absolutely
+
+220
+00:01:20,260 --> 00:01:20,420
+use ice cream plus mix in, accepting it
+may <u>be</u> more like soft serve. Absolutely
+
+221
+00:01:20,420 --> 00:01:20,640
+use ice cream plus mix in, accepting it
+may be <u>more</u> like soft serve. Absolutely
+
+222
+00:01:20,640 --> 00:01:20,900
+use ice cream plus mix in, accepting it
+may be more <u>like</u> soft serve. Absolutely
+
+223
+00:01:20,900 --> 00:01:21,400
+use ice cream plus mix in, accepting it
+may be more like <u>soft</u> serve. Absolutely
+
+224
+00:01:21,400 --> 00:01:21,840
+use ice cream plus mix in, accepting it
+may be more like soft <u>serve.</u> Absolutely
+
+225
+00:01:21,840 --> 00:01:22,240
+use ice cream plus mix in, accepting it
+may be more like soft serve. Absolutely
+
+226
+00:01:22,240 --> 00:01:22,840
+use ice cream plus mix in, accepting it
+may be more like soft serve. <u>Absolutely</u>
+
+227
+00:01:22,840 --> 00:01:23,280
+<u>no</u> thawing and not a higher setting. It
+would turn to soup. If not adding mix
+
+228
+00:01:23,280 --> 00:01:23,800
+no <u>thawing</u> and not a higher setting. It
+would turn to soup. If not adding mix
+
+229
+00:01:23,800 --> 00:01:23,880
+no thawing <u>and</u> not a higher setting. It
+would turn to soup. If not adding mix
+
+230
+00:01:23,880 --> 00:01:24,100
+no thawing and <u>not</u> a higher setting. It
+would turn to soup. If not adding mix
+
+231
+00:01:24,100 --> 00:01:24,600
+no thawing and not <u>a</u> higher setting. It
+would turn to soup. If not adding mix
+
+232
+00:01:24,600 --> 00:01:24,800
+no thawing and not a <u>higher</u> setting. It
+would turn to soup. If not adding mix
+
+233
+00:01:24,800 --> 00:01:25,260
+no thawing and not a higher <u>setting.</u> It
+would turn to soup. If not adding mix
+
+234
+00:01:25,260 --> 00:01:25,860
+no thawing and not a higher setting. It
+would turn to soup. If not adding mix
+
+235
+00:01:25,860 --> 00:01:25,960
+no thawing and not a higher setting. <u>It</u>
+would turn to soup. If not adding mix
+
+236
+00:01:25,960 --> 00:01:26,040
+no thawing and not a higher setting. It
+<u>would</u> turn to soup. If not adding mix
+
+237
+00:01:26,040 --> 00:01:26,280
+no thawing and not a higher setting. It
+would <u>turn</u> to soup. If not adding mix
+
+238
+00:01:26,280 --> 00:01:26,480
+no thawing and not a higher setting. It
+would turn <u>to</u> soup. If not adding mix
+
+239
+00:01:26,480 --> 00:01:26,740
+no thawing and not a higher setting. It
+would turn to <u>soup.</u> If not adding mix
+
+240
+00:01:26,740 --> 00:01:27,480
+no thawing and not a higher setting. It
+would turn to soup. If not adding mix
+
+241
+00:01:27,480 --> 00:01:27,620
+no thawing and not a higher setting. It
+would turn to soup. <u>If</u> not adding mix
+
+242
+00:01:27,620 --> 00:01:27,760
+no thawing and not a higher setting. It
+would turn to soup. If <u>not</u> adding mix
+
+243
+00:01:27,760 --> 00:01:28,120
+no thawing and not a higher setting. It
+would turn to soup. If not <u>adding</u> mix
+
+244
+00:01:28,120 --> 00:01:28,320
+no thawing and not a higher setting. It
+would turn to soup. If not adding <u>mix</u>
+
+245
+00:01:28,320 --> 00:01:28,580
+<u>ins,</u> sometimes one spin is enough on the
+right setting.
+
+246
+00:01:28,580 --> 00:01:28,980
+ins, sometimes one spin is enough on the
+right setting.
+
+247
+00:01:28,980 --> 00:01:29,380
+ins, <u>sometimes</u> one spin is enough on the
+right setting.
+
+248
+00:01:29,380 --> 00:01:29,700
+ins, sometimes <u>one</u> spin is enough on the
+right setting.
+
+249
+00:01:29,700 --> 00:01:30,020
+ins, sometimes one <u>spin</u> is enough on the
+right setting.
+
+250
+00:01:30,020 --> 00:01:30,220
+ins, sometimes one spin <u>is</u> enough on the
+right setting.
+
+251
+00:01:30,220 --> 00:01:30,460
+ins, sometimes one spin is <u>enough</u> on the
+right setting.
+
+252
+00:01:30,460 --> 00:01:31,040
+ins, sometimes one spin is enough <u>on</u> the
+right setting.
+
+253
+00:01:31,040 --> 00:01:31,720
+ins, sometimes one spin is enough on <u>the</u>
+right setting.
+
+254
+00:01:31,720 --> 00:01:31,940
+ins, sometimes one spin is enough on the
+<u>right</u> setting.
+
+255
+00:01:31,940 --> 00:01:32,360
+ins, sometimes one spin is enough on the
+right <u>setting.</u>
+
+256
+00:01:36,500 --> 00:01:37,100
+<u>This</u> one after one spin was half
+pebbles, half powder. Push down method
+
+257
+00:01:37,100 --> 00:01:37,280
+This <u>one</u> after one spin was half
+pebbles, half powder. Push down method
+
+258
+00:01:37,280 --> 00:01:37,560
+This one <u>after</u> one spin was half
+pebbles, half powder. Push down method
+
+259
+00:01:37,560 --> 00:01:37,780
+This one after <u>one</u> spin was half
+pebbles, half powder. Push down method
+
+260
+00:01:37,780 --> 00:01:38,180
+This one after one <u>spin</u> was half
+pebbles, half powder. Push down method
+
+261
+00:01:38,180 --> 00:01:38,820
+This one after one spin <u>was</u> half
+pebbles, half powder. Push down method
+
+262
+00:01:38,820 --> 00:01:39,020
+This one after one spin was <u>half</u>
+pebbles, half powder. Push down method
+
+263
+00:01:39,020 --> 00:01:39,420
+This one after one spin was half
+<u>pebbles,</u> half powder. Push down method
+
+264
+00:01:39,420 --> 00:01:39,500
+This one after one spin was half
+pebbles, half powder. Push down method
+
+265
+00:01:39,500 --> 00:01:39,640
+This one after one spin was half
+pebbles, <u>half</u> powder. Push down method
+
+266
+00:01:39,640 --> 00:01:39,980
+This one after one spin was half
+pebbles, half <u>powder.</u> Push down method
+
+267
+00:01:39,980 --> 00:01:40,380
+This one after one spin was half
+pebbles, half powder. Push down method
+
+268
+00:01:40,380 --> 00:01:40,560
+This one after one spin was half
+pebbles, half powder. <u>Push</u> down method
+
+269
+00:01:40,560 --> 00:01:40,840
+This one after one spin was half
+pebbles, half powder. Push <u>down</u> method
+
+270
+00:01:40,840 --> 00:01:41,120
+This one after one spin was half
+pebbles, half powder. Push down <u>method</u>
+
+271
+00:01:41,120 --> 00:01:41,480
+<u>assist</u> in doing only one spin to
+perfection. Two spins total. Without
+
+272
+00:01:41,480 --> 00:01:41,780
+assist <u>in</u> doing only one spin to
+perfection. Two spins total. Without
+
+273
+00:01:41,780 --> 00:01:42,000
+assist in <u>doing</u> only one spin to
+perfection. Two spins total. Without
+
+274
+00:01:42,000 --> 00:01:42,720
+assist in doing <u>only</u> one spin to
+perfection. Two spins total. Without
+
+275
+00:01:42,720 --> 00:01:42,960
+assist in doing only <u>one</u> spin to
+perfection. Two spins total. Without
+
+276
+00:01:42,960 --> 00:01:43,280
+assist in doing only one <u>spin</u> to
+perfection. Two spins total. Without
+
+277
+00:01:43,280 --> 00:01:43,420
+assist in doing only one spin <u>to</u>
+perfection. Two spins total. Without
+
+278
+00:01:43,420 --> 00:01:43,720
+assist in doing only one spin to
+<u>perfection.</u> Two spins total. Without
+
+279
+00:01:43,720 --> 00:01:44,520
+assist in doing only one spin to
+perfection. Two spins total. Without
+
+280
+00:01:44,520 --> 00:01:44,580
+assist in doing only one spin to
+perfection. <u>Two</u> spins total. Without
+
+281
+00:01:44,580 --> 00:01:44,840
+assist in doing only one spin to
+perfection. Two <u>spins</u> total. Without
+
+282
+00:01:44,840 --> 00:01:45,200
+assist in doing only one spin to
+perfection. Two spins <u>total.</u> Without
+
+283
+00:01:45,200 --> 00:01:46,080
+assist in doing only one spin to
+perfection. Two spins total. Without
+
+284
+00:01:46,080 --> 00:01:46,160
+assist in doing only one spin to
+perfection. Two spins total. <u>Without</u>
+
+285
+00:01:46,160 --> 00:01:46,520
+<u>push</u> down method, this may have needed
+an extra two plus spins. No liquid was
+
+286
+00:01:46,520 --> 00:01:46,760
+push <u>down</u> method, this may have needed
+an extra two plus spins. No liquid was
+
+287
+00:01:46,760 --> 00:01:47,120
+push down <u>method,</u> this may have needed
+an extra two plus spins. No liquid was
+
+288
+00:01:47,120 --> 00:01:47,440
+push down method, this may have needed
+an extra two plus spins. No liquid was
+
+289
+00:01:47,440 --> 00:01:47,720
+push down method, <u>this</u> may have needed
+an extra two plus spins. No liquid was
+
+290
+00:01:47,720 --> 00:01:48,580
+push down method, this <u>may</u> have needed
+an extra two plus spins. No liquid was
+
+291
+00:01:48,580 --> 00:01:48,760
+push down method, this may <u>have</u> needed
+an extra two plus spins. No liquid was
+
+292
+00:01:48,760 --> 00:01:48,940
+push down method, this may have <u>needed</u>
+an extra two plus spins. No liquid was
+
+293
+00:01:48,940 --> 00:01:49,200
+push down method, this may have needed
+<u>an</u> extra two plus spins. No liquid was
+
+294
+00:01:49,200 --> 00:01:49,480
+push down method, this may have needed
+an <u>extra</u> two plus spins. No liquid was
+
+295
+00:01:49,480 --> 00:01:49,800
+push down method, this may have needed
+an extra <u>two</u> plus spins. No liquid was
+
+296
+00:01:49,800 --> 00:01:50,100
+push down method, this may have needed
+an extra two <u>plus</u> spins. No liquid was
+
+297
+00:01:50,100 --> 00:01:50,460
+push down method, this may have needed
+an extra two plus <u>spins.</u> No liquid was
+
+298
+00:01:50,460 --> 00:01:50,900
+push down method, this may have needed
+an extra two plus spins. No liquid was
+
+299
+00:01:50,900 --> 00:01:51,380
+push down method, this may have needed
+an extra two plus spins. <u>No</u> liquid was
+
+300
+00:01:51,380 --> 00:01:51,620
+push down method, this may have needed
+an extra two plus spins. No <u>liquid</u> was
+
+301
+00:01:51,620 --> 00:01:51,920
+push down method, this may have needed
+an extra two plus spins. No liquid <u>was</u>
+
+302
+00:01:51,920 --> 00:01:52,120
+<u>needed.</u> The push down also allowed the
+sides to get incorporated into the rest
+
+303
+00:01:52,120 --> 00:01:52,760
+needed. The push down also allowed the
+sides to get incorporated into the rest
+
+304
+00:01:52,760 --> 00:01:52,820
+needed. <u>The</u> push down also allowed the
+sides to get incorporated into the rest
+
+305
+00:01:52,820 --> 00:01:53,000
+needed. The <u>push</u> down also allowed the
+sides to get incorporated into the rest
+
+306
+00:01:53,000 --> 00:01:53,240
+needed. The push <u>down</u> also allowed the
+sides to get incorporated into the rest
+
+307
+00:01:53,240 --> 00:01:53,600
+needed. The push down <u>also</u> allowed the
+sides to get incorporated into the rest
+
+308
+00:01:53,600 --> 00:01:53,900
+needed. The push down also <u>allowed</u> the
+sides to get incorporated into the rest
+
+309
+00:01:53,900 --> 00:01:54,080
+needed. The push down also allowed <u>the</u>
+sides to get incorporated into the rest
+
+310
+00:01:54,080 --> 00:01:54,400
+needed. The push down also allowed the
+<u>sides</u> to get incorporated into the rest
+
+311
+00:01:54,400 --> 00:01:54,660
+needed. The push down also allowed the
+sides <u>to</u> get incorporated into the rest
+
+312
+00:01:54,660 --> 00:01:54,780
+needed. The push down also allowed the
+sides to <u>get</u> incorporated into the rest
+
+313
+00:01:54,780 --> 00:01:55,220
+needed. The push down also allowed the
+sides to get <u>incorporated</u> into the rest
+
+314
+00:01:55,220 --> 00:01:55,680
+needed. The push down also allowed the
+sides to get incorporated <u>into</u> the rest
+
+315
+00:01:55,680 --> 00:01:55,840
+needed. The push down also allowed the
+sides to get incorporated into <u>the</u> rest
+
+316
+00:01:55,840 --> 00:01:56,080
+needed. The push down also allowed the
+sides to get incorporated into the <u>rest</u>
+
+317
+00:01:56,080 --> 00:01:56,960
+<u>of</u> the creamy. Even before spinning, the
+push down gave an almost ice cream like
+
+318
+00:01:56,960 --> 00:01:57,080
+of <u>the</u> creamy. Even before spinning, the
+push down gave an almost ice cream like
+
+319
+00:01:57,080 --> 00:01:57,280
+of the <u>creamy.</u> Even before spinning, the
+push down gave an almost ice cream like
+
+320
+00:01:57,280 --> 00:01:57,940
+of the creamy. Even before spinning, the
+push down gave an almost ice cream like
+
+321
+00:01:57,940 --> 00:01:58,200
+of the creamy. <u>Even</u> before spinning, the
+push down gave an almost ice cream like
+
+322
+00:01:58,200 --> 00:01:58,480
+of the creamy. Even <u>before</u> spinning, the
+push down gave an almost ice cream like
+
+323
+00:01:58,480 --> 00:01:58,940
+of the creamy. Even before <u>spinning,</u> the
+push down gave an almost ice cream like
+
+324
+00:01:58,940 --> 00:01:59,260
+of the creamy. Even before spinning, the
+push down gave an almost ice cream like
+
+325
+00:01:59,260 --> 00:01:59,400
+of the creamy. Even before spinning, <u>the</u>
+push down gave an almost ice cream like
+
+326
+00:01:59,400 --> 00:01:59,540
+of the creamy. Even before spinning, the
+<u>push</u> down gave an almost ice cream like
+
+327
+00:01:59,540 --> 00:01:59,940
+of the creamy. Even before spinning, the
+push <u>down</u> gave an almost ice cream like
+
+328
+00:01:59,940 --> 00:02:00,560
+of the creamy. Even before spinning, the
+push down <u>gave</u> an almost ice cream like
+
+329
+00:02:00,560 --> 00:02:00,760
+of the creamy. Even before spinning, the
+push down gave <u>an</u> almost ice cream like
+
+330
+00:02:00,760 --> 00:02:01,080
+of the creamy. Even before spinning, the
+push down gave an <u>almost</u> ice cream like
+
+331
+00:02:01,080 --> 00:02:01,400
+of the creamy. Even before spinning, the
+push down gave an almost <u>ice</u> cream like
+
+332
+00:02:01,400 --> 00:02:01,680
+of the creamy. Even before spinning, the
+push down gave an almost ice <u>cream</u> like
+
+333
+00:02:01,680 --> 00:02:01,920
+of the creamy. Even before spinning, the
+push down gave an almost ice cream <u>like</u>
+
+334
+00:02:01,920 --> 00:02:02,240
+<u>result.</u> Depending on preference, this
+could be enough. I still need to add my
+
+335
+00:02:02,240 --> 00:02:02,840
+result. Depending on preference, this
+could be enough. I still need to add my
+
+336
+00:02:02,840 --> 00:02:03,140
+result. <u>Depending</u> on preference, this
+could be enough. I still need to add my
+
+337
+00:02:03,140 --> 00:02:03,460
+result. Depending <u>on</u> preference, this
+could be enough. I still need to add my
+
+338
+00:02:03,460 --> 00:02:03,720
+result. Depending on <u>preference,</u> this
+could be enough. I still need to add my
+
+339
+00:02:03,720 --> 00:02:04,160
+result. Depending on preference, this
+could be enough. I still need to add my
+
+340
+00:02:04,160 --> 00:02:04,260
+result. Depending on preference, <u>this</u>
+could be enough. I still need to add my
+
+341
+00:02:04,260 --> 00:02:04,420
+result. Depending on preference, this
+<u>could</u> be enough. I still need to add my
+
+342
+00:02:04,420 --> 00:02:04,560
+result. Depending on preference, this
+could <u>be</u> enough. I still need to add my
+
+343
+00:02:04,560 --> 00:02:04,780
+result. Depending on preference, this
+could be <u>enough.</u> I still need to add my
+
+344
+00:02:04,780 --> 00:02:05,420
+result. Depending on preference, this
+could be enough. I still need to add my
+
+345
+00:02:05,420 --> 00:02:05,480
+result. Depending on preference, this
+could be enough. <u>I</u> still need to add my
+
+346
+00:02:05,480 --> 00:02:05,700
+result. Depending on preference, this
+could be enough. I <u>still</u> need to add my
+
+347
+00:02:05,700 --> 00:02:05,940
+result. Depending on preference, this
+could be enough. I still <u>need</u> to add my
+
+348
+00:02:05,940 --> 00:02:06,060
+result. Depending on preference, this
+could be enough. I still need <u>to</u> add my
+
+349
+00:02:06,060 --> 00:02:06,220
+result. Depending on preference, this
+could be enough. I still need to <u>add</u> my
+
+350
+00:02:06,220 --> 00:02:06,400
+result. Depending on preference, this
+could be enough. I still need to add <u>my</u>
+
+351
+00:02:06,400 --> 00:02:06,580
+<u>mix</u> in so I will spin it again two spins
+total. It will still be my ideal hard
+
+352
+00:02:06,580 --> 00:02:06,820
+mix <u>in</u> so I will spin it again two spins
+total. It will still be my ideal hard
+
+353
+00:02:06,820 --> 00:02:07,000
+mix in <u>so</u> I will spin it again two spins
+total. It will still be my ideal hard
+
+354
+00:02:07,000 --> 00:02:07,160
+mix in so <u>I</u> will spin it again two spins
+total. It will still be my ideal hard
+
+355
+00:02:07,160 --> 00:02:07,380
+mix in so I <u>will</u> spin it again two spins
+total. It will still be my ideal hard
+
+356
+00:02:07,380 --> 00:02:07,960
+mix in so I will <u>spin</u> it again two spins
+total. It will still be my ideal hard
+
+357
+00:02:07,960 --> 00:02:08,139
+mix in so I will spin <u>it</u> again two spins
+total. It will still be my ideal hard
+
+358
+00:02:08,139 --> 00:02:08,440
+mix in so I will spin it <u>again</u> two spins
+total. It will still be my ideal hard
+
+359
+00:02:08,440 --> 00:02:08,880
+mix in so I will spin it again <u>two</u> spins
+total. It will still be my ideal hard
+
+360
+00:02:08,880 --> 00:02:09,220
+mix in so I will spin it again two <u>spins</u>
+total. It will still be my ideal hard
+
+361
+00:02:09,220 --> 00:02:09,560
+mix in so I will spin it again two spins
+<u>total.</u> It will still be my ideal hard
+
+362
+00:02:09,560 --> 00:02:10,160
+mix in so I will spin it again two spins
+total. It will still be my ideal hard
+
+363
+00:02:10,160 --> 00:02:10,240
+mix in so I will spin it again two spins
+total. <u>It</u> will still be my ideal hard
+
+364
+00:02:10,240 --> 00:02:10,340
+mix in so I will spin it again two spins
+total. It <u>will</u> still be my ideal hard
+
+365
+00:02:10,340 --> 00:02:10,520
+mix in so I will spin it again two spins
+total. It will <u>still</u> be my ideal hard
+
+366
+00:02:10,520 --> 00:02:10,720
+mix in so I will spin it again two spins
+total. It will still <u>be</u> my ideal hard
+
+367
+00:02:10,720 --> 00:02:10,860
+mix in so I will spin it again two spins
+total. It will still be <u>my</u> ideal hard
+
+368
+00:02:10,860 --> 00:02:11,240
+mix in so I will spin it again two spins
+total. It will still be my <u>ideal</u> hard
+
+369
+00:02:11,240 --> 00:02:11,560
+mix in so I will spin it again two spins
+total. It will still be my ideal <u>hard</u>
+
+370
+00:02:11,560 --> 00:02:11,800
+<u>ice</u> cream result. Had I not used the
+push down, I may have mistakenly over
+
+371
+00:02:11,800 --> 00:02:12,020
+ice <u>cream</u> result. Had I not used the
+push down, I may have mistakenly over
+
+372
+00:02:12,020 --> 00:02:12,400
+ice cream <u>result.</u> Had I not used the
+push down, I may have mistakenly over
+
+373
+00:02:12,400 --> 00:02:13,000
+ice cream result. Had I not used the
+push down, I may have mistakenly over
+
+374
+00:02:13,000 --> 00:02:13,120
+ice cream result. <u>Had</u> I not used the
+push down, I may have mistakenly over
+
+375
+00:02:13,120 --> 00:02:13,240
+ice cream result. Had <u>I</u> not used the
+push down, I may have mistakenly over
+
+376
+00:02:13,240 --> 00:02:13,460
+ice cream result. Had I <u>not</u> used the
+push down, I may have mistakenly over
+
+377
+00:02:13,460 --> 00:02:13,680
+ice cream result. Had I not <u>used</u> the
+push down, I may have mistakenly over
+
+378
+00:02:13,680 --> 00:02:13,900
+ice cream result. Had I not used <u>the</u>
+push down, I may have mistakenly over
+
+379
+00:02:13,900 --> 00:02:14,100
+ice cream result. Had I not used the
+<u>push</u> down, I may have mistakenly over
+
+380
+00:02:14,100 --> 00:02:14,420
+ice cream result. Had I not used the
+push <u>down,</u> I may have mistakenly over
+
+381
+00:02:14,420 --> 00:02:14,780
+ice cream result. Had I not used the
+push down, I may have mistakenly over
+
+382
+00:02:14,780 --> 00:02:15,120
+ice cream result. Had I not used the
+push down, <u>I</u> may have mistakenly over
+
+383
+00:02:15,120 --> 00:02:15,260
+ice cream result. Had I not used the
+push down, I <u>may</u> have mistakenly over
+
+384
+00:02:15,260 --> 00:02:15,420
+ice cream result. Had I not used the
+push down, I may <u>have</u> mistakenly over
+
+385
+00:02:15,420 --> 00:02:15,780
+ice cream result. Had I not used the
+push down, I may have <u>mistakenly</u> over
+
+386
+00:02:15,780 --> 00:02:16,320
+ice cream result. Had I not used the
+push down, I may have mistakenly <u>over</u>
+
+387
+00:02:16,320 --> 00:02:16,580
+<u>spun</u> it and got a soft serve result. If
+that is your preference, no biggie. This
+
+388
+00:02:16,580 --> 00:02:16,800
+spun <u>it</u> and got a soft serve result. If
+that is your preference, no biggie. This
+
+389
+00:02:16,800 --> 00:02:17,520
+spun it <u>and</u> got a soft serve result. If
+that is your preference, no biggie. This
+
+390
+00:02:17,520 --> 00:02:17,680
+spun it and <u>got</u> a soft serve result. If
+that is your preference, no biggie. This
+
+391
+00:02:17,680 --> 00:02:17,840
+spun it and got <u>a</u> soft serve result. If
+that is your preference, no biggie. This
+
+392
+00:02:17,840 --> 00:02:18,100
+spun it and got a <u>soft</u> serve result. If
+that is your preference, no biggie. This
+
+393
+00:02:18,100 --> 00:02:18,400
+spun it and got a soft <u>serve</u> result. If
+that is your preference, no biggie. This
+
+394
+00:02:18,400 --> 00:02:18,940
+spun it and got a soft serve <u>result.</u> If
+that is your preference, no biggie. This
+
+395
+00:02:18,940 --> 00:02:19,040
+spun it and got a soft serve result. If
+that is your preference, no biggie. This
+
+396
+00:02:19,040 --> 00:02:19,640
+spun it and got a soft serve result. <u>If</u>
+that is your preference, no biggie. This
+
+397
+00:02:19,640 --> 00:02:19,840
+spun it and got a soft serve result. If
+<u>that</u> is your preference, no biggie. This
+
+398
+00:02:19,840 --> 00:02:19,980
+spun it and got a soft serve result. If
+that <u>is</u> your preference, no biggie. This
+
+399
+00:02:19,980 --> 00:02:20,120
+spun it and got a soft serve result. If
+that is <u>your</u> preference, no biggie. This
+
+400
+00:02:20,120 --> 00:02:20,520
+spun it and got a soft serve result. If
+that is your <u>preference,</u> no biggie. This
+
+401
+00:02:20,520 --> 00:02:21,040
+spun it and got a soft serve result. If
+that is your preference, no biggie. This
+
+402
+00:02:21,040 --> 00:02:21,260
+spun it and got a soft serve result. If
+that is your preference, <u>no</u> biggie. This
+
+403
+00:02:21,260 --> 00:02:21,600
+spun it and got a soft serve result. If
+that is your preference, no <u>biggie.</u> This
+
+404
+00:02:21,600 --> 00:02:22,420
+spun it and got a soft serve result. If
+that is your preference, no biggie. This
+
+405
+00:02:22,420 --> 00:02:22,600
+spun it and got a soft serve result. If
+that is your preference, no biggie. <u>This</u>
+
+406
+00:02:22,600 --> 00:02:22,720
+<u>is</u> another creamy following these
+methods. This was after the second spin,
+
+407
+00:02:22,720 --> 00:02:23,000
+is <u>another</u> creamy following these
+methods. This was after the second spin,
+
+408
+00:02:23,000 --> 00:02:23,280
+is another <u>creamy</u> following these
+methods. This was after the second spin,
+
+409
+00:02:23,280 --> 00:02:23,800
+is another creamy <u>following</u> these
+methods. This was after the second spin,
+
+410
+00:02:23,800 --> 00:02:24,100
+is another creamy following <u>these</u>
+methods. This was after the second spin,
+
+411
+00:02:24,100 --> 00:02:24,620
+is another creamy following these
+<u>methods.</u> This was after the second spin,
+
+412
+00:02:24,620 --> 00:02:25,480
+is another creamy following these
+methods. This was after the second spin,
+
+413
+00:02:25,480 --> 00:02:25,540
+is another creamy following these
+methods. <u>This</u> was after the second spin,
+
+414
+00:02:25,540 --> 00:02:25,680
+is another creamy following these
+methods. This <u>was</u> after the second spin,
+
+415
+00:02:25,680 --> 00:02:25,920
+is another creamy following these
+methods. This was <u>after</u> the second spin,
+
+416
+00:02:25,920 --> 00:02:26,140
+is another creamy following these
+methods. This was after <u>the</u> second spin,
+
+417
+00:02:26,140 --> 00:02:26,440
+is another creamy following these
+methods. This was after the <u>second</u> spin,
+
+418
+00:02:26,440 --> 00:02:26,840
+is another creamy following these
+methods. This was after the second <u>spin,</u>
+
+419
+00:02:27,180 --> 00:02:27,440
+<u>mix</u> in. Before the second spin, there
+were hard icy sides. The push down
+
+420
+00:02:27,440 --> 00:02:27,740
+mix <u>in.</u> Before the second spin, there
+were hard icy sides. The push down
+
+421
+00:02:27,740 --> 00:02:28,480
+mix in. Before the second spin, there
+were hard icy sides. The push down
+
+422
+00:02:28,480 --> 00:02:28,900
+mix in. <u>Before</u> the second spin, there
+were hard icy sides. The push down
+
+423
+00:02:28,900 --> 00:02:29,100
+mix in. Before <u>the</u> second spin, there
+were hard icy sides. The push down
+
+424
+00:02:29,100 --> 00:02:29,400
+mix in. Before the <u>second</u> spin, there
+were hard icy sides. The push down
+
+425
+00:02:29,400 --> 00:02:29,720
+mix in. Before the second <u>spin,</u> there
+were hard icy sides. The push down
+
+426
+00:02:29,720 --> 00:02:30,200
+mix in. Before the second spin, there
+were hard icy sides. The push down
+
+427
+00:02:30,200 --> 00:02:30,400
+mix in. Before the second spin, <u>there</u>
+were hard icy sides. The push down
+
+428
+00:02:30,400 --> 00:02:30,520
+mix in. Before the second spin, there
+<u>were</u> hard icy sides. The push down
+
+429
+00:02:30,520 --> 00:02:30,820
+mix in. Before the second spin, there
+were <u>hard</u> icy sides. The push down
+
+430
+00:02:30,820 --> 00:02:31,120
+mix in. Before the second spin, there
+were hard <u>icy</u> sides. The push down
+
+431
+00:02:31,120 --> 00:02:31,700
+mix in. Before the second spin, there
+were hard icy <u>sides.</u> The push down
+
+432
+00:02:31,700 --> 00:02:32,500
+mix in. Before the second spin, there
+were hard icy sides. The push down
+
+433
+00:02:32,500 --> 00:02:32,500
+mix in. Before the second spin, there
+were hard icy sides. <u>The</u> push down
+
+434
+00:02:32,500 --> 00:02:32,680
+mix in. Before the second spin, there
+were hard icy sides. The <u>push</u> down
+
+435
+00:02:32,680 --> 00:02:32,980
+mix in. Before the second spin, there
+were hard icy sides. The push <u>down</u>
+
+436
+00:02:32,980 --> 00:02:33,500
+<u>method</u> allowed those to be processed.
+Thanks for watching!
+
+437
+00:02:33,500 --> 00:02:34,000
+method <u>allowed</u> those to be processed.
+Thanks for watching!
+
+438
+00:02:34,000 --> 00:02:34,420
+method allowed <u>those</u> to be processed.
+Thanks for watching!
+
+439
+00:02:34,420 --> 00:02:34,640
+method allowed those <u>to</u> be processed.
+Thanks for watching!
+
+440
+00:02:34,640 --> 00:02:34,760
+method allowed those to <u>be</u> processed.
+Thanks for watching!
+
+441
+00:02:34,760 --> 00:02:35,120
+method allowed those to be <u>processed.</u>
+Thanks for watching!
+
+442
+00:02:35,120 --> 00:02:36,060
+method allowed those to be processed.
+Thanks for watching!
+
+443
+00:02:36,060 --> 00:02:36,140
+method allowed those to be processed.
+<u>Thanks</u> for watching!
+
+444
+00:02:36,140 --> 00:02:36,280
+method allowed those to be processed.
+Thanks <u>for</u> watching!
+
+445
+00:02:36,280 --> 00:02:36,640
+method allowed those to be processed.
+Thanks for <u>watching!</u>

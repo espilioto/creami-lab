@@ -1,0 +1,54 @@
+Strawberry FroYo (Deluxe);;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
+Nutritional values per 100g/ml;100;g;;84.6;3.0;13.0;4.4;4.3;0.2;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;287.7;10.3;44.1;14.9;14.6;0.6;;;;;
+Nutritional values total;680;g;;575.5;20.7;88.3;29.8;29.2;1.1;;;;;
+;;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);31.05;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";20.29%;;;;;;Low-Sugar;Hi-Protein;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);51.9;g;;7.6%;;;;;;;;;;
+ℹ️ Net carbs;45.9;g;;*∝ 5 servings@136g:* 9.2g;;;*∝ 3 servings@227g:* 15.3g;;;*energy ratio (low <20%):* 31.9%;;;;
+;;;;;;;;;;;;;;
+"Frozen yogurt with fruit, cream cheese, and unflavored whey/casein protein.
+
+You can replace the strawberries by other fruit, or fruit powder (see “Optional”). Adapt the amount of water or milk to fill up to MAX accordingly.
+
+Processed on *FroYo*, with scrape-down and a mix-in.
+
+Rating: 😋🍦🍓🍓🍓 (sweet firm softness)";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+The [brand names] used are in brackets.;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
+Yogurt mild 4% [REWE Bio];350.00;ml;1;71.00;3.80;5.00;5.00;4.10;0.15;0.05;10.27;500g container;;1
+Cream Cheese 23% [Exquisa];25.00;g;1;238.00;22.50;3.00;3.00;5.50;0.70;0.03;9.64;;;1
+Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml";;1
+Brandy or Vodka 40 vol%;10.00;g;1;280.00;;;;;;2.96;;;;1
+Lemon juice;10.00;ml;1;25.00;0.10;3.36;1.65;0.30;0.01;0.02;;;;1
+SweEX (Erythritol + Xylitol 3:2);35.00;g;2;109.60;;100.00;;;;2.56;;"POD ≈ 90%; GI < 7";100.00;1
+Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt];10.00;g;2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;unsweetened “ICSv2”;73.80;1
+Whey + Casein protein (grass-fed) [Vilgain];15.00;g;2;384.00;4.60;5.70;5.60;80.00;0.50;0.06;90.40;with stevia;;1
+;;;;;;;;;;;;;;
+Strawberries;175.00;g;1;31.00;0.40;5.80;5.70;0.80;0.00;0.06;;;;1
+Strawberries;175.00;g;6;31.00;0.40;5.80;5.70;0.80;0.00;0.06;;fresh or frozen [54kcal, 10g sugar];;
+Blueberries;150.00;g;6;48.00;0.40;9.10;8.90;0.40;0.00;0.09;;fresh or frozen [72kcal, 13g sugar];;
+Mango;150.00;g;6;62.00;0.50;13.00;13.00;0.60;0.00;0.13;;fresh or frozen [93kcal, 20g sugar];;
+Ube Yam Root powder [Fil Choice];25.00;g;6;382.00;0.60;83.00;9.50;6.10;0.30;0.10;;"like vanilla+pistachio; add more liquid at the end [96kcal, 2g sugar]";;
+Lingonberry powder [Bio Leis];25.00;g;6;351.00;2.30;78.80;72.50;3.70;0.01;0.73;;add more liquid at the end [88kcal, 18g sugar];;
+Strawberry powder [Supergarden];25.00;g;6;287.00;3.70;50.90;50.60;7.60;0.00;0.51;;add more liquid at the end [72kcal, 13g sugar];;
+;;;;;;;;;;;;;;
+Water, milk, or yogurt to MAX line;35.00;ml;3;;;;;;;;;;;1
+Flavor drops Vanilla (sucralose) [IronMaxx];≈3;drops;3;;;;;;;;;to taste;;
+;;;;;;;;;;;;;;
+Aceto balsamico di Modena [Due Vittorie];10.00;ml;5;317.00;;78.00;78.00;0.80;;0.78;;add as a topping [32kcal, 7.8g sugar];;
+Pomegranate syrup (nar ekşisi) [fersan];15.00;ml;5;292.00;0.10;71.70;53.40;1.00;0.60;0.53;;add as a topping [44kcal, 8g sugar];;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;

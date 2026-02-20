@@ -1,0 +1,65 @@
+Salty Stability;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;;;;
+Nutritional values per 100g/ml;100;g;;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;;;
+Nutritional values per dose;15;g;;40.1;0.5;13.3;0.9;0.0;0.5;0.06;;;;
+Nutritional values total;150;g;;401.2;5.4;132.7;8.8;0.5;5.3;0.06;;;;
+;;;;;;;;;;;;;;
+FPDF;0.26;;;;;;;;;;;;;
+FPDF (w/o salt);0.06;;;;;;;;;;;;;
+Servings (Deluxe);10.00;;;;;;;;;;;;;
+ℹ️ Net carbs;34.8;g;;*∝ 10 servings@15g:* 3.5g;;;;;;;;;;
+;;;;;;;;;;;;;;
+"> *Unsweetened* pre-mixed stabilizer for Ninja Creami recipes.
+
+It takes handling small amounts of ingredients and their ratio to each other 
+out of the process of mixing your final ice cream base,
+making the overall process less finicky.
+
+To prepare the mix, take a **BIG** bowl like used for baking, measure the ingredients on a scale,
+and whisk them carefully but thoroughly. A ball whisk works best.
+When done, store the powder in an air-tight container with enough volume.
+
+To get an even mix, progressively add the inulin, i.e. start with only 30g of inulin,
+mix with all other ingredients,
+then add more and more inulin while mixing, until you reach the target weight.
+
+> **3 Ingredient Replacement**<br />In a pinch, you can replace one 15g dose of the mix by 1.5g guar, 0.5g xanthan, and 0.5g salt — scale other amounts accordingly.
+> Do not expect the exact same results as from the full blend.
+>
+> **GMS Availability**<br />If you cannot source pure GMS, using products that fall into the general *Mono- and Diglycerides of Fatty Acids* (E471)
+> category, which GMS belongs to, can be a viable alternative. Or use soy or sunflower lecithin — the recommended dose is 0.1% to 0.5%,
+> and the recipe's 18g are equivalent to about 0.26% in an ice cream base.
+
+Adding bulk to the thickeners prevents clumping when blending them into your base.
+Drizzle the mix into the vortex of a running blender,
+or drop it into your mixing container and quickly integrate it with an immersion blender on full speed.
+Before that, combine this mix with any granulated sweetener or other dry / powdery ingredients you have.
+
+Use 15g of the mix for a Creami Deluxe tub (24oz, yields 10),
+and 10g for the regular size (16oz, yields 15).
+
+For optimal results regarding texture and ice crystal prevention, heat suitable parts of the liquids
+in your recipe (e.g. the milk, at least 200ml or so) to somewhere between 50°C and 80°C, and
+blend the mix plus other dry ingredients into the hot liquid. This improves hydration of gums,
+dissolves your sugars, and activates the emulsifier.
+
+The salt is added for convenience with final recipes,
+and for a FPDF boost. Inulin bulks up the mix to be compatible with normal kitchen scales.";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+"1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
+ 1. Store in an air-tight container with enough volume.";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;0carbs:;73.8;%;;;;;;;
+;;;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
+Inulin [Vit4ever];110.00;g;2;210.00;;97.00;8.00;;0.20;0.09;;"Sweetness = 8%; GI ~= 0";89.00;1
+Glycerol Monostearate (GMS / E471) [Bulk];18.00;g;2;550.00;30.00;70.00;;;;;;*alternative:* lecithin;;1
+Carboxymethyl Cellulose (CMC / E466) [GoodBake];9.00;g;2;600.00;;75.00;;;;;;*alternative:* double the guar and xanthan;;1
+Guar gum (E412);6.00;g;2;180.00;0.60;84.00;0.00;5.50;0.30;;;;;1
+Salt;5.00;g;2;;;;;;100.00;5.90;;;;1
+Xanthan gum (E415, XG);2.00;g;2;320.00;;78.00;;6.00;1.00;;;1tsp ≈ 2.8g;;1
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;

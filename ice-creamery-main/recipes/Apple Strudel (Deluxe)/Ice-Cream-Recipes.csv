@@ -1,0 +1,45 @@
+Apple Strudel (Deluxe);;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;Amount;Unit;;kcal;Fat;Carbs;Sugar;Protein;Salt;;;;;
+Nutritional values per 100g/ml;100;g;;106.3;3.6;16.4;6.6;4.4;0.1;;;;;
+Nutritional values per ½ Deluxe Tub;340;g;;361.3;12.2;55.9;22.4;14.8;0.5;;;;;
+Nutritional values total;692;g;;734.8;24.8;113.6;45.6;30.2;1.0;;;;;
+;;;;;;;;;;;;;;
+FPDF / PAC (target 20..30);30.29;;;;;;;;;;;;;
+"Protein / Energy Ratio (ok=12%; hi=20%)";16.42%;;;;;;;;;;;;;
+ℹ️ Milk Solids Non-Fat (MSNF, 7-11%);26.1;g;;4.1%;;;;;;;;;;
+ℹ️ Net carbs;73.7;g;;*∝ 5 servings@138g:* 14.7g;;;*∝ 3 servings@231g:* 24.6g;;;*energy ratio (low <20%):* 40.1%;;;;
+;;;;;;;;;;;;;;
+Applesauce sherbet with cinnamon, almonds, raisins, and half a croissant to stand in for the strudel dough.;;;;;;;;;;;;;;
+60g of mix-ins are included in the nutritional info.;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+"Spin on “Sorbet”, followed by a scrape-down and a mix-in run for the almonds and raisins.
+
+> *Served on a bed of vanilla sauce and with a wafer roll.*
+
+Rating: 😋🍎🍏🍇🥐";;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+The [brand names] used are in brackets.;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Ingredients;Amount;Unit;#;kcal;Fat;Carbs;Sugar;Protein;Salt;FPDF;MSNF;Comment;0Carb[%];Counts?
+Apple Sauce (no added sugar) [Gut Bio/Aldi];350.00;ml;1;52.00;0.50;12.00;10.00;0.50;0.01;0.10;;1 jar = 355g;;1
+Soy milk 1.6% (sugar-free) [Berief];200.00;ml;1;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;1
+Glycerin (E422, VG) [hd-line];15.00;g;1;400.00;;99.00;;;;3.70;;"Sweetness = 60%; GI = 5; Density = 1.26 g/ml";50.00;1
+Brandy or Vodka 40 vol%;10.00;g;1;280.00;;;;;;2.96;;;;1
+SweEX (Erythritol + Xylitol 3:2);25.00;g;2;109.60;;100.00;;;;2.56;;"POD ≈ 85%; GI < 7";100.00;1
+Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt];10.00;g;2;267.5;3.6;88.4;5.9;0.3;3.5;0.06;;unsweetened “ICSv2”;73.80;1
+Whey + Casein protein (grass-fed) [Vilgain];20.00;g;2;384.00;4.60;5.70;5.60;80.00;0.50;0.06;90.40;with stevia;;1
+Cinnamon (Ceylon);1.50;g;2;;;;;;;;;1tsp = 3g;;1
+;;;;;;;;;;;;;;
+Soy milk 1.6% (sugar-free) [Berief];48.50;ml;3;30.00;1.60;0.90;0.00;3.00;0.08;;4.00;;;0
+Stay BELOW the MAX line (leave room for mix-ins);❕;;3;;;;;;;;;;;1
+Flavor drops Vanilla (sucralose) [IronMaxx];≈2;drops;3;;;;;;;;;to taste;;
+Flavor drops Caramel (sucralose) [IronMaxx];≈2;drops;3;;;;;;;;;to taste;;
+;;;;;;;;;;;;;;
+Almond slivers [naturix24];15.00;g;4;589.00;54.00;5.00;4.00;22.00;;;;add as a mix-in [88kcal, 0.6g sugar];;1
+Raisins (chopped);10.00;g;4;298.00;0.60;68.00;68.00;2.50;0.05;;;add as a mix-in [30kcal, 6.8g sugar];;1
+Half a croissant, sliced;35.00;g;4;445.00;29.80;35.50;4.40;8.10;1.06;;;add as a mix-in [156kcal, 1.5g sugar];;1
+Croissants (“Mini Butter”) [REWE/Ölz];25.00;g;4;358.00;11.00;56.00;13.00;7.60;1.10;;;1pc = 25g;;0
+;;;;;;;;;;;;;;
+[Vanilla Sauce](/ice-creamery/T/Toppings/#vanilla-sauce-topping) (Topping);75.00;g;5;56.18;1.41;16.42;0.19;2.51;0.14;;;[42kcal, 0g sugar];;
+Wafer Rolls [REWE];10.00;g;5;523.00;28.00;63.00;31.00;5.10;0.57;;;1pc = 5g [52kcal, 3g sugar];;

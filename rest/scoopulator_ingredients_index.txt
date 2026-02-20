@@ -1,0 +1,3123 @@
+Agave liquid sweetener:usdafndds-2710282
+Alcoholic coffee drink:usdafndds-2710681
+Alcoholic malt beverage:usdafndds-2710620
+Alcoholic malt beverage, sweetened:usdafndds-2710619
+Alfalfa sprouts, raw:usdafndds-2709765
+Allulose:allulose
+Almond butter:usdafndds-2707533
+Almond butter, creamy:usdaff-2262074
+Almond butter, lower sodium:usdafndds-2707534
+Almond milk, chocolate:usdafndds-2705408
+Almond milk, NFS:usdafndds-2705410
+Almond milk, sweetened:usdafndds-2705407
+Almond milk, unsweetened:usdafndds-2705409
+Almond milk, unsweetened, plain, refrigerated:usdaff-2257045
+Almond milk, unsweetened, plain, shelf stable:usdaff-1999631
+Almond oil:usdafndds-2710181
+Almond paste:usdafndds-2707535
+Almonds, chocolate covered candy:usdafndds-2710326
+Almonds, flavored:usdafndds-2707490
+Almonds, honey roasted:usdafndds-2707491
+Almonds, lightly salted:usdafndds-2707488
+Almonds, NFS:usdafndds-2707485
+Almonds, salted:usdafndds-2707487
+Almonds, unroasted:usdafndds-2707486
+Almonds, unsalted:usdafndds-2707489
+Aloe vera juice drink:usdafndds-2709833
+Ambrosia:usdafndds-2709286
+Animal fat or drippings:usdafndds-2710165
+Anisette toast:usdafndds-2707703
+Apple, baked:usdafndds-2709220
+Apple, candied:usdafndds-2709294
+Apple cider:usdafndds-2709319
+Apple, dried:usdafndds-2709196
+Apple juice, 100%:usdafndds-2709320
+Apple juice, 100%, with calcium added:usdafndds-2709321
+Apple juice beverage, 40-50% juice, light:usdafndds-2710591
+Apple juice, with added vitamin C, from concentrate, shelf stable:usdaff-2003590
+Apple pie filling:usdafndds-2709219
+Apple, raw:usdafndds-2709215
+Applesauce, flavored:usdafndds-2709218
+Applesauce, regular:usdafndds-2709216
+Applesauce, unsweetened:usdafndds-2709217
+Applesauce, unsweetened, with added vitamin C:usdaff-2346414
+Apples, fuji, with skin, raw:usdaff-1750340
+Apples, gala, with skin, raw:usdaff-1750341
+Apples, granny smith, with skin, raw:usdaff-1750342
+Apples, honeycrisp, with skin, raw:usdaff-1750343
+Apples, red delicious, with skin, raw:usdaff-1750339
+Apricot, canned:usdafndds-2709222
+Apricot, dried:usdafndds-2709197
+Apricot nectar:usdafndds-2709341
+Apricot, raw:usdafndds-2709221
+Apricot, with skin, raw:usdaff-2710815
+Artichoke:usdafndds-2709766
+Artichokes, stuffed:usdafndds-2710039
+Artificial sweetener packet:usdafndds-2710267
+Arugula, baby, raw:usdaff-2710822
+Asian stir fry vegetables, cooked, fat added:usdafndds-2710036
+Asian stir fry vegetables, cooked, no added fat:usdafndds-2710035
+Asparagus, canned, cooked, fat added, NS as to fat type:usdafndds-2709840
+Asparagus, canned, cooked, no added fat:usdafndds-2709836
+Asparagus, canned, cooked with butter or margarine:usdafndds-2709846
+Asparagus, canned, cooked with oil:usdafndds-2709845
+Asparagus, fresh, cooked, fat added, NS as to fat type:usdafndds-2709838
+Asparagus, fresh, cooked, no added fat:usdafndds-2709834
+Asparagus, fresh, cooked with butter or margarine:usdafndds-2709842
+Asparagus, fresh, cooked with oil:usdafndds-2709841
+Asparagus, frozen, cooked, fat added, NS as to fat type:usdafndds-2709839
+Asparagus, frozen, cooked, no added fat:usdafndds-2709835
+Asparagus, frozen, cooked with butter or margarine:usdafndds-2709844
+Asparagus, frozen, cooked with oil:usdafndds-2709843
+Asparagus, green, raw:usdaff-2710823
+Asparagus, NS as to form, cooked:usdafndds-2709837
+Asparagus, raw:usdafndds-2709767
+Aspartame, pure powder:usdafndds-2710271
+Atole:usdafndds-2710607
+Atole de avena:usdafndds-2710605
+Atole de chocolate:usdafndds-2710608
+Atomized glucose:atomized-glucose
+Avocado dressing:usdafndds-2710208
+Avocado, Hass, peeled, raw:usdaff-2710824
+Avocado, raw:usdafndds-2709223
+Bacon and tomato dressing:usdafndds-2710198
+Bacon bits:usdafndds-2707466
+Bacon, for use on a sandwich:usdafndds-2710256
+Bacon, for use with vegetables:usdafndds-2710239
+Bacon or side pork, fresh, cooked:usdafndds-2705890
+Bagel chips:usdafndds-2708292
+Baked beans:usdafndds-2707390
+Baked beans from fast food / restaurant:usdafndds-2707392
+Baked beans, reduced sodium:usdafndds-2707410
+Baked beans, vegetarian:usdafndds-2707391
+Baklava:usdafndds-2708044
+Bamboo shoots, cooked:usdafndds-2709847
+Banana, baked:usdafndds-2709225
+Banana chips:usdafndds-2709200
+Banana nectar:usdafndds-2709342
+Banana pudding:usdafndds-2705697
+Banana, raw:usdafndds-2709224
+Bananas, overripe, raw:usdaff-1105073
+Bananas, ripe and slightly ripe, raw:usdaff-1105314
+Barbecue pork, no sauce:usdafndds-2706400
+Barbecue sauce:usdafndds-2709750
+Barfi or Burfi, Indian dessert:usdafndds-2705700
+Barley:usdafndds-2708361
+Basbousa:usdafndds-2708045
+Basil, raw:usdafndds-2709780
+Bean cake:usdafndds-2707409
+Bean chips:usdafndds-2707428
+Bean paste, sweetened:usdafndds-2710309
+Beans and brown rice:usdafndds-2709033
+Beans and franks:usdafndds-2707405
+Beans and rice, from fast food / restaurant:usdafndds-2708986
+Beans and rice, with tomatoes:usdafndds-2708991
+Beans and tomatoes, fat added:usdafndds-2707394
+Beans and tomatoes, no added fat:usdafndds-2707393
+Beans and white rice:usdafndds-2708990
+Beans, black, canned, sodium added, drained and rinsed:usdaff-2644285
+Beans, cannellini, canned, sodium added, drained and rinsed:usdaff-2644287
+Beans, cannellini, dry:usdaff-2644281
+Beans, Dry, Black (0% moisture):usdaff-747444
+Beans, Dry, Brown (0% moisture):usdaff-747433
+Beans, Dry, Carioca (0% moisture):usdaff-747436
+Beans, Dry, Cranberry (0% moisture):usdaff-747437
+Beans, Dry, Dark Red Kidney (0% moisture):usdaff-747440
+Beans, Dry, Flor de Mayo (0% moisture):usdaff-747432
+Beans, Dry, Great Northern (0% moisture):usdaff-747446
+Beans, Dry, Light Red Kidney (0% moisture):usdaff-747438
+Beans, Dry, Light Tan (0% moisture):usdaff-747435
+Beans, Dry, Medium Red (0% moisture):usdaff-747430
+Beans, Dry, Navy (0% moisture):usdaff-747441
+Beans, Dry, Pink (0% moisture):usdaff-747439
+Beans, Dry, Pinto (0% moisture):usdaff-747445
+Beans, Dry, Red (0% moisture):usdaff-747431
+Beans, Dry, Small Red (0% moisture):usdaff-747443
+Beans, Dry, Small White (0% moisture):usdaff-747442
+Beans, Dry, Tan (0% moisture):usdaff-747434
+Beans, from canned, NS as to type, fat added:usdafndds-2707350
+Beans, from canned, NS as to type, no added fat:usdafndds-2707351
+Beans, from dried, NS as to type, fat added:usdafndds-2707348
+Beans, from dried, NS as to type, no added fat:usdafndds-2707349
+Beans, from fast food / restaurant, NS as to type:usdafndds-2707352
+Beans, great northern, canned, sodium added, drained and rinsed:usdaff-2644294
+Beans, kidney, dark red, canned, sodium added, sugar added, drained and rinsed:usdaff-2644289
+Beans, kidney, light red, canned, sodium added, sugar added, drained and rinsed:usdaff-2644290
+Beans, navy, canned, sodium added, drained and rinsed:usdaff-2644286
+Beans, NFS:usdafndds-2707347
+Beans, pinto, canned, sodium added, drained and rinsed:usdaff-2644292
+Bean sprouts, cooked:usdafndds-2709871
+Bean sprouts, raw:usdafndds-2709768
+Beans, snap, green, canned, regular pack, drained solids:usdaff-321611
+Beans, snap, green, raw:usdaff-2346400
+Beer:usdafndds-2710616
+Beer, higher alcohol:usdafndds-2710618
+Beer, light:usdafndds-2710617
+Beer, nonalcoholic:usdafndds-2710610
+Beet greens, cooked:usdafndds-2709571
+Beet greens, raw:usdafndds-2709570
+Beet juice:usdafndds-2709682
+Beets, canned, cooked, fat added:usdafndds-2709876
+Beets, canned, cooked, no added fat:usdafndds-2709873
+Beets, canned, reduced sodium, cooked:usdafndds-2709877
+Beets, fresh, cooked, fat added:usdafndds-2709875
+Beets, fresh, cooked, no added fat:usdafndds-2709872
+Beets, NS as to form, cooked:usdafndds-2709874
+Beets, pickled:usdafndds-2710071
+Beets, raw:usdafndds-2709770
+Beets, raw:usdaff-2685576
+Beignet:usdafndds-2708071
+Berries, frozen:usdafndds-2709272
+Berries, NFS:usdafndds-2709271
+Big Mac (McDonalds):usdafndds-2706916
+Bitter melon, cooked:usdafndds-2709878
+Bitter melon, horseradish, jute, or radish leaves, cooked:usdafndds-2709641
+Black beans and brown rice:usdafndds-2709035
+Black beans and rice, from fast food / restaurant:usdafndds-2708988
+Black beans and white rice:usdafndds-2708994
+Black beans, from canned, fat added:usdafndds-2707362
+Black beans, from canned, no added fat:usdafndds-2707363
+Black beans, from canned, reduced sodium:usdafndds-2707364
+Black beans, from dried, fat added:usdafndds-2707360
+Black beans, from dried, no added fat:usdafndds-2707361
+Black beans, from fast food / restaurant:usdafndds-2707365
+Black beans, NFS:usdafndds-2707359
+Blackberries, frozen:usdafndds-2709274
+Blackberries, raw:usdaff-2727581
+Blackberries, raw:usdafndds-2709273
+Blackberry juice, 100%:usdafndds-2709322
+Blackeyed peas, from canned:usdafndds-2709957
+Blackeyed peas, from dried:usdafndds-2707413
+Blackeyed peas, from frozen:usdafndds-2709956
+Blackeyed peas, NFS:usdafndds-2707412
+Blackeye pea, canned, sodium added, drained and rinsed:usdaff-2644293
+Blackeye pea, dry:usdaff-2644284
+Black Russian:usdafndds-2710672
+Black tahini:black-tahini
+Blood sausage:usdafndds-2706173
+Bloody Mary:usdafndds-2710628
+Bluberries, canned:usdafndds-2709276
+Blueberries, dried:usdafndds-2709198
+Blueberries, frozen:usdafndds-2709277
+Blueberries, raw:usdaff-2346411
+Blueberries, raw:usdafndds-2709275
+Blueberry juice:usdafndds-2709323
+Blueberry pie filling:usdafndds-2709278
+Blueberry syrup:usdafndds-2710275
+Blue or roquefort cheese dressing:usdafndds-2710197
+Blue or roquefort cheese dressing, fat free:usdafndds-2710229
+Blue or roquefort cheese dressing, light:usdafndds-2710216
+Brandy:usdafndds-2710699
+Brandy Alexander:usdafndds-2710627
+Brandy and cola:usdafndds-2710663
+Bratwurst:usdafndds-2706174
+Bratwurst, with cheese:usdafndds-2706175
+Brazil nuts:usdafndds-2707492
+Breadfruit, cooked:usdafndds-2709879
+Bread, Spanish coffee:usdafndds-2707683
+Breadsticks, hard, gluten free:usdafndds-2707799
+Breadsticks, hard, NFS:usdafndds-2707690
+Breadsticks, hard, reduced sodium:usdafndds-2707691
+Breadsticks, hard, whole wheat:usdafndds-2707745
+Breadsticks, NFS:usdafndds-2707689
+Breadsticks, soft, fast food / restaurant:usdafndds-2707693
+Breadsticks, soft, frozen:usdafndds-2707694
+Breadsticks, soft, NFS:usdafndds-2707692
+Breadsticks, soft, stuffed or topped with melted cheese:usdafndds-2707696
+Breadsticks, soft, with parmesan cheese, fast food / restaurant:usdafndds-2707695
+Bread, white, commercially prepared:usdaff-325871
+Bread, whole-wheat, commercially prepared:usdaff-335240
+Breakfast bar, cereal crust with fruit filling, lowfat:usdafndds-2708116
+Breakfast bar, date, with yogurt coating:usdafndds-2708115
+Breakfast bar, NFS:usdafndds-2708114
+Breakfast tart:usdafndds-2708077
+Breakfast tart, lowfat:usdafndds-2708078
+Brioche:usdafndds-2707682
+Broccoflower, cooked:usdafndds-2709880
+Broccoflower, raw:usdafndds-2709771
+Broccoli and cauliflower, cooked, fat added:usdafndds-2710032
+Broccoli and cauliflower, cooked, no added fat:usdafndds-2710031
+Broccoli casserole with noodles:usdafndds-2709654
+Broccoli casserole with rice:usdafndds-2709655
+Broccoli, cauliflower and carrots, cooked, fat added:usdafndds-2710034
+Broccoli, cauliflower and carrots, cooked, no added fat:usdafndds-2710033
+Broccoli, raw:usdaff-747447
+Brussels sprouts, fresh, cooked, fat added:usdafndds-2709884
+Brussels sprouts, fresh, cooked, no added fat:usdafndds-2709881
+Brussels sprouts, frozen, cooked, fat added:usdafndds-2709885
+Brussels sprouts, frozen, cooked, no added fat:usdafndds-2709882
+Brussels sprouts, NS as to form, cooked:usdafndds-2709883
+Brussels sprouts, raw:usdafndds-2709772
+Brussels sprouts, raw:usdaff-2685575
+Buckwheat groats:usdafndds-2708362
+Buckwheat, whole grain:usdaff-2512378
+Buffalo sauce:usdafndds-2709751
+Bulgur, dry, raw:usdaff-2710820
+Bulgur, fat added:usdafndds-2708439
+Bulgur, no added fat:usdafndds-2708438
+Bulgur, NS as to fat:usdafndds-2708440
+Burdock, cooked:usdafndds-2709886
+Burrito, cheese only:usdafndds-2708554
+Burrito, NFS:usdafndds-2708534
+Burrito, pork, cheese:usdafndds-2708539
+Burrito, pork, with beans and rice, cheese:usdafndds-2708542
+Burrito, pork, with beans, cheese:usdafndds-2708541
+Burrito, pork, with rice, cheese:usdafndds-2708540
+Burrito, with beans and rice, cheese:usdafndds-2708549
+Burrito, with beans, cheese:usdafndds-2708548
+Burrito, with beans, no cheese:usdafndds-2708547
+Butter, light:usdafndds-2710157
+Buttermilk:usdafndds-2705393
+Buttermilk, low fat:usdaff-2259792
+Butter, NFS:usdafndds-2710154
+Butter replacement, liquid:usdafndds-2710161
+Butter replacement, powder:usdafndds-2710163
+Butter, stick:usdafndds-2710155
+Butter, stick, salted:usdaff-790508
+Butter, stick, unsalted:usdaff-789828
+Butter, tub:usdafndds-2710156
+Cabbage, bok choy, raw:usdaff-2685572
+Cabbage, Chinese, cooked, fat added:usdafndds-2709888
+Cabbage, Chinese, cooked, no added fat:usdafndds-2709887
+Cabbage, Chinese, raw:usdafndds-2709774
+Cabbage, green, cooked, fat added, NS as to fat type:usdafndds-2709890
+Cabbage, green, cooked, no added fat:usdafndds-2709889
+Cabbage, green, cooked with butter or margarine:usdafndds-2709892
+Cabbage, green, cooked with oil:usdafndds-2709891
+Cabbage, green, pickled:usdafndds-2710075
+Cabbage, green, raw:usdafndds-2709773
+Cabbage, green, raw:usdaff-2346407
+Cabbage, napa, leaf, destemmed, raw:usdaff-2727583
+Cabbage, red, cooked:usdafndds-2709893
+Cabbage, red, pickled:usdafndds-2710076
+Cabbage, red, raw:usdaff-2346408
+Cabbage, red, raw:usdafndds-2709775
+Cabbage, savoy, cooked:usdafndds-2709894
+Cactus, cooked, fat added:usdafndds-2709896
+Cactus, cooked, no added fat:usdafndds-2709895
+Cactus, raw:usdafndds-2709776
+Caesar dressing:usdafndds-2710199
+Caesar dressing, fat free:usdafndds-2710230
+Caesar dressing, light:usdafndds-2710219
+Cake, angel food:usdafndds-2707854
+Cake, Boston cream pie:usdafndds-2707858
+Cake, chocolate, flourless:usdafndds-2707871
+Cake, cream:usdafndds-2707872
+Cake, fruit cake:usdafndds-2707875
+Cake, jelly roll:usdafndds-2707878
+Cake or cupcake, apple:usdafndds-2707855
+Cake or cupcake, banana:usdafndds-2707856
+Cake or cupcake, Black Forest:usdafndds-2707857
+Cake or cupcake, carrot:usdafndds-2707859
+Cake or cupcake, chocolate, no icing:usdafndds-2707868
+Cake or cupcake, chocolate with chocolate icing, bakery:usdafndds-2707866
+Cake or cupcake, chocolate with chocolate icing, from mix:usdafndds-2707867
+Cake or cupcake, chocolate with white icing, bakery:usdafndds-2707864
+Cake or cupcake, chocolate with white icing, from mix:usdafndds-2707865
+Cake or cupcake, coconut:usdafndds-2707860
+Cake or cupcake, German chocolate:usdafndds-2707869
+Cake or cupcake, gingerbread:usdafndds-2707876
+Cake or cupcake, gluten free:usdafndds-2707870
+Cake or cupcake, lemon:usdafndds-2707879
+Cake or cupcake, marble:usdafndds-2707880
+Cake or cupcake, NFS:usdafndds-2707853
+Cake or cupcake, peanut butter:usdafndds-2707881
+Cake or cupcake, pumpkin:usdafndds-2707883
+Cake or cupcake, red velvet:usdafndds-2707884
+Cake or cupcake, spice:usdafndds-2707885
+Cake or cupcake, strawberry:usdafndds-2707887
+Cake or cupcake, white, no icing:usdafndds-2707895
+Cake or cupcake, white with chocolate icing, bakery:usdafndds-2707893
+Cake or cupcake, white with chocolate icing, from mix:usdafndds-2707894
+Cake or cupcake, white with white icing, bakery:usdafndds-2707891
+Cake or cupcake, white with white icing, from mix:usdafndds-2707892
+Cake or cupcake, zucchini:usdafndds-2707897
+Cake, pineapple, upside down:usdafndds-2707890
+Cake, pound:usdafndds-2707882
+Cake, sponge:usdafndds-2707886
+Cake, strawberry shortcake:usdafndds-2707896
+Cake, torte:usdafndds-2707888
+Cake, tres leche:usdafndds-2707889
+Candy, caramel:usdafndds-2710354
+Candy, cotton:usdafndds-2710363
+Candy, fruit flavored pieces:usdafndds-2710364
+Candy, fruit leather:usdafndds-2710368
+Candy, fruit snacks:usdafndds-2710367
+Candy, gummy:usdafndds-2710359
+Candy, hard:usdafndds-2710360
+Candy, licorice:usdafndds-2710352
+Candy, lollipop:usdafndds-2710361
+Candy, marshmallow:usdafndds-2710353
+Candy, mint:usdafndds-2710358
+Candy, NFS:usdafndds-2710325
+Candy, non chocolate, other, NFS:usdafndds-2710350
+Candy, non chocolate, sugar free:usdafndds-2710370
+Candy, nougat with nuts:usdafndds-2710355
+Candy, peanut brittle:usdafndds-2710357
+Candy, sprinkles:usdafndds-2710334
+Candy, taffy:usdafndds-2710369
+Canola oil:usdafndds-2710188
+Cantaloupe nectar:usdafndds-2709343
+Cantaloupe, raw:usdafndds-2709226
+Cape Cod:usdafndds-2710629
+Caramel dip, light:usdafndds-2710293
+Caramel dip, regular:usdafndds-2710292
+Carrot juice, 100%:usdafndds-2709683
+Carrots, baby, raw:usdaff-2258587
+Carrots, canned, cooked, fat added, NS as to fat type:usdafndds-2709672
+Carrots, canned, cooked, no added fat:usdafndds-2709666
+Carrots, canned, cooked with butter or margarine:usdafndds-2709676
+Carrots, canned, cooked with oil:usdafndds-2709675
+Carrots, canned, reduced sodium, cooked, fat added, NS as to fat type:usdafndds-2709679
+Carrots, canned, reduced sodium, cooked, no added fat:usdafndds-2709678
+Carrots, canned, reduced sodium, cooked with butter or margarine:usdafndds-2709681
+Carrots, canned, reduced sodium, cooked with oil:usdafndds-2709680
+Carrots, cooked, from restaurant:usdafndds-2709663
+Carrots, fresh, cooked, fat added, NS as to fat type:usdafndds-2709670
+Carrots, fresh, cooked, no added fat:usdafndds-2709664
+Carrots, fresh, cooked with butter or margarine:usdafndds-2709668
+Carrots, fresh, cooked with oil:usdafndds-2709667
+Carrots, frozen, cooked, fat added, NS as to fat type:usdafndds-2709671
+Carrots, frozen, cooked, no added fat:usdafndds-2709665
+Carrots, frozen, cooked with butter or margarine:usdafndds-2709674
+Carrots, frozen, cooked with oil:usdafndds-2709673
+Carrots, frozen, unprepared:usdaff-746764
+Carrots, glazed, cooked:usdafndds-2709677
+Carrots, mature, raw:usdaff-2258586
+Carrots, NS as to form, cooked:usdafndds-2709669
+Carrots, raw:usdafndds-2709660
+Cashew butter:usdafndds-2707536
+Cashews, honey roasted:usdafndds-2707498
+Cashews, lightly salted:usdafndds-2707496
+Cashews, NFS:usdafndds-2707493
+Cashews, salted:usdafndds-2707495
+Cashews, unroasted:usdafndds-2707494
+Cashews, unsalted:usdafndds-2707497
+Cassava, cooked:usdafndds-2709564
+Cauliflower, fresh, cooked, fat added, NS as to fat type:usdafndds-2709900
+Cauliflower, fresh, cooked, no added fat:usdafndds-2709897
+Cauliflower, fresh, cooked with butter or margarine:usdafndds-2709903
+Cauliflower, fresh, cooked with oil:usdafndds-2709902
+Cauliflower, frozen, cooked, fat added, NS as to fat type:usdafndds-2709901
+Cauliflower, frozen, cooked, no added fat:usdafndds-2709898
+Cauliflower, frozen, cooked with butter or margarine:usdafndds-2709905
+Cauliflower, frozen, cooked with oil:usdafndds-2709904
+Cauliflower, NS as to form, cooked:usdafndds-2709899
+Cauliflower, pickled:usdafndds-2710074
+Cauliflower, raw:usdaff-2685573
+Cauliflower, raw:usdafndds-2709777
+Caviar:usdafndds-2706332
+Celery, cooked:usdafndds-2709906
+Celery juice:usdafndds-2709811
+Celery, pickled:usdafndds-2710072
+Celery, raw:usdaff-2346405
+Celery, raw:usdafndds-2709778
+Cereal, bran flakes, flavored:usdafndds-2708469
+Cereal, bran flakes, plain:usdafndds-2708456
+Cereal, chocolate crispy:usdafndds-2708451
+Cereal, chocolate puffs:usdafndds-2708449
+Cereal, cinnamon toast:usdafndds-2708450
+Cereal, cooked, NFS:usdafndds-2708360
+Cereal, corn flakes, flavored:usdafndds-2708474
+Cereal, corn flakes, plain:usdafndds-2708453
+Cereal, corn puffs:usdafndds-2708454
+Cereal, corn squares:usdafndds-2708452
+Cereal, corn squares, flavored:usdafndds-2708463
+Cereal, crunch:usdafndds-2708447
+Cereal, flavored puffs:usdafndds-2708473
+Cereal, frosted oats with marshmallows:usdafndds-2708467
+Cereal, fruit crispy:usdafndds-2708460
+Cereal, fruit rings:usdafndds-2708459
+Cereal, granola:usdafndds-2708461
+Cereal, K's, flavored:usdafndds-2708472
+Cereal, K's, plain:usdafndds-2708471
+Cereal, multigrain:usdafndds-2708465
+Cereal, oat bran, ready-to-eat:usdafndds-2708490
+Cereal, oat bunches:usdafndds-2708462
+Cereal, oat squares:usdafndds-2708466
+Cereal or granola bar, chocolate coated, NFS:usdafndds-2708107
+Cereal or granola bar, coated with non-chocolate coating:usdafndds-2708111
+Cereal or granola bar, fruit and nut:usdafndds-2708105
+Cereal or granola bar (General Mills Fiber One Chewy Bar):usdafndds-2708082
+Cereal or granola bar (General Mills Nature Valley Chewy Trail Mix):usdafndds-2708091
+Cereal or granola bar (General Mills Nature Valley Crunchy Granola Bar):usdafndds-2708094
+Cereal or granola bar (General Mills Nature Valley Sweet and Salty Granola Bar):usdafndds-2708093
+Cereal or granola bar, high fiber, coated with non-chocolate yogurt coating:usdafndds-2708112
+Cereal or granola bar (Kashi Chewy):usdafndds-2708088
+Cereal or granola bar (Kashi Crunchy):usdafndds-2708089
+Cereal or granola bar (Kellogg's Nutri-Grain Cereal Bar):usdafndds-2708083
+Cereal or granola bar (Kellogg's Nutri-Grain Fruit and Nut Bar):usdafndds-2708085
+Cereal or granola bar (Kellogg's Nutri-Grain Yogurt Bar):usdafndds-2708084
+Cereal or granola bar (Kellogg's Special K bar):usdafndds-2708087
+Cereal or granola bar (KIND Fruit and Nut Bar):usdafndds-2708090
+Cereal or granola bar, lowfat, NFS:usdafndds-2708102
+Cereal or Granola bar, NFS:usdafndds-2708101
+Cereal or granola bar, nonfat:usdafndds-2708103
+Cereal or granola bar, oats, nuts, coated with non-chocolate coating:usdafndds-2708110
+Cereal or granola bar, peanuts , oats, sugar, wheat germ:usdafndds-2708106
+Cereal or granola bar (Quaker Chewy 25% Less Sugar Granola Bar):usdafndds-2708097
+Cereal or granola bar (Quaker Chewy 90 Calorie Granola Bar):usdafndds-2708096
+Cereal or granola bar (Quaker Chewy Dipps Granola Bar):usdafndds-2708098
+Cereal or granola bar (Quaker Chewy Granola Bar):usdafndds-2708095
+Cereal or granola bar (Quaker Granola Bites):usdafndds-2708099
+Cereal or granola bar, reduced sugar, NFS:usdafndds-2708104
+Cereal or granola bar, with coconut, chocolate coated:usdafndds-2708108
+Cereal or granola bar with nuts, chocolate coated:usdafndds-2708109
+Cereal or granola bar, with rice cereal:usdafndds-2708113
+Cereal or granola bar, with yogurt coating (General Mills Nature Valley Chewy Granola Bar):usdafndds-2708092
+Cereal, O's, flavored:usdafndds-2708446
+Cereal, O's, honey nut:usdafndds-2708464
+Cereal, O's, multigrain:usdafndds-2708468
+Cereal, O's, NFS:usdafndds-2708475
+Cereal, O's, plain:usdafndds-2708448
+Cereal, other, chocolate:usdafndds-2708484
+Cereal, other, fruit flavored:usdafndds-2708483
+Cereal, other, honey:usdafndds-2708486
+Cereal, other, NFS:usdafndds-2708481
+Cereal, other, peanut butter:usdafndds-2708485
+Cereal, other, plain:usdafndds-2708482
+Cereal, plain puffs:usdafndds-2708478
+Cereal, ready-to-eat, NFS:usdafndds-2708445
+Cereal, reduced sugar:usdafndds-2708487
+Cereal, rice crispy, flavored:usdafndds-2708458
+Cereal, rice crispy, plain:usdafndds-2708455
+Cereal, rice squares:usdafndds-2708470
+Cereal, shredded wheat, flavored:usdafndds-2708457
+Cereal, shredded wheat, plain:usdafndds-2708479
+Cereal, wheat flakes:usdafndds-2708480
+Cereal, wheat squares:usdafndds-2708476
+Champagne punch:usdafndds-2710675
+Channa Saag:usdafndds-2709632
+Chard, cooked:usdafndds-2709575
+Chard, raw:usdafndds-2709574
+Cheese, American:usdafndds-2705764
+Cheese, American and Swiss blends:usdafndds-2705763
+Cheese, American, nonfat or fat free:usdafndds-2705766
+Cheese, American, reduced fat:usdafndds-2705765
+Cheese, American, reduced sodium:usdafndds-2705767
+Cheese, American, restaurant:usdaff-747429
+Cheese ball:usdafndds-2705781
+Cheese, Blue or Roquefort:usdafndds-2705705
+Cheese, Brick:usdafndds-2705706
+Cheese, Brie:usdafndds-2705708
+Cheeseburger (Burger King):usdafndds-2706890
+Cheeseburger, from fast food, 1 large patty:usdafndds-2706909
+Cheeseburger, from fast food, 1 medium patty:usdafndds-2706897
+Cheeseburger, from fast food, 1 small patty:usdafndds-2706889
+Cheeseburger, from school cafeteria:usdafndds-2706893
+Cheeseburger (McDonalds):usdafndds-2706892
+Cheeseburger, NFS:usdafndds-2706888
+Cheeseburger, on wheat bun, 1 large patty:usdafndds-2706904
+Cheeseburger, on wheat bun, 1 medium patty:usdafndds-2706902
+Cheeseburger, on wheat bun, 1 small patty:usdafndds-2706896
+Cheeseburger, on white bun, 1 large patty:usdafndds-2706903
+Cheeseburger, on white bun, 1 medium patty:usdafndds-2706901
+Cheeseburger, on white bun, 1 small patty:usdafndds-2706895
+Cheeseburger slider:usdafndds-2706894
+Cheeseburger slider, from fast food:usdafndds-2706887
+Cheesecake, chocolate:usdafndds-2707863
+Cheesecake, fruit:usdafndds-2707862
+Cheesecake, plain:usdafndds-2707861
+Cheese, Camembert:usdafndds-2705707
+Cheese, cheddar:usdaff-328637
+Cheese, Cheddar:usdafndds-2705709
+Cheese, Cheddar, nonfat or fat free:usdafndds-2705711
+Cheese, Cheddar, reduced fat:usdafndds-2705710
+Cheese, Cheddar, reduced sodium:usdafndds-2705739
+Cheese, Colby:usdafndds-2705712
+Cheese, Colby Jack:usdafndds-2705713
+Cheese, cotija, solid:usdaff-2647443
+Cheese, cottage cheese, with gelatin dessert:usdafndds-2705778
+Cheese, cottage cheese, with gelatin dessert and fruit:usdafndds-2705779
+Cheese, cottage cheese, with gelatin dessert and vegetables:usdafndds-2705780
+Cheese, cottage, dry curd:usdafndds-2705753
+Cheese, cottage, low fat:usdafndds-2705756
+Cheese, cottage, lowfat, 2% milkfat:usdaff-328841
+Cheese, cottage, lowfat, lactose reduced:usdafndds-2705759
+Cheese, cottage, lowfat, low sodium:usdafndds-2705758
+Cheese, cottage, lowfat, with fruit:usdafndds-2705757
+Cheese, cottage, NFS:usdafndds-2705747
+Cheese, cottage, salted, dry curd:usdafndds-2705754
+Cheese, cottage, with fruit:usdafndds-2705751
+Cheese, cottage, with vegetables:usdafndds-2705752
+Cheese, dry white, queso seco:usdaff-746765
+Cheese, Feta:usdafndds-2705714
+Cheese, feta, whole milk, crumbled:usdaff-2259796
+Cheese flavored corn snacks:usdafndds-2708200
+Cheese flavored corn snacks (Cheetos):usdafndds-2708203
+Cheese flavored corn snacks, reduced fat:usdafndds-2708201
+Cheese, Fontina:usdafndds-2705715
+Cheese, goat:usdafndds-2705716
+Cheese, Gouda or Edam:usdafndds-2705717
+Cheese, Gruyere:usdafndds-2705718
+Cheese, Limburger:usdafndds-2705719
+Cheese, Mexican blend:usdafndds-2705741
+Cheese, Mexican blend, reduced fat:usdafndds-2705742
+Cheese, Monterey:usdafndds-2705720
+Cheese, monterey jack, solid:usdaff-2647438
+Cheese, Monterey, reduced fat:usdafndds-2705721
+Cheese, mozzarella, low moisture, part-skim:usdaff-329370
+Cheese, Mozzarella, NFS:usdafndds-2705722
+Cheese, Mozzarella, nonfat or fat free:usdafndds-2705725
+Cheese, Mozzarella, part skim:usdafndds-2705723
+Cheese, Mozzarella, reduced sodium:usdafndds-2705724
+Cheese, Muenster:usdafndds-2705726
+Cheese, Muenster, reduced fat:usdafndds-2705727
+Cheese, NFS:usdafndds-2705704
+Cheese, oaxaca, solid:usdaff-2647441
+Cheese, paneer:usdafndds-2705740
+Cheese, Parmesan, dry grated:usdafndds-2705728
+Cheese, Parmesan, dry grated, fat free:usdafndds-2705731
+Cheese, Parmesan, dry grated, reduced fat:usdafndds-2705729
+Cheese, parmesan, grated:usdaff-325036
+Cheese, parmesan, grated, refrigerated:usdaff-2259795
+Cheese, Parmesan, hard:usdafndds-2705730
+Cheese, Port du Salut:usdafndds-2705732
+Cheese, processed cheese food:usdafndds-2705770
+Cheese, processed, with vegetables:usdafndds-2705771
+Cheese, Provolone:usdafndds-2705733
+Cheese, provolone, reduced fat:usdafndds-2705734
+Cheese, provolone, sliced:usdaff-2647440
+Cheese, queso fresco, solid:usdaff-2647442
+Cheese, Ricotta:usdafndds-2705750
+Cheese, ricotta, whole milk:usdaff-746766
+Cheese sauce, for use with vegetables:usdafndds-2710244
+Cheese spread, American or Cheddar cheese base:usdafndds-2705773
+Cheese spread, American or Cheddar cheese base, reduced fat:usdafndds-2705768
+Cheese spread, cream cheese:usdafndds-2705775
+Cheese spread, pressurized can:usdafndds-2705776
+Cheese spread, Swiss cheese base:usdafndds-2705774
+Cheese, swiss:usdaff-746767
+Cheese, Swiss:usdafndds-2705735
+Cheese, Swiss, nonfat or fat free:usdafndds-2705738
+Cheese, Swiss, reduced fat:usdafndds-2705737
+Cheese, Swiss, reduced sodium:usdafndds-2705736
+Cheese,  with wine:usdafndds-2705772
+Cherries, canned:usdafndds-2709232
+Cherries, dried:usdafndds-2709199
+Cherries, frozen:usdafndds-2709233
+Cherries, maraschino:usdafndds-2709229
+Cherries, raw:usdafndds-2709231
+Cherries, sweet, dark red, raw:usdaff-2346399
+Cherry pie filling:usdafndds-2709230
+Chestnuts:usdafndds-2707499
+Chewing gum:usdafndds-2710371
+Chewing gum, sugar free:usdafndds-2710372
+Chia seeds:usdafndds-2707590
+Chia seeds, dry, raw:usdaff-2710819
+Chickpeas, from canned, fat added:usdafndds-2707417
+Chickpeas, from canned, no added fat:usdafndds-2707418
+Chickpeas, from canned, reduced sodium:usdafndds-2707419
+Chickpeas, from dried, fat added:usdafndds-2707415
+Chickpeas, from dried, no added fat:usdafndds-2707416
+Chickpeas (garbanzo beans, bengal gram), canned, sodium added, drained and rinsed:usdaff-2644288
+Chickpeas, (garbanzo beans, bengal gram), dry:usdaff-2644282
+Chickpeas, NFS:usdafndds-2707414
+Chicory beverage:usdafndds-2710487
+Chiliburger, with or without cheese, on bun:usdafndds-2706947
+Chili, vegetarian:usdafndds-2707411
+Chinese pancake:usdafndds-2708343
+Chips, rice:usdafndds-2708161
+Chives, raw:usdafndds-2709781
+Chocolate beverage powder, dry mix, not reconstituted:usdafndds-2705588
+Chocolate beverage powder, light, dry mix, not reconstituted:usdafndds-2705589
+Chocolate candy:usdafndds-2710328
+Chocolate candy, candy shell:usdafndds-2710365
+Chocolate candy, candy shell with nuts:usdafndds-2710366
+Chocolate candy, caramel filled:usdafndds-2710341
+Chocolate candy, caramel filled with nuts:usdafndds-2710342
+Chocolate candy, coconut filled:usdafndds-2710343
+Chocolate candy, cookie filled:usdafndds-2710332
+Chocolate candy, cream filled:usdafndds-2710344
+Chocolate candy, fudge:usdafndds-2710340
+Chocolate candy, nougat filled:usdafndds-2710345
+Chocolate candy, nougat filled with nuts:usdafndds-2710346
+Chocolate candy, other, NFS:usdafndds-2710327
+Chocolate candy, peanut butter filled:usdafndds-2710347
+Chocolate candy, sugar free:usdafndds-2710349
+Chocolate candy with cereal:usdafndds-2710331
+Chocolate candy with dried fruit:usdafndds-2710348
+Chocolate candy with nuts:usdafndds-2710330
+Chocolate candy with nuts, other, NFS:usdafndds-2710329
+Chocolate chips:usdafndds-2710333
+Chocolate, dark (65% cacao):usdasrlegacy-170272
+Chocolate, dark (75% cacao):usdasrlegacy-170273
+Chocolate hazelnut spread:usdafndds-2710289
+Chocolate milk, fat free (skim):usdafndds-2705469
+Chocolate milk, low fat (1%):usdafndds-2705470
+Chocolate milk, Nesquik, made with non-dairy milk:usdafndds-2705478
+Chocolate milk, Nesquik, NS as to type of milk:usdafndds-2705477
+Chocolate milk, NFS:usdafndds-2705466
+Chocolate milk, reduced fat (2%):usdafndds-2705468
+Chocolate milk, reduced sugar, fat free (skim):usdafndds-2705482
+Chocolate milk, reduced sugar, low fat (1%):usdafndds-2705481
+Chocolate milk, reduced sugar, NFS:usdafndds-2705471
+Chocolate milk, reduced sugar, reduced fat (2%):usdafndds-2705480
+Chocolate milk, reduced sugar, whole:usdafndds-2705479
+Chocolate milk, whole:usdafndds-2705467
+Chocolate, semi-sweet (55% cacao):usdasrlegacy-170271
+Chocolate syrup:usdafndds-2710276
+Chocolate syrup, light:usdafndds-2710277
+Chorizo:usdafndds-2706179
+Christophine, cooked:usdafndds-2709908
+Churros:usdafndds-2708070
+Chutney:usdafndds-2709309
+Cilantro, raw:usdafndds-2709782
+Classic mixed vegetables, canned, cooked, fat added, NS as to fat type:usdafndds-2710017
+Classic mixed vegetables, canned, cooked, no added fat:usdafndds-2710014
+Classic mixed vegetables, canned, cooked with butter or margarine:usdafndds-2710021
+Classic mixed vegetables, canned, cooked with oil:usdafndds-2710020
+Classic mixed vegetables, canned, reduced sodium, cooked, fat added, NS as to fat type:usdafndds-2710023
+Classic mixed vegetables, canned, reduced sodium, cooked, no added fat:usdafndds-2710022
+Classic mixed vegetables, canned, reduced sodium, cooked with butter or margarine:usdafndds-2710025
+Classic mixed vegetables, canned, reduced sodium, cooked with oil:usdafndds-2710024
+Classic mixed vegetables, cooked, from restaurant:usdafndds-2710012
+Classic mixed vegetables, frozen, cooked, fat added, NS as to fat type:usdafndds-2710016
+Classic mixed vegetables, frozen, cooked, no added fat:usdafndds-2710013
+Classic mixed vegetables, frozen, cooked with butter or margarine:usdafndds-2710019
+Classic mixed vegetables, frozen, cooked with oil:usdafndds-2710018
+Classic mixed vegetables, NS as to form, cooked:usdafndds-2710015
+Clementine, raw:usdafndds-2709164
+Cobbler, apple:usdafndds-2708019
+Cobbler, berry:usdafndds-2708020
+Cobbler, cherry:usdafndds-2708021
+Cobbler, peach:usdafndds-2708022
+Cocktail, NFS:usdafndds-2710626
+Cocktail sauce:usdafndds-2709753
+Cocoa powder:usdafndds-2705587
+Coconut cream:usdabranded-2085567
+Coconut cream, canned, sweetened:usdafndds-2707571
+Coconut, fresh:usdafndds-2707500
+Coconut milk:usdafndds-2705413
+Coconut milk, used in cooking:usdafndds-2707568
+Coconut oil:usdafndds-2710182
+Coconut, packaged:usdafndds-2707501
+Coconut water, sweetened:usdafndds-2707573
+Coconut water, unsweetened:usdafndds-2707572
+Coffee and chicory, brewed:usdafndds-2710470
+Coffee and chicory, brewed, decaffeinated:usdafndds-2710471
+Coffee, bottled/canned:usdafndds-2710478
+Coffee, bottled/canned, light:usdafndds-2710479
+Coffee, brewed:usdafndds-2710375
+Coffee, brewed, blend of regular and decaffeinated:usdafndds-2710376
+Coffee, brewed, decaffeinated:usdafndds-2710452
+Coffee, brewed, flavored:usdafndds-2710380
+Coffee, cafe con leche:usdafndds-2710384
+Coffee, cafe con leche, decaffeinated:usdafndds-2710385
+Coffee, Cafe Mocha:usdafndds-2710410
+Coffee, Cafe Mocha, decaffeinated:usdafndds-2710413
+Coffee, Cafe Mocha, decaffeinated, nonfat:usdafndds-2710414
+Coffee, Cafe Mocha, decaffeinated, with non-dairy milk:usdafndds-2710415
+Coffee, Cafe Mocha, nonfat:usdafndds-2710411
+Coffee, Cafe Mocha, with non-dairy milk:usdafndds-2710412
+Coffee cake, crumb or quick-bread type:usdafndds-2708079
+Coffee cake, crumb or quick-bread type, cheese-filled:usdafndds-2708081
+Coffee cake, crumb or quick-bread type, with fruit:usdafndds-2708080
+Coffee cake, yeast type:usdafndds-2707677
+Coffee, Cappuccino:usdafndds-2710472
+Coffee, Cappuccino, decaffeinated:usdafndds-2710475
+Coffee, Cappuccino, decaffeinated, nonfat:usdafndds-2710476
+Coffee, Cappuccino, decaffeinated, with non-dairy milk:usdafndds-2710477
+Coffee, Cappuccino, nonfat:usdafndds-2710473
+Coffee, Cappuccino, with non-dairy milk:usdafndds-2710474
+Coffee creamer, liquid:usdafndds-2705600
+Coffee creamer, liquid, fat free:usdafndds-2705602
+Coffee creamer, liquid, fat free, flavored:usdafndds-2705603
+Coffee creamer, liquid, fat free, sugar free, flavored:usdafndds-2705604
+Coffee creamer, liquid, flavored:usdafndds-2705601
+Coffee creamer, liquid, sugar free, flavored:usdafndds-2705605
+Coffee creamer, NFS:usdafndds-2705599
+Coffee creamer, powder:usdafndds-2705606
+Coffee creamer, powder, fat free:usdafndds-2705608
+Coffee creamer, powder, flavored:usdafndds-2705607
+Coffee creamer,powder, sugar free, flavored:usdafndds-2705609
+Coffee creamer, soy, liquid:usdafndds-2705610
+Coffee, Cuban:usdafndds-2710381
+Coffee, decaffeinated, pre-lightened:usdafndds-2710465
+Coffee, decaffeinated, pre-lightened and pre-sweetened with low calorie sweetener:usdafndds-2710463
+Coffee, decaffeinated, pre-lightened and pre-sweetened with sugar:usdafndds-2710461
+Coffee, decaffeinated, pre-sweetened with low calorie sweetener:usdafndds-2710469
+Coffee, decaffeinated, pre-sweetened with sugar:usdafndds-2710467
+Coffee, espresso:usdafndds-2710378
+Coffee, espresso, decaffeinated:usdafndds-2710379
+Coffee, Iced Cafe Mocha:usdafndds-2710443
+Coffee, Iced Cafe Mocha, decaffeinated:usdafndds-2710446
+Coffee, Iced Cafe Mocha, decaffeinated, nonfat:usdafndds-2710447
+Coffee, Iced Cafe Mocha, decaffeinated, with non-dairy milk:usdafndds-2710448
+Coffee, Iced Cafe Mocha, nonfat:usdafndds-2710444
+Coffee, Iced Cafe Mocha, with non-dairy milk:usdafndds-2710445
+Coffee, Iced Latte:usdafndds-2710431
+Coffee, Iced Latte, decaffeinated:usdafndds-2710437
+Coffee, Iced Latte, decaffeinated, flavored:usdafndds-2710440
+Coffee, Iced Latte, decaffeinated, nonfat:usdafndds-2710438
+Coffee, Iced Latte, decaffeinated, nonfat, flavored:usdafndds-2710441
+Coffee, Iced Latte, decaffeinated, with non-dairy milk:usdafndds-2710439
+Coffee, Iced Latte, decaffeinated, with non-dairy milk, flavored:usdafndds-2710442
+Coffee, Iced Latte, flavored:usdafndds-2710434
+Coffee, Iced Latte, nonfat:usdafndds-2710432
+Coffee, Iced Latte, nonfat, flavored:usdafndds-2710435
+Coffee, Iced Latte, with non-dairy milk:usdafndds-2710433
+Coffee, Iced Latte, with non-dairy milk, flavored:usdafndds-2710436
+Coffee, instant, decaffeinated, not reconstituted:usdafndds-2710481
+Coffee, instant, decaffeinated, pre-lightened and pre-sweetened with low calorie sweetener, not reconstituted:usdafndds-2710485
+Coffee, instant, decaffeinated, pre-lightened and pre-sweetened with sugar, not reconstituted:usdafndds-2710484
+Coffee, instant, decaffeinated, pre-lightened and pre-sweetened with sugar, reconsitituted:usdafndds-2710455
+Coffee, instant, pre-lightened and pre-sweetened with sugar, not reconstituted:usdafndds-2710483
+Coffee, instant, pre-sweetened with sugar, not reconstituted:usdafndds-2710482
+Coffee, Latte:usdafndds-2710386
+Coffee, Latte, decaffeinated:usdafndds-2710392
+Coffee, Latte, decaffeinated, flavored:usdafndds-2710395
+Coffee, Latte, decaffeinated, nonfat:usdafndds-2710393
+Coffee, Latte, decaffeinated, nonfat, flavored:usdafndds-2710396
+Coffee, Latte, decaffeinated, with non-dairy milk:usdafndds-2710394
+Coffee, Latte, decaffeinated, with non-dairy milk, flavored:usdafndds-2710397
+Coffee, Latte, flavored:usdafndds-2710389
+Coffee, Latte, nonfat:usdafndds-2710387
+Coffee, Latte, nonfat, flavored:usdafndds-2710390
+Coffee, Latte, with non-dairy milk:usdafndds-2710388
+Coffee, Latte, with non-dairy milk, flavored:usdafndds-2710391
+Coffee, macchiato:usdafndds-2710382
+Coffee, macchiato, sweetened:usdafndds-2710383
+Coffee, NS as to brewed or instant:usdafndds-2710374
+Coffee, NS as to brewed or instant, decaffeinated:usdafndds-2710451
+Coffee, NS as to type:usdafndds-2710373
+Coffee, pre-lightened:usdafndds-2710464
+Coffee, pre-lightened and pre-sweetened with low calorie sweetener:usdafndds-2710462
+Coffee, pre-lightened and pre-sweetened with sugar:usdafndds-2710460
+Coffee, pre-sweetened with low calorie sweetener:usdafndds-2710468
+Coffee, pre-sweetened with sugar:usdafndds-2710466
+Coffee substitute:usdafndds-2710486
+Coffee, Turkish:usdafndds-2710377
+Coleslaw:usdafndds-2709815
+Coleslaw dressing:usdafndds-2710200
+Coleslaw, fast food / restaurant:usdafndds-2709814
+Coleslaw, with fruit:usdafndds-2709817
+Collards, fresh, cooked, fat added, NS as to fat type:usdafndds-2709580
+Collards, fresh, cooked, no added fat:usdafndds-2709577
+Collards, fresh, cooked with butter or margarine:usdafndds-2709583
+Collards, fresh, cooked with oil:usdafndds-2709582
+Collards, frozen, cooked, fat added, NS as to fat type:usdafndds-2709581
+Collards, frozen, cooked, no added fat:usdafndds-2709578
+Collards, frozen, cooked with butter or margarine:usdafndds-2709585
+Collards, frozen, cooked with oil:usdafndds-2709584
+Collards, NS as to form, cooked:usdafndds-2709579
+Collards, raw:usdaff-2685574
+Collards, raw:usdafndds-2709576
+Congee:usdafndds-2708418
+Cookie, almond:usdafndds-2707900
+Cookie, animal:usdafndds-2707968
+Cookie, animal, with frosting or icing:usdafndds-2707969
+Cookie, applesauce:usdafndds-2707901
+Cookie, bar, with chocolate:usdafndds-2707908
+Cookie bar, with chocolate, nuts, and graham crackers:usdafndds-2707926
+Cookie, batter or dough, raw:usdafndds-2707898
+Cookie, biscotti:usdafndds-2707902
+Cookie, brownie, NS as to icing:usdafndds-2707903
+Cookie, brownie, reduced fat, NS as to icing:usdafndds-2707906
+Cookie, brownie, with icing or filling:usdafndds-2707905
+Cookie, brownie, without icing:usdafndds-2707904
+Cookie, butter or sugar:usdafndds-2707970
+Cookie, butter or sugar, with chocolate icing or filling:usdafndds-2707978
+Cookie, butter or sugar, with fruit and/or nuts:usdafndds-2707972
+Cookie, butter or sugar, with icing or filling other than chocolate:usdafndds-2707979
+Cookie, butterscotch, brownie:usdafndds-2707907
+Cookie, chocolate and vanilla sandwich:usdafndds-2707923
+Cookie, chocolate chip:usdafndds-2707909
+Cookie, chocolate chip, made from home recipe or purchased at a bakery:usdafndds-2707910
+Cookie, chocolate chip, reduced fat:usdafndds-2707911
+Cookie, chocolate chip, reduced sugar:usdafndds-2707985
+Cookie, chocolate chip sandwich:usdafndds-2707912
+Cookie, chocolate, made with oatmeal and coconut, no bake:usdafndds-2707914
+Cookie, chocolate, made with rice cereal:usdafndds-2707913
+Cookie, chocolate or fudge:usdafndds-2707915
+Cookie, chocolate sandwich, reduced fat:usdafndds-2707921
+Cookie, chocolate, sandwich, with extra filling:usdafndds-2707922
+Cookie, chocolate wafer:usdafndds-2707924
+Cookie, chocolate, with icing or coating:usdafndds-2707918
+Cookie, coconut:usdafndds-2707927
+Cookie, cone shell, ice cream type, wafer or cake:usdafndds-2707931
+Cookie, fig bar:usdafndds-2707929
+Cookie, fortune:usdafndds-2707930
+Cookie, fruit-filled bar:usdafndds-2707928
+Cookie, gingersnaps:usdafndds-2707932
+Cookie, gluten free:usdafndds-2707991
+Cookie, graham cracker with chocolate and marshmallow:usdafndds-2707925
+Cookie, granola:usdafndds-2707933
+Cookie, ladyfinger:usdafndds-2707934
+Cookie, Lebkuchen:usdafndds-2707943
+Cookie, lemon bar:usdafndds-2707935
+Cookie, macaroon:usdafndds-2707936
+Cookie, marshmallow and peanut butter, with oat cereal, no bake:usdafndds-2707940
+Cookie, marshmallow, chocolate-covered:usdafndds-2707916
+Cookie, marshmallow, with coconut:usdafndds-2707937
+Cookie, marshmallow, with rice cereal and chocolate chips:usdafndds-2707939
+Cookie, marshmallow, with rice cereal, no bake:usdafndds-2707938
+Cookie, meringue:usdafndds-2707941
+Cookie, molasses:usdafndds-2707942
+Cookie, multigrain, high fiber:usdafndds-2707944
+Cookie, NFS:usdafndds-2707899
+Cookie, oatmeal:usdafndds-2707945
+Cookie, oatmeal, reduced fat, NS as to raisins:usdafndds-2707947
+Cookie, oatmeal, reduced sugar:usdafndds-2707986
+Cookie, oatmeal sandwich, with creme filling:usdafndds-2707948
+Cookie, oatmeal sandwich, with peanut butter and jelly filling:usdafndds-2707950
+Cookie, oatmeal, with chocolate and peanut butter, no bake:usdafndds-2707951
+Cookie, oatmeal, with chocolate chips:usdafndds-2707949
+Cookie, oatmeal, with raisins:usdafndds-2707946
+Cookie, peanut butter:usdafndds-2707952
+Cookie, peanut butter sandwich:usdafndds-2707955
+Cookie, peanut butter, sugar free:usdafndds-2707990
+Cookie, peanut butter, with chocolate:usdafndds-2707953
+Cookie, peanut butter with rice cereal, no bake:usdafndds-2707954
+Cookie, Pfeffernusse:usdafndds-2707957
+Cookie, Pizzelle:usdafndds-2707958
+Cookie, pumpkin:usdafndds-2707959
+Cookie, raisin:usdafndds-2707960
+Cookie, raisin sandwich, cream-filled:usdafndds-2707961
+Cookie, rugelach:usdafndds-2707984
+Cookie, rum ball, no bake:usdafndds-2707962
+Cookie, sandwich, reduced sugar:usdafndds-2707987
+Cookie, sandwich-type, not chocolate or vanilla:usdafndds-2707963
+Cookie, shortbread:usdafndds-2707964
+Cookie, shortbread, reduced fat:usdafndds-2707965
+Cookie, shortbread, with icing or filling:usdafndds-2707966
+Cookies, oatmeal, soft, with raisins:usdaff-333008
+Cookies, Puerto Rican style:usdafndds-2707992
+Cookie, sugar or plain, sugar free:usdafndds-2707988
+Cookie, sugar wafer:usdafndds-2707973
+Cookie, sugar wafer, chocolate-covered:usdafndds-2707919
+Cookie, sugar wafer, sugar free:usdafndds-2707989
+Cookie, tea, Japanese:usdafndds-2707980
+Cookie, toffee bar:usdafndds-2707974
+Cookie, vanilla sandwich:usdafndds-2707975
+Cookie, vanilla sandwich, extra filling:usdafndds-2707976
+Cookie, vanilla sandwich, reduced fat:usdafndds-2707977
+Cookie, vanilla wafer:usdafndds-2707981
+Cookie, vanilla wafer, reduced fat:usdafndds-2707982
+Cookie, vanilla with caramel, coconut, and chocolate coating:usdafndds-2707983
+Cookie, with peanut butter filling, chocolate-coated:usdafndds-2707956
+Corn beverage:usdafndds-2710504
+Corn, canned, cooked, fat added, NS as to fat type:usdafndds-2709916
+Corn, canned, cooked, no added fat:usdafndds-2709912
+Corn, canned, cooked with butter or margarine:usdafndds-2709922
+Corn, canned, cooked with oil:usdafndds-2709921
+Corn, canned, reduced sodium, cooked, fat added, NS as to fat type:usdafndds-2709925
+Corn, canned, reduced sodium, cooked, no added fat:usdafndds-2709924
+Corn, canned, reduced sodium, cooked with butter or margarine:usdafndds-2709927
+Corn, canned, reduced sodium, cooked with oil:usdafndds-2709926
+Corn chips, flavored:usdafndds-2708197
+Corn chips, flavored (Fritos):usdafndds-2708199
+Corn chips, plain:usdafndds-2708196
+Corn chips, plain (Fritos):usdafndds-2708198
+Corn chips, reduced sodium:usdafndds-2708205
+Corn, cooked, from restaurant:usdafndds-2709909
+Corn flour, masa harina, white or yellow, dry, raw:usdaff-2710835
+Corn, fresh, cooked, fat added, NS as to fat type:usdafndds-2709914
+Corn, fresh, cooked, no added fat:usdafndds-2709910
+Corn, fresh, cooked with butter or margarine:usdafndds-2709918
+Corn, fresh, cooked with oil:usdafndds-2709917
+Corn, frozen, cooked, fat added, NS as to fat type:usdafndds-2709915
+Corn, frozen, cooked, no added fat:usdafndds-2709911
+Corn, frozen, cooked with butter or margarine:usdafndds-2709920
+Corn, frozen, cooked with oil:usdafndds-2709919
+Cornmeal mush, fat added:usdafndds-2708375
+Cornmeal mush, no added fat:usdafndds-2708374
+Cornmeal mush, NS as to fat:usdafndds-2708373
+Corn, NS as to form, cooked:usdafndds-2709913
+Corn nuts:usdafndds-2708195
+Corn oil:usdafndds-2710183
+Corn, raw:usdafndds-2709783
+Corn, scalloped or pudding:usdafndds-2710046
+Corn starch:corn-starch
+Corn, sweet, yellow and white kernels,  fresh, raw:usdaff-2710826
+Corn syrup:usdafndds-2710274
+Cottage cheese, farmer's:usdafndds-2705749
+Cottage cheese, full fat, large or small curd:usdaff-2346384
+Cottonseed oil:usdafndds-2710184
+Cough drops:usdafndds-2710362
+Couscous, plain, cooked:usdafndds-2708441
+Cracker chips:usdafndds-2708293
+Crackers, breakfast biscuit:usdafndds-2708140
+Crackers, butter, flavored:usdafndds-2708147
+Crackers, butter, plain:usdafndds-2708146
+Crackers, butter, reduced fat:usdafndds-2708149
+Crackers, butter, reduced sodium:usdafndds-2708141
+Crackers, butter (Ritz):usdafndds-2708148
+Crackers, cheese:usdafndds-2708150
+Crackers, cheese (Cheez-It):usdafndds-2708151
+Crackers, cheese (Goldfish):usdafndds-2708152
+Crackers, cheese, reduced fat:usdafndds-2708153
+Crackers, cheese, reduced sodium:usdafndds-2708154
+Crackers, cheese, whole grain:usdafndds-2708155
+Crackers, crispbread:usdafndds-2708156
+Crackers, Cuban:usdafndds-2708137
+Crackers, flatbread:usdafndds-2708157
+Crackers, gluten free, flavored:usdafndds-2708189
+Crackers, gluten free, plain:usdafndds-2708188
+Crackers, matzo:usdafndds-2708158
+Crackers, matzo, reduced sodium:usdafndds-2708142
+Crackers, milk:usdafndds-2708159
+Crackers, multigrain:usdafndds-2708170
+Crackers, NFS:usdafndds-2708132
+Crackers, oatmeal:usdafndds-2708136
+Crackers, oyster:usdafndds-2708160
+Crackers, rice:usdafndds-2708163
+Crackers, rice and nuts:usdafndds-2708164
+Crackers, saltine:usdafndds-2708167
+Crackers, saltine, multigrain:usdafndds-2708169
+Crackers, saltine, reduced fat:usdafndds-2708168
+Crackers, saltine, reduced sodium:usdafndds-2708143
+Crackers, sandwich:usdafndds-2708171
+Crackers, sandwich, cheese filled:usdafndds-2708176
+Crackers, sandwich, cheese filled (Ritz):usdafndds-2708177
+Crackers, sandwich, peanut butter filled:usdafndds-2708172
+Crackers, sandwich, peanut butter filled (Ritz):usdafndds-2708173
+Crackers, sandwich, reduced fat, peanut butter filled:usdafndds-2708174
+Crackers, water:usdafndds-2708178
+Crackers, wheat:usdafndds-2708184
+Crackers, wheat, flavored (Wheat Thins):usdafndds-2708186
+Crackers, wheat, plain (Wheat Thins):usdafndds-2708185
+Crackers, wheat, reduced fat:usdafndds-2708187
+Crackers, wheat, reduced sodium:usdafndds-2708144
+Crackers, whole grain, sandwich, peanut butter filled:usdafndds-2708175
+Crackers, wonton:usdafndds-2708179
+Crackers, woven wheat:usdafndds-2708180
+Crackers, woven wheat, flavored (Triscuit):usdafndds-2708182
+Crackers, woven wheat, plain (Triscuit):usdafndds-2708181
+Crackers, woven wheat, reduced fat:usdafndds-2708183
+Crackers, woven wheat, reduced sodium:usdafndds-2708145
+Cranberries, dried:usdafndds-2709202
+Cranberries, raw:usdafndds-2709279
+Cranberry juice, 100%, not a blend:usdafndds-2709324
+Cranberry juice blend, 100% juice:usdafndds-2709317
+Cranberry juice blend, 100% juice, with calcium added:usdafndds-2709318
+Cranberry juice drink, with high vitamin C:usdafndds-2710579
+Cranberry juice drink, with high vitamin C, light:usdafndds-2710588
+Cranberry juice, not fortified, from concentrate, shelf stable:usdaff-2003594
+Cranberry sauce:usdafndds-2709280
+Cream cheese, fat free:usdafndds-2705769
+Cream cheese, full fat, block:usdaff-2346385
+Cream cheese, light:usdafndds-2705762
+Cream cheese, regular, flavored:usdafndds-2705761
+Cream cheese, regular, plain:usdafndds-2705760
+Cream, half and half:usdafndds-2705594
+Cream, half and half, fat free:usdafndds-2705596
+Cream, half and half, flavored:usdafndds-2705595
+Cream, heavy:usdaff-2346386
+Cream, light:usdafndds-2705593
+Cream, NS as to light, heavy, or half and half:usdafndds-2705592
+Cream of rice:usdafndds-2708415
+Cream of wheat, instant, made with water, fat added:usdafndds-2708437
+Cream of wheat, instant, made with water, no added fat:usdafndds-2708436
+Cream of wheat, NFS:usdafndds-2708433
+Cream of wheat, regular or quick, made with water, fat added:usdafndds-2708435
+Cream of wheat, regular or quick, made with water, no added fat:usdafndds-2708434
+Cream puff, eclair, custard or cream filled, iced:usdafndds-2708031
+Cream puff, eclair, custard or cream filled, iced, reduced fat:usdafndds-2708032
+Cream puff, eclair, custard or cream filled, not iced:usdafndds-2708030
+Cream puff, eclair, custard or cream filled, NS as to icing:usdafndds-2708029
+Cream puff, no filling or icing:usdafndds-2708033
+Cream sauce, for use with vegetables:usdafndds-2710243
+Cream, sour, full fat:usdaff-2346387
+Cream, whipped:usdafndds-2705598
+Creamy Italian dressing:usdafndds-2710209
+Creamy Italian dressing, fat free:usdafndds-2710231
+Creamy Italian dressing, light:usdafndds-2710217
+Creme brulee:usdafndds-2705684
+Cremodan:cremodan
+Crepe, chocolate filled:usdafndds-2708036
+Crepe, fruit filled:usdafndds-2708037
+Crepe, NFS:usdafndds-2708341
+Crepe, plain:usdafndds-2708342
+Cress, cooked:usdafndds-2709587
+Cress, raw:usdafndds-2709586
+Crisp, apple:usdafndds-2708023
+Crisp, berry:usdafndds-2708026
+Crisp, cherry:usdafndds-2708027
+Crisp, peach:usdafndds-2708028
+Croissant:usdafndds-2707678
+Croissant, cheese:usdafndds-2707679
+Croissant, chocolate:usdafndds-2707680
+Croissant, fruit:usdafndds-2707681
+Croutons:usdafndds-2707697
+Cucumber and vegetable namasu:usdafndds-2709818
+Cucumber, cooked:usdafndds-2709928
+Cucumber, raw:usdafndds-2709784
+Cucumber, with peel, raw:usdaff-2346406
+Currants, dried:usdafndds-2709201
+Custard:usdafndds-2705682
+Daiquiri:usdafndds-2710630
+Dal:usdafndds-2707427
+Dandelion greens, cooked:usdafndds-2709589
+Dandelion greens, raw:usdafndds-2709588
+Dark chocolate candy:usdafndds-2710336
+Dark chocolate candy, other, NFS:usdafndds-2710335
+Dark chocolate candy with nuts:usdafndds-2710338
+Dark chocolate candy with nuts, other, NFS:usdafndds-2710337
+Date:usdafndds-2709203
+Dessert dip:usdafndds-2710295
+Dessert pizza:usdafndds-2708008
+Dessert sauce:usdafndds-2710297
+Dextrose:dextrose
+Dosa, plain:usdafndds-2708347
+Dosa, with filling:usdafndds-2709129
+Double cheeseburger (Burger King):usdafndds-2706913
+Double cheeseburger, from fast food, 2 large patties:usdafndds-2706918
+Double cheeseburger, from fast food, 2 medium patties:usdafndds-2706917
+Double cheeseburger, from fast food, 2 small patties:usdafndds-2706912
+Double cheeseburger (McDonalds):usdafndds-2706914
+Double cheeseburger, on wheat bun, 2 large patties:usdafndds-2706911
+Double cheeseburger, on wheat bun, 2 medium patties:usdafndds-2706908
+Double cheeseburger, on wheat bun, 2 small patties:usdafndds-2706906
+Double cheeseburger, on white bun, 2 large patties:usdafndds-2706910
+Double cheeseburger, on white bun, 2 medium patties:usdafndds-2706907
+Double cheeseburger, on white bun, 2 small patties:usdafndds-2706905
+Double cream, 48% milkfat:double-cream-48-milkfat
+Double cream, 50% milkfat:double-cream-50-milkfat
+Doughnut, cake type, chocolate icing:usdafndds-2708067
+Doughnut, cake type, plain:usdafndds-2708063
+Doughnut, cake type, powdered sugar:usdafndds-2708065
+Doughnut, cake type, with icing:usdafndds-2708066
+Doughnut, chocolate:usdafndds-2708064
+Doughnut, chocolate, with chocolate icing:usdafndds-2708068
+Doughnut, custard-filled:usdafndds-2708075
+Doughnut, custard-filled, with icing:usdafndds-2708076
+Doughnut holes:usdafndds-2708069
+Doughnut, jelly:usdafndds-2708074
+Doughnut, NFS:usdafndds-2708062
+Doughnut, yeast type:usdafndds-2708072
+Doughnut, yeast type, with chocolate icing:usdafndds-2708073
+Dragon fruit:usdafndds-2709234
+Dried, fruit, NFS:usdafndds-2709195
+Duck sauce:usdafndds-2710298
+Dulce de leche:usdafndds-2705699
+Edamame, cooked:usdafndds-2707436
+Eggnog, alcoholic:usdafndds-2710684
+Eggplant, cooked, fat added:usdafndds-2709930
+Eggplant, cooked, no added fat:usdafndds-2709929
+Eggplant parmesan casserole, regular:usdafndds-2710050
+Eggplant, pickled:usdafndds-2710081
+Eggplant, raw:usdafndds-2709785
+Eggplant, raw:usdafndds-2709785
+Eggplant with cheese and tomato sauce:usdafndds-2710051
+Egg white:usdaff-747997
+Egg, white, dried:usdaff-323793
+Egg, whole:usdaff-748967
+Egg, whole, dried:usdaff-329490
+Egg yolk:usdaff-748236
+Egg, yolk, dried:usdaff-329716
+Einkorn, grain, dry, raw:usdaff-2710827
+Empanada, fruit:usdafndds-2708057
+Enchilada sauce, red:usdafndds-2709741
+Erythritol:erythritol
+Escarole, cooked:usdafndds-2709592
+Falafel:usdafndds-2707408
+Farro, pearled, dry, raw:usdaff-2710828
+Fat back, cooked:usdafndds-2705892
+Fava beans, cooked:usdafndds-2707367
+Fennel bulb, cooked:usdafndds-2709907
+Fennel bulb, raw:usdafndds-2709779
+Fig, canned:usdafndds-2709236
+Fig, dried:usdafndds-2709204
+Fig, raw:usdafndds-2709235
+Figs, dried, uncooked:usdaff-746768
+Firni, Indian pudding:usdafndds-2705686
+Fish, anchovy:usdafndds-2706232
+Fish, bass, baked or broiled:usdafndds-2706295
+Fish, bass, baked or broiled, coated:usdafndds-2706297
+Fish, bass, fried:usdafndds-2706298
+Fish, bass, grilled:usdafndds-2706296
+Fish, bass, NFS:usdafndds-2706294
+Fish, bass, steamed:usdafndds-2706299
+Fish, canned:usdafndds-2706229
+Fish, carp:usdafndds-2706233
+Fish, catfish, baked or broiled:usdafndds-2706235
+Fish, catfish, baked or broiled, coated:usdafndds-2706237
+Fish, catfish, fried:usdafndds-2706238
+Fish, catfish, grilled:usdafndds-2706236
+Fish, catfish, NFS:usdafndds-2706234
+Fish, catfish, steamed:usdafndds-2706239
+Fish, cod, baked or broiled:usdafndds-2706241
+Fish, cod, baked or broiled, coated:usdafndds-2706243
+Fish, cod, fried:usdafndds-2706244
+Fish, cod, grilled:usdafndds-2706242
+Fish, cod, NFS:usdafndds-2706240
+Fish, cod, steamed:usdafndds-2706245
+Fish, croaker:usdafndds-2706246
+Fish, eel:usdafndds-2706247
+Fish, flounder, baked or broiled:usdafndds-2706249
+Fish, flounder, baked or broiled, coated:usdafndds-2706251
+Fish, flounder, fried:usdafndds-2706252
+Fish, flounder, grilled:usdafndds-2706250
+Fish, flounder, NFS:usdafndds-2706248
+Fish, flounder, steamed:usdafndds-2706253
+Fish, haddock, baked or broiled:usdafndds-2706255
+Fish, haddock, baked or broiled, coated:usdafndds-2706257
+Fish, haddock, fried:usdafndds-2706258
+Fish, haddock, grilled:usdafndds-2706256
+Fish, haddock, NFS:usdafndds-2706254
+Fish, haddock, steamed:usdafndds-2706259
+Fish, halibut:usdafndds-2706260
+Fish, herring:usdafndds-2706261
+Fish, mackerel, baked or broiled:usdafndds-2706264
+Fish, mackerel, baked or broiled, coated:usdafndds-2706266
+Fish, mackerel, canned:usdafndds-2706268
+Fish, mackerel, fried:usdafndds-2706267
+Fish, mackerel, grilled:usdafndds-2706265
+Fish, mackerel, NFS:usdafndds-2706263
+Fish, mullet:usdafndds-2706269
+Fish, NFS:usdafndds-2706224
+Fish, NS as to type, baked or broiled:usdafndds-2706225
+Fish, NS as to type, baked or broiled, coated:usdafndds-2706226
+Fish, NS as to type, fried:usdafndds-2706227
+Fish, NS as to type, steamed:usdafndds-2706228
+Fish, perch, baked or broiled:usdafndds-2706271
+Fish, perch, baked or broiled, coated:usdafndds-2706273
+Fish, perch, fried:usdafndds-2706274
+Fish, perch, grilled:usdafndds-2706272
+Fish, perch, NFS:usdafndds-2706270
+Fish, perch, steamed:usdafndds-2706275
+Fish, pickled:usdafndds-2706262
+Fish, pike:usdafndds-2706276
+Fish, pompano, baked or broiled:usdafndds-2706278
+Fish, pompano, baked or broiled, coated:usdafndds-2706280
+Fish, pompano, fried:usdafndds-2706281
+Fish, pompano, grilled:usdafndds-2706279
+Fish, pompano, NFS:usdafndds-2706277
+Fish, pompano, steamed:usdafndds-2706282
+Fish, raw:usdafndds-2706223
+Fish, salmon, baked or broiled:usdafndds-2706286
+Fish, salmon, baked or broiled, coated:usdafndds-2706288
+Fish, salmon, canned:usdafndds-2706291
+Fish, salmon, fried:usdafndds-2706289
+Fish, salmon, grilled:usdafndds-2706287
+Fish, salmon, NFS:usdafndds-2706285
+Fish, salmon, raw:usdafndds-2706284
+Fish, salmon, smoked:usdafndds-2706292
+Fish, salmon, steamed:usdafndds-2706290
+Fish, sardines, canned:usdafndds-2706293
+Fish sauce:usdafndds-2706457
+Fish, shark:usdafndds-2706300
+Fish, smoked:usdafndds-2706230
+Fish, snapper:usdafndds-2706283
+Fish, stick:usdafndds-2706231
+Fish, swordfish:usdafndds-2706301
+Fish, tilapia, baked or broiled:usdafndds-2706319
+Fish, tilapia, baked or broiled, coated:usdafndds-2706321
+Fish, tilapia, fried:usdafndds-2706322
+Fish, tilapia, grilled:usdafndds-2706320
+Fish, tilapia, NFS:usdafndds-2706318
+Fish, tilapia, steamed:usdafndds-2706323
+Fish, trout, baked or broiled:usdafndds-2706303
+Fish, trout, baked or broiled, coated:usdafndds-2706305
+Fish, trout, fried:usdafndds-2706306
+Fish, trout, grilled:usdafndds-2706304
+Fish, trout, NFS:usdafndds-2706302
+Fish, trout, steamed:usdafndds-2706307
+Fish, tuna, canned:usdafndds-2706311
+Fish, tuna, cooked:usdafndds-2706310
+Fish, tuna, NFS:usdafndds-2706309
+Fish, tuna, raw:usdafndds-2706308
+Fish, white, mixed species, baked or broiled:usdafndds-2706325
+Fish, white, mixed species, baked or broiled, coated:usdafndds-2706326
+Fish, white, mixed species, fried:usdafndds-2706327
+Fish, white, mixed species, grilled:usdafndds-2706329
+Fish, white, mixed species, NFS:usdafndds-2706324
+Fish, white, mixed species, steamed:usdafndds-2706328
+Fish, whiting, baked or broiled:usdafndds-2706313
+Fish, whiting, baked or broiled, coated:usdafndds-2706315
+Fish, whiting, fried:usdafndds-2706316
+Fish, whiting, grilled:usdafndds-2706314
+Fish, whiting, NFS:usdafndds-2706312
+Fish, whiting, steamed:usdafndds-2706317
+Flan:usdafndds-2705683
+Flaxseed, ground:usdaff-2262075
+Flaxseed oil:usdafndds-2710185
+Flax seeds:usdafndds-2707588
+Flour, 00:usdaff-2003586
+Flour, almond:usdaff-2261420
+Flour, amaranth:usdaff-2512371
+Flour, barley:usdaff-2512376
+Flour, bread, white, enriched, unbleached:usdaff-790146
+Flour, buckwheat:usdaff-2512374
+Flour, cassava:usdaff-2512377
+Flour, chestnut:usdaff-2515377
+Flour, coconut:usdaff-2515382
+Flour, corn, yellow, fine meal, enriched:usdaff-790276
+Flour, oat, whole grain:usdaff-2261421
+Flour, pastry, unenriched, unbleached:usdaff-1104913
+Flour, potato:usdaff-2261422
+Flour, quinoa:usdaff-2512372
+Flour, rice, brown:usdaff-1104812
+Flour, rice, glutinous:usdaff-1104867
+Flour, rice, white, unenriched:usdaff-790214
+Flour, rye:usdaff-2512375
+Flour, semolina, coarse and semi-coarse:usdaff-2003588
+Flour, semolina, fine:usdaff-2003589
+Flour, sorghum:usdaff-2512373
+Flour, soy, defatted:usdaff-1104705
+Flour, soy, full-fat:usdaff-1104766
+Flour, spelt, whole grain:usdaff-2003587
+Flour, wheat, all-purpose, enriched, bleached:usdaff-789890
+Flour, wheat, all-purpose, enriched, unbleached:usdaff-789951
+Flour, wheat, all-purpose, unenriched, unbleached:usdaff-790018
+Flour, whole wheat, unenriched:usdaff-790085
+Flowers or blossoms of sesbania, squash, or lily, cooked:usdafndds-2709931
+Fonio, grain, dry, raw:usdaff-2710829
+Freezer pop:usdafndds-2710322
+French or Catalina dressing:usdafndds-2710201
+French or Catalina dressing, fat free:usdafndds-2710232
+French or Catalina dressing, light:usdafndds-2710218
+French toast, fast food / restaurant:usdafndds-2708333
+French toast, frozen:usdafndds-2708332
+French toast, gluten free:usdafndds-2708337
+French toast, NFS:usdafndds-2708331
+French toast, plain:usdafndds-2708335
+French toast, school:usdafndds-2708334
+French toast sticks:usdafndds-2708338
+French toast sticks, fast food / restaurant:usdafndds-2708339
+French toast sticks, school:usdafndds-2708340
+French toast, whole grain:usdafndds-2708336
+Frescavena:usdafndds-2710604
+Fried broccoli:usdafndds-2709656
+Fried cauliflower:usdafndds-2710042
+Fried eggplant:usdafndds-2710048
+Fried green beans:usdafndds-2709869
+Fried green tomatoes:usdafndds-2709725
+Fried mushrooms:usdafndds-2710053
+Fried okra:usdafndds-2710054
+Fried onion rings:usdafndds-2710055
+Fried stuffed potatoes, Puerto Rican style:usdafndds-2710138
+Fried summer squash, yellow or green:usdafndds-2710058
+Fritter, fruit:usdafndds-2708025
+Fritter, plain:usdafndds-2708024
+Frozen coffee drink:usdafndds-2710398
+Frozen coffee drink, decaffeinated:usdafndds-2710404
+Frozen coffee drink, decaffeinated, nonfat:usdafndds-2710405
+Frozen coffee drink, decaffeinated, nonfat, with whipped cream:usdafndds-2710408
+Frozen coffee drink, decaffeinated, with non-dairy milk:usdafndds-2710406
+Frozen coffee drink, decaffeinated, with non-dairy milk and whipped cream:usdafndds-2710409
+Frozen coffee drink, decaffeinated, with whipped cream:usdafndds-2710407
+Frozen coffee drink, nonfat:usdafndds-2710399
+Frozen coffee drink, nonfat, with whipped cream:usdafndds-2710402
+Frozen coffee drink, with non-dairy milk:usdafndds-2710400
+Frozen coffee drink, with non-dairy milk and whipped cream:usdafndds-2710403
+Frozen coffee drink, with whipped cream:usdafndds-2710401
+Frozen daiquiri:usdafndds-2710682
+Frozen fruit juice bar:usdafndds-2709312
+Frozen fruit juice bar, no sugar added:usdafndds-2709313
+Frozen margarita:usdafndds-2710683
+Frozen mocha coffee drink:usdafndds-2710416
+Frozen mocha coffee drink, decaffeinated:usdafndds-2710422
+Frozen mocha coffee drink, decaffeinated, nonfat:usdafndds-2710423
+Frozen mocha coffee drink, decaffeinated, nonfat, with whipped cream:usdafndds-2710426
+Frozen mocha coffee drink, decaffeinated, with non-dairy milk:usdafndds-2710424
+Frozen mocha coffee drink, decaffeinated, with non-dairy milk and whipped cream:usdafndds-2710427
+Frozen mocha coffee drink, decaffeinated, with whipped cream:usdafndds-2710425
+Frozen mocha coffee drink, nonfat:usdafndds-2710417
+Frozen mocha coffee drink, nonfat, with whipped cream:usdafndds-2710420
+Frozen mocha coffee drink, with non-dairy milk:usdafndds-2710418
+Frozen mocha coffee drink, with non-dairy milk and whipped cream:usdafndds-2710421
+Frozen mocha coffee drink, with whipped cream:usdafndds-2710419
+Fructose:fructose
+Fruit and vegetable smoothie, added protein:usdafndds-2710147
+Fruit and vegetable smoothie, bottled:usdafndds-2710150
+Fruit and vegetable smoothie, no dairy:usdafndds-2710151
+Fruit and vegetable smoothie, non-dairy:usdafndds-2710148
+Fruit and vegetable smoothie, non-dairy, added protein:usdafndds-2710149
+Fruit and vegetable smoothie, with dairy:usdafndds-2710146
+Fruit butter:usdafndds-2710302
+Fruit, chocolate covered:usdafndds-2709295
+Fruit cocktail, canned, in syrup:usdafndds-2709290
+Fruit cocktail, canned, juice pack:usdafndds-2709291
+Fruit cocktail, canned, NFS:usdafndds-2709289
+Fruit dressing:usdafndds-2710214
+Fruit flavored drink:usdafndds-2710573
+Fruit flavored drink, diet:usdafndds-2710597
+Fruit flavored drink, powdered, not reconstituted:usdafndds-2710613
+Fruit flavored drink, powdered, not reconstituted, diet:usdafndds-2710614
+Fruit flavored drink, with high vitamin C:usdafndds-2710578
+Fruit flavored drink, with high vitamin C, diet:usdafndds-2710596
+Fruit flavored drink, with high vitamin C, powdered, not reconstituted:usdafndds-2710612
+Fruit juice, acai blend:usdafndds-2710777
+Fruit juice blend, 100% juice:usdafndds-2709316
+Fruit juice blend, citrus, 100% juice:usdafndds-2709194
+Fruit juice drink:usdafndds-2710567
+Fruit juice drink, added calcium (Sunny D):usdafndds-2710601
+Fruit juice drink (Capri Sun):usdafndds-2710600
+Fruit juice drink, citrus, carbonated:usdafndds-2710565
+Fruit juice drink, diet:usdafndds-2710587
+Fruit juice drink, light:usdafndds-2710586
+Fruit juice drink, noncitrus, carbonated:usdafndds-2710566
+Fruit juice drink (Sunny D):usdafndds-2710582
+Fruit juice drink, with high vitamin C:usdafndds-2710580
+Fruit juice drink, with high vitamin C, light:usdafndds-2710585
+Fruit juice, NFS:usdafndds-2709315
+Fruit mixture, frozen:usdafndds-2709292
+Fruit nectar, NFS:usdafndds-2709340
+Fruit, NFS:usdafndds-2709213
+Fruit, pickled:usdafndds-2709214
+Fruit punch, alcoholic:usdafndds-2710674
+Fruit punch, made with fruit juice and soda:usdafndds-2710569
+Fruit smoothie, bottled:usdafndds-2709339
+Fruit smoothie juice drink, no dairy:usdafndds-2709337
+Fruit smoothie juice drink, with dairy:usdafndds-2705516
+Fruit smoothie, light:usdafndds-2709338
+Fruit smoothie, NFS:usdafndds-2705513
+Fruit smoothie, with whole fruit and dairy:usdafndds-2705514
+Fruit smoothie, with whole fruit and dairy, added protein:usdafndds-2705515
+Fruit smoothie, with whole fruit, no dairy:usdafndds-2709334
+Fruit smoothie, with whole fruit, no dairy, added protein:usdafndds-2709335
+Fruit smoothie, with whole fruit, non-dairy:usdafndds-2709336
+Fry sauce:usdafndds-2710176
+Fufu:usdafndds-2709568
+Funnel cake with sugar:usdafndds-2708349
+Funnel cake with sugar and fruit:usdafndds-2708350
+Fuzzy Navel:usdafndds-2710680
+Garlic, cooked:usdafndds-2709932
+Garlic, raw:usdafndds-2709786
+Garlic, raw:usdaff-1104647
+Gelatin:gelatin
+Gelatin dessert:usdafndds-2710310
+Gelatin dessert, sugar free:usdafndds-2710313
+Gelatin dessert, sugar free, with fruit:usdafndds-2710314
+Gelatin dessert with fruit:usdafndds-2710311
+Gelatin shot, alcoholic:usdafndds-2710631
+Ghee, clarified butter:usdafndds-2710168
+Gimlet:usdafndds-2710632
+Gin:usdafndds-2710702
+Gin and tonic:usdafndds-2710633
+Gin fizz:usdafndds-2710685
+Ginger root, pickled:usdafndds-2710082
+Glucose syrup:glucose-syrup
+Glug:usdafndds-2710698
+Glycerin:glycerin
+Goat milk:usdafndds-2705395
+Graham crackers:usdafndds-2708133
+Graham crackers, chocolate covered:usdafndds-2708135
+Graham crackers, reduced fat:usdafndds-2708138
+Graham crackers, sandwich, with filling:usdafndds-2708139
+Graham crackers (Teddy Grahams):usdafndds-2708134
+Granulated sugar:usdaff-746784
+Grapefruit, canned:usdafndds-2709166
+Grapefruit juice, 100%, canned, bottled or in a carton:usdafndds-2709178
+Grapefruit juice, 100%, freshly squeezed:usdafndds-2709176
+Grapefruit juice, 100%, NS as to form:usdafndds-2709177
+Grapefruit juice, 100%, with calcium added:usdafndds-2709179
+Grapefruit juice, red, not fortified, not from concentrate, refrigerated:usdaff-2003595
+Grapefruit juice, white, canned or bottled, unsweetened:usdaff-325287
+Grapefruit, raw:usdafndds-2709165
+Grape juice, 100%:usdafndds-2709325
+Grape juice, 100%, with calcium added:usdafndds-2709326
+Grape juice drink, light:usdafndds-2710589
+Grape juice, purple, with added vitamin C, from concentrate, shelf stable:usdaff-2003592
+Grape juice, white, with added vitamin C, from concentrate, shelf stable:usdaff-2003593
+Grapes, green, seedless, raw:usdaff-2346413
+Grapes, raw:usdafndds-2709237
+Grapes, red, seedless, raw:usdaff-2346412
+Gravy, for use with vegetables:usdafndds-2710245
+Green bean casserole:usdafndds-2710040
+Green beans, canned, cooked, fat added, NS as to fat type:usdafndds-2709858
+Green beans, canned, cooked, no added fat:usdafndds-2709854
+Green beans, canned, cooked with butter or margarine:usdafndds-2709864
+Green beans, canned, cooked with oil:usdafndds-2709863
+Green beans, canned, reduced sodium, cooked, fat added, NS as to fat type:usdafndds-2709866
+Green beans, canned, reduced sodium, cooked, no added fat:usdafndds-2709865
+Green beans, canned, reduced sodium, cooked with butter or margarine:usdafndds-2709868
+Green beans, canned, reduced sodium, cooked with oil:usdafndds-2709867
+Green beans, cooked, from restaurant:usdafndds-2709851
+Green beans, fresh, cooked, fat added, NS as to fat type:usdafndds-2709856
+Green beans, fresh, cooked, no added fat:usdafndds-2709852
+Green beans, fresh, cooked with butter or margarine:usdafndds-2709860
+Green beans, fresh, cooked with oil:usdafndds-2709859
+Green beans, frozen, cooked, fat added, NS as to fat type:usdafndds-2709857
+Green beans, frozen, cooked, no added fat:usdafndds-2709853
+Green beans, frozen, cooked with butter or margarine:usdafndds-2709862
+Green beans, frozen, cooked with oil:usdafndds-2709861
+Green beans, NS as to form, cooked:usdafndds-2709855
+Green beans, pickled:usdafndds-2710070
+Green beans, raw:usdafndds-2709769
+Green onion, (scallion), bulb and greens, root removed, raw:usdaff-2727585
+Green peas, canned, cooked, fat added, NS as to fat type:usdafndds-2709965
+Green peas, canned, cooked, no added fat:usdafndds-2709961
+Green peas, canned, cooked with butter or margarine:usdafndds-2709971
+Green peas, canned, cooked with oil:usdafndds-2709970
+Green peas, canned, reduced sodium, cooked, fat added, NS as to fat type:usdafndds-2709973
+Green peas, canned, reduced sodium, cooked, no added fat:usdafndds-2709972
+Green peas, canned, reduced sodium, cooked with butter or margarine:usdafndds-2709975
+Green peas, canned, reduced sodium, cooked with oil:usdafndds-2709974
+Green peas, cooked, from restaurant:usdafndds-2709958
+Green peas, fresh, cooked, fat added, NS as to fat type:usdafndds-2709963
+Green peas, fresh, cooked, no added fat:usdafndds-2709959
+Green peas, fresh, cooked with butter or margarine:usdafndds-2709967
+Green peas, fresh, cooked with oil:usdafndds-2709966
+Green peas, frozen, cooked, fat added, NS as to fat type:usdafndds-2709964
+Green peas, frozen, cooked, no added fat:usdafndds-2709960
+Green peas, frozen, cooked with butter or margarine:usdafndds-2709969
+Green peas, frozen, cooked with oil:usdafndds-2709968
+Green peas, NS as to form, cooked:usdafndds-2709962
+Green peas, raw:usdafndds-2709797
+Green plantain with cracklings, Puerto Rican style:usdafndds-2710139
+Greens, canned, cooked:usdafndds-2709598
+Greens, fresh, cooked, fat added:usdafndds-2709596
+Greens, fresh, cooked, no added fat:usdafndds-2709593
+Greens, frozen, cooked, fat added:usdafndds-2709597
+Greens, frozen, cooked, no added fat:usdafndds-2709594
+Greens, NS as to form, cooked:usdafndds-2709595
+Greens with ham or pork:usdafndds-2706759
+Greyhound:usdafndds-2710634
+Grits, instant, made with water, fat added:usdafndds-2708371
+Grits, instant, made with water, no added fat:usdafndds-2708370
+Grits, instant, made with water, NS as to fat:usdafndds-2708372
+Grits, NFS:usdafndds-2708363
+Grits, regular or quick, made with water, fat added:usdafndds-2708366
+Grits, regular or quick, made with water, no added fat:usdafndds-2708365
+Grits, regular or quick, made with water, NS as to fat:usdafndds-2708364
+Grits, with cheese, fat added:usdafndds-2708369
+Grits, with cheese, no added fat:usdafndds-2708368
+Grits, with cheese, NS as to fat:usdafndds-2708367
+Guar gum:guar-gum
+Guava nectar:usdafndds-2709344
+Guava paste:usdafndds-2710307
+Guava, raw:usdafndds-2709238
+Gum arabic:gum-arabic
+Ham, for use with vegetables:usdafndds-2710240
+Hard cider:usdafndds-2710621
+Hard seltzer:usdafndds-2710622
+Haupia:usdafndds-2710316
+Hazelnuts:usdafndds-2707502
+Hoisin sauce:usdafndds-2707441
+Hominy, cooked:usdafndds-2709933
+Honey:usdafndds-2710281
+Honey butter:usdafndds-2710179
+Honeydew melon, raw:usdafndds-2709241
+Honey mustard dip:usdafndds-2710086
+Honey mustard dressing:usdafndds-2710202
+Honey mustard dressing, fat free:usdafndds-2710233
+Honey mustard dressing, light:usdafndds-2710223
+Horchata, made with milk:usdafndds-2710603
+Horchata, made with water:usdafndds-2710602
+Horseradish:usdafndds-2710083
+Horseradish sauce:usdafndds-2710174
+Hot chocolate / cocoa, dry mix, made with lowfat (1%) or fat free (skim) milk:usdafndds-2705485
+Hot chocolate / cocoa, dry mix , made with non-dairy milk:usdafndds-2705486
+Hot chocolate / cocoa, dry mix, made with water:usdafndds-2705483
+Hot chocolate / cocoa, dry mix, made with water, with whipped cream:usdafndds-2705487
+Hot chocolate / cocoa, dry mix, made with whole or reduced fat (2%) milk:usdafndds-2705484
+Hot chocolate / cocoa, dry mix, reduced sugar, made with lowfat (1%) or fat free (skim) milk:usdafndds-2705492
+Hot chocolate / cocoa, dry mix, reduced sugar, made with non-dairy milk:usdafndds-2705494
+Hot chocolate / cocoa, dry mix, reduced sugar, made with water:usdafndds-2705488
+Hot chocolate / cocoa, dry mix, reduced sugar, made with whole or reduced fat (2%) milk:usdafndds-2705489
+Hot chocolate / cocoa, made with lowfat (1%) or fat free (skim) milk:usdafndds-2705474
+Hot chocolate / cocoa, made with non-dairy milk:usdafndds-2705475
+Hot chocolate / cocoa, made with whole or reduced fat (2%) milk:usdafndds-2705473
+Hot chocolate / cocoa, NFS:usdafndds-2705472
+Hot chocolate / cocoa, reduced sugar, made with lowfat (1%) or fat free (skim) milk:usdafndds-2705493
+Hot chocolate / cocoa, reduced sugar, made with non-dairy milk:usdafndds-2705490
+Hot chocolate / cocoa, reduced sugar, made with whole or reduced fat (2%) milk:usdafndds-2705491
+Hot chocolate / cocoa, with whipped cream:usdafndds-2705476
+Hot dog, NFS:usdafndds-2706166
+Hot dog, reduced fat:usdafndds-2706169
+Hot pepper sauce:usdafndds-2710093
+Hot Thai sauce:usdafndds-2709744
+Hummus, commercial:usdaff-321358
+Ice cream cake:usdafndds-2707877
+Iced Coffee, brewed:usdafndds-2710428
+Iced Coffee, brewed, decaffeinated:usdafndds-2710429
+Iced Coffee, pre-lightened and pre-sweetened:usdafndds-2710430
+Iced Tea / Lemonade juice drink:usdafndds-2710512
+Iced Tea / Lemonade juice drink, diet:usdafndds-2710514
+Iced Tea / Lemonade juice drink, light:usdafndds-2710513
+Icing, chocolate:usdafndds-2710290
+Icing, white:usdafndds-2710291
+Imitation cheese:usdafndds-2705777
+Instant coffee:usdafndds-2710480
+Inulin:inulin
+Invert syrup:invert-syrup
+Iota carrageenan:iota-carrageenan
+Isomalt:isomalt
+Italian dressing, fat free:usdafndds-2710234
+Italian dressing, light:usdafndds-2710224
+Italian dressing, made with vinegar and oil:usdafndds-2710203
+Italian Ice:usdafndds-2710317
+Italian Ice, no sugar added:usdafndds-2710318
+Italian sausage:usdafndds-2706189
+Jagerbomb:usdafndds-2710635
+Jai, Monk's Food:usdafndds-2710037
+Jam:usdafndds-2710301
+Jam or jelly, fruit juice sweetened:usdafndds-2710306
+Jam or jelly, NFS:usdafndds-2710299
+Jam or jelly, reduced sugar:usdafndds-2710305
+Jam or jelly, sugar free:usdafndds-2710304
+Jelly:usdafndds-2710300
+Jicama, raw:usdafndds-2709787
+Juice, pomegranate, from concentrate, shelf-stable:usdaff-2727588
+Juice, prune, shelf-stable:usdaff-2727587
+Juice, tart cherry, from concentrate, shelf-stable:usdaff-2727589
+Kale, fresh, cooked, fat added:usdafndds-2709603
+Kale, fresh, cooked, no added fat:usdafndds-2709600
+Kale, frozen, cooked, boiled, drained, without salt:usdaff-326196
+Kale, frozen, cooked, fat added:usdafndds-2709604
+Kale, frozen, cooked, no added fat:usdafndds-2709601
+Kale, NS as to form, cooked:usdafndds-2709602
+Kale, raw:usdaff-323505
+Kale, raw:usdafndds-2709599
+Kamikaze:usdafndds-2710636
+Kappa carrageenan:kappa-carrageenan
+Kefir:usdafndds-2705394
+Ketchup:usdafndds-2709733
+Ketchup, reduced sodium:usdafndds-2709734
+Ketchup, restaurant:usdaff-747693
+Khorasan, grain, dry, raw:usdaff-2710830
+Kidney beans and brown rice:usdafndds-2709034
+Kidney beans and rice, from fast food / restaurant:usdafndds-2708987
+Kidney beans and white rice:usdafndds-2708993
+Kidney beans, from canned, fat added:usdafndds-2707382
+Kidney beans, from canned, no added fat:usdafndds-2707383
+Kidney beans, from canned, reduced sodium:usdafndds-2707384
+Kidney beans, from dried, fat added:usdafndds-2707380
+Kidney beans, from dried, no added fat:usdafndds-2707381
+Kidney beans, from fast food / restaurant:usdafndds-2707385
+Kidney beans, NFS:usdafndds-2707379
+Kimchi:usdafndds-2710077
+Kiwifruit, green, raw:usdaff-327046
+Kiwifruit (kiwi), green, peeled, raw:usdaff-2710831
+Kiwi fruit, raw:usdafndds-2709239
+Knockwurst:usdafndds-2706181
+Kohlrabi, cooked:usdafndds-2709934
+Kohlrabi, raw:usdafndds-2709788
+Korean dressing or marinade:usdafndds-2710228
+Kumquat, raw:usdafndds-2709167
+Ladoo, round ball:usdafndds-2710351
+Lambda carrageenan:lambda-carrageenan
+Lambsquarter, cooked:usdafndds-2709605
+Lard:usdafndds-2710166
+Leeks:usdafndds-2709935
+Leeks, bulb and greens, root removed, raw:usdaff-2727584
+Lefse:usdafndds-2709553
+Lemonade, frozen concentrate, not reconstituted:usdafndds-2710572
+Lemonade, fruit flavored drink:usdafndds-2710571
+Lemonade, fruit juice drink:usdafndds-2710570
+Lemonade, fruit juice drink, light:usdafndds-2710592
+Lemon juice, 100%, canned or bottled:usdafndds-2709182
+Lemon juice, 100%, freshly squeezed:usdafndds-2709181
+Lemon juice, 100%, NS as to form:usdafndds-2709180
+Lemon pie filling:usdafndds-2709169
+Lemon, raw:usdafndds-2709168
+Lemon zest:lemon-zest
+Lentil curry:usdafndds-2707431
+Lentil curry with rice:usdafndds-2707432
+Lentils, dry:usdaff-2644283
+Lentils, from canned:usdafndds-2707426
+Lentils, from dried, fat added:usdafndds-2707424
+Lentils, from dried, no added fat:usdafndds-2707425
+Lentils, NFS:usdafndds-2707423
+Lettuce, arugula, raw:usdafndds-2709791
+Lettuce, Boston, raw:usdafndds-2709790
+Lettuce, cooked:usdafndds-2709949
+Lettuce, cos or romaine, raw:usdaff-746769
+Lettuce, iceberg, raw:usdaff-2346388
+Lettuce, leaf, green, raw:usdaff-2346391
+Lettuce, leaf, red, raw:usdaff-2346390
+Lettuce, raw:usdafndds-2709789
+Lettuce, romaine, green, raw:usdaff-2346389
+Lettuce, wilted, with bacon dressing:usdafndds-2709828
+Licuado or Batido:usdafndds-2705512
+Lima beans and corn, cooked, fat added:usdafndds-2710008
+Lima beans and corn, cooked, no added fat:usdafndds-2710007
+Lima beans, from canned:usdafndds-2709850
+Lima beans, from dried:usdafndds-2707369
+Lima beans, from frozen, fat added:usdafndds-2709849
+Lima beans, from frozen, no added fat:usdafndds-2709848
+Lima beans, NFS:usdafndds-2707368
+Lime juice, 100%, canned or bottled:usdafndds-2709185
+Lime juice, 100%, freshly squeezed:usdafndds-2709184
+Lime juice, 100%, NS as to form:usdafndds-2709183
+Lime, raw:usdafndds-2709170
+Lime zest:lime-zest
+Liqueur:usdafndds-2710623
+Liqueur, coffee flavored:usdafndds-2710625
+Liqueur, cream:usdafndds-2710624
+Locust bean gum:locust-bean-gum
+Lo mein, NFS:usdafndds-2708798
+Lo mein, with pork:usdafndds-2708801
+Lo mein, with shrimp:usdafndds-2708800
+Long Island iced tea:usdafndds-2710679
+Long rice noodles, made from mung beans, cooked:usdafndds-2708355
+Lotus root, cooked:usdafndds-2709936
+Lychee:usdafndds-2709240
+Macadamia nuts:usdafndds-2707503
+Macaroni or noodles with cheese:usdafndds-2708811
+Macaroni or noodles with cheese and egg:usdafndds-2708822
+Macaroni or noodles with cheese and frankfurters or hot dogs:usdafndds-2708821
+Macaroni or noodles with cheese and tomato:usdafndds-2708820
+Macaroni or noodles with cheese and tuna:usdafndds-2708817
+Macaroni or noodles with cheese, canned:usdafndds-2708814
+Macaroni or noodles with cheese, Easy Mac type:usdafndds-2708815
+Macaroni or noodles with cheese, from restaurant:usdafndds-2708812
+Macaroni or noodles with cheese, made from packaged mix:usdafndds-2708813
+Macaroni or noodles with cheese, made from reduced fat packaged mix:usdafndds-2708816
+Macaroni or noodles with cheese, whole grain:usdafndds-2708824
+Mai Tai:usdafndds-2710677
+Mandarin, seedless, peeled, raw:usdaff-2710832
+Mango, Ataulfo, peeled, raw:usdaff-2710834
+Mango, canned:usdafndds-2709243
+Mango, dried:usdafndds-2709205
+Mango, frozen:usdafndds-2709244
+Mango nectar:usdafndds-2709345
+Mango, raw:usdafndds-2709242
+Mango, Tommy Atkins, peeled, raw:usdaff-2710833
+Manhattan:usdafndds-2710637
+Maple syrup:usdasrlegacy-169661
+Margarine, light:usdafndds-2710162
+Margarine, NFS:usdafndds-2710158
+Margarine, stick:usdafndds-2710159
+Margarine, tub:usdafndds-2710160
+Margarita:usdafndds-2710638
+Margarita mix, nonalcoholic:usdafndds-2710575
+Marie biscuit:usdafndds-2707971
+Marmalade:usdafndds-2710303
+Martini:usdafndds-2710639
+Martini, flavored:usdafndds-2710640
+Masa harina, cooked:usdafndds-2708376
+Mayonnaise, fat free:usdafndds-2710235
+Mayonnaise, light:usdafndds-2710220
+Mayonnaise, reduced fat,  with olive oil:usdafndds-2710221
+Mayonnaise, regular:usdafndds-2710204
+McDouble (McDonalds):usdafndds-2706915
+Melba toast:usdafndds-2707702
+Melon, frozen:usdafndds-2709227
+Melons, cantaloupe, raw:usdaff-746770
+Melons, honeydew, raw:usdaff-2710816
+Meringues:usdafndds-2707297
+Michelada:usdafndds-2710641
+Milk, 3.5% milkfat:milk-35-milkfat
+Milk, condensed, sweetened:usdafndds-2705402
+Milk, evaporated, fat free (skim):usdafndds-2705401
+Milk, evaporated, NS as to fat content:usdafndds-2705398
+Milk, evaporated, reduced fat (2%):usdafndds-2705400
+Milk, evaporated, whole:usdafndds-2705399
+Milk, fat free (skim):usdafndds-2705388
+Milk, lactose free, fat free (skim):usdafndds-2705390
+Milk, lactose free, low fat (1%):usdafndds-2705389
+Milk, lactose free, reduced fat (2%):usdafndds-2705391
+Milk, lactose free, whole:usdafndds-2705392
+Milk, low fat (1%):usdafndds-2705387
+Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D:usdaff-746772
+Milk, malted:usdafndds-2705501
+Milk, malted, dry mix, not reconstituted:usdafndds-2705590
+Milk 'n Cereal bar:usdafndds-2708086
+Milk, NFS:usdafndds-2705384
+Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim):usdaff-746776
+Milk, reduced fat (2%):usdafndds-2705386
+Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D:usdaff-746778
+Millet:usdafndds-2708377
+Millet, whole grain:usdaff-2512379
+Mimosa:usdafndds-2710642
+Mint julep:usdafndds-2710643
+Miso:usdafndds-2707439
+Miso sauce:usdafndds-2707438
+Mixed nuts, honey roasted:usdafndds-2707511
+Mixed nuts, NFS:usdafndds-2707504
+Mixed nuts, unroasted:usdafndds-2707505
+Mixed nuts, without peanuts, salted:usdafndds-2707509
+Mixed nuts, without peanuts, unsalted:usdafndds-2707510
+Mixed nuts, with peanuts, lightly salted:usdafndds-2707507
+Mixed nuts, with peanuts, salted:usdafndds-2707506
+Mixed nuts, with peanuts, unsalted:usdafndds-2707508
+Mixed seeds:usdafndds-2707589
+Mixed vegetable juice:usdafndds-2709810
+Mojito:usdafndds-2710644
+Molasses:usdafndds-2710283
+Monk fruit, pure powder:usdafndds-2710266
+Mono- and diglycerides:mono-diglycerides
+Moscow mule:usdafndds-2710645
+Mousse:usdafndds-2705698
+Mozzarella cheese, tomato, and basil, with oil and vinegar dressing:usdafndds-2705818
+Mozzarella sticks, breaded, baked, or fried:usdafndds-2705817
+Multigrain chips (Sun Chips):usdafndds-2708290
+Mung beans, cooked:usdafndds-2707389
+Mushroom, Asian, cooked, from dried:usdafndds-2709943
+Mushroom, beech:usdaff-2003603
+Mushroom, crimini:usdaff-2003601
+Mushroom, enoki:usdaff-2003600
+Mushroom, king oyster:usdaff-2003599
+Mushroom, lion's mane:usdaff-1999626
+Mushroom, maitake:usdaff-2003602
+Mushroom, oyster:usdaff-1999627
+Mushroom, pioppini:usdaff-2003604
+Mushroom, portabella:usdaff-2003598
+Mushrooms, canned, cooked:usdafndds-2709940
+Mushrooms, fresh, cooked, fat added, NS as to fat type:usdafndds-2709939
+Mushrooms, fresh, cooked, no added fat:usdafndds-2709937
+Mushrooms, fresh, cooked with butter or margarine:usdafndds-2709942
+Mushrooms, fresh, cooked with oil:usdafndds-2709941
+Mushrooms, NS as to form, cooked:usdafndds-2709938
+Mushrooms, pickled:usdafndds-2710084
+Mushrooms, raw:usdafndds-2709793
+Mushrooms, shiitake:usdaff-1999628
+Mushrooms, stuffed:usdafndds-2710052
+Mushrooms, white button:usdaff-1999629
+Mustard:usdafndds-2710085
+Mustard greens, fresh, cooked, fat added:usdafndds-2709610
+Mustard greens, fresh, cooked, no added fat:usdafndds-2709607
+Mustard greens, frozen, cooked, fat added:usdafndds-2709611
+Mustard greens, frozen, cooked, no added fat:usdafndds-2709608
+Mustard greens, NS as to form, cooked:usdafndds-2709609
+Mustard greens, raw:usdafndds-2709606
+Mustard, prepared, yellow:usdaff-326698
+Natto:usdafndds-2707440
+Nectarine, raw:usdafndds-2709245
+Nectarines, raw:usdaff-327357
+Non-dairy milk, NFS:usdafndds-2705403
+Noodles, chow mein:usdafndds-2708354
+Noodles, cooked:usdafndds-2708352
+Noodles, whole grain, cooked:usdafndds-2708353
+Nutritional drink or shake, high protein, light, ready-to-drink, NFS:usdafndds-2710727
+Nutritional drink or shake, high protein, ready-to-drink, NFS:usdafndds-2710726
+Nutritional drink or shake, high protein, ready-to-drink (Slim Fast):usdafndds-2710724
+Nutritional drink or shake, liquid, soy-based:usdafndds-2710728
+Nutritional drink or shake, ready-to-drink (Boost):usdafndds-2710714
+Nutritional drink or shake, ready-to-drink (Boost Plus):usdafndds-2710715
+Nutritional drink or shake, ready-to-drink (Carnation Instant Breakfast):usdafndds-2710716
+Nutritional drink or shake, ready-to-drink (Ensure):usdafndds-2710717
+Nutritional drink or shake, ready-to-drink (Ensure Plus):usdafndds-2710718
+Nutritional drink or shake, ready-to-drink, light (Muscle Milk):usdafndds-2710721
+Nutritional drink or shake, ready-to-drink (Muscle Milk):usdafndds-2710720
+Nutritional drink or shake, ready-to-drink, NFS:usdafndds-2710725
+Nutritional drink or shake, ready-to-drink (Slim Fast):usdafndds-2710722
+Nutritional drink or shake, ready-to-drink, sugar free (Glucerna):usdafndds-2710719
+Nutritional drink or shake, ready-to-drink, sugar free (Slim Fast):usdafndds-2710723
+Nutritional powder mix (Carnation Instant Breakfast):usdafndds-2710729
+Nutritional powder mix (EAS Soy Protein Powder):usdafndds-2710732
+Nutritional powder mix (EAS Whey Protein Powder):usdafndds-2710731
+Nutritional powder mix, high protein (Herbalife):usdafndds-2710733
+Nutritional powder mix, high protein, NFS:usdafndds-2710741
+Nutritional powder mix, high protein (Slim Fast):usdafndds-2710739
+Nutritional powder mix (Isopure):usdafndds-2710734
+Nutritional powder mix, light (Muscle Milk):usdafndds-2710736
+Nutritional powder mix (Muscle Milk):usdafndds-2710735
+Nutritional powder mix, NFS:usdafndds-2710740
+Nutritional powder mix, protein, light, NFS:usdafndds-2710744
+Nutritional powder mix, protein, NFS:usdafndds-2710745
+Nutritional powder mix, protein, soy based, NFS:usdafndds-2710743
+Nutritional powder mix (Slim Fast):usdafndds-2710737
+Nutritional powder mix, sugar free (Carnation Instant Breakfast):usdafndds-2710730
+Nutritional powder mix, sugar free (Slim Fast):usdafndds-2710738
+Nutritional powder mix, whey based, NFS:usdafndds-2710742
+Nutrition bar (Balance Original Bar):usdafndds-2708117
+Nutrition bar (Clif Bar):usdafndds-2708118
+Nutrition bar (Clif Kids Organic Zbar):usdafndds-2708119
+Nutrition bar or meal replacement bar, NFS:usdafndds-2708127
+Nutrition bar (PowerBar):usdafndds-2708120
+Nutrition bar (Slim Fast Original Meal Bar):usdafndds-2708121
+Nutrition bar (Snickers Marathon Protein Bar):usdafndds-2708122
+Nutrition bar (South Beach Living High Protein Bar):usdafndds-2708124
+Nutrition bar (South Beach Living Meal Bar):usdafndds-2708123
+Nutrition bar (Tiger's Milk):usdafndds-2708125
+Nutrition bar (Zone Perfect Classic Crunch):usdafndds-2708126
+Nuts, almonds, dry roasted, with salt added:usdaff-323294
+Nuts, almonds, whole, raw:usdaff-2346393
+Nuts, brazilnuts, raw:usdaff-2515373
+Nuts, cashew nuts, raw:usdaff-2515374
+Nuts, hazelnuts or filberts, raw:usdaff-2515375
+Nuts, macadamia nuts, raw:usdaff-2515378
+Nuts, NFS:usdafndds-2707484
+Nuts, pecans, halves, raw:usdaff-2346395
+Nuts, pine nuts, raw:usdaff-2346392
+Nuts, pistachio nuts, raw:usdaff-2515379
+Nuts, walnuts, English, halves, raw:usdaff-2346394
+Oat bran cereal, cooked:usdafndds-2708444
+Oatmeal, fast food, flavored:usdafndds-2708379
+Oatmeal, fast food, plain:usdafndds-2708378
+Oatmeal, instant, fruit flavored, fat added:usdafndds-2708396
+Oatmeal, instant, fruit flavored, no added fat:usdafndds-2708395
+Oatmeal, instant, maple flavored, fat added:usdafndds-2708394
+Oatmeal, instant, maple flavored, no added fat:usdafndds-2708393
+Oatmeal, instant, plain, made with milk, fat added:usdafndds-2708390
+Oatmeal, instant, plain, made with milk, no added fat:usdafndds-2708389
+Oatmeal, instant, plain, made with non-dairy milk, fat added:usdafndds-2708392
+Oatmeal, instant, plain, made with non-dairy milk, no added fat:usdafndds-2708391
+Oatmeal, instant, plain, made with water, fat added:usdafndds-2708388
+Oatmeal, instant, plain, made with water, no added fat:usdafndds-2708387
+Oatmeal, multigrain:usdafndds-2708398
+Oatmeal, NFS:usdafndds-2708380
+Oatmeal, reduced sugar:usdafndds-2708397
+Oatmeal, regular or quick, made with milk, fat added:usdafndds-2708384
+Oatmeal, regular or quick, made with milk, no added fat:usdafndds-2708383
+Oatmeal, regular or quick, made with non-dairy milk, fat added:usdafndds-2708386
+Oatmeal, regular or quick, made with non-dairy milk, no added fat:usdafndds-2708385
+Oatmeal, regular or quick, made with water, fat added:usdafndds-2708382
+Oatmeal, regular or quick, made with water, no added fat:usdafndds-2708381
+Oat milk:usdafndds-2705412
+Oat milk, unsweetened, plain, refrigerated:usdaff-2257046
+Oats, raw:usdafndds-2708489
+Oats, whole grain, rolled, old fashioned:usdaff-2346396
+Oats, whole grain, steel cut:usdaff-2346397
+Oil, canola:usdaff-748278
+Oil, coconut:usdaff-330458
+Oil, corn:usdaff-748323
+Oil, olive, extra light:usdaff-1750351
+Oil, olive, extra virgin:usdaff-748608
+Oil or table fat, NFS:usdafndds-2710164
+Oil, peanut:usdaff-1750348
+Oil, safflower:usdaff-1750350
+Oil, soybean:usdaff-748366
+Oil, sunflower:usdaff-1750349
+Okra, fresh, cooked, fat added:usdafndds-2709947
+Okra, fresh, cooked, no added fat:usdafndds-2709944
+Okra, frozen, cooked, fat added:usdafndds-2709948
+Okra, frozen, cooked, no added fat:usdafndds-2709945
+Okra, NS as to form, cooked:usdafndds-2709946
+Okra, pickled:usdafndds-2710087
+Old fashioned:usdafndds-2710646
+Olive oil:usdafndds-2710186
+Olives, black:usdafndds-2710090
+Olives, green:usdafndds-2710089
+Olives, green, Manzanilla, stuffed with pimiento:usdaff-332791
+Olives, NFS:usdafndds-2710088
+Olives, stuffed:usdafndds-2710091
+Olive tapenade:usdafndds-2710092
+Onion flavored rings:usdafndds-2708245
+Onion rings, breaded, par fried, frozen, prepared, heated in oven:usdaff-324317
+Onions, cooked, fat added:usdafndds-2709951
+Onions, cooked, no added fat:usdafndds-2709950
+Onions, green, cooked:usdafndds-2709953
+Onions, green, raw:usdafndds-2709794
+Onions, pearl, cooked:usdafndds-2709952
+Onions, raw:usdafndds-2709795
+Onions, red, raw:usdaff-790577
+Onions, white, raw:usdaff-1104962
+Onions, yellow, raw:usdaff-790646
+Orange Blossom:usdafndds-2710647
+Orange, canned, in syrup:usdafndds-2709174
+Orange, canned, juice pack:usdafndds-2709173
+Orange, canned, NFS:usdafndds-2709172
+Orange juice, 100%, canned, bottled or in a carton:usdafndds-2709188
+Orange juice, 100%,  freshly squeezed:usdafndds-2709187
+Orange juice, 100%, frozen, not reconstituted:usdafndds-2709191
+Orange juice, 100%, NFS:usdafndds-2709186
+Orange juice, 100%, with calcium added, canned, bottled or in a carton:usdafndds-2709189
+Orange juice beverage, 40-50% juice, light:usdafndds-2710590
+Orange juice, no pulp, not fortified, from concentrate, refrigerated:usdaff-2003591
+Orange juice, no pulp, not fortified, not from concentrate, refrigerated:usdaff-2003597
+Orange, raw:usdafndds-2709171
+Oranges, raw, navels:usdaff-746771
+Oreo cookie:usdafndds-2707920
+Oyster sauce:usdafndds-2707150
+Pad Thai, NFS:usdafndds-2708804
+Pad Thai with seafood:usdafndds-2708807
+Pakora:usdafndds-2710066
+Palak Paneer:usdafndds-2709631
+Palm hearts, cooked:usdafndds-2709954
+Pancakes, chocolate:usdafndds-2708308
+Pancakes, chocolate, fast food / restaurant:usdafndds-2708301
+Pancakes, chocolate, frozen:usdafndds-2708297
+Pancakes, fruit:usdafndds-2708306
+Pancakes, fruit, fast food / restaurant:usdafndds-2708300
+Pancakes, fruit, frozen:usdafndds-2708296
+Pancakes, gluten free:usdafndds-2708311
+Pancakes, NFS:usdafndds-2708294
+Pancakes, plain:usdafndds-2708304
+Pancakes, plain, fast food / restaurant:usdafndds-2708299
+Pancakes, plain, frozen:usdafndds-2708295
+Pancakes, plain, reduced fat:usdafndds-2708305
+Pancakes, pumpkin:usdafndds-2708307
+Pancakes, school:usdafndds-2708303
+Pancakes, whole grain:usdafndds-2708309
+Pancakes, whole grain, fast food / restaurant:usdafndds-2708302
+Pancakes, whole grain, frozen:usdafndds-2708298
+Pancakes, whole grain, reduced fat:usdafndds-2708310
+Pancake syrup:usdafndds-2710273
+Pancake syrup, light:usdafndds-2710280
+Pan dulce, NFS:usdafndds-2707669
+Pan Dulce, no topping:usdafndds-2707674
+Pan Dulce, with fruit, no frosting:usdafndds-2707670
+Pan Dulce, with raisins and icing:usdafndds-2707676
+Pan Dulce, with sugar topping:usdafndds-2707675
+Pannetone:usdafndds-2707704
+Papad, grilled or broiled:usdafndds-2707429
+Papaya, canned:usdafndds-2709247
+Papaya, dried:usdafndds-2709206
+Papaya juice, 100%:usdafndds-2709327
+Papaya nectar:usdafndds-2709347
+Papaya, raw:usdafndds-2709246
+Parsley, raw:usdafndds-2709796
+Parsnips, cooked:usdafndds-2709955
+Passion fruit juice, 100%:usdafndds-2709328
+Passion fruit nectar:usdafndds-2709348
+Passion fruit, raw:usdafndds-2709248
+Pasta, cooked:usdafndds-2708357
+Pasta, gluten free:usdafndds-2708359
+Pasta, vegetable, cooked:usdafndds-2708351
+Pasta, whole grain, cooked:usdafndds-2708358
+Pawpaw, peeled, seeded, raw:usdaff-2727577
+Peach, canned, in syrup:usdafndds-2709251
+Peach, canned, juice pack:usdafndds-2709252
+Peach, canned, NFS:usdafndds-2709250
+Peach, dried:usdafndds-2709207
+Peaches, yellow, raw:usdaff-325430
+Peach, frozen:usdafndds-2709253
+Peach nectar:usdafndds-2709346
+Peach, raw:usdafndds-2709249
+Peanut butter:usdafndds-2707537
+Peanut butter and chocolate spread:usdafndds-2707544
+Peanut butter and jelly:usdafndds-2707543
+Peanut butter, creamy:usdaff-2262072
+Peanut butter, lower sodium:usdafndds-2707538
+Peanut butter, lower sodium and lower sugar:usdafndds-2707539
+Peanut butter, lower sugar:usdafndds-2707540
+Peanut butter, reduced fat:usdafndds-2707541
+Peanut butter, vitamin and mineral fortified:usdafndds-2707542
+Peanut oil:usdafndds-2710187
+Peanuts, boiled:usdafndds-2707513
+Peanuts, chocolate covered candy:usdafndds-2710356
+Peanuts, dry roasted, lightly salted:usdafndds-2707518
+Peanuts, dry roasted, salted:usdafndds-2707517
+Peanuts, dry roasted, unsalted:usdafndds-2707519
+Peanuts, honey roasted:usdafndds-2707520
+Peanuts, NFS:usdafndds-2707512
+Peanuts, raw:usdaff-2515376
+Peanuts, roasted, salted:usdafndds-2707515
+Peanuts, roasted, unsalted:usdafndds-2707516
+Peanuts, unroasted:usdafndds-2707514
+Pear, Anjou, green, with skin, raw:usdaff-2710836
+Pear, Asian, raw:usdafndds-2709255
+Pear, canned, in syrup:usdafndds-2709257
+Pear, canned, juice pack:usdafndds-2709258
+Pear, canned, NFS:usdafndds-2709256
+Pear, dried:usdafndds-2709208
+Pear nectar:usdafndds-2709349
+Pear, raw:usdafndds-2709254
+Pears, raw, bartlett:usdaff-746773
+Peas and carrots, canned, cooked, fat added:usdafndds-2709690
+Peas and carrots, canned, cooked, no added fat:usdafndds-2709686
+Peas and carrots, cooked, NS as to form:usdafndds-2709687
+Peas and carrots, fresh, cooked, fat added:usdafndds-2709688
+Peas and carrots, fresh, cooked, no added fat:usdafndds-2709684
+Peas and carrots, frozen, cooked, fat added:usdafndds-2709689
+Peas and carrots, frozen, cooked, no added fat:usdafndds-2709685
+Peas and corn, cooked, fat added:usdafndds-2710027
+Peas and corn, cooked, no added fat:usdafndds-2710026
+Peas, green, sweet, canned, sodium added, sugar added, drained and rinsed:usdaff-2644291
+Pecans, honey roasted:usdafndds-2707525
+Pecans, NFS:usdafndds-2707521
+Pecans, salted:usdafndds-2707523
+Pecans, unroasted:usdafndds-2707522
+Pecans, unsalted:usdafndds-2707524
+Peppers and onions, cooked, fat added:usdafndds-2710011
+Peppers and onions, cooked, no added fat:usdafndds-2710010
+Peppers, banana, raw:usdafndds-2709802
+Peppers, bell, green, raw:usdaff-2258588
+Peppers, bell, orange, raw:usdaff-2258591
+Peppers, bell, red, raw:usdaff-2258590
+Peppers, bell, yellow, raw:usdaff-2258589
+Peppers, green, cooked:usdafndds-2709976
+Peppers, hot, cooked:usdafndds-2709978
+Peppers, hot, pickled:usdafndds-2710095
+Peppers, hot, raw:usdafndds-2709798
+Peppers, jalapenos:usdafndds-2710096
+Peppers, raw, NFS:usdafndds-2709799
+Peppers, red, cooked:usdafndds-2709977
+Peppers, sweet, green, raw:usdafndds-2709800
+Peppers, sweet, pickled:usdafndds-2710094
+Peppers, sweet, red, raw:usdafndds-2709801
+Persimmon, dried:usdafndds-2709209
+Persimmon, raw:usdafndds-2709259
+Peruvian beans, from dried:usdafndds-2707387
+Pickled sausage:usdafndds-2706204
+Pickles, cucumber, dill or kosher dill:usdaff-324653
+Pickles, dill:usdafndds-2710078
+Pickles, fried:usdafndds-2710098
+Pickles, NFS:usdafndds-2710097
+Pickles, sweet:usdafndds-2710080
+Pie shell:usdafndds-2708017
+Pie shell, graham cracker:usdafndds-2708018
+Pimiento:usdafndds-2709979
+Pina Colada:usdafndds-2710662
+Pina Colada, nonalcoholic:usdafndds-2710574
+Pineapple, canned, in syrup:usdafndds-2709262
+Pineapple, canned, juice pack:usdafndds-2709263
+Pineapple, canned, NFS:usdafndds-2709261
+Pineapple, dried:usdafndds-2709210
+Pineapple, frozen:usdafndds-2709264
+Pineapple juice, 100%:usdafndds-2709329
+Pineapple, raw:usdaff-2346398
+Pineapple, raw:usdafndds-2709260
+Pine nuts:usdafndds-2707526
+Pink beans, cooked:usdafndds-2707370
+Pinto beans and brown rice:usdafndds-2709036
+Pinto beans and rice, from fast food / restaurant:usdafndds-2708989
+Pinto beans and white rice:usdafndds-2708995
+Pinto beans, from canned, fat added:usdafndds-2707374
+Pinto beans, from canned, no added fat:usdafndds-2707375
+Pinto beans, from canned, reduced sodium:usdafndds-2707376
+Pinto beans, from dried, fat added:usdafndds-2707372
+Pinto beans, from dried, no added fat:usdafndds-2707373
+Pinto beans, from fast food / restaurant:usdafndds-2707377
+Pinto beans, NFS:usdafndds-2707371
+Pistachio nuts, lightly salted:usdafndds-2707529
+Pistachio nuts, NFS:usdafndds-2707527
+Pistachio nuts, salted:usdafndds-2707528
+Pistachio nuts, unsalted:usdafndds-2707530
+Pita chips:usdafndds-2708215
+Pizza, cheese and vegetables, gluten-free thick crust:usdafndds-2708698
+Pizza, cheese and vegetables, gluten-free thin crust:usdafndds-2708697
+Pizza, cheese and vegetables, whole wheat thick crust:usdafndds-2708692
+Pizza, cheese and vegetables, whole wheat thin crust:usdafndds-2708691
+Pizza, cheese, from frozen, thick crust:usdafndds-2708613
+Pizza, cheese, from frozen, thin crust:usdafndds-2708612
+Pizza, cheese, from restaurant or fast food, medium crust:usdafndds-2708616
+Pizza, cheese, from restaurant or fast food, NS as to type of crust:usdafndds-2708614
+Pizza, cheese, from restaurant or fast food, thick crust:usdafndds-2708617
+Pizza, cheese, from restaurant or fast food, thin crust:usdafndds-2708615
+Pizza, cheese, from school lunch, medium crust:usdafndds-2708619
+Pizza, cheese, from school lunch, thick crust:usdafndds-2708621
+Pizza, cheese, from school lunch, thin crust:usdafndds-2708620
+Pizza, cheese, gluten-free thick crust:usdafndds-2708694
+Pizza, cheese, gluten-free thin crust:usdafndds-2708693
+Pizza, cheese, stuffed crust:usdafndds-2708618
+Pizza, cheese, whole wheat thick crust:usdafndds-2708688
+Pizza, cheese, whole wheat thin crust:usdafndds-2708687
+Pizza, cheese, with fruit, medium crust:usdafndds-2708633
+Pizza, cheese, with fruit, thick crust:usdafndds-2708634
+Pizza, cheese, with fruit, thin crust:usdafndds-2708632
+Pizza, cheese with vegetables, from frozen, thick crust:usdafndds-2708625
+Pizza, cheese, with vegetables, from frozen, thin crust:usdafndds-2708624
+Pizza, cheese, with vegetables, from restaurant or fast food, medium crust:usdafndds-2708627
+Pizza, cheese, with vegetables, from restaurant or fast food, thick crust:usdafndds-2708628
+Pizza, cheese, with vegetables, from restaurant or fast food, thin crust:usdafndds-2708626
+Pizza, extra cheese, thick crust:usdafndds-2708623
+Pizza, extra cheese, thin crust:usdafndds-2708622
+Pizza, no cheese, thick crust:usdafndds-2708675
+Pizza, no cheese, thin crust:usdafndds-2708674
+Pizza rolls:usdafndds-2708686
+Pizza with beans and vegetables, thick crust:usdafndds-2708673
+Pizza with beans and vegetables, thin crust:usdafndds-2708672
+Pizza with cheese and extra vegetables, medium crust:usdafndds-2708630
+Pizza with cheese and extra vegetables, thick crust:usdafndds-2708631
+Pizza with cheese and extra vegetables, thin crust:usdafndds-2708629
+Pizza with pepperoni, from frozen, medium crust:usdafndds-2708636
+Pizza with pepperoni, from frozen, thick crust:usdafndds-2708637
+Pizza with pepperoni, from frozen, thin crust:usdafndds-2708635
+Pizza with pepperoni, from restaurant or fast food,  medium crust:usdafndds-2708640
+Pizza with pepperoni, from restaurant or fast food, NS as to type of crust:usdafndds-2708638
+Pizza with pepperoni, from restaurant or fast food, thick crust:usdafndds-2708641
+Pizza with pepperoni, from restaurant or fast food, thin crust:usdafndds-2708639
+Pizza, with pepperoni, from school lunch, medium crust:usdafndds-2708644
+Pizza with pepperoni, from school lunch, thick crust:usdafndds-2708645
+Pizza with pepperoni, from school lunch, thin crust:usdafndds-2708643
+Pizza with pepperoni, stuffed crust:usdafndds-2708642
+Plantain chips:usdafndds-2709563
+Plantain, cooked, fat added, NS as to fat type:usdafndds-2709561
+Plantain, cooked, no added fat:usdafndds-2709558
+Plantain, cooked with butter or margarine:usdafndds-2709562
+Plantain, cooked with oil:usdafndds-2709559
+Plantain, raw:usdafndds-2709560
+Plantains, overripe, raw:usdaff-2710843
+Plantains, ripe, raw:usdaff-2710817
+Plantains, underripe, raw:usdaff-2710818
+Plum, black, with skin, raw:usdaff-2710837
+Plum, canned:usdafndds-2709266
+Plum, raw:usdafndds-2709265
+Pocky:usdafndds-2707967
+Poke greens, cooked:usdafndds-2709612
+Polish sausage:usdafndds-2706188
+Polysorbate 80:polysorbate-80
+Pomegranate juice, 100%:usdafndds-2709330
+Pomegranate juice beverage, 40-50% juice, light:usdafndds-2710593
+Pomegranate, raw:usdafndds-2709267
+Popcorn, air-popped, no butter added:usdafndds-2708219
+Popcorn, air-popped, with added butter:usdafndds-2708220
+Popcorn cake:usdafndds-2708165
+Popcorn, caramel coated:usdafndds-2708239
+Popcorn, caramel coated, with nuts:usdafndds-2708240
+Popcorn chips, other flavors:usdafndds-2708243
+Popcorn chips, plain:usdafndds-2708242
+Popcorn chips, sweet flavors:usdafndds-2708244
+Popcorn, chocolate coated:usdafndds-2708241
+Popcorn, microwave, butter flavored:usdafndds-2708227
+Popcorn, microwave, cheese flavored:usdafndds-2708229
+Popcorn, microwave, flavored, light:usdafndds-2708228
+Popcorn, microwave, kettle:usdafndds-2708230
+Popcorn, microwave, low sodium:usdafndds-2708226
+Popcorn, microwave, NFS:usdafndds-2708223
+Popcorn, microwave, plain:usdafndds-2708224
+Popcorn, microwave, plain, light:usdafndds-2708225
+Popcorn, movie theater, no butter added:usdafndds-2708218
+Popcorn, movie theater, with added butter:usdafndds-2708217
+Popcorn, NFS:usdafndds-2708216
+Popcorn, popped in oil, no butter added:usdafndds-2708221
+Popcorn, popped in oil, with added butter:usdafndds-2708222
+Popcorn, ready-to-eat, butter flavored:usdafndds-2708235
+Popcorn, ready-to-eat, cheese flavored:usdafndds-2708236
+Popcorn, ready-to-eat, flavored, light:usdafndds-2708237
+Popcorn, ready-to-eat, kettle:usdafndds-2708238
+Popcorn, ready-to-eat, low sodium:usdafndds-2708234
+Popcorn, ready-to-eat, NFS:usdafndds-2708231
+Popcorn, ready-to-eat, plain:usdafndds-2708232
+Popcorn, ready-to-eat, plain, light:usdafndds-2708233
+Poppy seed dressing:usdafndds-2710210
+Popsicle:usdafndds-2710320
+Popsicle, NFS:usdafndds-2710319
+Popsicle, no sugar added:usdafndds-2710321
+Pork and beans:usdafndds-2707406
+Pork bacon, NS as to fresh, smoked or cured, cooked:usdafndds-2705887
+Pork bacon, NS as to fresh, smoked or cured, reduced sodium, cooked:usdafndds-2705888
+Pork bacon, smoked or cured, cooked:usdafndds-2705889
+Pork bacon, smoked or cured, reduced sodium, cooked:usdafndds-2705891
+Pork, belly:usdafndds-2705901
+Pork, bones:usdafndds-2705897
+Pork, carnitas:usdafndds-2705864
+Pork, chop, coated, lean and fat eaten:usdafndds-2705870
+Pork, chop, coated, lean only eaten:usdafndds-2705871
+Pork, chop, coated, NS as to fat eaten:usdafndds-2705869
+Pork, chop, lean and fat eaten:usdafndds-2705867
+Pork, chop, lean only eaten:usdafndds-2705868
+Pork, chop, NS as to fat eaten:usdafndds-2705866
+Pork chow mein or chop suey, no noodles:usdafndds-2706771
+Pork chow mein or chop suey with noodles:usdafndds-2706648
+Pork, cracklings:usdafndds-2705895
+Pork, ears:usdafndds-2705896
+Pork, ground:usdafndds-2705863
+Pork, ham hocks:usdafndds-2705900
+Pork, NFS:usdafndds-2705862
+Pork, pig's feet:usdafndds-2705898
+Pork, pig's feet, pickled:usdafndds-2705899
+Pork, ribs:usdafndds-2705894
+Pork, roast:usdafndds-2705882
+Pork sausage:usdafndds-2706191
+Pork sausage, reduced fat:usdafndds-2706192
+Pork sausage, reduced sodium:usdafndds-2706193
+Pork skin rinds:usdafndds-2705902
+Pork, steak, coated:usdafndds-2705876
+Pork, steak, lean and fat eaten:usdafndds-2705874
+Pork, steak, lean only eaten:usdafndds-2705875
+Pork, steak, NS as to fat eaten:usdafndds-2705873
+Pork, tenderloin:usdafndds-2705877
+Potato, baked, NFS:usdafndds-2709383
+Potato, baked, peel eaten:usdafndds-2709524
+Potato, baked, peel eaten, with butter:usdafndds-2709525
+Potato, baked, peel eaten, with cheese:usdafndds-2709527
+Potato, baked, peel eaten, with chili:usdafndds-2709529
+Potato, baked, peel eaten, with sour cream:usdafndds-2709526
+Potato, baked, peel eaten, with vegetables:usdafndds-2709530
+Potato, baked, peel not eaten:usdafndds-2709384
+Potato, baked, peel not eaten, with butter:usdafndds-2709518
+Potato, baked, peel not eaten, with cheese:usdafndds-2709520
+Potato, baked, peel not eaten, with chili:usdafndds-2709522
+Potato, baked, peel not eaten, with sour cream:usdafndds-2709519
+Potato, baked, peel not eaten, with vegetables:usdafndds-2709523
+Potato, boiled, from fresh, peel eaten, fat added, NS as to fat type:usdafndds-2709394
+Potato, boiled, from fresh, peel eaten, made with butter:usdafndds-2709397
+Potato, boiled, from fresh, peel eaten, made with margarine:usdafndds-2709398
+Potato, boiled, from fresh, peel eaten, made with oil:usdafndds-2709396
+Potato, boiled, from fresh,  peel eaten, no added fat:usdafndds-2709395
+Potato, boiled, from fresh, peel eaten, NS as to fat:usdafndds-2709393
+Potato, boiled, from fresh, peel not eaten, fat added, NS as to fat type:usdafndds-2709389
+Potato, boiled, from fresh, peel not eaten, made with butter:usdafndds-2709391
+Potato, boiled, from fresh, peel not eaten, made with margarine:usdafndds-2709392
+Potato, boiled, from fresh, peel not eaten, made with oil:usdafndds-2709390
+Potato, boiled, from fresh, peel not eaten, no added fat:usdafndds-2709388
+Potato, boiled, from fresh, peel not eaten, NS as to fat:usdafndds-2709387
+Potato, boiled, NFS:usdafndds-2709385
+Potato, boiled, ready-to-heat:usdafndds-2709386
+Potato, canned, fat added, NS as to fat type:usdafndds-2709400
+Potato, canned, no added fat:usdafndds-2709401
+Potato, canned, NS as to fat:usdafndds-2709399
+Potato chips, baked, flavored:usdafndds-2709435
+Potato chips, baked, plain:usdafndds-2709434
+Potato chips, barbecue flavored:usdafndds-2709423
+Potato chips, cheese flavored:usdafndds-2709425
+Potato chips, lightly salted:usdafndds-2709439
+Potato chips, NFS:usdafndds-2709421
+Potato chips, other flavored:usdafndds-2709426
+Potato chips, plain:usdafndds-2709422
+Potato chips, popped, flavored:usdafndds-2709442
+Potato chips, popped, NFS:usdafndds-2709443
+Potato chips, popped, plain:usdafndds-2709441
+Potato chips, reduced fat:usdafndds-2709436
+Potato chips, restructured, flavored:usdafndds-2709433
+Potato chips, restructured, lightly salted:usdafndds-2709440
+Potato chips, restructured, multigrain:usdafndds-2708214
+Potato chips, restructured, plain:usdafndds-2709432
+Potato chips, restructured, reduced fat, lightly salted:usdafndds-2709437
+Potato chips, ruffled, barbecue flavored:usdafndds-2709428
+Potato chips, ruffled, cheese flavored:usdafndds-2709430
+Potato chips, ruffled, other flavored:usdafndds-2709431
+Potato chips, ruffled, plain:usdafndds-2709427
+Potato chips, ruffled, sour cream and onion flavored:usdafndds-2709429
+Potato chips, sour cream and onion flavored:usdafndds-2709424
+Potato chips, unsalted:usdafndds-2709438
+Potatoes, gold, without skin, raw:usdaff-2346403
+Potatoes, red, without skin, raw:usdaff-2346402
+Potatoes, russet, without skin, raw:usdaff-2346401
+Potato, french fries, fast food:usdafndds-2709461
+Potato, french fries, from fresh, baked:usdafndds-2709459
+Potato, french fries, from fresh, fried:usdafndds-2709458
+Potato, french fries, from frozen, baked:usdafndds-2709460
+Potato, french fries, from frozen, fried:usdafndds-2709463
+Potato, french fries, NFS:usdafndds-2709456
+Potato, french fries, NS as to fresh or frozen:usdafndds-2709457
+Potato, french fries, restaurant:usdafndds-2709462
+Potato, french fries, school:usdafndds-2709464
+Potato, french fries, with cheese:usdafndds-2709469
+Potato, french fries, with cheese, fast food / restaurant:usdafndds-2709465
+Potato, french fries, with cheese, school:usdafndds-2709466
+Potato, french fries, with chili:usdafndds-2709471
+Potato, french fries, with chili and cheese:usdafndds-2709470
+Potato, french fries, with chili and cheese, fast food / restaurant:usdafndds-2709468
+Potato, french fries, with chili, fast food / restaurant:usdafndds-2709467
+Potato from Puerto Rican style stuffed pot roast, with gravy:usdafndds-2709418
+Potato, hash brown, from dry mix:usdafndds-2709485
+Potato, hash brown, from fast food:usdafndds-2709478
+Potato, hash brown, from fast food, with cheese:usdafndds-2709479
+Potato, hash brown, from fresh:usdafndds-2709483
+Potato, hash brown, from fresh, with cheese:usdafndds-2709484
+Potato, hash brown, from restaurant:usdafndds-2709480
+Potato, hash brown, from restaurant, with cheese:usdafndds-2709481
+Potato, hash brown, from school lunch:usdafndds-2709482
+Potato, hash brown, NFS:usdafndds-2709477
+Potato, hash brown, ready-to-heat:usdafndds-2709486
+Potato, hash brown, ready-to-heat, with cheese:usdafndds-2709487
+Potato, home fries, from fresh:usdafndds-2709474
+Potato, home fries, from restaurant / fast food:usdafndds-2709473
+Potato, home fries, NFS:usdafndds-2709472
+Potato, home fries, ready-to-heat:usdafndds-2709475
+Potato, home fries, with vegetables:usdafndds-2709476
+Potato, mashed, from dry mix, made with milk:usdafndds-2709504
+Potato, mashed, from dry mix, made with milk, with cheese:usdafndds-2709505
+Potato, mashed, from dry mix, made with milk, with gravy:usdafndds-2709506
+Potato, mashed, from dry mix, NFS:usdafndds-2709503
+Potato, mashed, from fast food:usdafndds-2709493
+Potato, mashed, from fast food, with gravy:usdafndds-2709494
+Potato, mashed, from fresh, made with milk:usdafndds-2709496
+Potato, mashed, from fresh, made with milk, with cheese:usdafndds-2709497
+Potato, mashed, from fresh, made with milk, with gravy:usdafndds-2709498
+Potato, mashed, from fresh, NFS:usdafndds-2709499
+Potato, mashed, from restaurant:usdafndds-2709500
+Potato, mashed, from restaurant, with gravy:usdafndds-2709501
+Potato, mashed, from school lunch:usdafndds-2709502
+Potato, mashed, NFS:usdafndds-2709492
+Potato, mashed, ready-to-heat:usdafndds-2709495
+Potato, mashed, ready-to-heat, NFS:usdafndds-2709507
+Potato, mashed, ready-to-heat, with cheese:usdafndds-2709508
+Potato, mashed, ready-to-heat, with gravy:usdafndds-2709509
+Potato, NFS:usdafndds-2709382
+Potato only from Puerto Rican mixed dishes, gravy and other components reported separately:usdafndds-2709417
+Potato pancake:usdafndds-2709552
+Potato patty:usdafndds-2709510
+Potato, roasted, from fresh, peel eaten, fat added, NS as to fat type:usdafndds-2709405
+Potato, roasted, from fresh, peel eaten, made with butter:usdafndds-2709407
+Potato, roasted, from fresh, peel eaten, made with margarine:usdafndds-2709408
+Potato, roasted, from fresh, peel eaten, made with oil:usdafndds-2709406
+Potato, roasted, from fresh, peel eaten, no added fat:usdafndds-2709404
+Potato, roasted, from fresh, peel eaten, NS as to fat:usdafndds-2709403
+Potato, roasted, from fresh, peel not eaten, fat added, NS as to fat type:usdafndds-2709410
+Potato, roasted, from fresh, peel not eaten, made with butter:usdafndds-2709413
+Potato, roasted, from fresh, peel not eaten, made with margarine:usdafndds-2709414
+Potato, roasted, from fresh, peel not eaten, made with oil:usdafndds-2709412
+Potato, roasted, from fresh, peel not eaten, no added fat:usdafndds-2709411
+Potato, roasted, from fresh, peel not eaten, NS as to fat:usdafndds-2709409
+Potato, roasted, NFS:usdafndds-2709402
+Potato, roasted, ready-to-heat:usdafndds-2709415
+Potato, scalloped, from dry mix:usdafndds-2709452
+Potato, scalloped, from fast food or restaurant:usdafndds-2709449
+Potato, scalloped, from fresh:usdafndds-2709450
+Potato, scalloped, NFS:usdafndds-2709448
+Potato, scalloped, ready-to-heat:usdafndds-2709454
+Potato skins, NFS:usdafndds-2709491
+Potato skins, with cheese:usdafndds-2709489
+Potato skins, with cheese and bacon:usdafndds-2709490
+Potato skins without topping:usdafndds-2709488
+Potato sticks, flavored:usdafndds-2709445
+Potato sticks, fry shaped:usdafndds-2709446
+Potato sticks, plain:usdafndds-2709444
+Potato tots, fast food / restaurant:usdafndds-2709512
+Potato tots, from fresh, fried or baked:usdafndds-2709514
+Potato tots, frozen, baked:usdafndds-2709515
+Potato tots, frozen, fried:usdafndds-2709516
+Potato tots, frozen, NS as to fried or baked:usdafndds-2709517
+Potato tots, NFS:usdafndds-2709511
+Potato tots, school:usdafndds-2709513
+Pretzel chips, hard, flavored:usdafndds-2708257
+Pretzel chips, hard, gluten free:usdafndds-2708258
+Pretzel chips, hard, plain:usdafndds-2708256
+Pretzels, hard, cheese filled:usdafndds-2708265
+Pretzels, hard, chocolate coated:usdafndds-2708260
+Pretzels, hard, coated, gluten free:usdafndds-2708263
+Pretzels, hard, coated, NFS:usdafndds-2708259
+Pretzels, hard, filled, NFS:usdafndds-2708264
+Pretzels, hard, flavored:usdafndds-2708252
+Pretzels, hard, flavored, gluten free:usdafndds-2708255
+Pretzels, hard, multigrain:usdafndds-2708253
+Pretzels, hard, NFS:usdafndds-2708248
+Pretzels, hard, peanut butter filled:usdafndds-2708266
+Pretzels, hard, plain, gluten free:usdafndds-2708254
+Pretzels, hard, plain, lightly salted:usdafndds-2708250
+Pretzels, hard, plain, salted:usdafndds-2708249
+Pretzels, hard, plain, unsalted:usdafndds-2708251
+Pretzels, hard, white chocolate coated:usdafndds-2708261
+Pretzels, hard, yogurt coated:usdafndds-2708262
+Pretzels, NFS:usdafndds-2708247
+Pretzels, soft, filled with cheese:usdafndds-2708284
+Pretzels, soft, from frozen, cinnamon sugar coated:usdafndds-2708280
+Pretzels, soft, from frozen, coated or flavored:usdafndds-2708281
+Pretzels, soft, from frozen, NFS:usdafndds-2708277
+Pretzels, soft, from frozen, salted:usdafndds-2708278
+Pretzels, soft, from frozen, topped with cheese:usdafndds-2708283
+Pretzels, soft, from frozen, unsalted:usdafndds-2708279
+Pretzels, soft, from school lunch:usdafndds-2708285
+Pretzels, soft, gluten free:usdafndds-2708287
+Pretzels, soft, gluten free, cinnamon sugar coated:usdafndds-2708288
+Pretzels, soft, gluten free, coated or flavored:usdafndds-2708289
+Pretzels, soft, multigrain:usdafndds-2708286
+Pretzels, soft, NFS:usdafndds-2708267
+Pretzels, soft, ready-to-eat, cinnamon sugar coated:usdafndds-2708273
+Pretzels, soft, ready-to-eat, coated or flavored:usdafndds-2708274
+Pretzels, soft, ready-to-eat, NFS:usdafndds-2708268
+Pretzels, soft, ready-to-eat, salted, buttered:usdafndds-2708269
+Pretzels, soft, ready-to-eat, salted, no butter:usdafndds-2708271
+Pretzels, soft, ready-to-eat, topped with cheese:usdafndds-2708276
+Pretzels, soft, ready-to-eat, unsalted, buttered:usdafndds-2708270
+Pretzels, soft, ready-to-eat, unsalted, no butter:usdafndds-2708272
+Prune, dried:usdafndds-2709211
+Prune juice, 100%:usdafndds-2709331
+Pudding, bread:usdafndds-2705680
+Pudding, chocolate, made from dry mix:usdafndds-2705689
+Pudding, chocolate, made from dry mix, sugar free:usdafndds-2705691
+Pudding, chocolate, NFS:usdafndds-2705679
+Pudding, chocolate, ready-to-eat:usdafndds-2705694
+Pudding, chocolate, ready-to-eat, sugar free:usdafndds-2705695
+Pudding, flavors other than chocolate, made from dry mix:usdafndds-2705688
+Pudding, flavors other than chocolate, made from dry mix, sugar free:usdafndds-2705690
+Pudding, flavors other than chocolate, NFS:usdafndds-2705681
+Pudding, flavors other than chocolate, ready-to-eat:usdafndds-2705692
+Pudding, flavors other than chocolate, ready-to-eat, sugar free:usdafndds-2705693
+Pudding, rice:usdafndds-2705685
+Pudding, tapioca, made from dry mix:usdafndds-2705687
+Pudding, tapioca, ready-to-eat:usdafndds-2705696
+Puerto Rican seasoning with ham:usdafndds-2709754
+Puerto Rican seasoning without ham and tomato sauce:usdafndds-2709755
+Puerto Rican white cheese:usdafndds-2705755
+Pumpkin, canned, cooked:usdafndds-2709691
+Pumpkin, cooked:usdafndds-2709692
+Pumpkin seeds, NFS:usdafndds-2707579
+Pumpkin seeds, salted:usdafndds-2707580
+Pumpkin seeds, unsalted:usdafndds-2707581
+Pure almond extract:pure-almond-extract
+Pure vanilla extract:pure-vanilla-extract
+Quarter Pounder (McDonalds):usdafndds-2706898
+Quarter Pounder with cheese (McDonalds):usdafndds-2706900
+Queso Anejo, aged Mexican cheese:usdafndds-2705743
+Queso Asadero:usdafndds-2705744
+Queso cotija:usdafndds-2705746
+Queso Fresco:usdafndds-2705745
+Quinoa, fat added:usdafndds-2708401
+Quinoa, no added fat:usdafndds-2708400
+Quinoa, NS as to fat:usdafndds-2708399
+Radicchio, raw:usdafndds-2709613
+Radish:usdafndds-2709803
+Radishes, pickled:usdafndds-2710099
+Raisins:usdafndds-2709212
+Ramen bowl, NFS:usdafndds-2709153
+Ramen bowl, vegetarian:usdafndds-2709157
+Ramen bowl, vegetarian with egg:usdafndds-2709159
+Ramen bowl with fish:usdafndds-2709156
+Ranch dressing:usdafndds-2710212
+Ranch dressing, fat free:usdafndds-2710236
+Ranch dressing, light:usdafndds-2710225
+Raspberries, frozen:usdafndds-2709282
+Raspberries, raw:usdafndds-2709281
+Raspberries, raw:usdaff-2346410
+Ratatouille:usdafndds-2710028
+Raw vegetable, NFS:usdafndds-2709763
+Refried beans:usdafndds-2707396
+Refried beans, from canned, reduced sodium:usdafndds-2707399
+Refried beans, from fast food / restaurant:usdafndds-2707397
+Relish, corn:usdafndds-2710073
+Relish, pickle:usdafndds-2710079
+Rhubarb:usdafndds-2709268
+Ribs, NFS:usdafndds-2705893
+Rice, black, unenriched, raw:usdaff-2710825
+Rice, brown and wild, cooked, fat added:usdafndds-2708430
+Rice, brown and wild, cooked, no added fat:usdafndds-2708427
+Rice, brown and wild, cooked, NS as to fat:usdafndds-2708431
+Rice, brown, cooked, fat added, made with oil:usdafndds-2708410
+Rice, brown, cooked, fat added, NS as to fat type:usdafndds-2708413
+Rice, brown, cooked, made with butter:usdafndds-2708411
+Rice, brown, cooked, made with margarine:usdafndds-2708412
+Rice, brown, cooked, no added fat:usdafndds-2708414
+Rice, brown, cooked, NS as to fat:usdafndds-2708409
+Rice, brown, long grain, unenriched, raw:usdaff-2512380
+Rice, brown, with soy-based sauce, fat added:usdafndds-2709109
+Rice, brown, with soy-based sauce, no added fat:usdafndds-2709108
+Rice, brown, with soy-based sauce, NS as to fat:usdafndds-2709107
+Rice, brown, with vegetables, soy-based sauce, fat added:usdafndds-2709127
+Rice, brown, with vegetables, soy-based sauce, no added fat:usdafndds-2709126
+Rice, brown, with vegetables, soy-based sauce, NS as to fat:usdafndds-2709125
+Rice cake:usdafndds-2708162
+Rice, cooked, NFS:usdafndds-2708402
+Rice, cooked, with milk:usdafndds-2708416
+Rice, fried, NFS:usdafndds-2708952
+Rice, fried, with pork:usdafndds-2708954
+Rice, fried, with shrimp:usdafndds-2708956
+Rice milk:usdafndds-2705411
+Rice noodles, cooked:usdafndds-2708356
+Rice paper:usdafndds-2708166
+Rice, red, unenriched, dry, raw:usdaff-2710838
+Rice, sweet, cooked with honey:usdafndds-2708417
+Rice, white and wild, cooked, fat added:usdafndds-2708428
+Rice, white and wild, cooked, no added fat:usdafndds-2708426
+Rice, white and wild, cooked, NS as to fat:usdafndds-2708429
+Rice, white, cooked, fat added, NS as to fat type:usdafndds-2708407
+Rice, white, cooked, glutinous:usdafndds-2708422
+Rice, white, cooked, made with butter:usdafndds-2708405
+Rice, white, cooked, made with margarine:usdafndds-2708406
+Rice, white, cooked, made with oil:usdafndds-2708404
+Rice, white, cooked, no added fat:usdafndds-2708408
+Rice, white, cooked, NS as to fat:usdafndds-2708403
+Rice, white, cooked with fat, Puerto Rican style:usdafndds-2708432
+Rice, white, long grain, unenriched, raw:usdaff-2512381
+Rice, white, with soy-based sauce, fat added:usdafndds-2709100
+Rice, white, with soy-based sauce, no added fat:usdafndds-2709099
+Rice, white, with soy-based sauce, NS as to fat:usdafndds-2709098
+Rice, white, with vegetables, soy-based sauce, fat added:usdafndds-2709118
+Rice, white, with vegetables, soy-based sauce, no added fat:usdafndds-2709117
+Rice, white, with vegetables, soy-based sauce, NS as to fat:usdafndds-2709116
+Rice, wild, 100%, cooked, fat added:usdafndds-2708425
+Rice, wild, 100%, cooked, no added fat:usdafndds-2708424
+Rice, wild, 100%, cooked, NS as to fat:usdafndds-2708423
+Rob Roy:usdafndds-2710648
+Roll, bran, NS as to type of bran:usdafndds-2707597
+Roll, cheese:usdafndds-2707660
+Roll, diet:usdafndds-2707658
+Roll, egg bread:usdafndds-2707659
+Roll, French or Vienna:usdafndds-2707661
+Roll, garlic:usdafndds-2707662
+Roll, gluten free:usdafndds-2707800
+Roll, hard, NS as to major flour:usdafndds-2707596
+Roll, Mexican, bolillo:usdafndds-2707664
+Roll, multigrain:usdafndds-2707782
+Roll, multigrain, hot dog bun:usdafndds-2707783
+Roll, NS as to major flour:usdafndds-2707595
+Roll, oatmeal:usdafndds-2707773
+Roll, pumpernickel:usdafndds-2707767
+Roll, rye:usdafndds-2707766
+Roll, sour dough:usdafndds-2707665
+Roll, sweet, cinnamon bun, frosted:usdafndds-2707668
+Roll, sweet, cinnamon bun, no frosting:usdafndds-2707667
+Roll, sweet, frosted:usdafndds-2707673
+Roll, sweet, no frosting:usdafndds-2707666
+Roll, sweet, with fruit, frosted:usdafndds-2707671
+Roll, sweet, with fruit, frosted, diet:usdafndds-2707672
+Roll, wheat or cracked wheat:usdafndds-2707746
+Roll, wheat or cracked wheat, hot dog bun:usdafndds-2707747
+Roll, white, hard:usdafndds-2707655
+Roll, white, hoagie, submarine:usdafndds-2707663
+Roll, white, hot dog bun:usdafndds-2707656
+Roll, white, soft:usdafndds-2707654
+Roll, whole grain white:usdafndds-2707752
+Roll, whole grain white, hot dog bun:usdafndds-2707753
+Roll, whole wheat:usdafndds-2707749
+Roll, whole wheat, hot dog bun:usdafndds-2707750
+Romaine lettuce, raw:usdafndds-2709590
+Rum:usdafndds-2710703
+Rum and cola:usdafndds-2710660
+Rum and diet cola:usdafndds-2710661
+Rum, hot buttered:usdafndds-2710686
+Russian dressing:usdafndds-2710206
+Rusty Nail:usdafndds-2710649
+Rutabaga, cooked:usdafndds-2709980
+Rutabaga, peeled, raw:usdaff-2727580
+Rutabaga, raw:usdafndds-2709804
+Saccharin, liquid:usdafndds-2710270
+Saccharin, pure powder:usdafndds-2710269
+Safflower oil:usdafndds-2710189
+Salsa, NFS:usdafndds-2709736
+Salsa, pico de gallo:usdafndds-2709737
+Salsa, red:usdafndds-2709738
+Salsa, red, homemade:usdafndds-2709739
+Salsify, cooked:usdafndds-2709981
+Salt:usdaff-746775
+Sambar, vegetable stew:usdafndds-2707430
+Sandwich spread:usdafndds-2710172
+Sangria, red:usdafndds-2710695
+Sangria, white:usdafndds-2710696
+Sauerkraut:usdafndds-2709982
+Sausage, NFS:usdafndds-2706190
+Scotch:usdafndds-2710701
+Scrapple, cooked:usdafndds-2706198
+Screwdriver:usdafndds-2710650
+Seabreeze:usdafndds-2710651
+Seaweed, cooked, fat added:usdafndds-2709990
+Seaweed, cooked, no added fat:usdafndds-2709989
+Seaweed, dried:usdafndds-2709988
+Seaweed, pickled:usdafndds-2710100
+Seaweed, raw:usdafndds-2709805
+Seeds, pumpkin seeds (pepitas), raw:usdaff-2515380
+Seeds, sunflower seed, kernel, raw:usdaff-2515381
+Seeds, sunflower seed kernels, dry roasted, with salt added:usdaff-325524
+Sesame butter, creamy:usdaff-2262073
+Sesame dressing:usdafndds-2710211
+Sesame dressing, light:usdafndds-2710226
+Sesame oil:usdafndds-2710190
+Sesame seeds:usdafndds-2707586
+Seven and Seven:usdafndds-2710652
+Shallots, bulb, peeled, root removed, raw:usdaff-2727586
+Shirley Temple:usdafndds-2710611
+Shortening, NS as to vegetable or animal:usdafndds-2710167
+Shrimp chips:usdafndds-2708246
+Shrimp chow mein or chop suey, no noodles:usdafndds-2706827
+Shrimp chow mein or chop suey with noodles:usdafndds-2706712
+Simple syrup:usdafndds-2710278
+Singapore Sling:usdafndds-2710676
+Single cream, 19% milkfat:single-cream-19-milkfat
+Skim milk powder:usdafndds-2705585
+Sloe gin fizz:usdafndds-2710671
+Slush frozen drink:usdafndds-2710576
+Slush frozen drink, no sugar added:usdafndds-2710577
+Snack bar, oatmeal:usdafndds-2708100
+Snack cake, chocolate:usdafndds-2707873
+Snack cake, white:usdafndds-2707874
+Snack mix:usdafndds-2708213
+Snack mix, plain (Chex Mix):usdafndds-2708291
+Snow cone:usdafndds-2710323
+Snow cone, no sugar added:usdafndds-2710324
+Snowpeas, fresh, cooked, fat added:usdafndds-2709986
+Snowpeas, fresh, cooked, no added fat:usdafndds-2709983
+Snowpeas, frozen, cooked, fat added:usdafndds-2709987
+Snowpeas, frozen, cooked, no added fat:usdafndds-2709984
+Snowpeas, NS as to form, cooked:usdafndds-2709985
+Snowpeas, raw:usdafndds-2709806
+Sodium alginate:sodium-alginate
+Sodium carboxymethyl cellulose (CMC):sodium-carboxymethyl-cellulose-cmc
+Soft drink, chocolate flavored:usdafndds-2710559
+Soft drink, chocolate flavored, diet:usdafndds-2710560
+Soft drink, cola:usdafndds-2710541
+Soft drink, cola, chocolate flavored:usdafndds-2710562
+Soft drink, cola, chocolate flavored, diet:usdafndds-2710564
+Soft drink, cola, decaffeinated:usdafndds-2710543
+Soft drink, cola, decaffeinated, diet:usdafndds-2710544
+Soft drink, cola, diet:usdafndds-2710542
+Soft drink, cola, fruit or vanilla flavored:usdafndds-2710561
+Soft drink, cola, fruit or vanilla flavored, diet:usdafndds-2710563
+Soft drink, cream soda:usdafndds-2710549
+Soft drink, cream soda, diet:usdafndds-2710550
+Soft drink, fruit flavored, caffeine containing:usdafndds-2710553
+Soft drink, fruit flavored, caffeine containing, diet:usdafndds-2710554
+Soft drink, fruit flavored, caffeine free:usdafndds-2710551
+Soft drink, fruit flavored, diet, caffeine free:usdafndds-2710552
+Soft drink, ginger ale:usdafndds-2710555
+Soft drink, ginger ale, diet:usdafndds-2710556
+Soft drink, NFS:usdafndds-2710536
+Soft drink, NFS, diet:usdafndds-2710537
+Soft drink, pepper type:usdafndds-2710545
+Soft drink, pepper type, decaffeinated:usdafndds-2710547
+Soft drink, pepper type, decaffeinated, diet:usdafndds-2710548
+Soft drink, pepper type, diet:usdafndds-2710546
+Soft drink, root beer:usdafndds-2710557
+Soft drink, root beer, diet:usdafndds-2710558
+Sopaipilla, without syrup or honey:usdafndds-2708034
+Sopaipilla with syrup or honey:usdafndds-2708035
+Sorbet:usdafndds-2709314
+Sorghum bran, white, unenriched, dry, raw:usdaff-2710839
+Sorghum flour, white, pearled, unenriched, dry, raw:usdaff-2710840
+Sorghum grain, white, pearled, unenriched, dry, raw:usdaff-2710841
+Sorghum, whole grain, white, dry, raw:usdaff-2710842
+Soup, barley:usdafndds-2709147
+Soup, bean:usdafndds-2707453
+Soup, bean, canned:usdafndds-2707454
+Soup, bean, canned, reduced sodium:usdafndds-2707456
+Soup, bisque:usdafndds-2707140
+Soup, borscht:usdafndds-2710105
+Soup, broccoli cheese:usdafndds-2709659
+Soup, broth:usdafndds-2707132
+Soup, cream of mushroom:usdafndds-2710107
+Soup, cream of tomato:usdafndds-2709758
+Soup, cream of vegetable:usdafndds-2710109
+Soup, egg drop:usdafndds-2707282
+Soup, fish or shrimp:usdafndds-2707143
+Soup, French onion:usdafndds-2710108
+Soup, fruit:usdafndds-2709311
+Soup, gazpacho:usdafndds-2710106
+Soup, hot and sour:usdafndds-2707136
+Soup, Italian wedding:usdafndds-2707130
+Soup, lentil:usdafndds-2707462
+Soup, lentil, canned:usdafndds-2707460
+Soup, lentil, canned, reduced sodium:usdafndds-2707461
+Soup, Manhattan clam chowder:usdafndds-2707138
+Soup, Matzo ball:usdafndds-2709151
+Soup, minestrone:usdafndds-2710114
+Soup, miso or tofu:usdafndds-2707455
+Soup, mulligatawany:usdafndds-2707464
+Soup, New England clam chowder:usdafndds-2707139
+Soup, NFS:usdafndds-2709144
+Soup, noodle, NFS:usdafndds-2709145
+Soup, peanut:usdafndds-2707547
+Soup, pepperpot:usdafndds-2707126
+Soup, pork or ham:usdafndds-2707131
+Soup, potato:usdafndds-2709556
+Soup, pozole:usdafndds-2707129
+Soup, pumpkin:usdafndds-2709718
+Soup, ramen noodles, water added:usdafndds-2709152
+Soup, rice:usdafndds-2709146
+Soup, seaweed:usdafndds-2710110
+Soup, sopa de fideo aguada:usdafndds-2709161
+Soup, sopa or caldo de pollo:usdafndds-2707135
+Soup, sopa or caldo de res:usdafndds-2707128
+Soup, split pea:usdafndds-2707459
+Soup, tomato:usdafndds-2709757
+Soup, tomato, canned:usdafndds-2709759
+Soup, tomato, canned / carton, reduced sodium:usdafndds-2709760
+Soup, tortilla:usdafndds-2709162
+Soup, vegetable:usdafndds-2710113
+Soup, vegetable, canned:usdafndds-2710111
+Soup, vegetable, canned, reduced sodium:usdafndds-2710112
+Soup, wonton:usdafndds-2709160
+Sour cream, fat free:usdafndds-2705616
+Sour cream, imitation:usdafndds-2705617
+Sour cream, light:usdafndds-2705615
+Sour cream, regular:usdafndds-2705614
+Soursop, nectar:usdafndds-2709350
+Soy based sauce, for use with vegetables:usdafndds-2710246
+Soybean oil:usdafndds-2710191
+Soybeans, cooked:usdafndds-2707388
+Soy chips:usdafndds-2707434
+Soy lecithin:usdabranded-soy-lecithin
+Soy milk, chocolate:usdafndds-2705406
+Soy milk, sweetened:usdafndds-2705404
+Soy milk, sweetened, plain, refrigerated:usdaff-2257044
+Soy milk, unsweetened:usdafndds-2705405
+Soy milk, unsweetened, plain, shelf stable:usdaff-1999630
+Soy nuts:usdafndds-2707433
+Soy sauce:usdafndds-2707442
+Soy sauce, reduced sodium:usdafndds-2707443
+Spaghetti sauce:usdafndds-2709745
+Spaghetti sauce, fat free:usdafndds-2709748
+Spaghetti sauce, reduced sodium:usdafndds-2709747
+Spaghetti sauce with added vegetables:usdafndds-2709746
+Spaghetti sauce with poultry:usdafndds-2706422
+Spaghetti sauce with poultry and added vegetables:usdafndds-2706423
+Spaghetti sauce with seafood:usdafndds-2706453
+Spaghetti sauce with seafood and added vegetables:usdafndds-2706454
+Spaghetti squash, cooked:usdafndds-2710001
+Spinach and cheese casserole:usdafndds-2709630
+Spinach, baby:usdaff-1999632
+Spinach, canned, cooked, fat added, NS as to fat type:usdafndds-2709623
+Spinach, canned, cooked, no added fat:usdafndds-2709617
+Spinach, canned, cooked with butter or margarine:usdafndds-2709627
+Spinach, canned, cooked with oil:usdafndds-2709626
+Spinach, fresh, cooked, fat added, NS as to fat type:usdafndds-2709621
+Spinach, fresh, cooked, no added fat:usdafndds-2709615
+Spinach, fresh, cooked with butter or margarine:usdafndds-2709619
+Spinach, fresh, cooked with oil:usdafndds-2709618
+Spinach, frozen, cooked, fat added, NS as to fat type:usdafndds-2709622
+Spinach, frozen, cooked, no added fat:usdafndds-2709616
+Spinach, frozen, cooked with butter or margarine:usdafndds-2709625
+Spinach, frozen, cooked with oil:usdafndds-2709624
+Spinach, mature:usdaff-1999633
+Spinach, NS as to form, cooked:usdafndds-2709620
+Spinach, raw:usdafndds-2709614
+Split peas, from dried, fat added:usdafndds-2707421
+Split peas, from dried, no added fat:usdafndds-2707420
+Sports drink, dry concentrate, not reconstituted:usdafndds-2710615
+Sprouts, NFS:usdafndds-2709764
+Squash, pie pumpkin, peeled, seeded, raw:usdaff-2727578
+Squash, spaghetti, peeled, seeded, raw:usdaff-2727579
+Squash, summer, casserole, with cheese sauce:usdafndds-2710061
+Squash, summer, casserole, with rice and tomato sauce:usdafndds-2710060
+Squash, summer, casserole with tomato and cheese:usdafndds-2710059
+Squash, summer, green, zucchini, includes skin, raw:usdaff-2685568
+Squash, summer, yellow, includes skin, raw:usdaff-2685569
+Squash, winter, acorn, raw:usdaff-2685571
+Squash, winter, butternut, raw:usdaff-2685570
+Stabilizer:stabilizer
+Starfruit, raw:usdafndds-2709228
+Steak sauce:usdafndds-2709752
+Stevia, liquid:usdafndds-2710265
+Stevia, pure powder:usdafndds-2710264
+Stewed potatoes:usdafndds-2709554
+Stewed potatoes, Puerto Rican style:usdafndds-2709416
+Stewed potatoes with tomatoes:usdafndds-2709555
+Stew, vegetable:usdafndds-2710063
+Strawberries, canned:usdafndds-2709284
+Strawberries, frozen:usdafndds-2709285
+Strawberries, raw:usdafndds-2709283
+Strawberries, raw:usdaff-2346409
+Strawberry beverage powder, dry mix, not reconstituted:usdafndds-2705591
+Strawberry drink syrup:usdafndds-2710279
+Strawberry juice, 100%:usdafndds-2709332
+Strawberry milk, fat free  (skim):usdafndds-2705499
+Strawberry milk, low fat (1%):usdafndds-2705498
+Strawberry milk, NFS:usdafndds-2705495
+Strawberry milk, reduced fat (2%):usdafndds-2705497
+Strawberry milk, reduced sugar:usdafndds-2705500
+Strawberry milk, whole:usdafndds-2705496
+Strudel, apple:usdafndds-2708039
+Strudel, berry:usdafndds-2708040
+Strudel, cheese:usdafndds-2708042
+Strudel, cherry:usdafndds-2708041
+Strudel, peach:usdafndds-2708043
+Sucralose, pure powder:usdafndds-2710263
+Sugar, brown:usdafndds-2710260
+Sugar cane beverage:usdafndds-2710606
+Sugar, cinnamon:usdafndds-2710261
+Sugar, NFS:usdafndds-2710257
+Sugar, white, confectioner's, powdered:usdafndds-2710259
+Sugar, white, granulated or lump:usdafndds-2710258
+Summer squash, green, raw:usdafndds-2709808
+Summer squash, yellow or green, canned, cooked, fat added, NS as to fat type:usdafndds-2709996
+Summer squash, yellow or green, fresh, cooked, fat added, NS as to fat type:usdafndds-2709994
+Summer squash, yellow or green, fresh, cooked, no added fat:usdafndds-2709991
+Summer squash, yellow or green, fresh, cooked with butter or margarine:usdafndds-2709998
+Summer squash, yellow or green, fresh, cooked with oil:usdafndds-2709997
+Summer squash, yellow or green, frozen, cooked, fat added, NS as to fat type:usdafndds-2709995
+Summer squash, yellow or green, frozen, cooked, no added fat:usdafndds-2709992
+Summer squash, yellow or green, frozen, cooked with butter or margarine:usdafndds-2710000
+Summer squash, yellow or green, frozen, cooked with oil:usdafndds-2709999
+Summer squash, yellow or green, NS as to form, cooked:usdafndds-2709993
+Summer squash, yellow, raw:usdafndds-2709807
+Sun-dried tomatoes:usdafndds-2709727
+Sunflower lecithin:usdabranded-sunflower-lecithin
+Sunflower oil:usdafndds-2710192
+Sunflower seeds, flavored:usdafndds-2707584
+Sunflower seeds, NFS:usdafndds-2707585
+Sunflower seeds, plain, salted:usdafndds-2707583
+Sunflower seeds, plain, unsalted:usdafndds-2707582
+Sweet and sour sauce:usdafndds-2710296
+Sweet potato, baked, fat added:usdafndds-2709700
+Sweet potato, baked, no added fat:usdafndds-2709699
+Sweet potato, baked, NS as to fat:usdafndds-2709698
+Sweet potato, boiled, fat added:usdafndds-2709703
+Sweet potato, boiled, no added fat:usdafndds-2709702
+Sweet potato, boiled, NS as to fat:usdafndds-2709701
+Sweet potato, candied:usdafndds-2709704
+Sweet potato, canned, fat added:usdafndds-2709707
+Sweet potato, canned, no added fat:usdafndds-2709706
+Sweet potato, canned, NS as to fat:usdafndds-2709705
+Sweet potato, casserole or mashed:usdafndds-2709708
+Sweet potato chips:usdafndds-2709710
+Sweet potatoes, orange flesh, without skin, raw:usdaff-2346404
+Sweet potato fries, fast food / restaurant:usdafndds-2709713
+Sweet potato fries, from fresh:usdafndds-2709712
+Sweet potato fries, frozen:usdafndds-2709711
+Sweet potato fries, NFS:usdafndds-2709709
+Sweet potato fries, school:usdafndds-2709714
+Sweet potato, NFS:usdafndds-2709697
+Sweet potato paste:usdafndds-2710308
+Sweet potato, squash, pumpkin, chrysanthemum, or bean leaves, cooked:usdafndds-2709642
+Sweet potato tots:usdafndds-2709715
+Sweet potato tots, fast food / restaurant:usdafndds-2709716
+Sweet potato tots, school:usdafndds-2709717
+Syrup, NFS:usdafndds-2710272
+Table fat, NFS:usdafndds-2710153
+Taco, cheese only:usdafndds-2708533
+Taco, corn tortilla, pork, cheese:usdafndds-2708517
+Taco, corn tortilla, pork, with beans, cheese:usdafndds-2708518
+Taco, corn tortilla, with beans, cheese:usdafndds-2708521
+Taco, fish:usdafndds-2708529
+Taco, flour tortilla, pork, cheese:usdafndds-2708524
+Taco, flour tortilla, pork, with beans, cheese:usdafndds-2708525
+Taco, flour tortilla, with beans, cheese:usdafndds-2708528
+Taco, NFS:usdafndds-2708514
+Taco sauce:usdafndds-2709740
+Taco, with beans, no cheese:usdafndds-2708532
+Tahini:usdafndds-2707587
+Tamale, sweet:usdafndds-2708038
+Tamarind:usdafndds-2709269
+Tamarind drink:usdafndds-2710568
+Tangerine juice, 100%:usdafndds-2709193
+Tangerine, raw:usdafndds-2709175
+Tapioca starch:tapioca-starch
+Tara gum:tara-gum
+Taro chips:usdafndds-2709569
+Taro, cooked:usdafndds-2709567
+Taro leaves, cooked:usdafndds-2709633
+Tart, all types:usdafndds-2707994
+Tartar sauce:usdafndds-2710173
+Tea, bubble:usdafndds-2710508
+Tea, ginger:usdafndds-2710507
+Tea, hot, chamomile:usdafndds-2710505
+Tea, hot, herbal:usdafndds-2710502
+Tea, hot, hibiscus:usdafndds-2710503
+Tea, hot, leaf, black:usdafndds-2710488
+Tea, hot, leaf, black, decaffeinated:usdafndds-2710489
+Tea, hot, leaf, green:usdafndds-2710490
+Tea, hot, leaf, green, decaffeinated:usdafndds-2710491
+Tea, hot, leaf, oolong:usdafndds-2710492
+Tea, hot, with milk:usdafndds-2710506
+Tea, iced, bottled, black:usdafndds-2710527
+Tea, iced, bottled, black, decaffeinated:usdafndds-2710528
+Tea, iced, bottled, black, decaffeinated, diet:usdafndds-2710530
+Tea, iced, bottled, black, decaffeinated, unsweetened:usdafndds-2710532
+Tea, iced, bottled, black, diet:usdafndds-2710529
+Tea, iced, bottled, black, unsweetened:usdafndds-2710531
+Tea, iced, bottled, green:usdafndds-2710533
+Tea, iced, bottled, green, diet:usdafndds-2710534
+Tea, iced, bottled, green, unsweetened:usdafndds-2710535
+Tea, iced, brewed, black, decaffeinated, pre-sweetened with low calorie sweetener:usdafndds-2710519
+Tea, iced, brewed, black, decaffeinated, pre-sweetened with sugar:usdafndds-2710518
+Tea, iced, brewed, black, decaffeinated, unsweetened:usdafndds-2710520
+Tea, iced, brewed, black, pre-sweetened with low calorie sweetener:usdafndds-2710516
+Tea, iced, brewed, black, pre-sweetened with sugar:usdafndds-2710515
+Tea, iced, brewed, black, unsweetened:usdafndds-2710517
+Tea, iced, brewed, green, decaffeinated, pre-sweetened with low calorie sweetener:usdafndds-2710525
+Tea, iced, brewed, green, decaffeinated, pre-sweetened with sugar:usdafndds-2710524
+Tea, iced, brewed, green, decaffeinated, unsweetened:usdafndds-2710526
+Tea, iced, brewed, green, pre-sweetened with low calorie sweetener:usdafndds-2710522
+Tea, iced, brewed, green, pre-sweetened with sugar:usdafndds-2710521
+Tea, iced, brewed, green, unsweetened:usdafndds-2710523
+Tea, iced, instant, black, decaffeinated, pre-sweetened with low calorie sweetener:usdafndds-2710497
+Tea, iced, instant, black, decaffeinated, pre-sweetened with sugar:usdafndds-2710495
+Tea, iced, instant, black, decaffeinated, unsweetened:usdafndds-2710498
+Tea, iced, instant, black, pre-sweetened, dry:usdafndds-2710511
+Tea, iced, instant, black, pre-sweetened with low calorie sweetener:usdafndds-2710496
+Tea, iced, instant, black, pre-sweetened with sugar:usdafndds-2710494
+Tea, iced, instant, black, unsweetened:usdafndds-2710493
+Tea, iced, instant, black, unsweetened, dry:usdafndds-2710510
+Tea, iced, instant, green, pre-sweetened with low calorie sweetener:usdafndds-2710501
+Tea, iced, instant, green, pre-sweetened with sugar:usdafndds-2710500
+Tea, iced, instant, green, unsweetened:usdafndds-2710499
+Tea, kombucha:usdafndds-2710509
+Tequila:usdafndds-2710705
+Tequila Sunrise:usdafndds-2710678
+Teriyaki sauce:usdafndds-2707445
+Teriyaki sauce, reduced sodium:usdafndds-2707446
+Thousand Island dressing:usdafndds-2710213
+Thousand Island dressing, fat free:usdafndds-2710238
+Thousand Island dressing, light:usdafndds-2710227
+Thuringer:usdafndds-2706199
+Tiramisu:usdafndds-2705702
+Tomatillos, dehusked, raw:usdaff-2727582
+Tomato and vegetable juice, 100%:usdafndds-2709731
+Tomato and vegetable juice, 100%, low sodium:usdafndds-2709732
+Tomato chili sauce:usdafndds-2709735
+Tomatoes, canned, cooked:usdafndds-2709722
+Tomatoes, canned, red, ripe, diced:usdaff-333281
+Tomatoes, canned, reduced sodium, cooked:usdafndds-2709724
+Tomatoes, crushed, canned:usdaff-2685581
+Tomatoes, fresh, cooked:usdafndds-2709721
+Tomatoes, grape, raw:usdaff-321360
+Tomatoes, NS as to form, cooked:usdafndds-2709720
+Tomatoes, raw:usdafndds-2709719
+Tomatoes, scalloped:usdafndds-2709723
+Tomatoes, whole, canned, solids and liquids, with salt added:usdaff-2685578
+Tomato, green, pickled:usdafndds-2709726
+Tomato juice, 100%:usdafndds-2709728
+Tomato juice, 100%, low sodium:usdafndds-2709729
+Tomato juice cocktail:usdafndds-2709730
+Tomato juice, with added ingredients, from concentrate, shelf stable:usdaff-2003596
+Tomato, paste, canned, without salt added:usdaff-2685580
+Tomato, puree, canned:usdaff-2685582
+Tomato, roma:usdaff-1999634
+Tomato, sauce, canned, with salt added:usdaff-2685579
+Tomato sauce, for use with vegetables:usdafndds-2710247
+Tom Collins:usdafndds-2710653
+Topping, butterscotch or caramel:usdafndds-2710284
+Topping, chocolate:usdafndds-2710285
+Topping from cheese pizza:usdafndds-2705787
+Topping from vegetable pizza:usdafndds-2705788
+Topping, fruit:usdafndds-2710286
+Topping, marshmallow:usdafndds-2710287
+Topping, nuts and syrup:usdafndds-2710288
+Tortilla chips, cool ranch flavor (Doritos):usdafndds-2708207
+Tortilla chips, flavored:usdafndds-2708204
+Tortilla chips, low fat, unsalted:usdafndds-2708211
+Tortilla chips, nacho cheese flavor (Doritos):usdafndds-2708206
+Tortilla chips, other flavors (Doritos):usdafndds-2708208
+Tortilla chips, plain:usdafndds-2708202
+Tortilla chips, reduced fat, flavored:usdafndds-2708210
+Tortilla chips, reduced fat, plain:usdafndds-2708209
+Tortilla chips, reduced sodium:usdafndds-2708212
+Trail mix, NFS:usdafndds-2707574
+Trail mix with chocolate:usdafndds-2707577
+Trail mix with nuts:usdafndds-2707575
+Trail mix with nuts and fruit:usdafndds-2707576
+Trail mix with pretzels, cereal, or granola:usdafndds-2707578
+Trehalose:trehalose
+Trifle:usdafndds-2705701
+Turnip, cooked:usdafndds-2710002
+Turnip greens, fresh, cooked, fat added:usdafndds-2709637
+Turnip greens, fresh, cooked, no added fat:usdafndds-2709634
+Turnip greens, frozen, cooked, fat added:usdafndds-2709638
+Turnip greens, frozen, cooked, no added fat:usdafndds-2709635
+Turnip, pickled:usdafndds-2710102
+Turnip, raw:usdafndds-2709809
+Turnover, fruit:usdafndds-2708046
+Turrnip greens, NS as to form, cooked:usdafndds-2709636
+Upma:usdafndds-2709128
+Vegan mayonnaise:usdafndds-2710205
+Vegetable and fruit juice, 100% juice, with high vitamin C:usdafndds-2710145
+Vegetable and fruit juice drink, with high vitamin C:usdafndds-2710581
+Vegetable and fruit juice drink, with high vitamin C, diet:usdafndds-2710594
+Vegetable and fruit juice drink, with high vitamin C, light:usdafndds-2710595
+Vegetable chips:usdafndds-2709447
+Vegetable curry:usdafndds-2710067
+Vegetable curry with rice:usdafndds-2710068
+Vegetable mixture, dried:usdafndds-2710038
+Vegetable oil, NFS:usdafndds-2710180
+Vegetable smoothie:usdafndds-2710152
+Vegetables, pickled:usdafndds-2710101
+Vegetables, stew type, cooked, fat added:usdafndds-2710029
+Vegetables, stew type, cooked, no added fat:usdafndds-2710030
+Vegetable tempura:usdafndds-2710065
+Vegetarian stew:usdafndds-2707479
+Vegetarian stroganoff:usdafndds-2707480
+Vienna sausage, canned:usdafndds-2706203
+Vinegar:usdafndds-2709351
+Vodka:usdafndds-2710704
+Vodka and cola:usdafndds-2710666
+Vodka and diet cola:usdafndds-2710667
+Vodka and energy drink:usdafndds-2710668
+Vodka and lemonade:usdafndds-2710665
+Vodka and soda:usdafndds-2710664
+Vodka and tonic:usdafndds-2710670
+Vodka and water:usdafndds-2710669
+Vodka sauce with tomatoes and cream:usdafndds-2709749
+Waffle, chocolate:usdafndds-2708327
+Waffle, chocolate, fast food / restaurant:usdafndds-2708321
+Waffle, chocolate, frozen:usdafndds-2708316
+Waffle, cinnamon:usdafndds-2708328
+Waffle, fruit:usdafndds-2708326
+Waffle, fruit, fast food / restaurant:usdafndds-2708322
+Waffle, fruit, frozen:usdafndds-2708315
+Waffle, gluten free:usdafndds-2708330
+Waffle, NFS:usdafndds-2708312
+Waffle, plain:usdafndds-2708325
+Waffle, plain, fast food / restaurant:usdafndds-2708320
+Waffle, plain, frozen:usdafndds-2708313
+Waffle, plain, reduced fat:usdafndds-2708314
+Waffle, school:usdafndds-2708324
+Waffle, whole grain:usdafndds-2708329
+Waffle, whole grain, fast food / restaurant:usdafndds-2708323
+Waffle, whole grain, frozen:usdafndds-2708317
+Waffle, whole grain, fruit, frozen:usdafndds-2708319
+Waffle, whole grain, reduced fat:usdafndds-2708318
+Walnut oil:usdafndds-2710193
+Walnuts, excluding honey roasted:usdafndds-2707531
+Walnuts, honey roasted:usdafndds-2707532
+Wasabi paste:usdafndds-2710103
+Wasabi peas:usdafndds-2707422
+Water beverage, fruit flavored:usdafndds-2710710
+Water, bottled, plain:usdafndds-2710708
+Water, carbonated, flavored:usdafndds-2710540
+Water, carbonated, plain:usdafndds-2710539
+Water Chesnut:usdafndds-2710003
+Watercress, cooked:usdafndds-2709640
+Watercress, raw:usdafndds-2709639
+Water, enhanced, diet:usdafndds-2710712
+Water, enhanced, regular:usdafndds-2710711
+Watermelon juice, 100%:usdafndds-2709333
+Watermelon, raw:usdafndds-2709270
+Water, NFS:usdafndds-2710706
+Water, non-carbonated, flavored:usdafndds-2710709
+Water, tap:usdafndds-2710707
+Water, tonic:usdafndds-2710538
+Wheat bran:usdafndds-2708488
+Wheat cereal, chocolate flavored, cooked:usdafndds-2708443
+Wheat germ:usdafndds-2708477
+Wheat germ oil:usdafndds-2710194
+Whey, sweet, dry:usdafndds-2705586
+Whipped topping:usdafndds-2705611
+Whipped topping, fat free:usdafndds-2705612
+Whipped topping, sugar free:usdafndds-2705613
+Whiskey:usdafndds-2710700
+Whiskey and cola:usdafndds-2710657
+Whiskey and diet cola:usdafndds-2710658
+Whiskey and ginger ale:usdafndds-2710659
+Whiskey and soda:usdafndds-2710655
+Whiskey and water:usdafndds-2710656
+Whiskey sour:usdafndds-2710654
+White beans, from canned, fat added:usdafndds-2707356
+White beans, from canned, no added fat:usdafndds-2707357
+White beans, from canned, reduced sodium:usdafndds-2707358
+White beans, from dried, fat added:usdafndds-2707354
+White beans, from dried, no added fat:usdafndds-2707355
+White beans, NFS:usdafndds-2707353
+White chocolate:usdafndds-2710339
+White pizza, cheese, thick crust:usdafndds-2708677
+White pizza, cheese, thin crust:usdafndds-2708676
+White pizza, cheese, with vegetables, thick crust:usdafndds-2708679
+White pizza, cheese, with vegetables, thin crust:usdafndds-2708678
+White Russian:usdafndds-2710673
+Whole milk:usdaff-746782
+Whole milk powder:usdasrlegacy-170876
+Whole wheat cereal, cooked:usdafndds-2708442
+Whopper (Burger King):usdafndds-2706931
+Whopper Jr (Burger King):usdafndds-2706923
+Whopper Jr with cheese (Burger King):usdafndds-2706891
+Whopper with cheese (Burger King):usdafndds-2706899
+Wild rice, dry, raw:usdaff-2710821
+Wine cooler:usdafndds-2710694
+Wine, dessert, sweet:usdafndds-2710692
+Wine, light:usdafndds-2710693
+Wine, nonalcoholic:usdafndds-2710609
+Wine, red:usdafndds-2710688
+Wine, rice:usdafndds-2710691
+Wine, rose:usdafndds-2710690
+Wine, sparkling:usdafndds-2710687
+Wine spritzer:usdafndds-2710697
+Wine, white:usdafndds-2710689
+Winter melon, cooked:usdafndds-2710004
+Winter squash, cooked, fat added:usdafndds-2709695
+Winter squash, cooked, no added fat:usdafndds-2709694
+Winter squash, raw:usdafndds-2709693
+Worcestershire sauce:usdafndds-2707447
+Xanthan gum:xanthan-gum
+Xylitol:xylitol
+Yeast:usdafndds-2710005
+Yeast extract spread:usdafndds-2710006
+Yellow rice, cooked, fat added:usdafndds-2708421
+Yellow rice, cooked, no added fat:usdafndds-2708420
+Yellow rice, cooked, NS as to fat:usdafndds-2708419
+Yellow string beans, cooked:usdafndds-2709870
+Yogurt, almond milk:usdafndds-2707570
+Yogurt, coconut milk:usdafndds-2707569
+Yogurt, Greek, low fat milk, flavors other than fruit:usdafndds-2705439
+Yogurt, Greek, low fat milk, fruit:usdafndds-2705431
+Yogurt, Greek, low fat milk, plain:usdafndds-2705423
+Yogurt, Greek, nonfat milk, flavors other than fruit:usdafndds-2705440
+Yogurt, Greek, nonfat milk, fruit:usdafndds-2705432
+Yogurt, Greek, nonfat milk, plain:usdafndds-2705424
+Yogurt, Greek, NS as to type of milk, flavors other than fruit:usdafndds-2705437
+Yogurt, Greek, NS as to type of milk, fruit:usdafndds-2705429
+Yogurt, Greek, NS as to type of milk or flavor:usdafndds-2705415
+Yogurt, Greek, NS as to type of milk, plain:usdafndds-2705421
+Yogurt, Greek, plain, nonfat:usdaff-330137
+Yogurt, Greek, plain, whole milk:usdaff-2259794
+Yogurt, Greek, strawberry, nonfat:usdaff-330415
+Yogurt, Greek, whole milk, flavors other than fruit:usdafndds-2705438
+Yogurt, Greek, whole milk, fruit:usdafndds-2705430
+Yogurt, Greek, with oats:usdafndds-2705441
+Yogurt, liquid:usdafndds-2705442
+Yogurt, low fat milk, flavors other than fruit:usdafndds-2705435
+Yogurt, low fat milk, fruit:usdafndds-2705427
+Yogurt, low fat milk, plain:usdafndds-2705419
+Yogurt, NFS:usdafndds-2705414
+Yogurt, nonfat milk, flavors other than fruit:usdafndds-2705436
+Yogurt, nonfat milk, fruit:usdafndds-2705428
+Yogurt, nonfat milk, plain:usdafndds-2705420
+Yogurt, NS as to type of milk, flavors other than fruit:usdafndds-2705433
+Yogurt, NS as to type of milk, fruit:usdafndds-2705425
+Yogurt, NS as to type of milk or flavor:usdafndds-2705416
+Yogurt, NS as to type of milk, plain:usdafndds-2705417
+Yogurt parfait, with fruit:usdafndds-2705450
+Yogurt, plain, nonfat:usdaff-2647437
+Yogurt, plain, whole milk:usdaff-2259793
+Yogurt, soy:usdafndds-2707444
+Yogurt tube:usdafndds-2705443
+Yogurt, whole milk, flavors other than fruit:usdafndds-2705434
+Yogurt, whole milk, fruit:usdafndds-2705426
+Yogurt, whole milk, plain:usdafndds-2705418
+Yokan:usdafndds-2710315
+Yuca fries:usdafndds-2709565
+Zucchini, pickled:usdafndds-2710104
+Zwieback toast:usdafndds-2707705
+
+===================================================== my custom ingredients below
+Citric acid:user-citric-acid-7aeef0
+Yogurt marata straggisto 2%:user-yogurt-straggisto-2-33939d
+Milk, fresh, marata 1.5%:user-milk-fresh-marata-15-4d71c8
+Yogurt marata peach 1.7%:user-yogurt-marata-peach-17-90edee
+Yogurt marata strawberry 1.7%:user-yogurt-marata-strawberry-17-3ab50b

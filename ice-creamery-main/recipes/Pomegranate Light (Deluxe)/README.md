@@ -1,0 +1,87 @@
+---
+canonical_url: https://jhermann.github.io/ice-creamery/P/Pomegranate%20Light%20(Deluxe)/
+description: Recipe for the Ninja Creami Deluxe [24oz]
+excluded_steps:
+- ingredients to empty Creami tub
+excluded_tags:
+- Allulose
+- Vanilla
+tags:
+- Dairy
+- Emulsifier
+- Erythritol
+- Hi-Protein
+- Light
+- Low-Fat
+- Polysaccharide Gum
+- Scoopable
+- Sucralose
+- Tylo Powder (CMC)
+- Xylitol
+---
+# Pomegranate Light (Deluxe)
+<img style="float: right; margin-left: 1.5em;" width=240 alt="Logo" src="logo-pomegranate-light.png" />
+
+Pomegranate ice cream based on pomegranate syrup (nar ekşisi), buttermilk, and cottage cheese. Clocking in at 71 kcal / 100g and 56g net carbs.
+
+> <img width=240 alt="Ingredients" src="Pomegranate-Light_2025-07-16_1.jpg" class="zoomable" />
+
+Process on *Light Ice Cream*, [hold it shortly under running water](https://jhermann.github.io/ice-creamery/info/tips%2Btricks/#handling-of-icy-sides-bottom) *after* that.
+Then scrape down the sides, and process with mix-in.
+
+> <img width=220 alt="Spun Ice Cream" src="Pomegranate-Light_2025-07-17_1.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="Pomegranate-Light_2025-07-17_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Pomegranate-Light_2025-07-17_3.jpg" class="zoomable" /><br />
+
+> <img width=220 alt="Spun Ice Cream" src="Pomegranate-Light_2026-01-24_1.jpg" class="zoomable" />
+> <img width=220 alt="After Mix-in" src="Pomegranate-Light_2026-01-24_2.jpg" class="zoomable" />
+> <img width=220 alt="Scooped" src="Pomegranate-Light_2026-01-24_3.jpg" class="zoomable" />
+
+Rating: 😋🧈🐮🔴🔴 (fruity and soft)
+
+> <img width=442 alt="Served" src="Pomegranate-Light_2025-07-17_4.jpg" class="zoomable" />
+
+# INGREDIENTS
+
+ℹ️ Brand names are in square brackets `[...]`.
+
+**Wet**
+
+  - _75g_ [Cottage Cheese 4% \[REWE Bio\]](/ice-creamery/info/ingredients/#cottage-cheese){target="_blank"}<sup>↗</sup> • *alternative:* 40g cream cheese
+  - _490ml_ Buttermilk 1% [REWE] • *alternative:* kefir, skyr, soured milk, or similar
+  - _40g_ Pomegranate syrup (nar ekşisi) [fersan] • 0.76 ml/g
+  - _10g_ [Glycerin (E422, VG) \[hd-line\]](/ice-creamery/info/ingredients/#vegetable-glycerin-glycerol-vg-e422){target="_blank"}<sup>↗</sup> • *alternative:* 35g lactose
+
+**Dry**
+
+  - _45g_ [SweEX (Erythritol + Xylitol 3:2)](/ice-creamery/info/ingredients/#sweex-erythritol-xylitol-blend){target="_blank"}<sup>↗</sup> • *alternative:* 60g allulose or dextrose
+  - _10g_ [Salty Stability \[Inulin / GMS / CMC / Guar / XG / Salt\]](/ice-creamery/S/Salty%20Stability/){target="_blank"}<sup>↗</sup> • *not-as-good substitute:* 1g guar, 0.3g xanthan, and 0.3g salt
+  - _1.5g_ Beet Root Powder (organic) [Mandoi] • *optional*, for color
+
+**Fill to MAX**
+
+  - _≈3 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
+
+# DIRECTIONS
+
+ 1. In an empty Creami tub, warm up the cheese and blend with an equal amount of milk to a very creamy texture.
+ 1. Add the "wet" ingredients to it.
+ 1. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
+ 1. Pour into the tub and *QUICKLY* use an immersion blender on full speed to homogenize everything.
+ 1. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
+ 1. Add remaining ingredients (to the MAX line) and stir with a spoon.
+ 1. For better results, let the base age in the fridge (covered, lid on), for a few hours or over night. This helps flavor development and gum hydration, especially with unheated bases.
+ 1. Freeze for 24h with lid on, then spin as usual. Flatten any humps before that.
+ 1. Process with RE-SPIN mode when not creamy enough after the first spin.
+
+# NUTRITIONAL & OTHER INFO
+
+- **Nutritional values per 100g/ml:** 100g; 71.2 kcal; fat 0.9g; carbs 17.0g; sugar 6.4g; protein 4.1g; salt 0.3g
+- **Nutritional values per ½ Deluxe Tub:** 340g; 241.9 kcal; fat 3.0g; carbs 57.6g; sugar 21.8g; protein 13.8g; salt 0.9g
+- **Nutritional values total:** 672g; 477.8 kcal; fat 5.9g; carbs 113.8g; sugar 43.0g; protein 27.3g; salt 1.8g
+- **FPDF / [PAC](/ice-creamery/info/glossary/#potere-anti-congelante-pac){target="_blank"}<sup>↗</sup> (target 20..30):** 30.58
+- **Protein / Energy Ratio (ok=12%; hi=20%):** 22.87% • LOW-FAT • Hi-Protein
+- **Milk Solids Non-Fat ([MSNF](/ice-creamery/info/glossary/#milk-solids-not-fat-msnf){target="_blank"}<sup>↗</sup>, 7-11%):** 53.7g • 8.0%
+- **Net carbs:** 56.4g • *∝ 5 servings@134g:* 11.3g • *∝ 3 servings@224g:* 18.8g • *energy ratio (low <20%):* 47.3%
+- **Aug 23, 2025:** Reformulation with Buttermilk & Cottage Cheese (no curdling)
+- **10g 'Salty Stability' is:** 7.3g Inulin • 1.2g Glycerol Monostearate (GMS / E471) • 0.6g Tylose powder (E466, Tylo, CMC) • 0.4g Guar gum (E412) • 0.33g Salt • 0.13g Xanthan gum (E415, XG).
