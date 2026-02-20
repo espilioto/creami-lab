@@ -7852,3 +7852,39 @@ Woodruff ("Waldmeister") — a German flavor used in Berliner Kindl, Maibowle, a
 
 ---
 
+## Reddit / Le Interwebz
+
+### [Chickpea Cookie Dough](https://www.reddit.com/r/ninjacreami/comments/1jedhuz/chickpea_cookiedough_creami_this_was_1010/)
+Tags: ice cream, cookie dough, chickpea, low-calorie, high-protein
+Scaled to Deluxe pint from u/Salty_Zebra5937's original (standard pint, ~325 kcal).
+
+**Ingredients:**
+- Marata 1.5% milk — 450g
+- canned chickpeas (drained, no aquafaba) — 110g
+- peanut butter — 11g
+  - PB2 (22g) 🟡 → 11g peanut butter — higher fat, less peanut intensity. Blend thoroughly.
+- dates (pitted) — 55g (~4 dates)
+- erythritol — 10-18g (to taste)
+- guar gum — 2.5g
+
+**Steps:**
+1. Pit dates and roughly chop.
+2. Add milk, chickpeas, dates, peanut butter, erythritol, and guar gum to immersion blender cup.
+3. Blend until completely smooth — no chickpea or date chunks should remain.
+4. Taste and adjust sweetener.
+5. Pour into Creami pint, leaving headspace. Flatten top.
+6. Freeze 24h.
+7. Scrape test. Ice Cream setting.
+8. Scrape down sides with butter knife, push top down with spoon. Re-Spin if needed.
+
+**Notes:**
+- Dates are essential — they create the caramel-like cookie dough flavor.
+- Chickpeas are completely undetectable after blending.
+- For more peanut intensity, go up to 15g PB.
+- Variations that worked: cashew milk instead of dairy, vanilla protein powder instead of PB, pumpkin spice oat milk + pecans.
+- Optional mix-in: chocolate chunks via Mix-In program (OP used Kinder). Adds ~170 kcal per 30g.
+
+**Nutrition (per Deluxe pint, base only):** ~575 kcal (~89 kcal/100g) | 15g fat | 27g protein | 86g carbs
+
+---
+
