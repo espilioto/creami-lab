@@ -3121,3 +3121,4 @@ Yogurt marata straggisto 2%:user-yogurt-straggisto-2-33939d
 Milk, fresh, marata 1.5%:user-milk-fresh-marata-15-4d71c8
 Yogurt marata peach 1.7%:user-yogurt-marata-peach-17-90edee
 Yogurt marata strawberry 1.7%:user-yogurt-marata-strawberry-17-3ab50b
+HSN whey protein concentrate:user-hsn-whey-protein-concentrate-984009
