@@ -1,0 +1,725 @@
+{
+    "targetProfiles": [
+        {
+            "id": 12,
+            "createdAt": "2025-10-17 06:24:31.738587+00",
+            "updatedAt": "2026-01-27 03:36:51.429035+00",
+            "createdBy": null,
+            "slug": "frozen-yogurt-nonfat",
+            "name": "Frozen Yogurt Nonfat",
+            "recipeTypes": [
+                "frozen_yogurt"
+            ],
+            "description": null,
+            "link": null,
+            "config": {
+                "msnfPct": {
+                    "max": 0.14,
+                    "min": 0.09
+                },
+                "sugarsPct": {
+                    "max": 0.17,
+                    "min": 0.15
+                },
+                "milkFatPct": {
+                    "max": 0.005,
+                    "min": 0
+                },
+                "emulsifiersPct": {
+                    "max": 0.008,
+                    "min": 0.001
+                },
+                "stabilizersPct": {
+                    "max": 0.007,
+                    "min": 0.005
+                },
+                "totalSolidsPct": {
+                    "max": 0.32,
+                    "min": 0.28
+                },
+                "relativeSweetness": {
+                    "max": 0.2,
+                    "min": 0.11
+                },
+                "servingTemperatureC": {
+                    "max": -12,
+                    "min": -16
+                }
+            }
+        },
+        {
+            "id": 11,
+            "createdAt": "2025-10-17 06:24:31.738587+00",
+            "updatedAt": "2026-01-27 03:36:51.429035+00",
+            "createdBy": null,
+            "slug": "frozen-yogurt-regular",
+            "name": "Frozen Yogurt Regular",
+            "recipeTypes": [
+                "frozen_yogurt"
+            ],
+            "description": null,
+            "link": null,
+            "config": {
+                "msnfPct": {
+                    "max": 0.13,
+                    "min": 0.09
+                },
+                "sugarsPct": {
+                    "max": 0.17,
+                    "min": 0.15
+                },
+                "milkFatPct": {
+                    "max": 0.06,
+                    "min": 0.03
+                },
+                "emulsifiersPct": {
+                    "max": 0.008,
+                    "min": 0.001
+                },
+                "stabilizersPct": {
+                    "max": 0.006,
+                    "min": 0.004
+                },
+                "totalSolidsPct": {
+                    "max": 0.36,
+                    "min": 0.3
+                },
+                "relativeSweetness": {
+                    "max": 0.2,
+                    "min": 0.11
+                },
+                "servingTemperatureC": {
+                    "max": -12,
+                    "min": -16
+                }
+            }
+        },
+        {
+            "id": 10,
+            "createdAt": "2025-10-17 06:24:31.738587+00",
+            "updatedAt": "2026-01-27 03:36:51.429035+00",
+            "createdBy": null,
+            "slug": "gelato",
+            "name": "Gelato",
+            "recipeTypes": [
+                "gelato"
+            ],
+            "description": null,
+            "link": null,
+            "config": {
+                "msnfPct": {
+                    "max": 0.12,
+                    "min": 0.11
+                },
+                "sugarsPct": {
+                    "max": 0.22,
+                    "min": 0.16
+                },
+                "milkFatPct": {
+                    "max": 0.08,
+                    "min": 0.04
+                },
+                "emulsifiersPct": {
+                    "max": 0.008,
+                    "min": 0.001
+                },
+                "stabilizersPct": {
+                    "max": 0.006,
+                    "min": 0.004
+                },
+                "totalSolidsPct": {
+                    "max": 0.43,
+                    "min": 0.36
+                },
+                "relativeSweetness": {
+                    "max": 0.2,
+                    "min": 0.11
+                },
+                "servingTemperatureC": {
+                    "max": -10,
+                    "min": -14
+                }
+            }
+        },
+        {
+            "id": 15,
+            "createdAt": "2025-10-17 06:24:31.738587+00",
+            "updatedAt": "2026-01-27 03:36:51.429035+00",
+            "createdBy": null,
+            "slug": "ganache",
+            "name": "General Ganache",
+            "recipeTypes": [
+                "ganache"
+            ],
+            "description": null,
+            "link": null,
+            "config": {
+                "fatPct": {
+                    "max": 0.3,
+                    "min": 0.2
+                },
+                "sugarsPct": {
+                    "max": 0.45,
+                    "min": 0.25
+                },
+                "milkFatPct": {
+                    "max": 0.25,
+                    "min": 0.15
+                },
+                "stabilizersPct": {
+                    "max": 0.005,
+                    "min": 0.003
+                },
+                "totalSolidsPct": {
+                    "max": 0.75,
+                    "min": 0.6
+                }
+            }
+        },
+        {
+            "id": 1,
+            "createdAt": "2025-10-17 06:24:31.738587+00",
+            "updatedAt": "2026-01-27 03:36:51.429035+00",
+            "createdBy": null,
+            "slug": "general-ice-cream",
+            "name": "General Ice Cream",
+            "recipeTypes": [
+                "ice_cream"
+            ],
+            "description": null,
+            "link": null,
+            "config": {
+                "fatPct": {
+                    "max": 0.3,
+                    "min": 0.1
+                },
+                "msnfPct": {
+                    "max": 0.15,
+                    "min": 0.07
+                },
+                "sugarsPct": {
+                    "max": 0.17,
+                    "min": 0.11
+                },
+                "alcoholPct": {
+                    "max": 0.02,
+                    "min": 0
+                },
+                "milkFatPct": {
+                    "max": 0.18,
+                    "min": 0.05
+                },
+                "emulsifiersPct": {
+                    "max": 0.008,
+                    "min": 0.001
+                },
+                "stabilizersPct": {
+                    "max": 0.003,
+                    "min": 0
+                },
+                "totalSolidsPct": {
+                    "max": 0.45,
+                    "min": 0.35
+                },
+                "relativeSweetness": {
+                    "max": 0.2,
+                    "min": 0.11
+                },
+                "servingTemperatureC": {
+                    "max": -12,
+                    "min": -16
+                }
+            }
+        },
+        {
+            "id": 5,
+            "createdAt": "2025-10-17 06:24:31.738587+00",
+            "updatedAt": "2026-01-27 03:36:51.429035+00",
+            "createdBy": null,
+            "slug": "light-ice-cream",
+            "name": "Light Ice Cream",
+            "recipeTypes": [
+                "ice_cream"
+            ],
+            "description": null,
+            "link": null,
+            "config": {
+                "msnfPct": {
+                    "max": 0.12,
+                    "min": 0.11
+                },
+                "sugarsPct": {
+                    "max": 0.2,
+                    "min": 0.18
+                },
+                "milkFatPct": {
+                    "max": 0.07,
+                    "min": 0.05
+                },
+                "emulsifiersPct": {
+                    "max": 0.008,
+                    "min": 0.001
+                },
+                "stabilizersPct": {
+                    "max": 0.006,
+                    "min": 0.004
+                },
+                "totalSolidsPct": {
+                    "max": 0.35,
+                    "min": 0.3
+                },
+                "relativeSweetness": {
+                    "max": 0.2,
+                    "min": 0.11
+                },
+                "servingTemperatureC": {
+                    "max": -12,
+                    "min": -16
+                }
+            }
+        },
+        {
+            "id": 4,
+            "createdAt": "2025-10-17 06:24:31.738587+00",
+            "updatedAt": "2026-01-27 03:36:51.429035+00",
+            "createdBy": null,
+            "slug": "low-fat-ice-cream",
+            "name": "Low Fat Ice Cream",
+            "recipeTypes": [
+                "ice_cream"
+            ],
+            "description": null,
+            "link": null,
+            "config": {
+                "msnfPct": {
+                    "max": 0.14,
+                    "min": 0.12
+                },
+                "sugarsPct": {
+                    "max": 0.21,
+                    "min": 0.18
+                },
+                "milkFatPct": {
+                    "max": 0.05,
+                    "min": 0.02
+                },
+                "emulsifiersPct": {
+                    "max": 0.008,
+                    "min": 0.001
+                },
+                "stabilizersPct": {
+                    "max": 0.009,
+                    "min": 0.007
+                },
+                "totalSolidsPct": {
+                    "max": 0.32,
+                    "min": 0.28
+                },
+                "relativeSweetness": {
+                    "max": 0.2,
+                    "min": 0.11
+                },
+                "servingTemperatureC": {
+                    "max": -12,
+                    "min": -16
+                }
+            }
+        },
+        {
+            "id": 3,
+            "createdAt": "2025-10-17 06:24:31.738587+00",
+            "updatedAt": "2026-01-27 03:36:51.429035+00",
+            "createdBy": null,
+            "slug": "nonfat-ice-cream",
+            "name": "Nonfat Ice Cream",
+            "recipeTypes": [
+                "ice_cream"
+            ],
+            "description": null,
+            "link": null,
+            "config": {
+                "msnfPct": {
+                    "max": 0.14,
+                    "min": 0.12
+                },
+                "sugarsPct": {
+                    "max": 0.22,
+                    "min": 0.18
+                },
+                "milkFatPct": {
+                    "max": 0.005,
+                    "min": 0
+                },
+                "emulsifiersPct": {
+                    "max": 0.008,
+                    "min": 0.001
+                },
+                "stabilizersPct": {
+                    "max": 0.011,
+                    "min": 0.009
+                },
+                "totalSolidsPct": {
+                    "max": 0.32,
+                    "min": 0.28
+                },
+                "relativeSweetness": {
+                    "max": 0.2,
+                    "min": 0.11
+                },
+                "servingTemperatureC": {
+                    "max": -12,
+                    "min": -16
+                }
+            }
+        },
+        {
+            "id": 8,
+            "createdAt": "2025-10-17 06:24:31.738587+00",
+            "updatedAt": "2026-01-27 03:36:51.429035+00",
+            "createdBy": null,
+            "slug": "premium-ice-cream",
+            "name": "Premium Ice Cream",
+            "recipeTypes": [
+                "ice_cream"
+            ],
+            "description": null,
+            "link": null,
+            "config": {
+                "msnfPct": {
+                    "max": 0.1,
+                    "min": 0.08
+                },
+                "sugarsPct": {
+                    "max": 0.16,
+                    "min": 0.13
+                },
+                "milkFatPct": {
+                    "max": 0.14,
+                    "min": 0.12
+                },
+                "emulsifiersPct": {
+                    "max": 0.008,
+                    "min": 0.001
+                },
+                "stabilizersPct": {
+                    "max": 0.004,
+                    "min": 0.002
+                },
+                "totalSolidsPct": {
+                    "max": 0.4,
+                    "min": 0.38
+                },
+                "relativeSweetness": {
+                    "max": 0.2,
+                    "min": 0.11
+                },
+                "servingTemperatureC": {
+                    "max": -12,
+                    "min": -16
+                }
+            }
+        },
+        {
+            "id": 6,
+            "createdAt": "2025-10-17 06:24:31.738587+00",
+            "updatedAt": "2026-01-27 03:36:51.429035+00",
+            "createdBy": null,
+            "slug": "reduced-fat-ice-cream",
+            "name": "Reduced Fat Ice Cream",
+            "recipeTypes": [
+                "ice_cream"
+            ],
+            "description": null,
+            "link": null,
+            "config": {
+                "msnfPct": {
+                    "max": 0.12,
+                    "min": 0.1
+                },
+                "sugarsPct": {
+                    "max": 0.19,
+                    "min": 0.18
+                },
+                "milkFatPct": {
+                    "max": 0.09,
+                    "min": 0.07
+                },
+                "emulsifiersPct": {
+                    "max": 0.008,
+                    "min": 0.001
+                },
+                "stabilizersPct": {
+                    "max": 0.005,
+                    "min": 0.003
+                },
+                "totalSolidsPct": {
+                    "max": 0.36,
+                    "min": 0.32
+                },
+                "relativeSweetness": {
+                    "max": 0.2,
+                    "min": 0.11
+                },
+                "servingTemperatureC": {
+                    "max": -12,
+                    "min": -16
+                }
+            }
+        },
+        {
+            "id": 13,
+            "createdAt": "2025-10-17 06:24:31.738587+00",
+            "updatedAt": "2026-01-27 03:36:51.429035+00",
+            "createdBy": null,
+            "slug": "sherbet",
+            "name": "Sherbet",
+            "recipeTypes": [
+                "sherbet"
+            ],
+            "description": null,
+            "link": null,
+            "config": {
+                "msnfPct": {
+                    "max": 0.03,
+                    "min": 0.01
+                },
+                "sugarsPct": {
+                    "max": 0.28,
+                    "min": 0.22
+                },
+                "milkFatPct": {
+                    "max": 0.02,
+                    "min": 0.01
+                },
+                "emulsifiersPct": {
+                    "max": 0.008,
+                    "min": 0.001
+                },
+                "stabilizersPct": {
+                    "max": 0.005,
+                    "min": 0.004
+                },
+                "totalSolidsPct": {
+                    "max": 0.34,
+                    "min": 0.28
+                },
+                "relativeSweetness": {
+                    "max": 0.2,
+                    "min": 0.11
+                },
+                "servingTemperatureC": {
+                    "max": -12,
+                    "min": -16
+                }
+            }
+        },
+        {
+            "id": 2,
+            "createdAt": "2025-10-17 06:24:31.738587+00",
+            "updatedAt": "2026-01-27 03:36:51.429035+00",
+            "createdBy": null,
+            "slug": "soft-serve",
+            "name": "Soft Serve",
+            "recipeTypes": [
+                "ice_cream"
+            ],
+            "description": null,
+            "link": "https://under-belly.org/so-you-want-to-make-soft-serve/",
+            "config": {
+                "msnfPct": {
+                    "max": 0.14,
+                    "min": 0.11
+                },
+                "sugarsPct": {
+                    "max": 0.15,
+                    "min": 0.13
+                },
+                "milkFatPct": {
+                    "max": 0.07,
+                    "min": 0.04
+                },
+                "emulsifiersPct": {
+                    "max": 0.002,
+                    "min": 0.001
+                },
+                "stabilizersPct": {
+                    "max": 0.003,
+                    "min": 0
+                },
+                "totalSolidsPct": {
+                    "max": 0.38,
+                    "min": 0.34
+                },
+                "relativeSweetness": {
+                    "max": 0.2,
+                    "min": 0.11
+                },
+                "servingTemperatureC": {
+                    "max": -12,
+                    "min": -16
+                }
+            }
+        },
+        {
+            "id": 14,
+            "createdAt": "2025-10-17 06:24:31.738587+00",
+            "updatedAt": "2026-01-27 03:36:51.429035+00",
+            "createdBy": null,
+            "slug": "sorbet",
+            "name": "Sorbet",
+            "recipeTypes": [
+                "sorbet"
+            ],
+            "description": null,
+            "link": null,
+            "config": {
+                "msnfPct": {
+                    "max": 0.03,
+                    "min": 0
+                },
+                "sugarsPct": {
+                    "max": 0.28,
+                    "min": 0.22
+                },
+                "milkFatPct": {
+                    "max": 0.02,
+                    "min": 0
+                },
+                "emulsifiersPct": {
+                    "max": 0.008,
+                    "min": 0.001
+                },
+                "stabilizersPct": {
+                    "max": 0.005,
+                    "min": 0.003
+                },
+                "totalSolidsPct": {
+                    "max": 0.34,
+                    "min": 0.28
+                },
+                "relativeSweetness": {
+                    "max": 0.2,
+                    "min": 0.11
+                },
+                "servingTemperatureC": {
+                    "max": -12,
+                    "min": -16
+                }
+            }
+        },
+        {
+            "id": 7,
+            "createdAt": "2025-10-17 06:24:31.738587+00",
+            "updatedAt": "2026-01-27 03:36:51.429035+00",
+            "createdBy": null,
+            "slug": "standard-ice-cream",
+            "name": "Standard Ice Cream",
+            "recipeTypes": [
+                "ice_cream"
+            ],
+            "description": null,
+            "link": null,
+            "config": {
+                "msnfPct": {
+                    "max": 0.1,
+                    "min": 0.09
+                },
+                "sugarsPct": {
+                    "max": 0.17,
+                    "min": 0.14
+                },
+                "milkFatPct": {
+                    "max": 0.12,
+                    "min": 0.1
+                },
+                "emulsifiersPct": {
+                    "max": 0.008,
+                    "min": 0.001
+                },
+                "stabilizersPct": {
+                    "max": 0.004,
+                    "min": 0.002
+                },
+                "totalSolidsPct": {
+                    "max": 0.38,
+                    "min": 0.36
+                },
+                "relativeSweetness": {
+                    "max": 0.2,
+                    "min": 0.11
+                },
+                "servingTemperatureC": {
+                    "max": -12,
+                    "min": -16
+                }
+            }
+        },
+        {
+            "id": 9,
+            "createdAt": "2025-10-17 06:24:31.738587+00",
+            "updatedAt": "2026-01-27 03:36:51.429035+00",
+            "createdBy": null,
+            "slug": "superpremium-ice-cream",
+            "name": "Superpremium Ice Cream",
+            "recipeTypes": [
+                "ice_cream"
+            ],
+            "description": null,
+            "link": null,
+            "config": {
+                "msnfPct": {
+                    "max": 0.08,
+                    "min": 0.05
+                },
+                "sugarsPct": {
+                    "max": 0.17,
+                    "min": 0.14
+                },
+                "milkFatPct": {
+                    "max": 0.18,
+                    "min": 0.14
+                },
+                "emulsifiersPct": {
+                    "max": 0.008,
+                    "min": 0.001
+                },
+                "stabilizersPct": {
+                    "max": 0.002,
+                    "min": 0
+                },
+                "totalSolidsPct": {
+                    "max": 0.42,
+                    "min": 0.4
+                },
+                "relativeSweetness": {
+                    "max": 0.2,
+                    "min": 0.11
+                },
+                "servingTemperatureC": {
+                    "max": -12,
+                    "min": -16
+                }
+            }
+        },
+        {
+            "id": 16,
+            "createdAt": "2025-10-17 06:24:31.738587+00",
+            "updatedAt": "2026-01-27 03:36:51.429035+00",
+            "createdBy": null,
+            "slug": "freeform",
+            "name": "Freeform",
+            "recipeTypes": [
+                "ice_cream",
+                "gelato",
+                "sherbet",
+                "sorbet",
+                "frozen_yogurt",
+                "ganache",
+                "other"
+            ],
+            "description": null,
+            "link": null,
+            "config": {}
+        }
+    ]
+}
