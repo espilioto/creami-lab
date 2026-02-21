@@ -7874,7 +7874,7 @@ Scaled to Deluxe pint from u/Salty_Zebra5937's original (standard pint, ~325 kca
 4. Taste and adjust sweetener.
 5. Pour into Creami pint, leaving headspace. Flatten top.
 6. Freeze 24h.
-7. Scrape test. Ice Cream setting.
+7. Scrape test.
 8. Scrape down sides with butter knife, push top down with spoon. Re-Spin if needed.
 
 **Notes:**
