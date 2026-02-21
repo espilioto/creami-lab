@@ -7859,7 +7859,7 @@ Tags: ice cream, cookie dough, chickpea, low-calorie, high-protein
 Scaled to Deluxe pint from u/Salty_Zebra5937's original (standard pint, ~325 kcal).
 
 **Ingredients:**
-- Marata 1.5% milk — 450g
+- Marata 1.5% milk — 400g
 - canned chickpeas (drained, no aquafaba) — 110g
 - peanut butter — 11g
   - PB2 (22g) 🟡 → 11g peanut butter — higher fat, less peanut intensity. Blend thoroughly.
@@ -7884,7 +7884,7 @@ Scaled to Deluxe pint from u/Salty_Zebra5937's original (standard pint, ~325 kca
 - Variations that worked: cashew milk instead of dairy, vanilla protein powder instead of PB, pumpkin spice oat milk + pecans.
 - Optional mix-in: chocolate chunks via Mix-In program (OP used Kinder). Adds ~170 kcal per 30g.
 
-**Nutrition (per Deluxe pint, base only):** ~575 kcal (~89 kcal/100g) | 15g fat | 27g protein | 86g carbs
+**Nutrition (per Deluxe pint, base only):** ~552 kcal (~93 kcal/100g) | 15g fat | 25g protein | 82g carbs
 
 ---
 
