@@ -8,16 +8,16 @@
 > **Recipe optimization workflow:**
 > 1. **Always validate against Scoopulator before presenting.** When proposing recipe changes, build a Scoopulator calc URL using slugs from `rest/scoopulator_ingredients_index.txt`, fetch the page, and extract metrics (PAC, POD, solids, MSNF, fat, serving temp, etc.).
 > 2. **Adjust recipe and validate again:** Ask scoopulator about the recipe, and loop until metrics are realistically acceptable for the ingredients (no need to fixate on getting all green, just as many as possible for given ingredients). No more than 10 requests, then give me the best one and show the url in your response.
-> 3. **No buying extras to fix metrics.** Work with pantry + supermarket only. Accept the best achievable result — don't suggest buying specialty ingredients (SMP, etc.) unless they're in the Section 4.8 buy list and the recipe depends on them.
-> 4. **Scoopulator URL format:** `https://scoopulator.app/calc?ingredients=slug1:weight1,slug2:weight2,...&target=TARGET` where TARGET is one of the **slugs** from section 8. Choose the correct TARGET profile for what the recipe actually is — don't game the metrics by picking whichever target happens to score more greens. When a recipe fits multiple profiles, present both Scoopulator URLs (one per candidate target) and let the user choose. If a recipe doesn't clearly fit any profile, inform the user and let them decide which target to validate against (or whether to use `freeform`).
+> 3. **No buying extras to fix metrics.** Work with pantry + supermarket only. Accept the best achievable result — don't suggest buying specialty ingredients (SMP, etc.) unless they're in the Section 4.3 buy list and the recipe depends on them.
+> 4. **Scoopulator URL format:** `https://scoopulator.app/calc?ingredients=slug1:weight1,slug2:weight2,...&target=TARGET` where TARGET is one of the **slugs** from section 7. Choose the correct TARGET profile for what the recipe actually is — don't game the metrics by picking whichever target happens to score more greens. When a recipe fits multiple profiles, present both Scoopulator URLs (one per candidate target) and let the user choose. If a recipe doesn't clearly fit any profile, inform the user and let them decide which target to validate against (or whether to use `freeform`).
 > 5. **Ingredient slugs:** Look up in `rest/scoopulator_ingredients_index.txt` (format: `name:slug`). PRIORITIZE the user's custom ingredients.
 > 6. **Show every Scoopulator fetch** as a one-line color-coded summary — every iteration, not just the final one. Never silently skip a fetch. Format: `PAC 23.8 | Serv. -9.4°C 🔴 | Sugars 14.1% 🟡 | Fat 2.6% 🔴 | MSNF 2.4% 🔴 | Solids 27% 🔴 | Sweet 9.5% 🔴 | Stab 0.42% 🔴 | Emul 0% 🔴`
 > **MANDATORY: Do NOT guess or rely on memory for ingredient science, PAC/POD values, thickener ratios, or nutrition data.** Before proposing any recipe, modification, or ingredient advice:
-> 1. Read `ice-creamery-main/docs/info/ingredients.md` (PAC/POD/GI, hardening factors, sweetener/thickener/emulsifier science)
-> 2. Read `ice-creamery-main/docs/info/nutrition.md` (exact nutritional values per 100g)
-> 3. Read `ice-creamery-main/docs/info/principles.md` (PAC targets, MSNF targets)
-> 4. Consult `ice-creamery-main/docs/info/glossary.md` if any term is unclear
-> 5. THEN design the recipe, THEN validate with Scoopulator, THEN present to user.
+> a. Read `ice-creamery-main/docs/info/ingredients.md` (PAC/POD/GI, hardening factors, sweetener/thickener/emulsifier science)
+> b. Read `ice-creamery-main/docs/info/nutrition.md` (exact nutritional values per 100g)
+> c. Read `ice-creamery-main/docs/info/principles.md` (PAC targets, MSNF targets)
+> d. Consult `ice-creamery-main/docs/info/glossary.md` if any term is unclear
+> e. THEN design the recipe, THEN validate with Scoopulator, THEN present to user.
 > **Recipe adaptation rules (for `CREAMing.md`):**
 > 1. **Self-contained:** Every recipe must be complete and ready to follow. Never reference another file — "see e4cm_recipes.md" is not acceptable.
 > 2. **Swap format:** `original (weight) [tier emoji]` then sub-bullets for each replacement ingredient. For simple 1:1 swaps use inline `→`. No shorthand — expand blends to components. Break multi-ingredient swaps into sub-bullets for readability.
@@ -35,7 +35,7 @@
 
 **Machine:** Ninja Creami Deluxe (NC500 series) — 24oz / 680ml pints
 **Home freezer temperature:** -18°C
-- **Programs:** Ice Cream, Lite Ice Cream, Sorbet, Gelato, Frozen Yogurt, Milkshake, Smoothie Bowl, Mix-In, Re-Spin
+- **Programs:** Ice Cream, Lite Ice Cream, Sorbet, Gelato, Frozen Yogurt, Milkshake, Mix-In, Re-Spin
 - **Processing modes:** TOP / FULL / BOTTOM (partial pint processing)
 - **Freezer temp range:** -13C to -22C (9F to -7F)
 - **Freeze time:** Minimum 24 hours (36h for cooked/warm bases)
@@ -84,7 +84,7 @@
 | Salt | Supermarket | Kitchen salt |
 | Cocoa powder | Supermarket | For chocolate bases |
 | Vanilla extract | Supermarket | Replaces vanilla bean powder in all repo recipes |
-| Corn starch | Supermarket | Replaces Ultratex in all repo recipes |
+| Corn starch | Supermarket | Replaces Ultratex: same weight (~10g/pint, ~1.5%), BUT must cook (slurry in cold liquid → heat to 90°C+). Ultratex is cold-acting; corn starch is not |
 | Marata 1.5% milk | Supermarket | 47 kcal/100ml. Fat 1.5, carbs 4.8, protein 3.5, water ~90%. Standard base |
 | Marata 2% strained yogurt | Supermarket | 66 kcal/100g. Fat 2, carbs 3.9, protein 8 |
 | Alpro unsweetened soy milk | Supermarket | ~33 kcal/100ml. Alternative base liquid |
@@ -114,16 +114,16 @@ Inulin 110g, Soy Lecithin 18g (replaces GMS), CMC 9g, Guar 6g, Salt 5g, Xanthan 
 
 | Ingredient | Ratio | Per 30g dose | Per 20g dose |
 |-----------|-------|-------------|-------------|
-| Erythritol | 100/218 = 45.9% | 13.8g | 9.2g |
-| Inulin | 100/218 = 45.9% | 13.8g | 9.2g |
-| CMC | 10/218 = 4.6% | 1.4g | 0.9g |
-| Guar Gum | 3.5/218 = 1.6% | 0.5g | 0.3g |
-| Salt | 3.5/218 = 1.6% | 0.5g | 0.3g |
-| Xanthan Gum | 1/218 = 0.46% | 0.14g | 0.09g |
+| Erythritol | 45.9% | 13.8g | 9.2g |
+| Inulin | 45.9% | 13.8g | 9.2g |
+| CMC | 4.6% | 1.4g | 0.9g |
+| Guar Gum | 1.6% | 0.5g | 0.3g |
+| Salt | 1.6% | 0.5g | 0.3g |
+| Xanthan Gum | 0.46% | 0.14g | 0.09g |
 
 ### SweEX (Erythritol + Xylitol 3:2)
 - 60% Erythritol + 40% Xylitol
-- PAC = 256, POD ~85%, GI < 7
+- PAC = 2.56, POD ~85%, GI < 7
 - Swap to allulose/dextrose: use 133% of SweEX amount
 - Swap to sugar: roughly same weight but different PAC/texture
 
@@ -139,45 +139,9 @@ Inulin 110g, Soy Lecithin 18g (replaces GMS), CMC 9g, Guar 6g, Salt 5g, Xanthan 
 - 🟡 = works but noticeably different — degraded texture, flavor, or body
 - 🔴 = no viable swap — buy the ingredient or skip the recipe
 
----
+### 4.1 COMMON BASE PATTERNS
 
-### 4.1 Fairlife Milk
-Ultra-filtered: ~13g protein/240ml, ~6g lactose, near-zero fat. Extra casein + reduced water = fewer ice crystals.
-
-- **400-440g fat-free** → 375g Marata 1.5% + 20g whey + 15g glycerin 🟡 — whey compensates protein but not casein. Glycerin adds body + FPD. Reduce sweetener ~5g (higher lactose).
-- **380-430g 2%/high-protein** → 400g Marata 1.5% + 15g whey + 10g glycerin 🟡 — closer fat match, less glycerin needed.
-- **Gap closer (recipe-dependent):** If recipe has ≤1g xanthan, bump to 1.5g. If recipe has no inulin/Salty Stability, add 5-10g inulin. Skip if recipe already has high stabilizer doses.
-
-### 4.2 Sweeteners
-- **Swerve** → SweEX same weight 🟢 — xylitol prevents erythritol crystallization (same role as Swerve's oligos). PAC ~256 vs ~270. Pinch sucralose if needed.
-- **Swerve** → pure erythritol same weight 🟡 — crystallization risk at 50g+. Add xylitol or 0.05% xanthan.
-- **Brown sugar erythritol** → erythritol same weight 🟡 — loses caramel note. Add 3-5g honey or Milk Cream flavor drop.
-
-### 4.3 Protein
-- **Vanilla whey** → unflavored whey + 2g vanilla extract 🟢
-- **Chocolate whey** → unflavored whey + 5g cocoa + chocolate flavor drops 🟢 — bump sweetener slightly (cocoa bitter)
-- **Cookies & cream whey** → unflavored whey + 2g vanilla + 1 Oreo blended in 🟡
-- **Snickerdoodle whey** → unflavored whey + 1.5g cinnamon + 2g vanilla 🟢
-- **Whey/casein blend** → whey same weight 🟢 — slightly softer result, still excellent
-- **SMP 8g** (minor) → 5g whey + 5g inulin 🟡
-- **SMP 20g+** (structural) → 🔴 buy it or skip
-
-### 4.4 Cocoa & Flavorings
-- **Black cocoa** → regular cocoa same weight + pinch baking soda 🟡 — lighter color, more bitter. Taste OK.
-- **Coffee extract** (6 drops) → 1g instant coffee in 2ml warm water 🟢
-- **Vanilla bean** (half bean) → 3x vanilla extract 🟡 — loses specks + depth. Buy beans for vanilla-forward recipes.
-
-### 4.5 Emulsifiers
-- **GMS (E471)** → Soy Lecithin Powder same weight 🟢
-
-### 4.6 Mix-ins (US-specific)
-- **PBfit** (8g) → 4g peanut butter 🟡 — higher fat, blend thoroughly
-- **Zero sugar brownie mix** → DIY: 100g flour + 40g cocoa + 80g erythritol + pinch salt + pinch baking powder 🟡
-- **Oatmeal Creme Pie** → any sandwich cookie/filled biscuit 🟡
-- **US cereals** → any local equivalent of same flavor profile 🟢
-- **Bing cherries** → dark sweet cherries (jarred), NOT sour/vyssino 🟡
-
-### 4.7 QUICK-REFERENCE: COMMON BASE PATTERNS
+> Start here — these cover 90% of recipes. See 4.2 for edge cases.
 
 **E4CM Standard Base → Greek:**
 ```
@@ -195,7 +159,7 @@ ORIGINAL                              GREEK SWAP
 40-50g Swerve                      →  40-50g SweEX
 1g xanthan                         →  1g xanthan
 0.5-1g salt                        →  0.5-1g salt
-+ flavored protein 16-32g         →  unflavored whey same weight + flavor (see 4.3)
++ flavored protein 16-32g         →  unflavored whey same weight + flavor (see Protein below)
 ```
 
 **FPF Standard Base → Greek:**
@@ -210,7 +174,49 @@ pinch salt                         →  pinch salt
 
 ---
 
-### 4.8 BUY LIST (NO VIABLE SWAP)
+### 4.2 DETAILED SWAP LOGIC
+
+> Only consult when a recipe uses an ingredient not covered by the base patterns above.
+
+#### Fairlife Milk
+Ultra-filtered: ~13g protein/240ml, ~6g lactose, near-zero fat. Extra casein + reduced water = fewer ice crystals.
+
+- **400-440g fat-free** → 375g Marata 1.5% + 20g whey + 15g glycerin 🟡 — whey compensates protein but not casein. Glycerin adds body + FPD. Reduce sweetener by ~5g vs original recipe (higher lactose in Marata).
+- **380-430g 2%/high-protein** → 400g Marata 1.5% + 15g whey + 10g glycerin 🟡 — closer fat match, less glycerin needed.
+- **Gap closer (recipe-dependent):** If recipe has ≤1g xanthan, bump to 1.5g. If recipe has no inulin/Salty Stability, add 5-10g inulin. Skip if recipe already has >3g total gums (>0.5% of mix = overdosed per repo).
+
+#### Sweeteners
+- **Swerve** → SweEX same weight 🟢 — xylitol prevents erythritol crystallization (same role as Swerve's oligos). PAC ~2.56 vs ~2.70. Pinch sucralose if needed.
+- **Swerve** → pure erythritol same weight 🟡 — crystallization risk at 50g+. Add xylitol or 0.05% xanthan.
+- **Brown sugar erythritol** → erythritol same weight 🟡 — loses caramel note. Add 3-5g honey or Milk Cream flavor drop.
+
+#### Protein
+- **Vanilla whey** → unflavored whey + 2g vanilla extract 🟢
+- **Chocolate whey** → unflavored whey + 5g cocoa + chocolate flavor drops 🟢 — bump sweetener slightly (cocoa bitter)
+- **Cookies & cream whey** → unflavored whey + 2g vanilla + 1 Oreo blended in 🟡
+- **Snickerdoodle whey** → unflavored whey + 1.5g cinnamon + 2g vanilla 🟢
+- **Whey/casein blend** → whey same weight 🟢 — slightly softer result, still excellent
+- **SMP 8g** (minor) → 5g whey + 5g inulin 🟡
+- **SMP 20g+** (structural) → 🔴 buy it or skip
+
+#### Cocoa & Flavorings
+- **Black cocoa** → regular cocoa same weight + pinch baking soda 🟡 — lighter color, more bitter. Taste OK.
+- **Coffee extract** (6 drops) → 1g instant coffee in 2ml warm water 🟢
+- **Vanilla bean** (half bean, ~2g) → 6g vanilla extract (3x the weight) 🟡 — loses specks + depth. Buy beans for vanilla-forward recipes.
+
+#### Emulsifiers
+- **GMS (E471)** → Soy Lecithin Powder same weight 🟢
+
+#### Mix-ins (US-specific)
+- **PBfit** (8g) → 4g peanut butter 🟡 — higher fat, blend thoroughly
+- **Zero sugar brownie mix** → DIY: 100g flour + 40g cocoa + 80g erythritol + pinch salt + pinch baking powder 🟡
+- **Oatmeal Creme Pie** → any sandwich cookie/filled biscuit 🟡
+- **US cereals** → any local equivalent of same flavor profile 🟢
+- **Bing cherries** → dark sweet cherries (jarred), NOT sour/vyssino 🟡
+
+---
+
+### 4.3 BUY LIST (NO VIABLE SWAP)
 
 | Ingredient | Why | Used In |
 |-----------|-----|---------|
@@ -222,26 +228,7 @@ pinch salt                         →  pinch salt
 
 ---
 
-## 5. RECIPE SOURCES
-
-| Source | File | Notes |
-|--------|------|-------|
-| ice-creamery repo (jhermann) | `icecreamery_recipes.md` | 121 recipes, 7 categories. Raw: `ice-creamery-main/` |
-| FitnessProductFinder (Eli) | `fpf_recipes.md` | 39 B&J dupes + 18 DQ Blizzards. Raw: `raw_transcripts/fpf/` |
-| Exercise4CheatMeals (E4CM) | `e4cm_recipes.md` | 24 recipes + 47 tips. Raw: `raw_transcripts/e4cm/` |
-
-**Reference docs** in `ice-creamery-main/docs/info/`:
-- `ingredients.md` — PAC/POD/GI tables, hardening factors, all sweeteners/thickeners/emulsifiers/dairy-alts, blend ratios, cocoa, alcohol
-- `nutrition.md` — kcal/fat/carbs/protein/PAC/MSNF per 100g for 100+ ingredients
-- `tips+tricks.md` — scrape test, icy sides handling, workflow, essential tools
-- `polar-ice-creamery.md` — sugar science (sucrose vs dextrose vs erythritol), stabilizer principles
-- `principles.md` — PAC targets (20-30 ice cream, 30-36 sorbet), MSNF targets
-- `glossary.md` — PAC, POD, GI, HLB, DE, MSNF, ABV definitions
-- `faq.md`, `web-resources.md`, `plating.md`
-
----
-
-## 6. TIPS & TRICKS
+## 5. TIPS & TRICKS
 
 ### Preparation
 - Use immersion blender (NOT milk frother) to hydrate gums and suspend cocoa
@@ -258,7 +245,7 @@ pinch salt                         →  pinch salt
 - **Soft** (spoon sinks easily) → Ice Cream + Mix-In, NO thawing, NO higher setting
 - **Questionably soft** → Ice Cream + Mix-In (accept soft serve), or refreeze longer
 
-**Default 1st spin = Sorbet.** More aggressive downstroke but gentler upstroke than Lite Ice Cream. Lite's upstroke can over-process into soft serve. Frozen Yogurt mode induces the most heat (5 min total) — safest of all but makes softest result. Use the setting regardless of what the mix actually is. Lower settings can actually draw MORE power on hard pints = burnout risk.
+**Default 1st spin = Sorbet.** More aggressive downstroke but gentler upstroke than Lite Ice Cream. Lite's upstroke can over-process into soft serve. Frozen Yogurt mode induces the most heat (5 min total) — safest of all but makes softest result. Use the scrape-test-recommended setting regardless of what the mix actually is. Lower settings can actually draw MORE power on hard pints = burnout risk.
 
 **Spin combos by desired texture:**
 - Hard ice cream (ideal): Sorbet → Mix-In (2 spins)
@@ -280,7 +267,7 @@ pinch salt                         →  pinch salt
 
 ---
 
-## 7. INGREDIENT REFERENCE (KEY NUMBERS)
+## 6. INGREDIENT REFERENCE (KEY NUMBERS)
 
 **Target PAC:** 20-30 for scoopable ice cream, 30-36 for sorbets
 
@@ -296,7 +283,7 @@ pinch salt                         →  pinch salt
 
 ---
 
-## 8. SCOOPIFY TARGET PROFILES
+## 7. SCOOPIFY TARGET PROFILES
 
 > Reference for Scoopulator validation. Each profile defines acceptable ranges for a recipe type.
 > Source: `rest/scoopulator_profiles_index.json` (scraped from Scoopify). All values are percentages.
@@ -337,28 +324,37 @@ pinch salt                         →  pinch salt
 
 ---
 
-## 9. FILE INVENTORY
+## 8. FILE INVENTORY
 
-| File | Contents |
-|------|---------|
-| `CLAUDE.md` | THIS FILE — master context and reference |
-| `CREAMing.md` | Adapted recipes with Greek ingredient swaps |
-| `icecreamery_recipes.md` | ice-creamery repo: 121 recipes across 7 categories (original ingredients) |
-| `fpf_recipes.md` | FPF: 39 B&J dupes + 18 DQ Blizzard dupes + 11 tips (original ingredients) |
-| `e4cm_recipes.md` | E4CM: 24 recipes + 47 tips (original ingredients) |
-| `ice-creamery-main/` | GitHub repo clone — raw source (unmodified) |
-| `raw_transcripts/fpf/` | 109 VTT + 113 description files from YouTube |
-| `raw_transcripts/e4cm/` | 12 VTT + 13 description files from YouTube |
-| `rest/NC500Series_IB_MP.txt` | Ninja Creami Deluxe NC500 owner's manual (full text) |
-| `rest/scoopulator_ingredients_index.txt` | Ingredient slug lookup for Scoopulator API |
-| `rest/spin_settings.srt` | Spin settings reference (wh_ben subtitle) |
-| `rest/manis_products.html` | Manis store product page (reference) |
-| `rest/yt-dlp_win/yt-dlp.exe` | YouTube downloader tool (see YouTube workflow below) |
-| `rest/scoopulator_profiles_index.json` | Scoopify target profiles (scraped) — acceptable metric ranges per recipe type |
+| File | Source | Contents |
+|------|--------|---------|
+| `CLAUDE.md` | — | THIS FILE — master context and reference |
+| `CREAMing.md` | — | Adapted recipes with Greek ingredient swaps |
+| `icecreamery_recipes.md` | ice-creamery repo (jhermann) | 121 recipes, 7 categories (original ingredients) |
+| `fpf_recipes.md` | FitnessProductFinder (Eli) | 39 B&J dupes + 18 DQ Blizzards + 11 tips (original ingredients) |
+| `e4cm_recipes.md` | Exercise4CheatMeals (E4CM) | 24 recipes + 47 tips (original ingredients) |
+| `ice-creamery-main/` | jhermann | GitHub repo clone — raw source (unmodified) |
+| `raw_transcripts/fpf/` | Eli | 109 VTT + 113 description files from YouTube |
+| `raw_transcripts/e4cm/` | E4CM | 12 VTT + 13 description files from YouTube |
+| `rest/NC500Series_IB_MP.txt` | Ninja | NC500 owner's manual (full text) |
+| `rest/scoopulator_ingredients_index.txt` | Scoopify | Ingredient slug lookup for Scoopulator API |
+| `rest/spin_settings.srt` | wh_ben | Spin settings reference (subtitle) |
+| `rest/manis_products.html` | Manis | Store product page (reference) |
+| `rest/yt-dlp_win/yt-dlp.exe` | — | YouTube downloader tool (see YouTube workflow below) |
+| `rest/scoopulator_profiles_index.json` | Scoopify | Target profiles (scraped) — acceptable metric ranges per recipe type |
+
+**Reference docs** in `ice-creamery-main/docs/info/`:
+- `ingredients.md` — PAC/POD/GI tables, hardening factors, sweeteners/thickeners/emulsifiers/dairy-alts, blend ratios, cocoa, alcohol
+- `nutrition.md` — kcal/fat/carbs/protein/PAC/MSNF per 100g for 100+ ingredients
+- `tips+tricks.md` — scrape test, icy sides handling, workflow, essential tools
+- `polar-ice-creamery.md` — sugar science (sucrose vs dextrose vs erythritol), stabilizer principles
+- `principles.md` — PAC targets (20-30 ice cream, 30-36 sorbet), MSNF targets
+- `glossary.md` — PAC, POD, GI, HLB, DE, MSNF, ABV definitions
+- `faq.md`, `web-resources.md`, `plating.md`
 
 ---
 
-## 10. YOUTUBE WORKFLOW
+## 9. YOUTUBE WORKFLOW
 
 > **When given a YouTube URL**, ALWAYS use yt-dlp to extract content. Do NOT try WebFetch on youtube.com (it's blocked).
 
