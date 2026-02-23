@@ -11,11 +11,7 @@
 > 3. **No buying extras to fix metrics.** Work with pantry + supermarket only. Accept the best achievable result — don't suggest buying specialty ingredients (SMP, etc.) unless they're in the Section 4.8 buy list and the recipe depends on them.
 > 4. **Scoopulator URL format:** `https://scoopulator.app/calc?ingredients=slug1:weight1,slug2:weight2,...&target=TARGET` where TARGET is one of the **slugs** from section 8. Choose the correct TARGET profile for what the recipe actually is — don't game the metrics by picking whichever target happens to score more greens. When a recipe fits multiple profiles, present both Scoopulator URLs (one per candidate target) and let the user choose. If a recipe doesn't clearly fit any profile, inform the user and let them decide which target to validate against (or whether to use `freeform`).
 > 5. **Ingredient slugs:** Look up in `rest/scoopulator_ingredients_index.txt` (format: `name:slug`). PRIORITIZE the user's custom ingredients.
-> 6. **Scoopulator result display (EVERY fetch):** After **every single** Scoopulator fetch — including intermediate optimization loops, not just the final result — immediately show the user a **minimal one-line** color-coded summary. Format: `PAC value | Metric value 🟢/🟡/🔴 | ...`. Example:
->    ```
->    PAC 23.8 | Serv. -9.4°C 🔴 | Sugars 14.1% 🟡 | Fat 2.6% 🔴 | MSNF 2.4% 🔴 | Solids 27% 🔴 | Sweet 9.5% 🔴 | Stab 0.42% 🔴 | Emul 0% 🔴
->    ```
->    This keeps the user in the loop on every iteration. Never silently consume a Scoopulator response without showing the line.
+> 6. **Show every Scoopulator fetch** as a one-line color-coded summary — every iteration, not just the final one. Never silently skip a fetch. Format: `PAC 23.8 | Serv. -9.4°C 🔴 | Sugars 14.1% 🟡 | Fat 2.6% 🔴 | MSNF 2.4% 🔴 | Solids 27% 🔴 | Sweet 9.5% 🔴 | Stab 0.42% 🔴 | Emul 0% 🔴`
 > **MANDATORY: Do NOT guess or rely on memory for ingredient science, PAC/POD values, thickener ratios, or nutrition data.** Before proposing any recipe, modification, or ingredient advice:
 > 1. Read `ice-creamery-main/docs/info/ingredients.md` (PAC/POD/GI, hardening factors, sweetener/thickener/emulsifier science)
 > 2. Read `ice-creamery-main/docs/info/nutrition.md` (exact nutritional values per 100g)
