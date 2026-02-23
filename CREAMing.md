@@ -7890,3 +7890,50 @@ Scaled to Deluxe pint from u/Salty_Zebra5937's original.
 
 ---
 
+## Mix-In Components
+
+### Protein Brownie Cubes
+Tags: mix-in, prep, low-calorie, high-protein, chocolate, crunch, chewy
+
+Low-cal brownie cubes for mix-ins. One batch makes ~9 pints worth. Two textures from one batch: chewy center cubes + crunchy re-baked edge cubes.
+
+**Ingredients (1 batch, ~272g finished):**
+- whey protein (unflavored) — 50g
+- cocoa powder — 35g
+- erythritol (or SweEX) — 80g
+- egg — 1 (~50g)
+- corn starch — 15g
+- water — 85g
+- salt — 1g
+- baking powder — 1g
+- sucralose — 0.05g/pinch
+
+**Steps:**
+1. Preheat oven to 170°C.
+2. Bloom cocoa: combine cocoa with 40g hot water, stir to a smooth paste. Set aside.
+3. Mix remaining dry ingredients in a bowl: whey, erythritol, corn starch, salt, baking powder.
+4. Beat egg with remaining 45g water and sucralose.
+5. Combine cocoa paste + egg mixture into dry ingredients. Mix until smooth batter (immersion blender works).
+6. Pour into a lined/greased small pan (~10x15cm for ~1.8cm thickness).
+7. Bake 170°C for 16-18 min. Underbake slightly — toothpick should come out with moist crumbs, not clean.
+8. Cool completely. Cut into ~1cm cubes.
+9. Separate center cubes (chewy) from edge cubes.
+10. For crunchy cubes: spread edge cubes on a tray, bake again at 150°C for 10-12 min until dry and crisp.
+11. Freeze all cubes in single layer on parchment-lined plate, then bag for storage.
+
+**Usage:** ~30g per pint (mix of chewy + crunchy). Create 1.5cm hole in pint, add cubes, run Mix-In program.
+
+**Notes:**
+- Chewy cubes (center pieces) stay dense and fudgy through Mix-In.
+- Crunchy cubes (re-baked edges) hold up like biscotti through Mix-In.
+- Use ~15g chewy + ~15g crunchy per pint for both textures.
+- For a ~100 kcal/100g base, adding 30g brownie cubes keeps total at ~104 kcal/100g.
+- Cocoa fat % doesn't meaningfully change total calories (11% and 21% cocoa are within 2 kcal/100g of each other).
+- **Storage:** freeze cubes flat on parchment first (1-2h), then transfer to a zip-lock bag with air squeezed out. Keeps 2-3 months. After 3 months erythritol can develop a gritty surface — still safe, just less pleasant. Pull and use directly, no thawing needed.
+
+**Nutrition (per batch ~272g):** 445 kcal | 11.2g fat | 25.5g net carbs | 56.2g protein
+**Nutrition (per 100g):** 164 kcal | 4.1g fat | 9.4g net carbs | 20.7g protein
+**Nutrition (per 30g pint serving):** 49 kcal | 1.2g fat | 2.8g net carbs | 6.2g protein
+
+---
+
