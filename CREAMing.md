@@ -7890,7 +7890,7 @@ Scaled to Deluxe pint from u/Salty_Zebra5937's original.
 
 ---
 
-## Mix-In Components
+## TESTING — Mix-In Components
 
 ### Protein Brownie Cubes
 Tags: mix-in, prep, low-calorie, high-protein, chocolate, crunch, chewy
@@ -7934,6 +7934,112 @@ Low-cal brownie cubes for mix-ins. One batch makes ~9 pints worth. Two textures 
 **Nutrition (per batch ~272g):** 445 kcal | 11.2g fat | 25.5g net carbs | 56.2g protein
 **Nutrition (per 100g):** 164 kcal | 4.1g fat | 9.4g net carbs | 20.7g protein
 **Nutrition (per 30g pint serving):** 49 kcal | 1.2g fat | 2.8g net carbs | 6.2g protein
+
+---
+
+### Meringue Crisps
+Tags: mix-in, prep, low-calorie, crunch, almost-zero-cal
+
+Pure crunch, almost zero calories. Shatters into ice cream during Mix-In.
+
+**Ingredients (1 batch, ~67g finished, ~4 pints):**
+- egg whites — 2 (~66g)
+- erythritol — 60g
+- citric acid — 0.5g (stabilizes foam, replaces cream of tartar)
+
+**Steps:**
+1. Preheat oven to 100°C.
+2. Whip egg whites with citric acid until foamy (~1 min).
+3. Add erythritol gradually while whipping to stiff, glossy peaks (~3-4 min total).
+4. Spoon or pipe small blobs (~2cm) onto parchment-lined tray.
+5. Bake 100°C for 90 min.
+6. Turn oven off, leave meringues inside with door cracked for 1h to fully dry.
+7. Cool, then snap/break into pieces. Bag and freeze.
+
+**Usage:** ~15g per pint (meringue is very airy — 15g by weight fills a 1/4 cup easily). Create 1.5cm hole, add pieces, run Mix-In program.
+
+**Notes:**
+- Must be bone-dry before storing or they go sticky. Tap the bottom — should sound hollow.
+- Erythritol meringue is more fragile than sugar meringue. Handle gently before freezing.
+- **Storage:** zip-lock bag, air squeezed out, frozen. Keeps 2-3 months. Can also store at room temp in an airtight container for 1-2 weeks if fully dried.
+- Variation: fold in 5g cocoa powder after stiff peaks for chocolate meringue (adds ~18 kcal to batch).
+
+**Nutrition (per batch ~67g):** 34 kcal | 0.1g fat | 0.5g net carbs | 7.3g protein
+**Nutrition (per 15g pint serving):** 8 kcal | 0g fat | 0.1g net carbs | 1.6g protein
+
+---
+
+### Frozen Yogurt Bark
+Tags: mix-in, prep, low-calorie, crunch-to-chewy, tangy
+
+Snappy crunch from the freezer that softens to chewy in the ice cream. Adds a tangy flavor layer.
+
+**Ingredients (1 batch, ~170g finished, ~5 pints):**
+- Marata 2% strained yogurt — 150g
+- erythritol — 20g
+- sucralose — 0.05g/pinch
+- optional: flavor drops (chocolate, strawberry, or milk cream) or 5g cocoa powder swirled through
+
+**Steps:**
+1. Mix yogurt with erythritol and sucralose until dissolved.
+2. Spread 2-3mm thin on a parchment-lined tray or plate.
+3. Optional: swirl in cocoa paste or drizzle flavor drops with a toothpick for marbled effect.
+4. Freeze solid (2-3h).
+5. Snap into shards (~1-2cm pieces). Bag and freeze.
+
+**Usage:** ~30g per pint. Create 1.5cm hole, add shards, run Mix-In program.
+
+**Notes:**
+- Shards are crunchy/snappy when first mixed in, then soften to chewy as they temper in the ice cream. Best eaten within 10 min of Mix-In.
+- For more crunch that lasts, spread thinner (1-2mm).
+- **Storage:** zip-lock bag, air squeezed out, frozen. Keeps 1-2 months. After that, surface gets icy/grainy from freezer burn.
+
+**Nutrition (per batch ~170g):** 99 kcal | 3g fat | 5.9g carbs | 12g protein
+**Nutrition (per 100g):** 58 kcal | 1.8g fat | 3.5g carbs | 7.1g protein
+**Nutrition (per 30g pint serving):** 18 kcal | 0.5g fat | 1g carbs | 2.1g protein
+
+---
+
+### Chocolate Shell Shards
+Tags: mix-in, prep, low-calorie, crunch, chocolate
+
+Paper-thin chocolate shards — the pre-made version of the chocolate ribbon hack. Controlled portions, stays crispy through Mix-In.
+
+**Ingredients (1 batch, ~18g finished, ~2 pints):**
+- dark chocolate (70%+) — 15g
+- coconut oil — 3g
+
+**Steps:**
+1. Melt chocolate and coconut oil together (microwave 20 sec intervals, stir between, or double boiler).
+2. Pour onto a parchment-lined plate or tray.
+3. Spread paper-thin with the back of a spoon or offset spatula (~1mm thick).
+4. Freeze until solid (30-60 min).
+5. Snap into small shards (~1-2cm). Bag and freeze.
+
+**Usage:** ~9g per pint (half batch). Create 1.5cm hole, add shards, run Mix-In program.
+
+**Notes:**
+- Coconut oil lowers the melting point and makes the chocolate snap cleanly when frozen instead of shattering to dust.
+- Thinner = crispier. Go as thin as you can spread.
+- Works with any chocolate — 85% for less sugar, milk chocolate for sweeter. Calories stay similar regardless.
+- **Storage:** zip-lock bag, air squeezed out, frozen. Keeps 3+ months (chocolate is shelf-stable, coconut oil prevents bloom).
+
+**Nutrition (per batch ~18g):** 112 kcal | 9.1g fat | 5.1g carbs | 1.4g protein
+**Nutrition (per 9g pint serving):** 56 kcal | 4.6g fat | 2.6g carbs | 0.7g protein
+
+---
+
+### Mix-In Calorie Comparison
+
+| Mix-in | Serving/pint | kcal/pint | Texture |
+|---|---|---|---|
+| Protein brownie cubes | 30g | 49 | chewy + crunchy |
+| Meringue crisps | 15g | 8 | crunchy |
+| Frozen yogurt bark | 30g | 18 | snappy → chewy |
+| Chocolate shell shards | 9g | 56 | crunchy |
+| Oreos (reference) | 30g | 144 | — |
+
+All components keep a ~100 kcal/100g base under 110 kcal/100g after mix-in.
 
 ---
 
