@@ -7965,6 +7965,7 @@ Pure crunch, almost zero calories. Shatters into ice cream during Mix-In.
 - Variation: fold in 5g cocoa powder after stiff peaks for chocolate meringue (adds ~18 kcal to batch).
 
 **Nutrition (per batch ~67g):** 34 kcal | 0.1g fat | 0.5g net carbs | 7.3g protein
+**Nutrition (per 100g):** 51 kcal | 0.1g fat | 0.7g net carbs | 10.9g protein
 **Nutrition (per 15g pint serving):** 8 kcal | 0g fat | 0.1g net carbs | 1.6g protein
 
 ---
@@ -8025,6 +8026,7 @@ Paper-thin chocolate shards — the pre-made version of the chocolate ribbon hac
 - **Storage:** zip-lock bag, air squeezed out, frozen. Keeps 3+ months (chocolate is shelf-stable, coconut oil prevents bloom).
 
 **Nutrition (per batch ~18g):** 112 kcal | 9.1g fat | 5.1g carbs | 1.4g protein
+**Nutrition (per 100g):** 622 kcal | 50.6g fat | 28.3g carbs | 7.8g protein
 **Nutrition (per 9g pint serving):** 56 kcal | 4.6g fat | 2.6g carbs | 0.7g protein
 
 ---
