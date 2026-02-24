@@ -7944,13 +7944,13 @@ Pure crunch, almost zero calories. Shatters into ice cream during Mix-In.
 
 **Ingredients (1 batch, ~67g finished, ~4 pints):**
 - egg whites — 2 (~66g)
-- erythritol — 60g
+- SweEX — 60g (36g erythritol + 24g xylitol)
 - citric acid — 0.5g (stabilizes foam, replaces cream of tartar)
 
 **Steps:**
 1. Preheat oven to 100°C.
 2. Whip egg whites with citric acid until foamy (~1 min).
-3. Add erythritol gradually while whipping to stiff, glossy peaks (~3-4 min total).
+3. Add SweEX gradually while whipping to stiff, glossy peaks (~3-4 min total).
 4. Spoon or pipe small blobs (~2cm) onto parchment-lined tray.
 5. Bake 100°C for 90 min.
 6. Turn oven off, leave meringues inside with door cracked for 1h to fully dry.
