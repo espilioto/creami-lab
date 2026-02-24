@@ -813,15 +813,15 @@ Tags: peanut butter, pretzel, brownie, protein
 - Fat Free Fairlife Milk (400g) 🟡 (slightly richer/heavier pint, less "light" feel)
   - 375g Marata 1.5%
   - 20g whey protein
-  - 15g glycerin
+  - 25g glycerin
 - Monk Fruit sweetener (40-45g) 🟢
-  - 27g erythritol
-  - 18g xylitol
-  - 0.05g/pinch sucralose
+  - 20g erythritol
+  - 13g xylitol
 - peanut butter — 8g
 - PBfit (16g) → 8g peanut butter (add to base, blend thoroughly) 🟡 (richer/fattier pint, heavier PB flavor)
+- inulin — 5g
 - salt — 1g
-- xanthan gum — 1g
+- xanthan gum — 1.5g
 
 **Toppings:**
 - crushed pretzels — 10g
