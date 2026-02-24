@@ -341,7 +341,7 @@ Ultra-filtered: ~13g protein/240ml, ~6g lactose, near-zero fat. Extra casein + r
 | `rest/scoopulator_ingredients_index.txt` | Scoopify | Ingredient slug lookup for Scoopulator API |
 | `rest/spin_settings.srt` | wh_ben | Spin settings reference (subtitle) |
 | `rest/manis_products.html` | Manis | Store product page (reference) |
-| `rest/yt-dlp_win/yt-dlp.exe` | — | YouTube downloader tool (see YouTube workflow below) |
+| `rest/yt-dlp_win/yt-dlp.exe` | — | YouTube downloader tool (see `/yt` skill) |
 | `rest/scoopulator_profiles_index.json` | Scoopify | Target profiles (scraped) — acceptable metric ranges per recipe type |
 
 **Reference docs** in `ice-creamery-main/docs/info/`:
@@ -353,24 +353,3 @@ Ultra-filtered: ~13g protein/240ml, ~6g lactose, near-zero fat. Extra casein + r
 - `glossary.md` — PAC, POD, GI, HLB, DE, MSNF, ABV definitions
 - `faq.md`, `web-resources.md`, `plating.md`
 
----
-
-## 9. YOUTUBE WORKFLOW
-
-> **When given a YouTube URL**, ALWAYS use yt-dlp to extract content. Do NOT try WebFetch on youtube.com (it's blocked).
-
-**Tool:** `rest/yt-dlp_win/yt-dlp.exe`
-
-**Standard command:**
-```bash
-./rest/yt-dlp_win/yt-dlp.exe --skip-download --write-description --write-subs --write-auto-subs --sub-lang en --write-comments --output "rest/yt_temp/%(title)s" "VIDEO_URL"
-```
-
-**What this gets:**
-- `.description` — video description (usually has the recipe/ingredients)
-- `.en.vtt` — auto-generated English subtitles (the full spoken content)
-- `.info.json` — metadata including all comments
-
-**After downloading:** Read the `.description` and `.en.vtt` files to extract the recipe. Check `.info.json` for useful comments (corrections, tips from creator/viewers) if needed.
-
-**Cleanup:** Delete `rest/yt_temp/` when done if not needed long-term.

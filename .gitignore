@@ -1,1 +1,3 @@
-.claude/
+# Ignore .claude/ except skills (tracked for portability)
+.claude/*
+!.claude/skills/
