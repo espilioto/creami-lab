@@ -808,6 +808,7 @@ Tags: cheesecake, raspberry, white chocolate, protein
 
 ### Netflix & Chill'd Protein Ice Cream
 Tags: peanut butter, pretzel, brownie, protein
+Calories: base only 502 kcal (105/100g) · with mix-ins 640 kcal (125/100g)
 
 **Base:**
 - Fat Free Fairlife Milk (400g) 🟡 (slightly richer/heavier pint, less "light" feel)
