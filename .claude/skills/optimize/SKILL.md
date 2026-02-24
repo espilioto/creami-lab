@@ -1,0 +1,83 @@
+---
+name: optimize
+description: Recipe optimization and Scoopulator validation workflow. Use when proposing, modifying, or validating any ice cream recipe — handles the iterative Scoopulator loop, ingredient science lookup, and metric evaluation.
+allowed-tools: Read, Grep, Glob, WebFetch, Edit, Write
+---
+
+# Recipe Optimization Workflow
+
+## MANDATORY: Read Before Proposing
+
+Do NOT guess or rely on memory for ingredient science, PAC/POD values, thickener ratios, or nutrition data. Before proposing any recipe, modification, or ingredient advice:
+
+1. Read `ice-creamery-main/docs/info/ingredients.md` (PAC/POD/GI, hardening factors, sweetener/thickener/emulsifier science)
+2. Read `ice-creamery-main/docs/info/nutrition.md` (exact nutritional values per 100g)
+3. Read `ice-creamery-main/docs/info/principles.md` (PAC targets, MSNF targets)
+4. Consult `ice-creamery-main/docs/info/glossary.md` if any term is unclear
+5. THEN design the recipe, THEN validate with Scoopulator, THEN present to user.
+
+## Scoopulator Validation Loop
+
+1. **Always validate against Scoopulator before presenting.** Build a Scoopulator calc URL using slugs from `rest/scoopulator_ingredients_index.txt`, fetch the page, and extract metrics (PAC, POD, solids, MSNF, fat, serving temp, etc.).
+2. **Adjust recipe and validate again:** Loop until metrics are realistically acceptable for the ingredients (no need to fixate on getting all green, just as many as possible for given ingredients). No more than 10 requests, then give the best one and show the URL.
+3. **No buying extras to fix metrics.** Work with pantry + supermarket only. Accept the best achievable result — don't suggest buying specialty ingredients (SMP, etc.) unless they're in the `/adapt` buy list and the recipe depends on them.
+4. **Scoopulator URL format:** `https://scoopulator.app/calc?ingredients=slug1:weight1,slug2:weight2,...&target=TARGET` where TARGET is one of the **slugs** from the Target Profiles section below. Choose the correct TARGET profile for what the recipe actually is — don't game the metrics by picking whichever target happens to score more greens. When a recipe fits multiple profiles, present both Scoopulator URLs (one per candidate target) and let the user choose. If a recipe doesn't clearly fit any profile, inform the user and let them decide which target to validate against (or whether to use `freeform`).
+5. **Ingredient slugs:** Look up in `rest/scoopulator_ingredients_index.txt` (format: `name:slug`). PRIORITIZE the user's custom ingredients.
+6. **Show every Scoopulator fetch** as a one-line color-coded summary — every iteration, not just the final one. Never silently skip a fetch. Format: `PAC 23.8 | Serv. -9.4°C 🔴 | Sugars 14.1% 🟡 | Fat 2.6% 🔴 | MSNF 2.4% 🔴 | Solids 27% 🔴 | Sweet 9.5% 🔴 | Stab 0.42% 🔴 | Emul 0% 🔴`
+
+---
+
+## Ingredient Reference (Key Numbers)
+
+**Target PAC:** 20-30 for scoopable ice cream, 30-36 for sorbets
+
+### Hardening Factors (negative PAC)
+- Cocoa powder 21%: -160 (chocolate bases need extra FPD compensation)
+- Cocoa powder 11%: -130
+- Vegetable fat: -90
+
+### Thickener synergy ratios
+- CMC : Guar : Xanthan = 4:3:1 (cold-acting, 0.3-0.5% of total mix)
+- Guar : Xanthan = 3:1 (cold gel)
+- No GMS — use soy lecithin (1:1 by weight) as emulsifier alongside thickeners
+
+---
+
+## Scoopify Target Profiles
+
+> Each profile defines acceptable ranges for a recipe type.
+> Source: `rest/scoopulator_profiles_index.json` (scraped from Scoopify). All values are percentages.
+> All profiles with Rel. Sweetness share the same range: 11-20%.
+
+### Ice Cream Profiles
+
+| Slug | Name | Milk Fat | Total Fat | Sugars | MSNF | Stab. | Emuls. | Total Solids | Rel. Sweet. | Serving °C | Alcohol |
+|------|------|----------|-----------|--------|------|-------|--------|--------------|-------------|-----------|---------|
+| `general-ice-cream` | General | 5-18% | 10-30% | 11-17% | 7-15% | 0-0.3% | 0.1-0.8% | 35-45% | 11-20% | -16 to -12 | 0-2% |
+| `light-ice-cream` | Light | 5-7% | — | 18-20% | 11-12% | 0.4-0.6% | 0.1-0.8% | 30-35% | 11-20% | -16 to -12 | — |
+| `low-fat-ice-cream` | Low Fat | 2-5% | — | 18-21% | 12-14% | 0.7-0.9% | 0.1-0.8% | 28-32% | 11-20% | -16 to -12 | — |
+| `nonfat-ice-cream` | Nonfat | 0-0.5% | — | 18-22% | 12-14% | 0.9-1.1% | 0.1-0.8% | 28-32% | 11-20% | -16 to -12 | — |
+| `premium-ice-cream` | Premium | 12-14% | — | 13-16% | 8-10% | 0.2-0.4% | 0.1-0.8% | 38-40% | 11-20% | -16 to -12 | — |
+| `reduced-fat-ice-cream` | Reduced Fat | 7-9% | — | 18-19% | 10-12% | 0.3-0.5% | 0.1-0.8% | 32-36% | 11-20% | -16 to -12 | — |
+| `soft-serve` | Soft Serve | 4-7% | — | 13-15% | 11-14% | 0-0.3% | 0.1-0.2% | 34-38% | 11-20% | -16 to -12 | — |
+| `standard-ice-cream` | Standard | 10-12% | — | 14-17% | 9-10% | 0.2-0.4% | 0.1-0.8% | 36-38% | 11-20% | -16 to -12 | — |
+| `superpremium-ice-cream` | Superpremium | 14-18% | — | 14-17% | 5-8% | 0-0.2% | 0.1-0.8% | 40-42% | 11-20% | -16 to -12 | — |
+
+### Other Profiles
+
+| Slug | Name | Milk Fat | Total Fat | Sugars | MSNF | Stab. | Emuls. | Total Solids | Rel. Sweet. | Serving °C |
+|------|------|----------|-----------|--------|------|-------|--------|--------------|-------------|-----------|
+| `gelato` | Gelato | 4-8% | — | 16-22% | 11-12% | 0.4-0.6% | 0.1-0.8% | 36-43% | 11-20% | -14 to -10 |
+| `frozen-yogurt-regular` | Froyo Regular | 3-6% | — | 15-17% | 9-13% | 0.4-0.6% | 0.1-0.8% | 30-36% | 11-20% | -16 to -12 |
+| `frozen-yogurt-nonfat` | Froyo Nonfat | 0-0.5% | — | 15-17% | 9-14% | 0.5-0.7% | 0.1-0.8% | 28-32% | 11-20% | -16 to -12 |
+| `sherbet` | Sherbet | 1-2% | — | 22-28% | 1-3% | 0.4-0.5% | 0.1-0.8% | 28-34% | 11-20% | -16 to -12 |
+| `sorbet` | Sorbet | 0-2% | — | 22-28% | 0-3% | 0.3-0.5% | 0.1-0.8% | 28-34% | 11-20% | -16 to -12 |
+| `ganache` | General Ganache | 15-25% | 20-30% | 25-45% | — | 0.3-0.5% | — | 60-75% | — | — |
+| `freeform` | Freeform | — | — | — | — | — | — | — | — | — |
+
+**Key patterns:**
+- As fat decreases, sugars + MSNF + stabilizers must increase to compensate for lost body/texture.
+- Gelato has warmest serving temp (-14 to -10°C).
+- `general-ice-cream` is the only profile with Total Fat (10-30%, includes non-dairy fat) and Alcohol (0-2%) metrics.
+- `ganache` is the only other profile with a Total Fat metric (20-30%), and has no MSNF/emulsifiers/serving temp targets.
+- Relative Sweetness (11-20%) applies to all profiles except ganache and freeform.
