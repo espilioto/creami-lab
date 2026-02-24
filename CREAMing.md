@@ -808,13 +808,13 @@ Tags: cheesecake, raspberry, white chocolate, protein
 
 ### Netflix & Chill'd Protein Ice Cream
 Tags: peanut butter, pretzel, brownie, protein
-Calories: base only 502 kcal (105/100g) · with mix-ins 640 kcal (125/100g)
+Calories: base only ~470 kcal (102/100g) · with mix-ins ~610 kcal (~120/100g)
 
 **Base:**
 - Fat Free Fairlife Milk (400g) 🟡 (slightly richer/heavier pint, less "light" feel)
   - 375g Marata 1.5%
   - 20g whey protein
-  - 25g glycerin
+  - 15g glycerin
 - Monk Fruit sweetener (40-45g) 🟢
   - 20g erythritol
   - 13g xylitol
