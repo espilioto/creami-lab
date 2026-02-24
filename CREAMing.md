@@ -7945,11 +7945,11 @@ Pure crunch, almost zero calories. Shatters into ice cream during Mix-In.
 **Ingredients (1 batch, ~67g finished, ~4 pints):**
 - egg whites — 2 (~66g)
 - SweEX — 60g (36g erythritol + 24g xylitol)
-- citric acid — 0.5g (stabilizes foam, replaces cream of tartar)
+- cream of tartar — 1.5g/pinch (stabilizes foam)
 
 **Steps:**
 1. Preheat oven to 100°C.
-2. Whip egg whites with citric acid until foamy (~1 min).
+2. Whip egg whites with cream of tartar until foamy (~1 min).
 3. Add SweEX gradually while whipping to stiff, glossy peaks (~3-4 min total).
 4. Spoon or pipe small blobs (~2cm) onto parchment-lined tray.
 5. Bake 100°C for 90 min.
