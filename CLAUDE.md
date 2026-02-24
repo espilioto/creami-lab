@@ -9,7 +9,7 @@
 > 1. **Always validate against Scoopulator before presenting.** When proposing recipe changes, build a Scoopulator calc URL using slugs from `rest/scoopulator_ingredients_index.txt`, fetch the page, and extract metrics (PAC, POD, solids, MSNF, fat, serving temp, etc.).
 > 2. **Adjust recipe and validate again:** Ask scoopulator about the recipe, and loop until metrics are realistically acceptable for the ingredients (no need to fixate on getting all green, just as many as possible for given ingredients). No more than 10 requests, then give me the best one and show the url in your response.
 > 3. **No buying extras to fix metrics.** Work with pantry + supermarket only. Accept the best achievable result — don't suggest buying specialty ingredients (SMP, etc.) unless they're in the Section 4.3 buy list and the recipe depends on them.
-> 4. **Scoopulator URL format:** `https://scoopulator.app/calc?ingredients=slug1:weight1,slug2:weight2,...&target=TARGET` where TARGET is one of the **slugs** from section 7. Choose the correct TARGET profile for what the recipe actually is — don't game the metrics by picking whichever target happens to score more greens. When a recipe fits multiple profiles, present both Scoopulator URLs (one per candidate target) and let the user choose. If a recipe doesn't clearly fit any profile, inform the user and let them decide which target to validate against (or whether to use `freeform`).
+> 4. **Scoopulator URL format:** `https://scoopulator.app/calc?ingredients=slug1:weight1,slug2:weight2,...&target=TARGET` where TARGET is one of the **slugs** from section 6. Choose the correct TARGET profile for what the recipe actually is — don't game the metrics by picking whichever target happens to score more greens. When a recipe fits multiple profiles, present both Scoopulator URLs (one per candidate target) and let the user choose. If a recipe doesn't clearly fit any profile, inform the user and let them decide which target to validate against (or whether to use `freeform`).
 > 5. **Ingredient slugs:** Look up in `rest/scoopulator_ingredients_index.txt` (format: `name:slug`). PRIORITIZE the user's custom ingredients.
 > 6. **Show every Scoopulator fetch** as a one-line color-coded summary — every iteration, not just the final one. Never silently skip a fetch. Format: `PAC 23.8 | Serv. -9.4°C 🔴 | Sugars 14.1% 🟡 | Fat 2.6% 🔴 | MSNF 2.4% 🔴 | Solids 27% 🔴 | Sweet 9.5% 🔴 | Stab 0.42% 🔴 | Emul 0% 🔴`
 > **MANDATORY: Do NOT guess or rely on memory for ingredient science, PAC/POD values, thickener ratios, or nutrition data.** Before proposing any recipe, modification, or ingredient advice:
@@ -40,26 +40,7 @@
 - **Freezer temp range:** -13C to -22C (9F to -7F)
 - **Freeze time:** Minimum 24 hours (36h for cooked/warm bases)
 
-**Key manual points:**
-- Do NOT run pint under hot water before 1st spin — block can spin loose, catastrophic failure. Leave on counter a few minutes if too hard, or raise freezer temp.
-- After 1st spin: run COLD water (20-25C) over container 15-30 sec to loosen icy sides, then Re-Spin or Mix-In
-- Mix-ins: create 1.5-inch hole, max 1/4 cup. Hard (Oreos, chips) stay chunky; soft (fruit, marshmallows) get broken down
-- Do NOT Re-Spin right before Mix-In — base becomes too soft, mix-ins sink/pulverize. If you need Re-Spin AND Mix-In: Re-Spin, refreeze 1 hour, then Mix-In
-- Flatten top before refreezing leftovers. Re-process on original program (not Re-Spin) when eating again
-- Scrape test before every spin to decide if counter time is needed
-
-**Processing mode details:**
-
-| Mode | Down [s] | Down [rpm] | Up [s] | Up [rpm] | Use for |
-|------|----------|------------|--------|----------|---------|
-| Ice Cream | 60 | 1200 | 35 | 450 | Rich dairy/dairy-alt bases |
-| Lite Ice Cream | 105 | 1790 | 40 | 1790 | Low sugar/fat, keto, paleo |
-| Sorbet | 105 | 1790 | 35 | 450 | Fruit-based, high water+sugar |
-| Gelato | 60 | 1200 | 35 | 450 | Custard/Italian-style bases |
-| Milkshake | 60 | 1790 | 5 | 450 | Ice cream + milk + mix-ins |
-| Mix-in | 30 | 450 | 35 | 450 | Fold in cookies/nuts/fruit |
-| Re-Spin | 30 | 1200 | 35 | 1200 | Smooth crumbly/powdery results |
-| Frozen Yogurt (Deluxe) | 150 | 1790 | 150 | 1790 | Yogurt into frozen treat, safest mode |
+> For spin mode selection, scrape test, processing details, mix-in techniques, and prep tips → use `/spin`
 
 ---
 
@@ -229,46 +210,7 @@ Ultra-filtered: ~13g protein/240ml, ~6g lactose, near-zero fat. Extra casein + r
 
 ---
 
-## 5. TIPS & TRICKS
-
-### Preparation
-- Use immersion blender (NOT milk frother) to hydrate gums and suspend cocoa
-- Mix dry ingredients first, drizzle into vortex of running blender
-- Bloom cocoa in hot water before adding — full flavor, no lumps
-- Let base age in fridge 2-4 hours before freezing — helps gum hydration and flavor development
-- Pre-chill base in fridge before freezer to avoid the frozen lump in the middle
-
-### Spin Mode Selection
-
-**Scrape test → setting choice:**
-- **Hard** (spoon barely digs in) → Sorbet, straight from freezer
-- **Perfect** (moderate resistance) → Sorbet + Mix-In (2 spins) = ideal hard ice cream
-- **Soft** (spoon sinks easily) → Ice Cream + Mix-In, NO thawing, NO higher setting
-- **Questionably soft** → Ice Cream + Mix-In (accept soft serve), or refreeze longer
-
-**Default 1st spin = Sorbet.** More aggressive downstroke but gentler upstroke than Lite Ice Cream. Lite's upstroke can over-process into soft serve. Frozen Yogurt mode induces the most heat (5 min total) — safest of all but makes softest result. Use the scrape-test-recommended setting regardless of what the mix actually is. Lower settings can actually draw MORE power on hard pints = burnout risk.
-
-**Spin combos by desired texture:**
-- Hard ice cream (ideal): Sorbet → Mix-In (2 spins)
-- Soft serve: Mix-In twice after initial spin (2-3 spins)
-- No mix-ins, firm: 1 spin on right setting. No mix-ins, softer: Sorbet → Re-Spin
-- Too soft? Refreeze and try again
-
-**Key techniques:**
-- **Push down** after 1st spin if half pebbles/half powder — compact with spoon before 2nd spin. Saves 2+ extra spins.
-- **Mix-In as processing tool** — can run empty (no actual mix-ins) to refine texture as 2nd spin
-- Avoid thawing or adding liquid between spins — changes which settings are safe
-
-### Mix-in Tips
-- Chocolate chip hack: 15g chocolate + 2g coconut oil, melt, pour into hole → Mix-In creates chip swirls
-- Chunky cookies: soak in milk + freeze before adding
-- Freeze soft fruit pieces to prevent total incorporation
-- Do NOT add raw pineapple to dairy bases (bromelain causes bitterness)
-- PAC > 25 recipes stay scoopable directly from freezer for days
-
----
-
-## 6. INGREDIENT REFERENCE (KEY NUMBERS)
+## 5. INGREDIENT REFERENCE (KEY NUMBERS)
 
 **Target PAC:** 20-30 for scoopable ice cream, 30-36 for sorbets
 
@@ -284,7 +226,7 @@ Ultra-filtered: ~13g protein/240ml, ~6g lactose, near-zero fat. Extra casein + r
 
 ---
 
-## 7. SCOOPIFY TARGET PROFILES
+## 6. SCOOPIFY TARGET PROFILES
 
 > Reference for Scoopulator validation. Each profile defines acceptable ranges for a recipe type.
 > Source: `rest/scoopulator_profiles_index.json` (scraped from Scoopify). All values are percentages.
@@ -325,7 +267,7 @@ Ultra-filtered: ~13g protein/240ml, ~6g lactose, near-zero fat. Extra casein + r
 
 ---
 
-## 8. FILE INVENTORY
+## 7. FILE INVENTORY
 
 | File | Source | Contents |
 |------|--------|---------|
