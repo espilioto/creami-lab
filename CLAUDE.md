@@ -89,6 +89,7 @@
 | Marata 2% strained yogurt | Supermarket | 66 kcal/100g. Fat 2, carbs 3.9, protein 8 |
 | Alpro unsweetened soy milk | Supermarket | ~33 kcal/100ml. Alternative base liquid |
 | Citric acid | Supermarket | — |
+| Cream of tartar | Supermarket | Meringue stabilizer |
 | Oreos | Supermarket | Mix-in |
 | Chocolate bars | Supermarket | Mix-in |
 

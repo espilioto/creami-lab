@@ -7940,23 +7940,32 @@ Low-cal brownie cubes for mix-ins. One batch makes ~9 pints worth. Two textures 
 ### Meringue Crisps
 Tags: mix-in, prep, low-calorie, crunch, almost-zero-cal
 
-Pure crunch, almost zero calories. Shatters into ice cream during Mix-In.
+Pure crunch, almost zero calories. Shatters into ice cream during Mix-In. Choose sweet or sweet-salty.
 
-**Ingredients (1 batch, ~67g finished, ~4 pints):**
+**Ingredients (1 batch, ~4 pints):**
 - egg whites — 2 (~66g)
-- erythritol — 60g
-- citric acid — 0.5g (stabilizes foam, replaces cream of tartar)
+- SweEX — 60g sweet / 50g sweet-salty (adjust down to make room for salt)
+- cream of tartar — 1.5g/pinch (stabilizes foam)
+- *sweet-salty only:* salt — 3g
+
+**Ingredients (double batch — makes both, ~8 pints):**
+- egg whites — 4 (~132g)
+- SweEX — 110g (66g erythritol + 44g xylitol)
+- cream of tartar — 3g
+- salt — 3g (for the salty half only)
 
 **Steps:**
-1. Preheat oven to 100°C.
-2. Whip egg whites with citric acid until foamy (~1 min).
-3. Add erythritol gradually while whipping to stiff, glossy peaks (~3-4 min total).
-4. Spoon or pipe small blobs (~2cm) onto parchment-lined tray.
-5. Bake 100°C for 90 min.
-6. Turn oven off, leave meringues inside with door cracked for 1h to fully dry.
-7. Cool, then snap/break into pieces. Bag and freeze.
+1. Preheat oven to 100°C. Line tray(s) with parchment.
+2. Whip egg whites with cream of tartar until foamy (~1 min).
+3. Add SweEX gradually while whipping to stiff, glossy peaks (~3-4 min total).
+4. *Double batch:* split meringue roughly in half into a second bowl.
+5. *Sweet-salty (or salty half):* fold in 3g salt gently with a spatula — don't deflate the foam. A few visible salt streaks are fine.
+6. Spoon or pipe small blobs (~2cm) onto tray(s). Keep sweet and salty on separate trays if doing both.
+7. Bake 100°C for 90 min (swap shelf positions halfway if doing two trays).
+8. Turn oven off, leave meringues inside with door cracked for 1h to fully dry.
+9. Cool, then snap/break into pieces. Bag and freeze. Label bags if doing both.
 
-**Usage:** ~15g per pint (meringue is very airy — 15g by weight fills a 1/4 cup easily). Create 1.5cm hole, add pieces, run Mix-In program.
+**Usage:** ~15g per pint (meringue is very airy — 15g by weight fills a 1/4 cup easily). Create 1.5cm hole, add pieces, run Mix-In program. Sweet-salty works best in chocolate, caramel, peanut butter, or vanilla bases.
 
 **Notes:**
 - Must be bone-dry before storing or they go sticky. Tap the bottom — should sound hollow.
@@ -7964,9 +7973,8 @@ Pure crunch, almost zero calories. Shatters into ice cream during Mix-In.
 - **Storage:** zip-lock bag, air squeezed out, frozen. Keeps 2-3 months. Can also store at room temp in an airtight container for 1-2 weeks if fully dried.
 - Variation: fold in 5g cocoa powder after stiff peaks for chocolate meringue (adds ~18 kcal to batch).
 
-**Nutrition (per batch ~67g):** 34 kcal | 0.1g fat | 0.5g net carbs | 7.3g protein
-**Nutrition (per 100g):** 51 kcal | 0.1g fat | 0.7g net carbs | 10.9g protein
-**Nutrition (per 15g pint serving):** 8 kcal | 0g fat | 0.1g net carbs | 1.6g protein
+**Nutrition — sweet (per 100g):** 51 kcal | 0.1g fat | 0.7g net carbs | 10.9g protein
+**Nutrition — sweet-salty (per 100g):** 41 kcal | 0.1g fat | 0.6g net carbs | 10.4g protein
 
 ---
 
@@ -8030,18 +8038,3 @@ Paper-thin chocolate shards — the pre-made version of the chocolate ribbon hac
 **Nutrition (per 9g pint serving):** 56 kcal | 4.6g fat | 2.6g carbs | 0.7g protein
 
 ---
-
-### Mix-In Calorie Comparison
-
-| Mix-in | Serving/pint | kcal/pint | Texture |
-|---|---|---|---|
-| Protein brownie cubes | 30g | 49 | chewy + crunchy |
-| Meringue crisps | 15g | 8 | crunchy |
-| Frozen yogurt bark | 30g | 18 | snappy → chewy |
-| Chocolate shell shards | 9g | 56 | crunchy |
-| Oreos (reference) | 30g | 144 | — |
-
-All components keep a ~100 kcal/100g base under 110 kcal/100g after mix-in.
-
----
-
