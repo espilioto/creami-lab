@@ -115,14 +115,18 @@ Tags: [type], [flavor], [dietary notes]
 **Total weight:** Xg (within/over pint capacity)
 ```
 
-## Step 6 — Suggest next steps
+## Step 6 — Archive raw content
+
+Save the extracted recipe to `raw_recipes/reddit/` as a `.md` file. Use the format `NNN_Post Title.md` where NNN is the next sequential number in the subfolder. Include the original URL, subreddit, author, post body, and any useful comments.
+
+## Step 7 — Suggest next steps
 
 After presenting, suggest:
 - **`/adapt`** — to generate the full CREAMing.md entry with proper swap tiers and formatting
 - **`/optimize`** — to validate metrics via Scoopulator and tune the recipe
 - **`/spin`** — if the user wants processing advice for this specific recipe
 
-## Step 7 — Cleanup
+## Step 8 — Cleanup
 
 ```bash
 rm -f rest/reddit_temp.json

@@ -66,8 +66,8 @@
 | `fpf_recipes.md` | FitnessProductFinder (Eli) | 39 B&J dupes + 18 DQ Blizzards + 11 tips (original ingredients) |
 | `e4cm_recipes.md` | Exercise4CheatMeals (E4CM) | 24 recipes + 47 tips (original ingredients) |
 | `ice-creamery-main/` | jhermann | GitHub repo clone — raw source (unmodified) |
-| `raw_transcripts/fpf/` | Eli | 109 VTT + 113 description files from YouTube |
-| `raw_transcripts/e4cm/` | E4CM | 12 VTT + 13 description files from YouTube |
+| `raw_recipes/fpf/` | Eli | 109 VTT + 113 description files from YouTube |
+| `raw_recipes/e4cm/` | E4CM | 12 VTT + 13 description files from YouTube |
 | `rest/NC500Series_IB_MP.txt` | Ninja | NC500 owner's manual (full text) |
 | `rest/scoopulator_ingredients_index.txt` | Scoopify | Ingredient slug lookup for Scoopulator API |
 | `rest/spin_settings.srt` | wh_ben | Spin settings reference (subtitle) |

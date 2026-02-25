@@ -34,9 +34,15 @@ This produces:
 
 Summarize what you found: recipe ingredients, steps, tips, and any useful viewer corrections from comments.
 
-## Step 4 — Cleanup
+## Step 4 — Archive raw files
 
-Delete `rest/yt_temp/` when done unless the user wants to keep it:
+Copy the `.description` and `.en.vtt` files from `rest/yt_temp/` into `raw_recipes/`. Organize by source subfolder (e.g. `raw_recipes/fpf/` for FitnessProductFinder, `raw_recipes/e4cm/` for Exercise4CheatMeals). For new/unknown channels, create a subfolder using a short lowercase slug of the channel name.
+
+Follow the existing naming convention: `NNN_Video Title.extension` where NNN is the next sequential number in that subfolder.
+
+## Step 5 — Cleanup
+
+Delete `rest/yt_temp/` when done:
 
 ```bash
 rm -rf rest/yt_temp/
