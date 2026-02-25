@@ -83,7 +83,7 @@ ORIGINAL                              GREEK SWAP
 **E4CM Fairlife Base → Greek:**
 ```
 ORIGINAL                              GREEK SWAP
-410-440g Fairlife fat-free milk    →  375g Marata 1.5% + 20g whey + 15g glycerin
+410-440g Fairlife fat-free milk    →  395g Marata 1.5% + 12g whey + 15g glycerin
 40-50g Swerve                      →  40-50g SweEX
 1g xanthan                         →  1g xanthan
 0.5-1g salt                        →  0.5-1g salt
@@ -93,7 +93,7 @@ ORIGINAL                              GREEK SWAP
 **FPF Standard Base → Greek:**
 ```
 ORIGINAL                              GREEK SWAP
-400g Fairlife fat-free milk        →  375g Marata 1.5% + 20g whey + 15g glycerin
+400g Fairlife fat-free milk        →  385g Marata 1.5% + 12g whey + 15g glycerin
 40-45g Monk Fruit sweetener        →  27g erythritol + 18g xylitol + pinch sucralose
 5g vanilla bean paste              →  5g vanilla extract
 1g xanthan                         →  1g xanthan
@@ -107,10 +107,10 @@ pinch salt                         →  pinch salt
 > Only consult when a recipe uses an ingredient not covered by the base patterns above.
 
 ### Fairlife Milk
-Ultra-filtered: ~13g protein/240ml, ~6g lactose, near-zero fat. Extra casein + reduced water = fewer ice crystals.
+Ultra-filtered, lactase-treated. Per 100g: **fat-free** → 33 kcal, 0g fat, 2.5g carbs (lactose), 5.4g protein; **2%** → 50 kcal, 1.9g fat, 2.5g carbs, 5.4g protein. Compare Marata 1.5%: 47 kcal, 1.5g fat, 4.8g carbs, 3.5g protein. Key deltas per 400g dose: Fairlife has +7.6g protein, −9.2g lactose, −6g fat vs Marata.
 
-- **400-440g fat-free** → 375g Marata 1.5% + 20g whey + 15g glycerin 🟡 — whey compensates protein but not casein. Glycerin adds body + FPD. Reduce sweetener by ~5g vs original recipe (higher lactose in Marata).
-- **380-430g 2%/high-protein** → 400g Marata 1.5% + 15g whey + 10g glycerin 🟡 — closer fat match, less glycerin needed.
+- **400-440g fat-free** → 385-425g Marata 1.5% + 12g whey + 15g glycerin 🟡 — old swap over-compensated protein (20g whey gave ~29g total vs Fairlife's ~22g). 12g whey now matches (~23g total). Marata adds +6g fat (unavoidable) and +8g lactose per 400g dose → reduce sweetener by **~8g** vs original recipe.
+- **380-430g 2%/high-protein** → 375-420g Marata 1.5% + 8-10g whey + 10g glycerin 🟡 — fat nearly matches (1.5 vs 1.9/100g). Protein gap smaller. Reduce sweetener by **~8g** (same lactose delta).
 - **Gap closer (recipe-dependent):** If recipe has ≤1g xanthan, bump to 1.5g. If recipe has no inulin/Salty Stability, add 5-10g inulin. Skip if recipe already has >3g total gums (>0.5% of mix = overdosed per repo).
 
 ### Sweeteners

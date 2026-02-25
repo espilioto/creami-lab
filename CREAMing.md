@@ -277,8 +277,8 @@ Tags: apple-pie, holiday, protein
 
 **Base:**
 - **410g** 1% Fairlife milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **4.2g** vanilla extract
 - 1 egg yolk
@@ -452,8 +452,8 @@ Tags: cherry-garcia, protein, egg-yolk, mix-ins, premium
 **Base:**
 - **20g** cherry juice (from jar)
 - **380g** 2% Fairlife high protein milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **360g** Marata 1.5%
-  - **15g** whey protein
+  - **375g** Marata 1.5%
+  - **8g** whey protein
   - **10g** glycerin
 - 2 egg yolks
 - **4g** vanilla extract
@@ -487,8 +487,8 @@ Tags: oreo, cookies-and-cream, protein, premium
 **Base:**
 - 1 Oreo (blended into base)
 - **410g** Fairlife fat-free milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **4.2g** vanilla extract
 
@@ -530,8 +530,8 @@ Tags: mint-chocolate-chip, protein, mix-ins
 
 **Base:**
 - **430g** 1% Fairlife high protein milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **400g** Marata 1.5%
-  - **20g** whey protein
+  - **415g** Marata 1.5%
+  - **12g** whey protein
   - **10g** glycerin
 - **4.2g** vanilla extract
 - green food coloring (8 drops) → 🟢 skip (cosmetic only)
@@ -560,8 +560,8 @@ Tags: oreo, mcflurry, protein, soft-serve
 
 **Base:**
 - **430g** 1% Fairlife high protein milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **400g** Marata 1.5%
-  - **20g** whey protein
+  - **415g** Marata 1.5%
+  - **12g** whey protein
   - **10g** glycerin
 - **4.2g** vanilla extract
 
@@ -609,8 +609,8 @@ Tags: cookie-dough, protein, mix-ins, premium, egg
 
 **Ice Cream Base:**
 - **430g** 2% Fairlife high protein milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **400g** Marata 1.5%
-  - **15g** whey protein
+  - **420g** Marata 1.5%
+  - **10g** whey protein
   - **10g** glycerin
 - **4.2g** vanilla extract
 
@@ -643,8 +643,8 @@ Tags: vanilla-bean, chocolate-chip, protein, egg-yolk, premium
 
 **Base:**
 - **410g** 2% Fairlife high protein milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **380g** Marata 1.5%
-  - **15g** whey protein
+  - **400g** Marata 1.5%
+  - **8g** whey protein
   - **10g** glycerin
 - 1 egg yolk
 - vanilla bean 1/2 (seeds scraped) → 🟡 use 15g vanilla extract total instead of 4.2g (buy beans — vanilla is the star of this recipe)
@@ -678,8 +678,8 @@ Tags: cream-pie, cinnamon, protein, low-calorie
 
 **Base:**
 - **440g** Fairlife fat-free milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **400g** Marata 1.5%
-  - **25g** whey protein
+  - **425g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **20g** brown sugar erythritol 🟡 (less toffee/molasses depth)
   - **20g** erythritol
@@ -725,8 +725,8 @@ Tags: fudge-brownie, chocolate, protein, egg-yolk, premium
 
 **Ice Cream Base:**
 - **410g** 1% Fairlife high protein milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - 1 egg yolk
 - **2.1g** vanilla extract
@@ -763,8 +763,8 @@ Tags: cheesecake, raspberry, white chocolate, protein
 
 **Base:**
 - **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **22g** cream cheese
 - **40-45g** Monk Fruit sweetener 🟢
@@ -801,8 +801,8 @@ Calories: base only ~470 kcal (102/100g) · with mix-ins ~610 kcal (~120/100g)
 
 **Base:**
 - **400g** Fat Free Fairlife Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **40-45g** Monk Fruit sweetener 🟢
   - **20g** erythritol
@@ -865,8 +865,8 @@ Tags: caramel, almond, chocolate, protein
 
 **Base:**
 - **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **40-45g** Monk Fruit sweetener 🟢
   - **27g** erythritol
@@ -933,8 +933,8 @@ Tags: vanilla, chocolate chip, protein
 
 **Base:**
 - **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **40-45g** Monk Fruit sweetener 🟢
   - **27g** erythritol
@@ -1028,8 +1028,8 @@ Tags: banana, walnut, chocolate, protein
 
 **Base:**
 - **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **40g** Monk Fruit sweetener 🟢
   - **24g** erythritol
@@ -1126,8 +1126,8 @@ Tags: mint, chocolate, oreo, protein
 
 **Base:**
 - **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **40-45g** Monk Fruit sweetener 🟢
   - **27g** erythritol
@@ -1203,8 +1203,8 @@ Tags: chocolate, vanilla, brownie, cookie dough, protein
 
 **Vanilla Base (1 pint):**
 - **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **40-45g** Monk Fruit sweetener 🟢
   - **27g** erythritol
@@ -1296,8 +1296,8 @@ Tags: peanut butter, brownie, cookie dough, protein
 
 **Base:**
 - **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **40-45g** Monk Fruit sweetener 🟢
   - **27g** erythritol
@@ -1329,8 +1329,8 @@ Tags: pistachio, protein
 
 **Base:**
 - **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **30-35g** Monk Fruit sweetener 🟢
   - **20g** erythritol
@@ -1361,8 +1361,8 @@ Tags: tiramisu, coffee, mascarpone, protein
 
 **Base:**
 - **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **40g** Monk Fruit sweetener 🟢
   - **24g** erythritol
@@ -1428,8 +1428,8 @@ Tags: pumpkin, cheesecake, graham cracker, protein
 
 **Base:**
 - **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **40-45g** Monk Fruit sweetener 🟢
   - **27g** erythritol
@@ -1464,8 +1464,8 @@ Tags: banana, chocolate, caramel, graham cracker, protein
 
 **Base:**
 - **400g** Fat Free Fairlife Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **40g** Monk Fruit sweetener 🟢
   - **24g** erythritol
@@ -1593,8 +1593,8 @@ Tags: coffee, espresso, protein
 
 **Base:**
 - **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **40-45g** Monk Fruit sweetener 🟢
   - **27g** erythritol
@@ -1624,8 +1624,8 @@ Tags: peanut butter, protein
 
 **Base:**
 - **400g** Fat Free Fairlife Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **40-45g** Monk Fruit sweetener 🟢
   - **27g** erythritol
@@ -1655,8 +1655,8 @@ Tags: vanilla, marshmallow, white chocolate, protein
 
 **Base:**
 - **400g** Fat Free Fairlife Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **40-45g** Monk Fruit sweetener 🟢
   - **27g** erythritol
@@ -1688,8 +1688,8 @@ Tags: cinnamon, churro, brownie, protein
 
 **Base:**
 - **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **40-45g** Monk Fruit sweetener 🟢
   - **27g** erythritol
@@ -1819,8 +1819,8 @@ Tags: marshmallow, cookie dough, protein
 
 **Base:**
 - **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **40g** Monk Fruit sweetener 🟢
   - **24g** erythritol
@@ -1851,8 +1851,8 @@ Tags: vanilla, oreo, chocolate sauce, protein
 
 **Base:**
 - **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **40g** Monk Fruit sweetener 🟢
   - **24g** erythritol
@@ -1884,8 +1884,8 @@ Tags: vanilla, pecan, caramel, brownie, protein
 
 **Base:**
 - **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **40-45g** Monk Fruit sweetener 🟢
   - **27g** erythritol
@@ -1916,8 +1916,8 @@ Tags: oat, brown sugar, chocolate, cinnamon, protein
 
 **Base:**
 - **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **40-45g** Brown Monk Fruit sweetener 🟡 (less toffee/molasses depth)
   - **27g** erythritol
@@ -1949,8 +1949,8 @@ Tags: cookies, cookie dough, oreo, protein
 
 **Base:**
 - **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **40-45g** Monk Fruit sweetener 🟢
   - **27g** erythritol
@@ -1981,8 +1981,8 @@ Tags: coffee, toffee, protein
 
 **Base:**
 - **400g** Fat Free Fairlife Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **40-45g** Monk Fruit sweetener 🟢
   - **27g** erythritol
@@ -2140,8 +2140,8 @@ Tags: red velvet, brownie, protein
 
 **Base:**
 - **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **22g** cream cheese
 - **40-45g** Monk Fruit sweetener 🟢
@@ -2172,8 +2172,8 @@ Tags: cake batter, oreo, marshmallow, protein
 
 **Base:**
 - **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **40-45g** Monk Fruit sweetener 🟢
   - **27g** erythritol
@@ -2236,8 +2236,8 @@ Tags: peppermint, chocolate, protein
 
 **Base:**
 - **400g** Fat Free Fairlife Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **40g** Monk Fruit sweetener 🟢
   - **24g** erythritol
@@ -2267,8 +2267,8 @@ Tags: sugar cookie, frosting, cookie dough, protein
 
 **Base:**
 - **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **35g** Monk Fruit sweetener 🟢
   - **21g** erythritol
@@ -2302,8 +2302,8 @@ Tags: cake batter, cookie dough, sprinkles, protein
 
 **Base:**
 - **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **40-45g** Monk Fruit sweetener 🟢
   - **27g** erythritol
@@ -2334,8 +2334,8 @@ Tags: cake batter, animal cookies, protein
 
 **Base:**
 - **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **40g** Monk Fruit sweetener 🟢
   - **24g** erythritol
@@ -2365,8 +2365,8 @@ Tags: pumpkin, pie crust, protein
 
 **Base:**
 - **400g** Fat Free Fairlife Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **40-45g** Monk Fruit sweetener 🟢
   - **27g** erythritol
@@ -2435,8 +2435,8 @@ Tags: peanut butter, caramel, chocolate, rolo, protein
 
 **Base:**
 - **400g** Fat Free Fairlife Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **40-45g** Monk Fruit sweetener 🟢
   - **27g** erythritol
@@ -2501,8 +2501,8 @@ Tags: s'mores, marshmallow, graham, chocolate, protein
 
 **Base:**
 - **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **40g** Monk Fruit sweetener 🟢
   - **24g** erythritol
@@ -2534,8 +2534,8 @@ Tags: chocolate, brownie, protein
 
 **Base:**
 - **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **40-45g** Monk Fruit sweetener 🟢
   - **27g** erythritol
@@ -2565,8 +2565,8 @@ Tags: cotton candy, protein
 
 **Base:**
 - **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **40-45g** Monk Fruit sweetener 🟢
   - **27g** erythritol
@@ -2594,8 +2594,8 @@ Tags: cake batter, cookie dough, protein
 
 **Base:**
 - **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **40-45g** Monk Fruit sweetener 🟢
   - **27g** erythritol
@@ -2623,8 +2623,8 @@ Tags: cookie dough, chocolate chip, protein
 
 **Base:**
 - **400g** Fat Free Fairlife Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **40-45g** Monk Fruit sweetener 🟢
   - **27g** erythritol
@@ -2653,8 +2653,8 @@ Tags: caramel, pecan, chocolate, protein
 
 **Base:**
 - **400g** Fat Free Fairlife Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **40-45g** Monk Fruit sweetener 🟢
   - **27g** erythritol
@@ -2686,8 +2686,8 @@ Tags: cookie dough, protein
 
 **Base:**
 - **400g** Fat Free Fairlife Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - **375g** Marata 1.5%
-  - **20g** whey protein
+  - **385g** Marata 1.5%
+  - **12g** whey protein
   - **15g** glycerin
 - **40-45g** sweetener 🟢
   - **27g** erythritol
