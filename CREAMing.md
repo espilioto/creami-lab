@@ -6,10 +6,10 @@
 Tags: sorbet, watermelon, dairy-free, low-calorie, 3-ingredient
 
 **Ingredients:**
-- 330g fresh watermelon juice (blended/pureed)
-- 120g water
-- 20g erythritol
-- 0.5g salt
+- **330g** fresh watermelon juice (blended/pureed)
+- **120g** water
+- **20g** erythritol
+- **0.5g** salt
 
 **Steps:**
 1. Blend watermelon into juice.
@@ -25,10 +25,10 @@ Tags: sorbet, watermelon, dairy-free, low-calorie, 3-ingredient
 Tags: sorbet, cantaloupe, dairy-free, low-calorie, 3-ingredient
 
 **Ingredients:**
-- 300g fresh cantaloupe juice (blended/pureed)
-- 160g water
-- 20g erythritol
-- 0.5g salt
+- **300g** fresh cantaloupe juice (blended/pureed)
+- **160g** water
+- **20g** erythritol
+- **0.5g** salt
 
 **Steps:**
 1. Blend cantaloupe into juice.
@@ -43,10 +43,10 @@ Tags: sorbet, cantaloupe, dairy-free, low-calorie, 3-ingredient
 Tags: sorbet, strawberry, dairy-free, low-calorie, 3-ingredient
 
 **Ingredients:**
-- 300g fresh strawberries (rinsed, tops removed)
-- 130g water
-- 20g erythritol
-- 0.5g salt
+- **300g** fresh strawberries (rinsed, tops removed)
+- **130g** water
+- **20g** erythritol
+- **0.5g** salt
 
 **Steps:**
 1. Add strawberries to pint on scale.
@@ -62,10 +62,10 @@ Tags: sorbet, strawberry, dairy-free, low-calorie, 3-ingredient
 Tags: sorbet, raspberry, dairy-free, low-calorie
 
 **Ingredients:**
-- 230g fresh raspberries (rinsed)
-- 210g water
-- 40g erythritol
-- 0.5g salt
+- **230g** fresh raspberries (rinsed)
+- **210g** water
+- **40g** erythritol
+- **0.5g** salt
 
 **Steps:**
 1. Add all to high-sided container.
@@ -81,12 +81,12 @@ Tags: sorbet, raspberry, dairy-free, low-calorie
 Tags: sorbet, grapefruit, dairy-free, low-calorie, citrus
 
 **Ingredients:**
-- 220g grapefruit juice (freshly squeezed, strained)
-- 3g grapefruit zest (about half a large grapefruit)
-- 220g water
-- 50g erythritol
-- 0.5g salt
-- 0.5g xanthan gum (optional — keeps grapefruit evenly suspended)
+- **220g** grapefruit juice (freshly squeezed, strained)
+- **3g** grapefruit zest (about half a large grapefruit)
+- **220g** water
+- **50g** erythritol
+- **0.5g** salt
+- **0.5g** xanthan gum (optional — keeps grapefruit evenly suspended)
 
 **Steps:**
 1. Zest half a grapefruit into container.
@@ -104,10 +104,10 @@ Tags: sorbet, grapefruit, dairy-free, low-calorie, citrus
 Tags: sorbet, peach, dairy-free, low-calorie
 
 **Ingredients:**
-- 300g fresh peaches (white preferred, pitted)
-- 140g water
-- 30g erythritol
-- 0.5g salt
+- **300g** fresh peaches (white preferred, pitted)
+- **140g** water
+- **30g** erythritol
+- **0.5g** salt
 
 **Steps:**
 1. Halve and pit peaches. Add to container on scale until 300g.
@@ -123,15 +123,15 @@ Tags: sorbet, peach, dairy-free, low-calorie
 Tags: chocolate, low-calorie, simple
 
 **Base:**
-- 160g 1% milk → 🟢 160g Marata 1.5% milk
-- 80g unsweetened almond milk
-- 2.1g vanilla extract
+- **160g** 1% milk → 🟢 **160g** Marata 1.5% milk
+- **80g** unsweetened almond milk
+- **2.1g** vanilla extract
 
 **Dry mix:**
-- 50g erythritol
-- 8g cocoa powder
-- 1g salt
-- 1g xanthan gum
+- **50g** erythritol
+- **8g** cocoa powder
+- **1g** salt
+- **1g** xanthan gum
 
 **Steps:**
 1. Add milk, almond milk, vanilla to pint.
@@ -148,17 +148,17 @@ Tags: chocolate, low-calorie, simple
 Tags: chocolate, improved-texture, low-calorie
 
 **Base:**
-- 440g 1% milk → 🟢 440g Marata 1.5% milk
-- 2.1g vanilla extract
+- **440g** 1% milk → 🟢 **440g** Marata 1.5% milk
+- **2.1g** vanilla extract
 
 **Dry mix:**
-- 50g Swerve 🟢
-  - 30g erythritol
-  - 20g xylitol
-  - 0.05g/pinch sucralose
-- 8g cocoa powder
-- 1g salt
-- 1g xanthan gum
+- **50g** Swerve 🟢
+  - **30g** erythritol
+  - **20g** xylitol
+  - **0.05g**/pinch sucralose
+- **8g** cocoa powder
+- **1g** salt
+- **1g** xanthan gum
 
 **Steps:**
 1. Blend all with immersion blender 90 sec.
@@ -173,21 +173,21 @@ Tags: chocolate, improved-texture, low-calorie
 Tags: chocolate, premium, egg-yolk, melted-chocolate, best
 
 **Base:**
-- 410g 1% milk → 🟢 410g Marata 1.5% milk
+- **410g** 1% milk → 🟢 **410g** Marata 1.5% milk
 - 1 egg yolk
-- 2.1g vanilla extract
+- **2.1g** vanilla extract
 
 **Dry mix:**
-- 50g Swerve 🟢
-  - 30g erythritol
-  - 20g xylitol
-  - 0.05g/pinch sucralose
-- 10g cocoa powder
-- 1g salt
-- 1g xanthan gum
+- **50g** Swerve 🟢
+  - **30g** erythritol
+  - **20g** xylitol
+  - **0.05g**/pinch sucralose
+- **10g** cocoa powder
+- **1g** salt
+- **1g** xanthan gum
 
 **Chocolate:**
-- 14g semisweet chocolate
+- **14g** semisweet chocolate
 
 **Steps:**
 1. Warm milk to 27-32°C.
@@ -204,17 +204,17 @@ Tags: chocolate, premium, egg-yolk, melted-chocolate, best
 Tags: vanilla, low-calorie, budget-friendly
 
 **Base:**
-- 240g 1% milk → 🟢 240g Marata 1.5% milk
-- 200g unsweetened almond milk
-- 5g vanilla extract
+- **240g** 1% milk → 🟢 **240g** Marata 1.5% milk
+- **200g** unsweetened almond milk
+- **5g** vanilla extract
 
 **Dry mix:**
-- 45g Swerve 🟢
-  - 27g erythritol
-  - 18g xylitol
-  - 0.05g/pinch sucralose
-- 1g xanthan gum
-- 1g salt
+- **45g** Swerve 🟢
+  - **27g** erythritol
+  - **18g** xylitol
+  - **0.05g**/pinch sucralose
+- **1g** xanthan gum
+- **1g** salt
 
 **Steps:**
 1. Blend all with immersion blender 90 sec.
@@ -228,16 +228,16 @@ Tags: vanilla, low-calorie, budget-friendly
 Tags: vanilla, improved-texture, low-calorie
 
 **Base:**
-- 440g 1% milk → 🟢 440g Marata 1.5% milk
-- 5g vanilla extract
+- **440g** 1% milk → 🟢 **440g** Marata 1.5% milk
+- **5g** vanilla extract
 
 **Dry mix:**
-- 45g Swerve 🟢
-  - 27g erythritol
-  - 18g xylitol
-  - 0.05g/pinch sucralose
-- 1g xanthan gum
-- 1g salt
+- **45g** Swerve 🟢
+  - **27g** erythritol
+  - **18g** xylitol
+  - **0.05g**/pinch sucralose
+- **1g** xanthan gum
+- **1g** salt
 
 **Steps:**
 1. Blend all with immersion blender 90 sec.
@@ -251,18 +251,18 @@ Tags: vanilla, improved-texture, low-calorie
 Tags: vanilla-bean, premium, egg-yolk, best
 
 **Base:**
-- 430g 2% milk → 🟢 430g Marata 1.5% milk
+- **430g** 2% milk → 🟢 **430g** Marata 1.5% milk
 - 1 egg yolk
-- 5g vanilla extract
+- **5g** vanilla extract
 - vanilla bean 1/2 (seeds scraped) → 🟡 use 15g vanilla extract total instead of 5g (loses specks and aromatic depth — buy beans online if vanilla is the star)
 
 **Dry mix:**
-- 45g Swerve 🟢
-  - 27g erythritol
-  - 18g xylitol
-  - 0.05g/pinch sucralose
-- 1g xanthan gum
-- 1g salt
+- **45g** Swerve 🟢
+  - **27g** erythritol
+  - **18g** xylitol
+  - **0.05g**/pinch sucralose
+- **1g** xanthan gum
+- **1g** salt
 
 **Steps:**
 1. Blend with immersion blender 90 sec (keeps seeds suspended if using bean).
@@ -276,28 +276,28 @@ Tags: vanilla-bean, premium, egg-yolk, best
 Tags: apple-pie, holiday, protein
 
 **Base:**
-- 410g 1% Fairlife milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 4.2g vanilla extract
+- **410g** 1% Fairlife milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **4.2g** vanilla extract
 - 1 egg yolk
 
 **Dry mix:**
-- 20g PEScience Snickerdoodle protein 🟢
-  - 20g whey protein
-  - 1.5g cinnamon
-  - 2g extra vanilla extract
-- 40g Swerve 🟢
-  - 24g erythritol
-  - 16g xylitol
-  - 0.05g/pinch sucralose
-- 1g apple pie spice 🟢
-  - 0.5g cinnamon
-  - 0.25g nutmeg
-  - 0.25g allspice
-- 1g salt
-- 1g xanthan gum
+- **20g** PEScience Snickerdoodle protein 🟢
+  - **20g** whey protein
+  - **1.5g** cinnamon
+  - **2g** extra vanilla extract
+- **40g** Swerve 🟢
+  - **24g** erythritol
+  - **16g** xylitol
+  - **0.05g**/pinch sucralose
+- **1g** apple pie spice 🟢
+  - **0.5g** cinnamon
+  - **0.25g** nutmeg
+  - **0.25g** allspice
+- **1g** salt
+- **1g** xanthan gum
 
 **Steps:**
 1. Blend all with immersion blender 90 sec.
@@ -312,18 +312,18 @@ Tags: apple-pie, holiday, protein
 Tags: cereal, cinnamon, low-calorie
 
 **Base:**
-- 160g 1% Fairlife milk → 🟢 160g Marata 1.5% milk (small amount in almond-milk-heavy base — Fairlife difference negligible)
-- 280g unsweetened almond milk
-- 4.2g vanilla extract
+- **160g** 1% Fairlife milk → 🟢 **160g** Marata 1.5% milk (small amount in almond-milk-heavy base — Fairlife difference negligible)
+- **280g** unsweetened almond milk
+- **4.2g** vanilla extract
 
 **Dry mix:**
-- 50g erythritol
-- 1.5g cinnamon
-- 1g salt
-- 1g xanthan gum
+- **50g** erythritol
+- **1.5g** cinnamon
+- **1g** salt
+- **1g** xanthan gum
 
 **Mix-in:**
-- 10g Cinnamon Toast Crunch → 🟢 10g any cinnamon cereal
+- **10g** Cinnamon Toast Crunch → 🟢 **10g** any cinnamon cereal
 
 **Steps:**
 1. Blend all with immersion blender 90 sec.
@@ -338,17 +338,17 @@ Tags: cereal, cinnamon, low-calorie
 Tags: cereal, marshmallow, low-calorie
 
 **Base:**
-- 160g 1% Fairlife milk → 🟢 160g Marata 1.5% milk
-- 280g unsweetened almond milk
-- 4.2g vanilla extract
+- **160g** 1% Fairlife milk → 🟢 **160g** Marata 1.5% milk
+- **280g** unsweetened almond milk
+- **4.2g** vanilla extract
 
 **Dry mix:**
-- 45g erythritol
-- 1g salt
-- 1g xanthan gum
+- **45g** erythritol
+- **1g** salt
+- **1g** xanthan gum
 
 **Mix-in:**
-- 11g Lucky Charms → 🟢 11g any cereal with marshmallow bits
+- **11g** Lucky Charms → 🟢 **11g** any cereal with marshmallow bits
 
 **Steps:**
 1. Blend all with immersion blender 90 sec.
@@ -363,21 +363,21 @@ Tags: cereal, marshmallow, low-calorie
 Tags: cereal, oreo, chocolate, low-calorie
 
 **Base:**
-- 160g 1% Fairlife high protein milk → 🟢 160g Marata 1.5% milk
-- 280g unsweetened almond milk
-- 2.1g vanilla extract
+- **160g** 1% Fairlife high protein milk → 🟢 **160g** Marata 1.5% milk
+- **280g** unsweetened almond milk
+- **2.1g** vanilla extract
 
 **Dry mix:**
-- 50g Swerve 🟢
-  - 30g erythritol
-  - 20g xylitol
-  - 0.05g/pinch sucralose
-- 1g salt
-- 1g xanthan gum
-- 8g black cocoa powder → 🟡 8g cocoa powder + 0.5g baking soda (lighter color, more acidic — baking soda neutralizes)
+- **50g** Swerve 🟢
+  - **30g** erythritol
+  - **20g** xylitol
+  - **0.05g**/pinch sucralose
+- **1g** salt
+- **1g** xanthan gum
+- **8g** black cocoa powder → 🟡 **8g** cocoa powder + 0.5g baking soda (lighter color, more acidic — baking soda neutralizes)
 
 **Mix-in:**
-- 10g Oreos (crushed)
+- **10g** Oreos (crushed)
 
 **Steps:**
 1. Blend all with immersion blender 90 sec.
@@ -392,20 +392,20 @@ Tags: cereal, oreo, chocolate, low-calorie
 Tags: cereal, chocolate, low-calorie
 
 **Base:**
-- 160g 1% milk → 🟢 160g Marata 1.5% milk
-- 280g unsweetened almond milk
+- **160g** 1% milk → 🟢 **160g** Marata 1.5% milk
+- **280g** unsweetened almond milk
 
 **Dry mix:**
-- 50g Swerve 🟢
-  - 30g erythritol
-  - 20g xylitol
-  - 0.05g/pinch sucralose
-- 1g salt
-- 1g xanthan gum
-- 8g cocoa powder
+- **50g** Swerve 🟢
+  - **30g** erythritol
+  - **20g** xylitol
+  - **0.05g**/pinch sucralose
+- **1g** salt
+- **1g** xanthan gum
+- **8g** cocoa powder
 
 **Mix-in:**
-- 10g Cocoa Pebbles → 🟢 10g any chocolate cereal
+- **10g** Cocoa Pebbles → 🟢 **10g** any chocolate cereal
 
 **Steps:**
 1. Blend all with immersion blender 90 sec.
@@ -420,21 +420,21 @@ Tags: cereal, chocolate, low-calorie
 Tags: cereal, peanut-butter, low-calorie
 
 **Base:**
-- 160g fat-free milk → 🟢 160g Marata 1.5% milk
-- 280g unsweetened almond milk
-- 4.2g vanilla extract
+- **160g** fat-free milk → 🟢 **160g** Marata 1.5% milk
+- **280g** unsweetened almond milk
+- **4.2g** vanilla extract
 
 **Dry mix:**
-- 45g Swerve 🟢
-  - 27g erythritol
-  - 18g xylitol
-  - 0.05g/pinch sucralose
-- 1.5g salt
-- 1g xanthan gum
-- 8g PBfit / powdered PB → 🟡 4g peanut butter, blended into the wet ingredients instead (higher fat, heavier — won't disperse as dry powder; blend thoroughly)
+- **45g** Swerve 🟢
+  - **27g** erythritol
+  - **18g** xylitol
+  - **0.05g**/pinch sucralose
+- **1.5g** salt
+- **1g** xanthan gum
+- **8g** PBfit / powdered PB → 🟡 **4g** peanut butter, blended into the wet ingredients instead (higher fat, heavier — won't disperse as dry powder; blend thoroughly)
 
 **Mix-in:**
-- 8g Reese's Puffs → 🟡 any peanut butter cereal, or skip cereal and drizzle 5g melted PB on top
+- **8g** Reese's Puffs → 🟡 any peanut butter cereal, or skip cereal and drizzle 5g melted PB on top
 
 **Steps:**
 1. Add milk, almond milk, vanilla, and 4g peanut butter to pint.
@@ -450,26 +450,26 @@ Tags: cereal, peanut-butter, low-calorie
 Tags: cherry-garcia, protein, egg-yolk, mix-ins, premium
 
 **Base:**
-- 20g cherry juice (from jar)
-- 380g 2% Fairlife high protein milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 360g Marata 1.5%
-  - 15g whey protein
-  - 10g glycerin
+- **20g** cherry juice (from jar)
+- **380g** 2% Fairlife high protein milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **360g** Marata 1.5%
+  - **15g** whey protein
+  - **10g** glycerin
 - 2 egg yolks
-- 4g vanilla extract
+- **4g** vanilla extract
 
 **Dry mix:**
-- 16g PEScience whey/casein blend → 🟢 16g whey protein (E4CM says blends over-thicken; whey alone = slightly softer, still excellent)
-- 40g Swerve 🟢
-  - 24g erythritol
-  - 16g xylitol
-  - 0.05g/pinch sucralose
-- 0.5g salt
-- 0.8g xanthan gum
+- **16g** PEScience whey/casein blend → 🟢 **16g** whey protein (E4CM says blends over-thicken; whey alone = slightly softer, still excellent)
+- **40g** Swerve 🟢
+  - **24g** erythritol
+  - **16g** xylitol
+  - **0.05g**/pinch sucralose
+- **0.5g** salt
+- **0.8g** xanthan gum
 
 **Mix-ins:**
 - bing cherries (5) → 🟡 5 dark sweet cherries, stems removed, pressed dry in paper towels (any dark sweet cherry; avoid sour/vyssino)
-- 15g Hershey's dark chocolate → 🟢 15g any dark chocolate, chopped small
+- **15g** Hershey's dark chocolate → 🟢 **15g** any dark chocolate, chopped small
 
 **Steps:**
 1. Add cherry juice, milk, whey, glycerin, egg yolks, vanilla to high-sided container.
@@ -486,21 +486,21 @@ Tags: oreo, cookies-and-cream, protein, premium
 
 **Base:**
 - 1 Oreo (blended into base)
-- 410g Fairlife fat-free milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 4.2g vanilla extract
+- **410g** Fairlife fat-free milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **4.2g** vanilla extract
 
 **Dry mix:**
-- ~30g cookies & cream whey protein 🟡 (less cookie flavor in the base — extra Oreo compensates)
-  - 30g whey protein
-  - 2g vanilla extract
+- **~30g** cookies & cream whey protein 🟡 (less cookie flavor in the base — extra Oreo compensates)
+  - **30g** whey protein
+  - **2g** vanilla extract
   - 1 extra Oreo blended into base
-- 10g erythritol
-- 4g black cocoa powder → 🟡 4g cocoa powder + 0.5g baking soda
-- 0.5g salt
-- 0.5g xanthan gum
+- **10g** erythritol
+- **4g** black cocoa powder → 🟡 **4g** cocoa powder + 0.5g baking soda
+- **0.5g** salt
+- **0.5g** xanthan gum
 
 **Mix-ins (milk-dunked, frozen):**
 - 2 Oreos (dunked in milk 15-20 sec, bagged, frozen alongside pint)
@@ -524,27 +524,27 @@ Tags: mint-chocolate-chip, protein, mix-ins
 🔴 **Requires peppermint extract — buy or skip.**
 
 **Chocolate prep (make ahead — yields ~4 pints):**
-- 113.5g semi-sweet chocolate, Ghirardelli → 🟢 113.5g any dark chocolate
-- 7g peanut oil → 🟢 7g coconut oil
+- **113.5g** semi-sweet chocolate, Ghirardelli → 🟢 **113.5g** any dark chocolate
+- **7g** peanut oil → 🟢 **7g** coconut oil
 - Double boil, whisk in oil. Spread on parchment 1/8" thick. Freeze. Chop into chunks.
 
 **Base:**
-- 430g 1% Fairlife high protein milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 400g Marata 1.5%
-  - 20g whey protein
-  - 10g glycerin
-- 4.2g vanilla extract
+- **430g** 1% Fairlife high protein milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **400g** Marata 1.5%
+  - **20g** whey protein
+  - **10g** glycerin
+- **4.2g** vanilla extract
 - green food coloring (8 drops) → 🟢 skip (cosmetic only)
 - 12 drops McCormick / 4 drops LorAnn's 🔴 BUY peppermint extract
 
 **Dry mix:**
-- 32.4g vanilla whey protein, Gorilla Mind → 🟢 32.4g whey protein + 2g extra vanilla extract
-- 20g erythritol
-- 0.5g salt
-- 0.5g xanthan gum
+- **32.4g** vanilla whey protein, Gorilla Mind → 🟢 **32.4g** whey protein + 2g extra vanilla extract
+- **20g** erythritol
+- **0.5g** salt
+- **0.5g** xanthan gum
 
 **Mix-in:**
-- 30g frozen chocolate chunks (from prep)
+- **30g** frozen chocolate chunks (from prep)
 
 **Steps:**
 1. Add milk, whey, glycerin, vanilla, peppermint to high-sided container.
@@ -559,23 +559,23 @@ Tags: mint-chocolate-chip, protein, mix-ins
 Tags: oreo, mcflurry, protein, soft-serve
 
 **Base:**
-- 430g 1% Fairlife high protein milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 400g Marata 1.5%
-  - 20g whey protein
-  - 10g glycerin
-- 4.2g vanilla extract
+- **430g** 1% Fairlife high protein milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **400g** Marata 1.5%
+  - **20g** whey protein
+  - **10g** glycerin
+- **4.2g** vanilla extract
 
 **Dry mix:**
-- 32.4g vanilla whey protein, Gorilla Mind → 🟢 32.4g whey protein + 2g extra vanilla extract
-- 20g erythritol
-- 0.5g salt
-- 0.5g xanthan gum
+- **32.4g** vanilla whey protein, Gorilla Mind → 🟢 **32.4g** whey protein + 2g extra vanilla extract
+- **20g** erythritol
+- **0.5g** salt
+- **0.5g** xanthan gum
 
 **Mix-ins:**
-- 28g mini Oreos → 🟢 28g regular Oreos, broken into quarters
+- **28g** mini Oreos → 🟢 **28g** regular Oreos, broken into quarters
 
 **Topping:**
-- 11g mini Oreos → 🟢 11g regular Oreos, chopped
+- **11g** mini Oreos → 🟢 **11g** regular Oreos, chopped
 
 **Steps:**
 1. Add milk, whey, glycerin, vanilla to high-sided container.
@@ -592,36 +592,36 @@ Tags: cookie-dough, protein, mix-ins, premium, egg
 
 **Cookie Dough (make 24h ahead, refrigerate):**
 - *Dry:*
-  - 90g flour
-  - 48.6g vanilla whey protein → 🟢 48.6g whey protein
-  - 1.5g salt
+  - **90g** flour
+  - **48.6g** vanilla whey protein → 🟢 **48.6g** whey protein
+  - **1.5g** salt
 - *Wet:*
-  - 21g butter (melted)
+  - **21g** butter (melted)
   - 1 egg
   - 1 egg yolk
-  - 4.2g vanilla extract
-  - 24g erythritol
-  - 24g brown sugar erythritol 🟡 (less toffee/molasses depth in the dough)
-  - 24g erythritol
-  - 3g honey
-- 21g *Fold in:* chocolate chips
+  - **4.2g** vanilla extract
+  - **24g** erythritol
+  - **24g** brown sugar erythritol 🟡 (less toffee/molasses depth in the dough)
+  - **24g** erythritol
+  - **3g** honey
+- **21g** *Fold in:* chocolate chips
 - Mix wet, add dry in thirds, fold in chips. Refrigerate 24h.
 
 **Ice Cream Base:**
-- 430g 2% Fairlife high protein milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 400g Marata 1.5%
-  - 15g whey protein
-  - 10g glycerin
-- 4.2g vanilla extract
+- **430g** 2% Fairlife high protein milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **400g** Marata 1.5%
+  - **15g** whey protein
+  - **10g** glycerin
+- **4.2g** vanilla extract
 
 **Dry mix:**
-- 32.4g vanilla whey protein → 🟢 32.4g whey protein + 2g extra vanilla extract
-- 10g erythritol
-- 0.5g salt
-- 0.5g xanthan gum
+- **32.4g** vanilla whey protein → 🟢 **32.4g** whey protein + 2g extra vanilla extract
+- **10g** erythritol
+- **0.5g** salt
+- **0.5g** xanthan gum
 
 **Mix-in:**
-- 50g cookie dough (from above)
+- **50g** cookie dough (from above)
 
 **Steps:**
 1. Make cookie dough 24h in advance.
@@ -637,30 +637,30 @@ Tags: cookie-dough, protein, mix-ins, premium, egg
 Tags: vanilla-bean, chocolate-chip, protein, egg-yolk, premium
 
 **Chocolate prep (make ahead — yields ~4 pints):**
-- 113g semi-sweet chocolate, Ghirardelli → 🟢 113g any dark chocolate
-- 7g peanut oil → 🟢 7g coconut oil
+- **113g** semi-sweet chocolate, Ghirardelli → 🟢 **113g** any dark chocolate
+- **7g** peanut oil → 🟢 **7g** coconut oil
 - Double boil, spread on parchment 1/8–1/4" thick. Freeze. Chop.
 
 **Base:**
-- 410g 2% Fairlife high protein milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 380g Marata 1.5%
-  - 15g whey protein
-  - 10g glycerin
+- **410g** 2% Fairlife high protein milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **380g** Marata 1.5%
+  - **15g** whey protein
+  - **10g** glycerin
 - 1 egg yolk
 - vanilla bean 1/2 (seeds scraped) → 🟡 use 15g vanilla extract total instead of 4.2g (buy beans — vanilla is the star of this recipe)
-- 4.2g vanilla extract
+- **4.2g** vanilla extract
 
 **Dry mix:**
-- 16.2g vanilla whey protein → 🟢 16.2g whey protein (vanilla already loaded from bean/extract)
-- 8g fat-free milk powder 🟡 (slightly less body/creaminess)
-  - 5g extra whey protein
-  - 5g inulin
-- 20g erythritol
-- 0.5g salt
-- 0.7g xanthan gum
+- **16.2g** vanilla whey protein → 🟢 **16.2g** whey protein (vanilla already loaded from bean/extract)
+- **8g** fat-free milk powder 🟡 (slightly less body/creaminess)
+  - **5g** extra whey protein
+  - **5g** inulin
+- **20g** erythritol
+- **0.5g** salt
+- **0.7g** xanthan gum
 
 **Mix-in:**
-- 26g frozen chocolate chunks (from prep)
+- **26g** frozen chocolate chunks (from prep)
 
 **Steps:**
 1. Add milk, whey, glycerin, egg yolk, vanilla bean seeds + extract to high-sided container.
@@ -677,22 +677,22 @@ Tags: cream-pie, cinnamon, protein, low-calorie
 🔴 **Requires skim milk powder (20g) — buy or skip.**
 
 **Base:**
-- 440g Fairlife fat-free milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 400g Marata 1.5%
-  - 25g whey protein
-  - 15g glycerin
-- 20g brown sugar erythritol 🟡 (less toffee/molasses depth)
-  - 20g erythritol
-  - 3g honey
+- **440g** Fairlife fat-free milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **400g** Marata 1.5%
+  - **25g** whey protein
+  - **15g** glycerin
+- **20g** brown sugar erythritol 🟡 (less toffee/molasses depth)
+  - **20g** erythritol
+  - **3g** honey
   - drop Manis Milk Cream flavor
-- 4.2g vanilla extract
+- **4.2g** vanilla extract
 
 **Dry mix:**
-- 20.3g vanilla whey protein → 🟢 20.3g whey protein + 2g extra vanilla extract
-- 20g fat-free milk powder 🔴 (structural at this amount — buy SMP or skip recipe)
-- 8g cinnamon
-- 0.5g salt
-- 1g xanthan gum
+- **20.3g** vanilla whey protein → 🟢 **20.3g** whey protein + 2g extra vanilla extract
+- **20g** fat-free milk powder 🔴 (structural at this amount — buy SMP or skip recipe)
+- **8g** cinnamon
+- **0.5g** salt
+- **1g** xanthan gum
 
 **Mix-in (frozen alongside pint):**
 - 1 Oatmeal Creme Pie → 🟡 any cream-filled sandwich cookie, frozen
@@ -714,36 +714,36 @@ Tags: cream-pie, cinnamon, protein, low-calorie
 Tags: fudge-brownie, chocolate, protein, egg-yolk, premium
 
 **Brownie (make ahead):**
-- 1 *Wet:* 55g Fairlife 2% milk → 🟢 55g Marata 1.5% milk | 28g peanut oil → 🟢 28g coconut oil | egg
+- 1 *Wet:* 55g Fairlife 2% milk → 🟢 **55g** Marata 1.5% milk | 28g peanut oil → 🟢 **28g** coconut oil | egg
 - zero sugar brownie mix (1 box) 🟡 (denser, less fudgy than commercial mix)
-  - 120g flour
-  - 50g cocoa
-  - 80g erythritol
-  - 1g salt
-  - 1g baking powder
+  - **120g** flour
+  - **50g** cocoa
+  - **80g** erythritol
+  - **1g** salt
+  - **1g** baking powder
 - Mix wet, fold in dry. Spread in 8x8 pan. Bake 175°C, 26-30 min. Cool, chop, freeze.
 
 **Ice Cream Base:**
-- 410g 1% Fairlife high protein milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
+- **410g** 1% Fairlife high protein milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
 - 1 egg yolk
-- 2.1g vanilla extract
-- coffee extract (6 drops) → 🟢 1g instant coffee dissolved in 2g warm water
+- **2.1g** vanilla extract
+- coffee extract (6 drops) → 🟢 **1g** instant coffee dissolved in 2g warm water
 
 **Dry mix:**
-- 27.8g chocolate whey protein 🟢
-  - 27.8g whey protein
-  - 5g extra cocoa
+- **27.8g** chocolate whey protein 🟢
+  - **27.8g** whey protein
+  - **5g** extra cocoa
   - Manis chocolate flavor drops
-- 20g erythritol
-- 12g cocoa powder (+5g from protein swap = 17g total)
-- 0.5g salt
-- 1g xanthan gum
+- **20g** erythritol
+- **12g** cocoa powder (+5g from protein swap = 17g total)
+- **0.5g** salt
+- **1g** xanthan gum
 
 **Mix-in:**
-- 44g frozen brownie bites (in hole) + 12g (side/topping)
+- **44g** frozen brownie bites (in hole) + 12g (side/topping)
 
 **Steps:**
 1. Make brownies ahead. Cool, chop, bag, freeze.
@@ -762,24 +762,24 @@ Tags: fudge-brownie, chocolate, protein, egg-yolk, premium
 Tags: cheesecake, raspberry, white chocolate, protein
 
 **Base:**
-- 400g Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 22g cream cheese
-- 40-45g Monk Fruit sweetener 🟢
-  - 27g erythritol
-  - 18g xylitol
-  - 0.05g/pinch sucralose
-- 5g vanilla bean paste → 🟢 5g vanilla extract
-- 0.5g salt
-- 1g xanthan gum
+- **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **22g** cream cheese
+- **40-45g** Monk Fruit sweetener 🟢
+  - **27g** erythritol
+  - **18g** xylitol
+  - **0.05g**/pinch sucralose
+- **5g** vanilla bean paste → 🟢 **5g** vanilla extract
+- **0.5g** salt
+- **1g** xanthan gum
 
 **Mix-ins/Toppings:**
-- 28g frozen raspberries (must be frozen — no extra liquid)
-- 14g Teddy Grahams → 🟡 14g digestive biscuits, broken into small pieces (less sweet bite, missing honey-graham flavor)
-- 15g white chocolate chips
-- 2g coconut oil
+- **28g** frozen raspberries (must be frozen — no extra liquid)
+- **14g** Teddy Grahams → 🟡 **14g** digestive biscuits, broken into small pieces (less sweet bite, missing honey-graham flavor)
+- **15g** white chocolate chips
+- **2g** coconut oil
 
 **Steps:**
 1. Add milk, whey, glycerin, cream cheese, sweeteners, vanilla, salt, xanthan to pint.
@@ -800,21 +800,21 @@ Tags: peanut butter, pretzel, brownie, protein
 Calories: base only ~470 kcal (102/100g) · with mix-ins ~610 kcal (~120/100g)
 
 **Base:**
-- 400g Fat Free Fairlife Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 40-45g Monk Fruit sweetener 🟢
-  - 20g erythritol
-  - 13g xylitol
-- 8g peanut butter
-- 16g PBfit → 🟡 8g peanut butter (add to base, blend thoroughly) (richer/fattier pint, heavier PB flavor)
-- 5g inulin
-- 1g salt
-- 1.5g xanthan gum
+- **400g** Fat Free Fairlife Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **40-45g** Monk Fruit sweetener 🟢
+  - **20g** erythritol
+  - **13g** xylitol
+- **8g** peanut butter
+- **16g** PBfit → 🟡 **8g** peanut butter (add to base, blend thoroughly) (richer/fattier pint, heavier PB flavor)
+- **5g** inulin
+- **1g** salt
+- **1.5g** xanthan gum
 
 **Toppings:**
-- 10g crushed pretzels
+- **10g** crushed pretzels
 - 1/2 Prime Bites Protein Brownie → 🟡 half a regular brownie, or ~25g DIY brownie (see Fudge Brownie recipe) (less protein, more calories)
 
 **Steps:**
@@ -831,22 +831,22 @@ Calories: base only ~470 kcal (102/100g) · with mix-ins ~610 kcal (~120/100g)
 Tags: chocolate, marshmallow, caramel, protein
 
 **Base:**
-- 350-400g Chocolate Protein Shake 🟡 (slightly less chocolatey — bump sweetener and cocoa to compensate)
-  - 375g Marata 1.5%
-  - 30g whey protein
-  - 15g glycerin
-- 40g sweetener (bumped from 25g — shake had built-in sweetener)
-  - 24g erythritol
-  - 16g xylitol
-  - 0.05g/pinch sucralose
-- 15g cocoa powder (bumped from 10g — shake had chocolate flavor)
-- 0.5g salt
-- 1g xanthan gum
+- **350-400g** Chocolate Protein Shake 🟡 (slightly less chocolatey — bump sweetener and cocoa to compensate)
+  - **375g** Marata 1.5%
+  - **30g** whey protein
+  - **15g** glycerin
+- **40g** sweetener (bumped from 25g — shake had built-in sweetener)
+  - **24g** erythritol
+  - **16g** xylitol
+  - **0.05g**/pinch sucralose
+- **15g** cocoa powder (bumped from 10g — shake had chocolate flavor)
+- **0.5g** salt
+- **1g** xanthan gum
 
 **Mix-ins/Toppings:**
-- 10g mini marshmallows
-- 7g caramel syrup
-- Hormbles Chormbles (1/2) → 🟡 15g chocolate chips + 2g coconut oil, melted (no chunky bar texture — recipe offers this as built-in alternative)
+- **10g** mini marshmallows
+- **7g** caramel syrup
+- Hormbles Chormbles (1/2) → 🟡 **15g** chocolate chips + 2g coconut oil, melted (no chunky bar texture — recipe offers this as built-in alternative)
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, cocoa, salt, xanthan to pint.
@@ -864,22 +864,22 @@ Tags: chocolate, marshmallow, caramel, protein
 Tags: caramel, almond, chocolate, protein
 
 **Base:**
-- 400g Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 40-45g Monk Fruit sweetener 🟢
-  - 27g erythritol
-  - 18g xylitol
-  - 0.05g/pinch sucralose
-- 5g vanilla bean paste → 🟢 5g vanilla extract
-- 0.5g salt
-- 1g xanthan gum
+- **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **40-45g** Monk Fruit sweetener 🟢
+  - **27g** erythritol
+  - **18g** xylitol
+  - **0.05g**/pinch sucralose
+- **5g** vanilla bean paste → 🟢 **5g** vanilla extract
+- **0.5g** salt
+- **1g** xanthan gum
 
 **Mix-ins/Toppings:**
-- 10g sliced almonds
-- 7g salted caramel sauce
-- 15g chocolate chips + 2g coconut oil
+- **10g** sliced almonds
+- **7g** salted caramel sauce
+- **15g** chocolate chips + 2g coconut oil
   - As mix-in: melt, pour into hole before Mix-In — turns into creamy chocolate chips
   - As topping: pour melted chocolate on top after spinning, tip pint to spread
 
@@ -899,22 +899,22 @@ Tags: mint, chocolate, marshmallow, protein
 🔴 **Requires peppermint extract — buy or skip.**
 
 **Base:**
-- 350-400g Chocolate Protein Shake 🟡 (slightly less chocolatey — bump sweetener and cocoa to compensate)
-  - 375g Marata 1.5%
-  - 30g whey protein
-  - 15g glycerin
-- 40g sweetener (bumped from 20-25g — shake had built-in sweetener)
-  - 24g erythritol
-  - 16g xylitol
-  - 0.05g/pinch sucralose
-- 20g black cocoa powder → 🟡 20g cocoa powder + 0.5g baking soda (lighter color, less Oreo-like)
-- 0.6g peppermint extract (1/8 tsp) 🔴 BUY
-- 0.5g salt
-- 1g xanthan gum
+- **350-400g** Chocolate Protein Shake 🟡 (slightly less chocolatey — bump sweetener and cocoa to compensate)
+  - **375g** Marata 1.5%
+  - **30g** whey protein
+  - **15g** glycerin
+- **40g** sweetener (bumped from 20-25g — shake had built-in sweetener)
+  - **24g** erythritol
+  - **16g** xylitol
+  - **0.05g**/pinch sucralose
+- **20g** black cocoa powder → 🟡 **20g** cocoa powder + 0.5g baking soda (lighter color, less Oreo-like)
+- **0.6g** peppermint extract (1/8 tsp) 🔴 BUY
+- **0.5g** salt
+- **1g** xanthan gum
 
 **Mix-ins:**
 - Oreo Thins (3, cream removed) → 🟢 3 Oreos, halved
-- 10g mini marshmallows
+- **10g** mini marshmallows
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, cocoa, baking soda, peppermint, salt, xanthan to pint.
@@ -932,20 +932,20 @@ Tags: mint, chocolate, marshmallow, protein
 Tags: vanilla, chocolate chip, protein
 
 **Base:**
-- 400g Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 40-45g Monk Fruit sweetener 🟢
-  - 27g erythritol
-  - 18g xylitol
-  - 0.05g/pinch sucralose
-- 5g vanilla bean paste → 🟢 5g vanilla extract
-- 0.5g salt
-- 1g xanthan gum
+- **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **40-45g** Monk Fruit sweetener 🟢
+  - **27g** erythritol
+  - **18g** xylitol
+  - **0.05g**/pinch sucralose
+- **5g** vanilla bean paste → 🟢 **5g** vanilla extract
+- **0.5g** salt
+- **1g** xanthan gum
 
 **Mix-ins:**
-- 20g chocolate chips + 3g coconut oil (melt in microwave 30 sec intervals, pour into hole → creates creamy chocolate chips)
+- **20g** chocolate chips + 3g coconut oil (melt in microwave 30 sec intervals, pour into hole → creates creamy chocolate chips)
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, vanilla, salt, xanthan to pint.
@@ -963,20 +963,20 @@ Tags: red velvet, chocolate, brownie, protein
 🔴 **Requires Red Velvet extract (LorAnn) — buy or skip.**
 
 **Base:**
-- 350-400g Chocolate Protein Shake 🟡 (slightly less chocolatey — bump sweetener to compensate)
-  - 375g Marata 1.5%
-  - 30g whey protein
-  - 15g glycerin
-- 40g sweetener (bumped from 20-25g — shake had built-in sweetener)
-  - 24g erythritol
-  - 16g xylitol
-  - 0.05g/pinch sucralose
-- 5g Red Velvet extract (1 tsp) 🔴 BUY
-- 0.5g salt
-- 1g xanthan gum
+- **350-400g** Chocolate Protein Shake 🟡 (slightly less chocolatey — bump sweetener to compensate)
+  - **375g** Marata 1.5%
+  - **30g** whey protein
+  - **15g** glycerin
+- **40g** sweetener (bumped from 20-25g — shake had built-in sweetener)
+  - **24g** erythritol
+  - **16g** xylitol
+  - **0.05g**/pinch sucralose
+- **5g** Red Velvet extract (1 tsp) 🔴 BUY
+- **0.5g** salt
+- **1g** xanthan gum
 
 **Toppings:**
-- Prime Bites Protein Brownie (1/2) → 🟡 ~25g any brownie, chopped (less protein, more calories)
+- Prime Bites Protein Brownie (1/2) → 🟡 **~25g** any brownie, chopped (less protein, more calories)
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, extract, salt, xanthan to pint.
@@ -992,24 +992,24 @@ Tags: red velvet, chocolate, brownie, protein
 Tags: chocolate, cheesecake, oreo, protein
 
 **Base:**
-- 350-400g Chocolate Protein Shake 🟡 (slightly less chocolatey — bump sweetener and cocoa to compensate)
-  - 375g Marata 1.5%
-  - 30g whey protein
-  - 15g glycerin
-- 40g sweetener (bumped from 20-25g — shake had built-in sweetener)
-  - 24g erythritol
-  - 16g xylitol
-  - 0.05g/pinch sucralose
-- 22g cream cheese
-- 15g cocoa powder (bumped from 10g — shake had chocolate flavor)
-- 0.5g salt
-- 1g xanthan gum
+- **350-400g** Chocolate Protein Shake 🟡 (slightly less chocolatey — bump sweetener and cocoa to compensate)
+  - **375g** Marata 1.5%
+  - **30g** whey protein
+  - **15g** glycerin
+- **40g** sweetener (bumped from 20-25g — shake had built-in sweetener)
+  - **24g** erythritol
+  - **16g** xylitol
+  - **0.05g**/pinch sucralose
+- **22g** cream cheese
+- **15g** cocoa powder (bumped from 10g — shake had chocolate flavor)
+- **0.5g** salt
+- **1g** xanthan gum
 
 **Mix-ins/Toppings:**
 - Oreo Thins (3, cream removed) → 🟢 3 Oreos, halved
-- 10g whipped cream
-- Hormbles Chormbles (1/4) → 🟡 ~12g any chocolate bar, chopped (less protein)
-- 10g chocolate sauce
+- **10g** whipped cream
+- Hormbles Chormbles (1/4) → 🟡 **~12g** any chocolate bar, chopped (less protein)
+- **10g** chocolate sauce
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, cream cheese, cocoa, salt, xanthan to pint.
@@ -1027,22 +1027,22 @@ Tags: chocolate, cheesecake, oreo, protein
 Tags: banana, walnut, chocolate, protein
 
 **Base:**
-- 400g Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 40g Monk Fruit sweetener 🟢
-  - 24g erythritol
-  - 16g xylitol
-  - 0.05g/pinch sucralose
+- **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **40g** Monk Fruit sweetener 🟢
+  - **24g** erythritol
+  - **16g** xylitol
+  - **0.05g**/pinch sucralose
 - 1 banana, small (~100g)
-- 5g vanilla bean paste → 🟢 5g vanilla extract
-- 0.5g salt
-- 1g xanthan gum
+- **5g** vanilla bean paste → 🟢 **5g** vanilla extract
+- **0.5g** salt
+- **1g** xanthan gum
 
 **Mix-ins:**
-- 7g chopped walnuts
-- 15g chocolate chips + 2g coconut oil
+- **7g** chopped walnuts
+- **15g** chocolate chips + 2g coconut oil
   - As mix-in: melt, pour into hole before Mix-In
   - As topping: pour melted chocolate on top after spinning
 
@@ -1061,20 +1061,20 @@ Tags: banana, walnut, chocolate, protein
 Tags: chocolate, brownie, protein
 
 **Base:**
-- 350-400g Chocolate Protein Shake 🟡 (slightly less chocolatey — bump sweetener and cocoa to compensate)
-  - 375g Marata 1.5%
-  - 30g whey protein
-  - 15g glycerin
-- 40g sweetener (bumped from 20g — shake had built-in sweetener)
-  - 24g erythritol
-  - 16g xylitol
-  - 0.05g/pinch sucralose
-- 15g cocoa powder (bumped from 10g — shake had chocolate flavor)
-- 1g salt
-- 1g xanthan gum
+- **350-400g** Chocolate Protein Shake 🟡 (slightly less chocolatey — bump sweetener and cocoa to compensate)
+  - **375g** Marata 1.5%
+  - **30g** whey protein
+  - **15g** glycerin
+- **40g** sweetener (bumped from 20g — shake had built-in sweetener)
+  - **24g** erythritol
+  - **16g** xylitol
+  - **0.05g**/pinch sucralose
+- **15g** cocoa powder (bumped from 10g — shake had chocolate flavor)
+- **1g** salt
+- **1g** xanthan gum
 
 **Toppings:**
-- Prime Bites Protein Brownie (1/2) → 🟡 ~25g any brownie, crumbled (less protein, more calories)
+- Prime Bites Protein Brownie (1/2) → 🟡 **~25g** any brownie, crumbled (less protein, more calories)
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, cocoa, salt, xanthan to pint.
@@ -1091,22 +1091,22 @@ Tags: chocolate, brownie, protein
 Tags: chocolate, cookie dough, oreo, caramel, protein
 
 **Base:**
-- 350-400g Chocolate Protein Shake 🟡 (slightly less chocolatey — bump sweetener and cocoa to compensate)
-  - 375g Marata 1.5%
-  - 30g whey protein
-  - 15g glycerin
-- 40g sweetener (bumped from 20-25g — shake had built-in sweetener)
-  - 24g erythritol
-  - 16g xylitol
-  - 0.05g/pinch sucralose
-- 15g cocoa powder (bumped from 10g — shake had chocolate flavor)
-- 0.5g salt
-- 1g xanthan gum
+- **350-400g** Chocolate Protein Shake 🟡 (slightly less chocolatey — bump sweetener and cocoa to compensate)
+  - **375g** Marata 1.5%
+  - **30g** whey protein
+  - **15g** glycerin
+- **40g** sweetener (bumped from 20-25g — shake had built-in sweetener)
+  - **24g** erythritol
+  - **16g** xylitol
+  - **0.05g**/pinch sucralose
+- **15g** cocoa powder (bumped from 10g — shake had chocolate flavor)
+- **0.5g** salt
+- **1g** xanthan gum
 
 **Mix-ins/Toppings:**
-- 20g cookie dough bites → 🟡 ~20g any cookie dough pieces (less protein, more calories)
+- **20g** cookie dough bites → 🟡 **~20g** any cookie dough pieces (less protein, more calories)
 - Oreo Thins (2, cream removed) → 🟢 2 Oreos, halved
-- 7g caramel syrup
+- **7g** caramel syrup
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, cocoa, salt, xanthan to pint.
@@ -1125,18 +1125,18 @@ Tags: mint, chocolate, oreo, protein
 🔴 **Requires peppermint extract — buy or skip.**
 
 **Base:**
-- 400g Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 40-45g Monk Fruit sweetener 🟢
-  - 27g erythritol
-  - 18g xylitol
-  - 0.05g/pinch sucralose
-- 2.5g vanilla bean paste → 🟢 2.5g vanilla extract
-- 0.6g peppermint extract (1/8 tsp) 🔴 BUY
-- 0.5g salt
-- 1g xanthan gum
+- **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **40-45g** Monk Fruit sweetener 🟢
+  - **27g** erythritol
+  - **18g** xylitol
+  - **0.05g**/pinch sucralose
+- **2.5g** vanilla bean paste → 🟢 **2.5g** vanilla extract
+- **0.6g** peppermint extract (1/8 tsp) 🔴 BUY
+- **0.5g** salt
+- **1g** xanthan gum
 
 **Mix-ins:**
 - Oreo Thins (3) → 🟢 3 Oreos, halved
@@ -1156,23 +1156,23 @@ Tags: mint, chocolate, oreo, protein
 Tags: strawberry, cheesecake, graham cracker, protein
 
 **Base:**
-- 350-400g Strawberry Protein Shake 🟡 (no strawberry flavor in base — relies on mix-in fruit)
-  - 375g Marata 1.5%
-  - 30g whey protein
-  - 15g glycerin
-- 22g cream cheese
-- 40g sweetener (bumped from 20-25g — shake had built-in sweetener)
-  - 24g erythritol
-  - 16g xylitol
-  - 0.05g/pinch sucralose
-- 0.5g salt
-- 1g xanthan gum
+- **350-400g** Strawberry Protein Shake 🟡 (no strawberry flavor in base — relies on mix-in fruit)
+  - **375g** Marata 1.5%
+  - **30g** whey protein
+  - **15g** glycerin
+- **22g** cream cheese
+- **40g** sweetener (bumped from 20-25g — shake had built-in sweetener)
+  - **24g** erythritol
+  - **16g** xylitol
+  - **0.05g**/pinch sucralose
+- **0.5g** salt
+- **1g** xanthan gum
 
 *Add Manis strawberry flavor drops if available.*
 
 **Mix-ins:**
-- 100g strawberries (fresh or frozen), macerated in 10-15g sweetener + splash of lemon juice
-- graham cracker (1/2 sheet) → 🟡 ~7g digestive biscuits, crushed (less sweet, missing honey-graham flavor)
+- **100g** strawberries (fresh or frozen), macerated in 10-15g sweetener + splash of lemon juice
+- graham cracker (1/2 sheet) → 🟡 **~7g** digestive biscuits, crushed (less sweet, missing honey-graham flavor)
 
 **Steps:**
 1. Add milk, whey, glycerin, cream cheese, sweeteners, salt, xanthan to pint.
@@ -1189,34 +1189,34 @@ Tags: strawberry, cheesecake, graham cracker, protein
 Tags: chocolate, vanilla, brownie, cookie dough, protein
 
 **Chocolate Base (1 pint):**
-- 350-400g Chocolate Protein Shake 🟡 (slightly less chocolatey — bump sweetener and cocoa to compensate)
-  - 375g Marata 1.5%
-  - 30g whey protein
-  - 15g glycerin
-- 40g sweetener (bumped from 20-25g — shake had built-in sweetener)
-  - 24g erythritol
-  - 16g xylitol
-  - 0.05g/pinch sucralose
-- 15g cocoa powder (bumped from 10g — shake had chocolate flavor)
-- 1g salt
-- 1g xanthan gum
+- **350-400g** Chocolate Protein Shake 🟡 (slightly less chocolatey — bump sweetener and cocoa to compensate)
+  - **375g** Marata 1.5%
+  - **30g** whey protein
+  - **15g** glycerin
+- **40g** sweetener (bumped from 20-25g — shake had built-in sweetener)
+  - **24g** erythritol
+  - **16g** xylitol
+  - **0.05g**/pinch sucralose
+- **15g** cocoa powder (bumped from 10g — shake had chocolate flavor)
+- **1g** salt
+- **1g** xanthan gum
 
 **Vanilla Base (1 pint):**
-- 400g Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 40-45g Monk Fruit sweetener 🟢
-  - 27g erythritol
-  - 18g xylitol
-  - 0.05g/pinch sucralose
-- 5g vanilla bean paste → 🟢 5g vanilla extract
-- 1g salt
-- 1g xanthan gum
+- **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **40-45g** Monk Fruit sweetener 🟢
+  - **27g** erythritol
+  - **18g** xylitol
+  - **0.05g**/pinch sucralose
+- **5g** vanilla bean paste → 🟢 **5g** vanilla extract
+- **1g** salt
+- **1g** xanthan gum
 
 **Mix-ins (split across both pints):**
-- Prime Bites Protein Brownie (1/2) → 🟡 ~25g any brownie, chopped (less protein, more calories)
-- 1/3 package Fuul Snacks Cookie Dough → 🟡 ~17g any cookie dough pieces (less protein, more calories)
+- Prime Bites Protein Brownie (1/2) → 🟡 **~25g** any brownie, chopped (less protein, more calories)
+- 1/3 package Fuul Snacks Cookie Dough → 🟡 **~17g** any cookie dough pieces (less protein, more calories)
 
 **Steps:**
 1. Blend each base separately with immersion blender 90 sec. Freeze both 24h.
@@ -1230,22 +1230,22 @@ Tags: chocolate, vanilla, brownie, cookie dough, protein
 Tags: strawberry, chocolate, protein
 
 **Base:**
-- 350-400g Strawberry Protein Shake 🟡 (no strawberry flavor in base — relies on mix-in fruit)
-  - 375g Marata 1.5%
-  - 30g whey protein
-  - 15g glycerin
-- 40g sweetener (bumped from 20-25g — shake had built-in sweetener)
-  - 24g erythritol
-  - 16g xylitol
-  - 0.05g/pinch sucralose
-- 0.5g salt
-- 1g xanthan gum
+- **350-400g** Strawberry Protein Shake 🟡 (no strawberry flavor in base — relies on mix-in fruit)
+  - **375g** Marata 1.5%
+  - **30g** whey protein
+  - **15g** glycerin
+- **40g** sweetener (bumped from 20-25g — shake had built-in sweetener)
+  - **24g** erythritol
+  - **16g** xylitol
+  - **0.05g**/pinch sucralose
+- **0.5g** salt
+- **1g** xanthan gum
 
 *Add Manis strawberry flavor drops if available.*
 
 **Mix-ins:**
-- ~20g strawberry jam (low sugar)
-- 15g chocolate chips + 2g coconut oil (melt, pour into hole → creamy chocolate chips)
+- **~20g** strawberry jam (low sugar)
+- **15g** chocolate chips + 2g coconut oil (melt, pour into hole → creamy chocolate chips)
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, salt, xanthan to pint.
@@ -1262,22 +1262,22 @@ Tags: strawberry, chocolate, protein
 Tags: chocolate, caramel, rolo, protein
 
 **Base:**
-- 350-400g Chocolate Protein Shake 🟡 (slightly less chocolatey — bump sweetener and cocoa to compensate)
-  - 375g Marata 1.5%
-  - 30g whey protein
-  - 15g glycerin
-- 40g sweetener (bumped from 20-25g — shake had built-in sweetener)
-  - 24g erythritol
-  - 16g xylitol
-  - 0.05g/pinch sucralose
-- 15g cocoa powder (bumped from 10g — shake had chocolate flavor)
-- 0.5g salt
-- 1g xanthan gum
+- **350-400g** Chocolate Protein Shake 🟡 (slightly less chocolatey — bump sweetener and cocoa to compensate)
+  - **375g** Marata 1.5%
+  - **30g** whey protein
+  - **15g** glycerin
+- **40g** sweetener (bumped from 20-25g — shake had built-in sweetener)
+  - **24g** erythritol
+  - **16g** xylitol
+  - **0.05g**/pinch sucralose
+- **15g** cocoa powder (bumped from 10g — shake had chocolate flavor)
+- **0.5g** salt
+- **1g** xanthan gum
 
 **Mix-ins/Toppings:**
-- Hormbles Chormbles (1/2) → 🟡 ~25g any chocolate bar, chopped (less protein)
-- 12g Rolos (or any chocolate covered caramels), chopped
-- 7g caramel syrup
+- Hormbles Chormbles (1/2) → 🟡 **~25g** any chocolate bar, chopped (less protein)
+- **12g** Rolos (or any chocolate covered caramels), chopped
+- **7g** caramel syrup
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, cocoa, salt, xanthan to pint.
@@ -1295,22 +1295,22 @@ Tags: chocolate, caramel, rolo, protein
 Tags: peanut butter, brownie, cookie dough, protein
 
 **Base:**
-- 400g Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 40-45g Monk Fruit sweetener 🟢
-  - 27g erythritol
-  - 18g xylitol
-  - 0.05g/pinch sucralose
-- 8g peanut butter
-- 16g PBfit → 🟡 8g peanut butter (blend into base) (richer/fattier pint, heavier PB flavor)
-- 1g salt
-- 1g xanthan gum
+- **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **40-45g** Monk Fruit sweetener 🟢
+  - **27g** erythritol
+  - **18g** xylitol
+  - **0.05g**/pinch sucralose
+- **8g** peanut butter
+- **16g** PBfit → 🟡 **8g** peanut butter (blend into base) (richer/fattier pint, heavier PB flavor)
+- **1g** salt
+- **1g** xanthan gum
 
 **Mix-ins:**
-- 20g Fuul Snacks Cookie Dough → 🟡 ~20g any cookie dough pieces (less protein, more calories)
-- Prime Bites Protein Brownie (1/3) → 🟡 ~17g any brownie, chopped (less protein, more calories)
+- **20g** Fuul Snacks Cookie Dough → 🟡 **~20g** any cookie dough pieces (less protein, more calories)
+- Prime Bites Protein Brownie (1/3) → 🟡 **~17g** any brownie, chopped (less protein, more calories)
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, peanut butter, salt, xanthan to pint.
@@ -1328,22 +1328,22 @@ Tags: peanut butter, brownie, cookie dough, protein
 Tags: pistachio, protein
 
 **Base:**
-- 400g Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 30-35g Monk Fruit sweetener 🟢
-  - 20g erythritol
-  - 13g xylitol
-  - 0.05g/pinch sucralose
-- 20g pistachio butter (or pistachio cream)
-- 2.5g sugar-free pistachio syrup (optional)
-- 5g vanilla bean paste → 🟢 5g vanilla extract
-- 0.5g salt
-- 1g xanthan gum
+- **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **30-35g** Monk Fruit sweetener 🟢
+  - **20g** erythritol
+  - **13g** xylitol
+  - **0.05g**/pinch sucralose
+- **20g** pistachio butter (or pistachio cream)
+- **2.5g** sugar-free pistachio syrup (optional)
+- **5g** vanilla bean paste → 🟢 **5g** vanilla extract
+- **0.5g** salt
+- **1g** xanthan gum
 
 **Mix-ins:**
-- 10g roasted salted pistachios, chopped
+- **10g** roasted salted pistachios, chopped
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, pistachio butter, vanilla, salt, xanthan to pint.
@@ -1360,23 +1360,23 @@ Tags: pistachio, protein
 Tags: tiramisu, coffee, mascarpone, protein
 
 **Base:**
-- 400g Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 40g Monk Fruit sweetener 🟢
-  - 24g erythritol
-  - 16g xylitol
-  - 0.05g/pinch sucralose
-- 15g mascarpone
-- 5g vanilla bean paste → 🟢 5g vanilla extract
-- 0.5g salt
-- 1g xanthan gum
+- **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **40g** Monk Fruit sweetener 🟢
+  - **24g** erythritol
+  - **16g** xylitol
+  - **0.05g**/pinch sucralose
+- **15g** mascarpone
+- **5g** vanilla bean paste → 🟢 **5g** vanilla extract
+- **0.5g** salt
+- **1g** xanthan gum
 
 **Mix-ins/Toppings:**
-- 10g HighKey Vanilla Wafers → 🟢 10g lady fingers or any vanilla wafers
-- 10g chocolate covered espresso beans (save 1, chop finely for topping)
-- 15g chocolate sauce
+- **10g** HighKey Vanilla Wafers → 🟢 **10g** lady fingers or any vanilla wafers
+- **10g** chocolate covered espresso beans (save 1, chop finely for topping)
+- **15g** chocolate sauce
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, mascarpone, vanilla, salt, xanthan to pint.
@@ -1394,23 +1394,23 @@ Tags: tiramisu, coffee, mascarpone, protein
 Tags: chocolate, peanut butter, toffee, almond, protein
 
 **Base:**
-- 350-400g Chocolate Protein Shake 🟡 (slightly less chocolatey — bump sweetener and cocoa to compensate)
-  - 375g Marata 1.5%
-  - 30g whey protein
-  - 15g glycerin
-- 40g sweetener (bumped from 20-25g — shake had built-in sweetener)
-  - 24g erythritol
-  - 16g xylitol
-  - 0.05g/pinch sucralose
-- 15g cocoa powder (bumped from 10g — shake had chocolate flavor)
-- 0.5g salt
-- 1g xanthan gum
+- **350-400g** Chocolate Protein Shake 🟡 (slightly less chocolatey — bump sweetener and cocoa to compensate)
+  - **375g** Marata 1.5%
+  - **30g** whey protein
+  - **15g** glycerin
+- **40g** sweetener (bumped from 20-25g — shake had built-in sweetener)
+  - **24g** erythritol
+  - **16g** xylitol
+  - **0.05g**/pinch sucralose
+- **15g** cocoa powder (bumped from 10g — shake had chocolate flavor)
+- **0.5g** salt
+- **1g** xanthan gum
 
 **Mix-ins:**
-- 7g white chocolate chips
-- 9g peanut butter cups, chopped
-- 7g chocolate covered toffee, chopped
-- 7g chocolate covered almonds, chopped
+- **7g** white chocolate chips
+- **9g** peanut butter cups, chopped
+- **7g** chocolate covered toffee, chopped
+- **7g** chocolate covered almonds, chopped
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, cocoa, salt, xanthan to pint.
@@ -1427,27 +1427,27 @@ Tags: chocolate, peanut butter, toffee, almond, protein
 Tags: pumpkin, cheesecake, graham cracker, protein
 
 **Base:**
-- 400g Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 40-45g Monk Fruit sweetener 🟢
-  - 27g erythritol
-  - 18g xylitol
-  - 0.05g/pinch sucralose
-- 60g canned pumpkin
-- 30g pumpkin cream cheese → 🟢 30g cream cheese + dash cinnamon + dash pumpkin pie spice
-- 2.5g vanilla bean paste → 🟢 2.5g vanilla extract
-- 2g pumpkin pie spice 🟢
-  - 1g cinnamon
-  - 0.5g nutmeg
-  - 0.25g allspice
-  - 0.25g ginger
-- 0.5g salt
-- 1g xanthan gum
+- **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **40-45g** Monk Fruit sweetener 🟢
+  - **27g** erythritol
+  - **18g** xylitol
+  - **0.05g**/pinch sucralose
+- **60g** canned pumpkin
+- **30g** pumpkin cream cheese → 🟢 **30g** cream cheese + dash cinnamon + dash pumpkin pie spice
+- **2.5g** vanilla bean paste → 🟢 **2.5g** vanilla extract
+- **2g** pumpkin pie spice 🟢
+  - **1g** cinnamon
+  - **0.5g** nutmeg
+  - **0.25g** allspice
+  - **0.25g** ginger
+- **0.5g** salt
+- **1g** xanthan gum
 
 **Toppings:**
-- graham cracker (1/2 sheet) → 🟡 ~7g digestive biscuits, crushed (less sweet, missing honey-graham flavor)
+- graham cracker (1/2 sheet) → 🟡 **~7g** digestive biscuits, crushed (less sweet, missing honey-graham flavor)
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, pumpkin, cream cheese, vanilla, spices, salt, xanthan to pint.
@@ -1463,23 +1463,23 @@ Tags: pumpkin, cheesecake, graham cracker, protein
 Tags: banana, chocolate, caramel, graham cracker, protein
 
 **Base:**
-- 400g Fat Free Fairlife Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 40g Monk Fruit sweetener 🟢
-  - 24g erythritol
-  - 16g xylitol
-  - 0.05g/pinch sucralose
+- **400g** Fat Free Fairlife Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **40g** Monk Fruit sweetener 🟢
+  - **24g** erythritol
+  - **16g** xylitol
+  - **0.05g**/pinch sucralose
 - 1 banana, medium (~100g)
-- 5g vanilla bean paste → 🟢 5g vanilla extract
-- 0.5g salt
-- 1g xanthan gum
+- **5g** vanilla bean paste → 🟢 **5g** vanilla extract
+- **0.5g** salt
+- **1g** xanthan gum
 
 **Mix-ins/Toppings:**
-- 15g chocolate chips + 2g coconut oil (melt, pour into hole)
-- 3g graham cracker → 🟡 ~3g digestive biscuits, crushed (less sweet, missing honey-graham flavor)
-- 5g caramel syrup
+- **15g** chocolate chips + 2g coconut oil (melt, pour into hole)
+- **3g** graham cracker → 🟡 **~3g** digestive biscuits, crushed (less sweet, missing honey-graham flavor)
+- **5g** caramel syrup
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, banana, vanilla, salt, xanthan to pint.
@@ -1497,20 +1497,20 @@ Tags: banana, chocolate, caramel, graham cracker, protein
 Tags: chocolate, pretzel, protein
 
 **Base:**
-- 350-400g Chocolate Protein Shake 🟡 (slightly less chocolatey — bump sweetener and cocoa to compensate)
-  - 375g Marata 1.5%
-  - 30g whey protein
-  - 15g glycerin
-- 40g sweetener (bumped from 20-25g — shake had built-in sweetener)
-  - 24g erythritol
-  - 16g xylitol
-  - 0.05g/pinch sucralose
-- 15g cocoa powder (bumped from 10g — shake had chocolate flavor)
-- 0.5g salt
-- 1g xanthan gum
+- **350-400g** Chocolate Protein Shake 🟡 (slightly less chocolatey — bump sweetener and cocoa to compensate)
+  - **375g** Marata 1.5%
+  - **30g** whey protein
+  - **15g** glycerin
+- **40g** sweetener (bumped from 20-25g — shake had built-in sweetener)
+  - **24g** erythritol
+  - **16g** xylitol
+  - **0.05g**/pinch sucralose
+- **15g** cocoa powder (bumped from 10g — shake had chocolate flavor)
+- **0.5g** salt
+- **1g** xanthan gum
 
 **Mix-ins:**
-- 21g chocolate covered pretzels
+- **21g** chocolate covered pretzels
 - flaky salt
 
 **Steps:**
@@ -1529,21 +1529,21 @@ Tags: chocolate, pretzel, protein
 Tags: caramel, chocolate, cheesecake, oreo, protein
 
 **Base:**
-- 350-400g Caramel Protein Shake 🟡 (less caramel depth — add caramel syrup to base)
-  - 375g Marata 1.5%
-  - 30g whey protein
-  - 15g glycerin
-  - 7g caramel syrup
-- 40g sweetener (bumped from 20-25g — shake had built-in sweetener)
-  - 24g erythritol
-  - 16g xylitol
-  - 0.05g/pinch sucralose
-- 7g Jello cheesecake pudding mix → 🟡 7g any instant pudding mix (Dr. Oetker), or 15g cream cheese + 2g cornstarch (less custardy body)
-- 0.5g salt
+- **350-400g** Caramel Protein Shake 🟡 (less caramel depth — add caramel syrup to base)
+  - **375g** Marata 1.5%
+  - **30g** whey protein
+  - **15g** glycerin
+  - **7g** caramel syrup
+- **40g** sweetener (bumped from 20-25g — shake had built-in sweetener)
+  - **24g** erythritol
+  - **16g** xylitol
+  - **0.05g**/pinch sucralose
+- **7g** Jello cheesecake pudding mix → 🟡 **7g** any instant pudding mix (Dr. Oetker), or 15g cream cheese + 2g cornstarch (less custardy body)
+- **0.5g** salt
 
 **Mix-ins/Toppings:**
 - Oreo Thins (2, cream removed) → 🟢 2 Oreos, halved
-- 30g cheesecake bites, coated in ~2g crushed digestive biscuit
+- **30g** cheesecake bites, coated in ~2g crushed digestive biscuit
 
 **Steps:**
 1. Add milk, whey, glycerin, caramel syrup, sweeteners, pudding mix (or cream cheese + cornstarch), salt to pint.
@@ -1561,18 +1561,18 @@ Tags: caramel, chocolate, cheesecake, oreo, protein
 Tags: chocolate, oreo, protein
 
 **Base:**
-- 350-400g Chocolate Protein Shake 🟡 (slightly less chocolatey — bump sweetener and cocoa to compensate)
-  - 375g Marata 1.5%
-  - 30g whey protein
-  - 15g glycerin
-- 40g sweetener (bumped from 20-25g — shake had built-in sweetener)
-  - 24g erythritol
-  - 16g xylitol
-  - 0.05g/pinch sucralose
-- 15g cocoa powder (bumped from 10g — shake had chocolate flavor)
-- Jello chocolate pudding mix (7-10g) → 🟡 5g extra cocoa + 3g cornstarch (less custardy body)
-- 0.5g salt
-- 1g xanthan gum
+- **350-400g** Chocolate Protein Shake 🟡 (slightly less chocolatey — bump sweetener and cocoa to compensate)
+  - **375g** Marata 1.5%
+  - **30g** whey protein
+  - **15g** glycerin
+- **40g** sweetener (bumped from 20-25g — shake had built-in sweetener)
+  - **24g** erythritol
+  - **16g** xylitol
+  - **0.05g**/pinch sucralose
+- **15g** cocoa powder (bumped from 10g — shake had chocolate flavor)
+- Jello chocolate pudding mix (7-10g) → 🟡 **5g** extra cocoa + 3g cornstarch (less custardy body)
+- **0.5g** salt
+- **1g** xanthan gum
 
 **Mix-ins:**
 - Oreo Thins (3, cream removed) → 🟢 3 Oreos, halved
@@ -1592,21 +1592,21 @@ Tags: chocolate, oreo, protein
 Tags: coffee, espresso, protein
 
 **Base:**
-- 400g Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 40-45g Monk Fruit sweetener 🟢
-  - 27g erythritol
-  - 18g xylitol
-  - 0.05g/pinch sucralose
-- 5g vanilla bean paste → 🟢 5g vanilla extract
-- Cometeer coffee pod → 🟢 5g instant coffee dissolved in 5g warm water
-- 1g salt
-- 1g xanthan gum
+- **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **40-45g** Monk Fruit sweetener 🟢
+  - **27g** erythritol
+  - **18g** xylitol
+  - **0.05g**/pinch sucralose
+- **5g** vanilla bean paste → 🟢 **5g** vanilla extract
+- Cometeer coffee pod → 🟢 **5g** instant coffee dissolved in 5g warm water
+- **1g** salt
+- **1g** xanthan gum
 
 **Mix-ins:**
-- 30g chocolate covered espresso beans, chopped
+- **30g** chocolate covered espresso beans, chopped
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, vanilla, dissolved coffee, salt, xanthan to pint.
@@ -1623,22 +1623,22 @@ Tags: coffee, espresso, protein
 Tags: peanut butter, protein
 
 **Base:**
-- 400g Fat Free Fairlife Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 40-45g Monk Fruit sweetener 🟢
-  - 27g erythritol
-  - 18g xylitol
-  - 0.05g/pinch sucralose
-- 5g vanilla bean paste → 🟢 5g vanilla extract
-- 8g peanut butter
-- 16g PBfit → 🟡 8g peanut butter (blend into base) (richer/fattier pint, heavier PB flavor)
-- 1g salt
-- 1g xanthan gum
+- **400g** Fat Free Fairlife Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **40-45g** Monk Fruit sweetener 🟢
+  - **27g** erythritol
+  - **18g** xylitol
+  - **0.05g**/pinch sucralose
+- **5g** vanilla bean paste → 🟢 **5g** vanilla extract
+- **8g** peanut butter
+- **16g** PBfit → 🟡 **8g** peanut butter (blend into base) (richer/fattier pint, heavier PB flavor)
+- **1g** salt
+- **1g** xanthan gum
 
 **Toppings:**
-- 17g chopped peanut butter cups
+- **17g** chopped peanut butter cups
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, vanilla, peanut butter, salt, xanthan to pint.
@@ -1654,21 +1654,21 @@ Tags: peanut butter, protein
 Tags: vanilla, marshmallow, white chocolate, protein
 
 **Base:**
-- 400g Fat Free Fairlife Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 40-45g Monk Fruit sweetener 🟢
-  - 27g erythritol
-  - 18g xylitol
-  - 0.05g/pinch sucralose
-- 5g vanilla bean paste → 🟢 5g vanilla extract
-- 0.5g salt
-- 1g xanthan gum
+- **400g** Fat Free Fairlife Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **40-45g** Monk Fruit sweetener 🟢
+  - **27g** erythritol
+  - **18g** xylitol
+  - **0.05g**/pinch sucralose
+- **5g** vanilla bean paste → 🟢 **5g** vanilla extract
+- **0.5g** salt
+- **1g** xanthan gum
 
 **Mix-ins:**
-- 10g mini marshmallows
-- 15g white chocolate chips + 2g coconut oil (melt, pour into hole)
+- **10g** mini marshmallows
+- **15g** white chocolate chips + 2g coconut oil (melt, pour into hole)
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, vanilla, salt, xanthan to pint.
@@ -1687,22 +1687,22 @@ Tags: cinnamon, churro, brownie, protein
 🔴 **Requires butter extract — buy or skip.**
 
 **Base:**
-- 400g Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 40-45g Monk Fruit sweetener 🟢
-  - 27g erythritol
-  - 18g xylitol
-  - 0.05g/pinch sucralose
-- 0.5g butter extract 🔴 BUY
-- 2-3g cinnamon
-- 5g vanilla bean paste → 🟢 5g vanilla extract
-- 1g salt
-- 1g xanthan gum
+- **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **40-45g** Monk Fruit sweetener 🟢
+  - **27g** erythritol
+  - **18g** xylitol
+  - **0.05g**/pinch sucralose
+- **0.5g** butter extract 🔴 BUY
+- **2-3g** cinnamon
+- **5g** vanilla bean paste → 🟢 **5g** vanilla extract
+- **1g** salt
+- **1g** xanthan gum
 
 **Toppings:**
-- Prime Bites Cinnamon Roll Brownie (1) → 🟡 ~50g any brownie or cinnamon pastry, chopped and coated in cinnamon + sweetener (less protein, more calories)
+- Prime Bites Cinnamon Roll Brownie (1) → 🟡 **~50g** any brownie or cinnamon pastry, chopped and coated in cinnamon + sweetener (less protein, more calories)
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, butter extract, cinnamon, vanilla, salt, xanthan to pint.
@@ -1718,24 +1718,24 @@ Tags: cinnamon, churro, brownie, protein
 Tags: chocolate, nuts, fudge, protein
 
 **Base:**
-- 350-400g Chocolate Protein Shake 🟡 (slightly less chocolatey — bump sweetener and cocoa to compensate)
-  - 375g Marata 1.5%
-  - 30g whey protein
-  - 15g glycerin
-- 40g sweetener (bumped from 20-25g — shake had built-in sweetener)
-  - 24g erythritol
-  - 16g xylitol
-  - 0.05g/pinch sucralose
-- 15g cocoa powder (bumped from 10g — shake had chocolate flavor)
-- 0.5g salt
-- 1g xanthan gum
+- **350-400g** Chocolate Protein Shake 🟡 (slightly less chocolatey — bump sweetener and cocoa to compensate)
+  - **375g** Marata 1.5%
+  - **30g** whey protein
+  - **15g** glycerin
+- **40g** sweetener (bumped from 20-25g — shake had built-in sweetener)
+  - **24g** erythritol
+  - **16g** xylitol
+  - **0.05g**/pinch sucralose
+- **15g** cocoa powder (bumped from 10g — shake had chocolate flavor)
+- **0.5g** salt
+- **1g** xanthan gum
 
 **Mix-ins:**
-- 5g white chocolate chips
-- 5g dark chocolate chips
-- 5g chopped pecans
-- 5g chopped walnuts
-- 6g chocolate covered almonds
+- **5g** white chocolate chips
+- **5g** dark chocolate chips
+- **5g** chopped pecans
+- **5g** chopped walnuts
+- **6g** chocolate covered almonds
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, cocoa, salt, xanthan to pint.
@@ -1751,21 +1751,21 @@ Tags: chocolate, nuts, fudge, protein
 Tags: chocolate, peanut butter, oreo, protein
 
 **Base:**
-- 350-400g Chocolate Protein Shake 🟡 (slightly less chocolatey — bump sweetener and cocoa to compensate)
-  - 375g Marata 1.5%
-  - 30g whey protein
-  - 15g glycerin
-- 40g sweetener (bumped from 20-25g — shake had built-in sweetener)
-  - 24g erythritol
-  - 16g xylitol
-  - 0.05g/pinch sucralose
-- 15g cocoa powder (bumped from 10g — shake had chocolate flavor)
-- 1g salt
-- 1g xanthan gum
+- **350-400g** Chocolate Protein Shake 🟡 (slightly less chocolatey — bump sweetener and cocoa to compensate)
+  - **375g** Marata 1.5%
+  - **30g** whey protein
+  - **15g** glycerin
+- **40g** sweetener (bumped from 20-25g — shake had built-in sweetener)
+  - **24g** erythritol
+  - **16g** xylitol
+  - **0.05g**/pinch sucralose
+- **15g** cocoa powder (bumped from 10g — shake had chocolate flavor)
+- **1g** salt
+- **1g** xanthan gum
 
 **Mix-ins:**
 - Oreo Thins (2, cream removed) → 🟢 2 Oreos, halved
-- 15g peanut butter chips → 🟡 15g peanut butter + 2g coconut oil + 0.5g salt, melted (no chip texture, becomes PB swirl instead)
+- **15g** peanut butter chips → 🟡 **15g** peanut butter + 2g coconut oil + 0.5g salt, melted (no chip texture, becomes PB swirl instead)
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, cocoa, salt, xanthan to pint.
@@ -1782,24 +1782,24 @@ Tags: chocolate, peanut butter, oreo, protein
 Tags: s'mores, marshmallow, chocolate, graham, protein
 
 **Base:**
-- 350-400g Vanilla Protein Shake 🟡 (less vanilla depth than pre-made shake)
-  - 375g Marata 1.5%
-  - 30g whey protein
-  - 15g glycerin
-  - 5g vanilla extract
-- 40g sweetener (bumped from 20-25g — shake had built-in sweetener)
-  - 24g erythritol
-  - 16g xylitol
-  - 0.05g/pinch sucralose
-- 15g toasted mini marshmallows (toast before adding to base)
-- 1g salt
-- 1g xanthan gum
+- **350-400g** Vanilla Protein Shake 🟡 (less vanilla depth than pre-made shake)
+  - **375g** Marata 1.5%
+  - **30g** whey protein
+  - **15g** glycerin
+  - **5g** vanilla extract
+- **40g** sweetener (bumped from 20-25g — shake had built-in sweetener)
+  - **24g** erythritol
+  - **16g** xylitol
+  - **0.05g**/pinch sucralose
+- **15g** toasted mini marshmallows (toast before adding to base)
+- **1g** salt
+- **1g** xanthan gum
 
 **Mix-ins/Toppings:**
-- 15g chocolate chips + 2g coconut oil (melt, pour into hole)
+- **15g** chocolate chips + 2g coconut oil (melt, pour into hole)
 - Oreo Thins (2, cream removed) → 🟢 2 Oreos, halved
-- graham cracker (1/2 sheet) → 🟡 ~7g digestive biscuits, crushed (less sweet, missing honey-graham flavor)
-- 2.5g mini marshmallows
+- graham cracker (1/2 sheet) → 🟡 **~7g** digestive biscuits, crushed (less sweet, missing honey-graham flavor)
+- **2.5g** mini marshmallows
 
 **Steps:**
 1. Toast marshmallows.
@@ -1818,23 +1818,23 @@ Tags: s'mores, marshmallow, chocolate, graham, protein
 Tags: marshmallow, cookie dough, protein
 
 **Base:**
-- 400g Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 40g Monk Fruit sweetener 🟢
-  - 24g erythritol
-  - 16g xylitol
-  - 0.05g/pinch sucralose
-- 15g mini marshmallows (blended into base)
-- 5g vanilla bean paste → 🟢 5g vanilla extract
-- 1g salt
-- 1g xanthan gum
+- **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **40g** Monk Fruit sweetener 🟢
+  - **24g** erythritol
+  - **16g** xylitol
+  - **0.05g**/pinch sucralose
+- **15g** mini marshmallows (blended into base)
+- **5g** vanilla bean paste → 🟢 **5g** vanilla extract
+- **1g** salt
+- **1g** xanthan gum
 - blue food coloring → 🟢 skip (cosmetic only)
 
 **Toppings:**
-- Fuul Snacks Cookie Dough (1/2 package) → 🟡 ~25g any cookie dough pieces (less protein, more calories)
-- 5g mini marshmallows
+- Fuul Snacks Cookie Dough (1/2 package) → 🟡 **~25g** any cookie dough pieces (less protein, more calories)
+- **5g** mini marshmallows
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, marshmallows, vanilla, salt, xanthan to pint.
@@ -1850,22 +1850,22 @@ Tags: marshmallow, cookie dough, protein
 Tags: vanilla, oreo, chocolate sauce, protein
 
 **Base:**
-- 400g Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 40g Monk Fruit sweetener 🟢
-  - 24g erythritol
-  - 16g xylitol
-  - 0.05g/pinch sucralose
-- 7g Jello vanilla pudding mix → 🟡 7g any instant pudding mix (Dr. Oetker), or 3g cornstarch + 2g extra vanilla extract (less custardy body)
-- 5g vanilla bean paste → 🟢 5g vanilla extract
-- 1g salt
-- 1g xanthan gum
+- **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **40g** Monk Fruit sweetener 🟢
+  - **24g** erythritol
+  - **16g** xylitol
+  - **0.05g**/pinch sucralose
+- **7g** Jello vanilla pudding mix → 🟡 **7g** any instant pudding mix (Dr. Oetker), or 3g cornstarch + 2g extra vanilla extract (less custardy body)
+- **5g** vanilla bean paste → 🟢 **5g** vanilla extract
+- **1g** salt
+- **1g** xanthan gum
 
 **Mix-ins/Toppings:**
 - Oreo Thins (4, cream removed) → 🟢 4 Oreos, halved (3 as mix-in, 1 crumbled on top)
-- 15g chocolate sauce
+- **15g** chocolate sauce
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, pudding mix (or cornstarch + vanilla), vanilla, salt, xanthan to pint.
@@ -1883,22 +1883,22 @@ Tags: vanilla, oreo, chocolate sauce, protein
 Tags: vanilla, pecan, caramel, brownie, protein
 
 **Base:**
-- 400g Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 40-45g Monk Fruit sweetener 🟢
-  - 27g erythritol
-  - 18g xylitol
-  - 0.05g/pinch sucralose
-- 5g vanilla bean paste → 🟢 5g vanilla extract
-- 1g salt
-- 1g xanthan gum
+- **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **40-45g** Monk Fruit sweetener 🟢
+  - **27g** erythritol
+  - **18g** xylitol
+  - **0.05g**/pinch sucralose
+- **5g** vanilla bean paste → 🟢 **5g** vanilla extract
+- **1g** salt
+- **1g** xanthan gum
 
 **Toppings:**
-- 5g candied pecans
-- 7g salted caramel syrup
-- Prime Bites Protein Brownie (1/2, blondie style) → 🟡 ~25g any brownie or blondie, chopped (less protein, more calories)
+- **5g** candied pecans
+- **7g** salted caramel syrup
+- Prime Bites Protein Brownie (1/2, blondie style) → 🟡 **~25g** any brownie or blondie, chopped (less protein, more calories)
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, vanilla, salt, xanthan to pint.
@@ -1915,22 +1915,22 @@ Tags: oat, brown sugar, chocolate, cinnamon, protein
 🔴 **Requires butter extract — buy or skip.**
 
 **Base:**
-- 400g Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 40-45g Brown Monk Fruit sweetener 🟡 (less toffee/molasses depth)
-  - 27g erythritol
-  - 18g xylitol
-  - 0.05g/pinch sucralose
-  - 3g honey
-- 1g butter extract 🔴 BUY
-- 1g salt
-- 1g xanthan gum
+- **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **40-45g** Brown Monk Fruit sweetener 🟡 (less toffee/molasses depth)
+  - **27g** erythritol
+  - **18g** xylitol
+  - **0.05g**/pinch sucralose
+  - **3g** honey
+- **1g** butter extract 🔴 BUY
+- **1g** salt
+- **1g** xanthan gum
 
 **Mix-ins/Toppings:**
-- 15g chocolate chips + 2g coconut oil (melt, pour into hole)
-- MadeGood Cinnamon Bun oat bar (1/2) → 🟡 ~15g any granola or oat bar (different crunch/flavor)
+- **15g** chocolate chips + 2g coconut oil (melt, pour into hole)
+- MadeGood Cinnamon Bun oat bar (1/2) → 🟡 **~15g** any granola or oat bar (different crunch/flavor)
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, honey, butter extract, salt, xanthan to pint.
@@ -1948,20 +1948,20 @@ Tags: oat, brown sugar, chocolate, cinnamon, protein
 Tags: cookies, cookie dough, oreo, protein
 
 **Base:**
-- 400g Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 40-45g Monk Fruit sweetener 🟢
-  - 27g erythritol
-  - 18g xylitol
-  - 0.05g/pinch sucralose
-- 5g vanilla bean paste → 🟢 5g vanilla extract
-- 1g salt
-- 1g xanthan gum
+- **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **40-45g** Monk Fruit sweetener 🟢
+  - **27g** erythritol
+  - **18g** xylitol
+  - **0.05g**/pinch sucralose
+- **5g** vanilla bean paste → 🟢 **5g** vanilla extract
+- **1g** salt
+- **1g** xanthan gum
 
 **Mix-ins:**
-- Fuul Snacks Cookie Dough (1/2 package) → 🟡 ~25g any cookie dough pieces (less protein, more calories)
+- Fuul Snacks Cookie Dough (1/2 package) → 🟡 **~25g** any cookie dough pieces (less protein, more calories)
 - Oreo Thins (2, cream removed) → 🟢 2 Oreos, halved
 
 **Steps:**
@@ -1980,21 +1980,21 @@ Tags: cookies, cookie dough, oreo, protein
 Tags: coffee, toffee, protein
 
 **Base:**
-- 400g Fat Free Fairlife Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 40-45g Monk Fruit sweetener 🟢
-  - 27g erythritol
-  - 18g xylitol
-  - 0.05g/pinch sucralose
-- ~5g instant coffee
-- 5g vanilla bean paste → 🟢 5g vanilla extract
-- 1g salt
-- 1g xanthan gum
+- **400g** Fat Free Fairlife Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **40-45g** Monk Fruit sweetener 🟢
+  - **27g** erythritol
+  - **18g** xylitol
+  - **0.05g**/pinch sucralose
+- **~5g** instant coffee
+- **5g** vanilla bean paste → 🟢 **5g** vanilla extract
+- **1g** salt
+- **1g** xanthan gum
 
 **Toppings:**
-- 21g Heath Bar → 🟢 ~21g any chocolate covered toffee, chopped
+- **21g** Heath Bar → 🟢 **~21g** any chocolate covered toffee, chopped
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, coffee, vanilla, salt, xanthan to pint.
@@ -2010,23 +2010,23 @@ Tags: coffee, toffee, protein
 Tags: caramel, cookie dough, graham cracker, protein
 
 **Base:**
-- 350-400g Vanilla Protein Shake 🟡 (less vanilla depth than pre-made shake)
-  - 375g Marata 1.5%
-  - 30g whey protein
-  - 15g glycerin
-  - 5g vanilla extract
-- 40g sweetener (bumped from 25g — shake had built-in sweetener)
-  - 24g erythritol
-  - 16g xylitol
-  - 0.05g/pinch sucralose
-- 2.5g vanilla bean paste → 🟢 2.5g vanilla extract
-- 1g salt
-- 1g xanthan gum
+- **350-400g** Vanilla Protein Shake 🟡 (less vanilla depth than pre-made shake)
+  - **375g** Marata 1.5%
+  - **30g** whey protein
+  - **15g** glycerin
+  - **5g** vanilla extract
+- **40g** sweetener (bumped from 25g — shake had built-in sweetener)
+  - **24g** erythritol
+  - **16g** xylitol
+  - **0.05g**/pinch sucralose
+- **2.5g** vanilla bean paste → 🟢 **2.5g** vanilla extract
+- **1g** salt
+- **1g** xanthan gum
 
 **Toppings:**
-- Fuul Snacks Cookie Dough (1/3 package) → 🟡 ~17g any cookie dough pieces (less protein, more calories)
-- graham cracker (1/2 sheet) → 🟡 ~7g digestive biscuits, crushed (less sweet, missing honey-graham flavor)
-- 7g caramel syrup
+- Fuul Snacks Cookie Dough (1/3 package) → 🟡 **~17g** any cookie dough pieces (less protein, more calories)
+- graham cracker (1/2 sheet) → 🟡 **~7g** digestive biscuits, crushed (less sweet, missing honey-graham flavor)
+- **7g** caramel syrup
 
 **Steps:**
 1. Add milk, whey, glycerin, vanilla, sweeteners, salt, xanthan to pint.
@@ -2043,21 +2043,21 @@ Tags: caramel, cookie dough, graham cracker, protein
 Tags: cookie dough, protein
 
 **Base:**
-- 350-400g Vanilla Protein Shake 🟡 (less vanilla depth than pre-made shake)
-  - 375g Marata 1.5%
-  - 30g whey protein
-  - 15g glycerin
-  - 5g vanilla extract
-- 40g sweetener (bumped from 25g — shake had built-in sweetener)
-  - 24g erythritol
-  - 16g xylitol
-  - 0.05g/pinch sucralose
-- 2.5g vanilla bean paste → 🟢 2.5g vanilla extract
-- 1g salt
-- 1g xanthan gum
+- **350-400g** Vanilla Protein Shake 🟡 (less vanilla depth than pre-made shake)
+  - **375g** Marata 1.5%
+  - **30g** whey protein
+  - **15g** glycerin
+  - **5g** vanilla extract
+- **40g** sweetener (bumped from 25g — shake had built-in sweetener)
+  - **24g** erythritol
+  - **16g** xylitol
+  - **0.05g**/pinch sucralose
+- **2.5g** vanilla bean paste → 🟢 **2.5g** vanilla extract
+- **1g** salt
+- **1g** xanthan gum
 
 **Toppings:**
-- Fuul Snacks Cookie Dough (1/2 package) → 🟡 ~25g any cookie dough pieces (less protein, more calories)
+- Fuul Snacks Cookie Dough (1/2 package) → 🟡 **~25g** any cookie dough pieces (less protein, more calories)
 
 **Steps:**
 1. Add milk, whey, glycerin, vanilla, sweeteners, salt, xanthan to pint.
@@ -2073,22 +2073,22 @@ Tags: cookie dough, protein
 Tags: vanilla, waffle cone, caramel, protein
 
 **Base:**
-- 350-400g Vanilla Protein Shake 🟡 (less vanilla depth than pre-made shake)
-  - 375g Marata 1.5%
-  - 30g whey protein
-  - 15g glycerin
-  - 5g vanilla extract
-- 40g sweetener (bumped from 25g — shake had built-in sweetener)
-  - 24g erythritol
-  - 16g xylitol
-  - 0.05g/pinch sucralose
-- 2.5g vanilla bean paste → 🟢 2.5g vanilla extract
-- 1g salt
-- 1g xanthan gum
+- **350-400g** Vanilla Protein Shake 🟡 (less vanilla depth than pre-made shake)
+  - **375g** Marata 1.5%
+  - **30g** whey protein
+  - **15g** glycerin
+  - **5g** vanilla extract
+- **40g** sweetener (bumped from 25g — shake had built-in sweetener)
+  - **24g** erythritol
+  - **16g** xylitol
+  - **0.05g**/pinch sucralose
+- **2.5g** vanilla bean paste → 🟢 **2.5g** vanilla extract
+- **1g** salt
+- **1g** xanthan gum
 
 **Toppings:**
-- ~30g chocolate filled waffle cones → 🟢 ~30g any waffle cone pieces
-- 7g caramel sauce
+- **~30g** chocolate filled waffle cones → 🟢 **~30g** any waffle cone pieces
+- **7g** caramel sauce
 
 **Steps:**
 1. Add milk, whey, glycerin, vanilla, sweeteners, salt, xanthan to pint.
@@ -2105,21 +2105,21 @@ Tags: vanilla, waffle cone, caramel, protein
 Tags: cherry, chocolate, protein
 
 **Base:**
-- 350-400g Vanilla Protein Shake 🟡 (less vanilla depth than pre-made shake)
-  - 375g Marata 1.5%
-  - 30g whey protein
-  - 15g glycerin
-  - 5g vanilla extract
-- 100g cherries (fresh or frozen)
+- **350-400g** Vanilla Protein Shake 🟡 (less vanilla depth than pre-made shake)
+  - **375g** Marata 1.5%
+  - **30g** whey protein
+  - **15g** glycerin
+  - **5g** vanilla extract
+- **100g** cherries (fresh or frozen)
 - Monk Fruit sweetener (35g → bumped to 45g — shake had built-in sweetener) 🟢
-  - 27g erythritol
-  - 18g xylitol
-  - 0.05g/pinch sucralose
-- 1g salt
-- 1g xanthan gum
+  - **27g** erythritol
+  - **18g** xylitol
+  - **0.05g**/pinch sucralose
+- **1g** salt
+- **1g** xanthan gum
 
 **Mix-ins:**
-- 15g chocolate chips + 2g coconut oil (melt, pour into hole)
+- **15g** chocolate chips + 2g coconut oil (melt, pour into hole)
 
 **Steps:**
 1. Add cherries to pint. Cover with sweeteners, salt, xanthan.
@@ -2139,21 +2139,21 @@ Tags: cherry, chocolate, protein
 Tags: red velvet, brownie, protein
 
 **Base:**
-- 400g Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 22g cream cheese
-- 40-45g Monk Fruit sweetener 🟢
-  - 27g erythritol
-  - 18g xylitol
-  - 0.05g/pinch sucralose
-- 5g vanilla bean paste → 🟢 5g vanilla extract
-- 0.5g salt
-- 1g xanthan gum
+- **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **22g** cream cheese
+- **40-45g** Monk Fruit sweetener 🟢
+  - **27g** erythritol
+  - **18g** xylitol
+  - **0.05g**/pinch sucralose
+- **5g** vanilla bean paste → 🟢 **5g** vanilla extract
+- **0.5g** salt
+- **1g** xanthan gum
 
 **Mix-ins:**
-- Prime Bites Red Velvet Brownie (1/2) → 🟡 ~25g any brownie, chopped and frozen (less protein, more calories — missing red velvet flavor)
+- Prime Bites Red Velvet Brownie (1/2) → 🟡 **~25g** any brownie, chopped and frozen (less protein, more calories — missing red velvet flavor)
 
 **Steps:**
 1. Add milk, whey, glycerin, cream cheese, sweeteners, vanilla, salt, xanthan to pint.
@@ -2171,22 +2171,22 @@ Tags: cake batter, oreo, marshmallow, protein
 🔴 **Requires cake batter extract — buy or skip.**
 
 **Base:**
-- 400g Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 40-45g Monk Fruit sweetener 🟢
-  - 27g erythritol
-  - 18g xylitol
-  - 0.05g/pinch sucralose
-- 5g cake batter extract 🔴 BUY
-- 0.5g salt
-- 1g xanthan gum
+- **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **40-45g** Monk Fruit sweetener 🟢
+  - **27g** erythritol
+  - **18g** xylitol
+  - **0.05g**/pinch sucralose
+- **5g** cake batter extract 🔴 BUY
+- **0.5g** salt
+- **1g** xanthan gum
 - blue food coloring → 🟢 skip (cosmetic only)
 
 **Mix-ins:**
 - Oreo Thins (3, cream removed) → 🟢 3 Oreos, halved
-- 10g mini marshmallows
+- **10g** mini marshmallows
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, extract, salt, xanthan to pint.
@@ -2204,21 +2204,21 @@ Tags: cake batter, oreo, marshmallow, protein
 Tags: brownie, chocolate, protein
 
 **Base:**
-- 350-400g Chocolate Protein Shake 🟡 (slightly less chocolatey — bump sweetener and cocoa to compensate)
-  - 375g Marata 1.5%
-  - 30g whey protein
-  - 15g glycerin
-- 40g sweetener (bumped from 20-25g — shake had built-in sweetener)
-  - 24g erythritol
-  - 16g xylitol
-  - 0.05g/pinch sucralose
-- 10g black cocoa powder → 🟡 10g cocoa powder + 0.5g baking soda (lighter color, less Oreo-like)
-- 10g cocoa powder
-- 0.5g salt
-- 1g xanthan gum
+- **350-400g** Chocolate Protein Shake 🟡 (slightly less chocolatey — bump sweetener and cocoa to compensate)
+  - **375g** Marata 1.5%
+  - **30g** whey protein
+  - **15g** glycerin
+- **40g** sweetener (bumped from 20-25g — shake had built-in sweetener)
+  - **24g** erythritol
+  - **16g** xylitol
+  - **0.05g**/pinch sucralose
+- **10g** black cocoa powder → 🟡 **10g** cocoa powder + 0.5g baking soda (lighter color, less Oreo-like)
+- **10g** cocoa powder
+- **0.5g** salt
+- **1g** xanthan gum
 
 **Toppings:**
-- Prime Bites Protein Brownie (1/2) → 🟡 ~25g any brownie, chopped (less protein, more calories)
+- Prime Bites Protein Brownie (1/2) → 🟡 **~25g** any brownie, chopped (less protein, more calories)
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, cocoa, baking soda, salt, xanthan to pint.
@@ -2235,21 +2235,21 @@ Tags: peppermint, chocolate, protein
 🔴 **Requires peppermint extract — buy or skip.**
 
 **Base:**
-- 400g Fat Free Fairlife Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 40g Monk Fruit sweetener 🟢
-  - 24g erythritol
-  - 16g xylitol
-  - 0.05g/pinch sucralose
-- 2.5g vanilla bean paste → 🟢 2.5g vanilla extract
-- 0.6g peppermint extract (1/8 tsp) 🔴 BUY
-- 0.5g salt
-- 1g xanthan gum
+- **400g** Fat Free Fairlife Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **40g** Monk Fruit sweetener 🟢
+  - **24g** erythritol
+  - **16g** xylitol
+  - **0.05g**/pinch sucralose
+- **2.5g** vanilla bean paste → 🟢 **2.5g** vanilla extract
+- **0.6g** peppermint extract (1/8 tsp) 🔴 BUY
+- **0.5g** salt
+- **1g** xanthan gum
 
 **Mix-ins:**
-- ~28g peppermint bark chocolate, chopped
+- **~28g** peppermint bark chocolate, chopped
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, vanilla, peppermint, salt, xanthan to pint.
@@ -2266,21 +2266,21 @@ Tags: peppermint, chocolate, protein
 Tags: sugar cookie, frosting, cookie dough, protein
 
 **Base:**
-- 400g Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 35g Monk Fruit sweetener 🟢
-  - 21g erythritol
-  - 14g xylitol
-  - 0.05g/pinch sucralose
-- 5g vanilla bean paste → 🟢 5g vanilla extract
-- 0.5g salt
-- 1g xanthan gum
+- **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **35g** Monk Fruit sweetener 🟢
+  - **21g** erythritol
+  - **14g** xylitol
+  - **0.05g**/pinch sucralose
+- **5g** vanilla bean paste → 🟢 **5g** vanilla extract
+- **0.5g** salt
+- **1g** xanthan gum
 
 **Mix-ins/Toppings:**
-- 15g protein frosting (whey protein mixed with water to frosting consistency) 🟢
-- Fuul Snacks Birthday Cake Cookie Dough (1/3 package) → 🟡 ~17g any cookie dough pieces (less protein, more calories)
+- **15g** protein frosting (whey protein mixed with water to frosting consistency) 🟢
+- Fuul Snacks Birthday Cake Cookie Dough (1/3 package) → 🟡 **~17g** any cookie dough pieces (less protein, more calories)
 - sprinkles — optional
 
 **Steps:**
@@ -2301,22 +2301,22 @@ Tags: cake batter, cookie dough, sprinkles, protein
 🔴 **Requires cake batter extract — buy or skip.**
 
 **Base:**
-- 400g Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 40-45g Monk Fruit sweetener 🟢
-  - 27g erythritol
-  - 18g xylitol
-  - 0.05g/pinch sucralose
-- 5g cake batter extract 🔴 BUY
-- 1g salt
-- 1g xanthan gum
+- **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **40-45g** Monk Fruit sweetener 🟢
+  - **27g** erythritol
+  - **18g** xylitol
+  - **0.05g**/pinch sucralose
+- **5g** cake batter extract 🔴 BUY
+- **1g** salt
+- **1g** xanthan gum
 - blue food coloring → 🟢 skip (cosmetic only)
 
 **Toppings:**
-- Fuul Snacks Birthday Cake Cookie Dough (1/2 package) → 🟡 ~25g any cookie dough pieces (less protein, more calories)
-- 5g rainbow sprinkles
+- Fuul Snacks Birthday Cake Cookie Dough (1/2 package) → 🟡 **~25g** any cookie dough pieces (less protein, more calories)
+- **5g** rainbow sprinkles
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, extract, salt, xanthan to pint.
@@ -2333,21 +2333,21 @@ Tags: cake batter, animal cookies, protein
 🔴 **Requires cake batter extract — buy or skip.**
 
 **Base:**
-- 400g Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 40g Monk Fruit sweetener 🟢
-  - 24g erythritol
-  - 16g xylitol
-  - 0.05g/pinch sucralose
-- 3g cake batter extract 🔴 BUY
-- 2.5g vanilla bean paste → 🟢 2.5g vanilla extract
-- 0.5g salt
-- 1g xanthan gum
+- **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **40g** Monk Fruit sweetener 🟢
+  - **24g** erythritol
+  - **16g** xylitol
+  - **0.05g**/pinch sucralose
+- **3g** cake batter extract 🔴 BUY
+- **2.5g** vanilla bean paste → 🟢 **2.5g** vanilla extract
+- **0.5g** salt
+- **1g** xanthan gum
 
 **Mix-ins:**
-- 24g frosted animal cookies (any frosted cookies work)
+- **24g** frosted animal cookies (any frosted cookies work)
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, extract, vanilla, salt, xanthan to pint.
@@ -2364,26 +2364,26 @@ Tags: cake batter, animal cookies, protein
 Tags: pumpkin, pie crust, protein
 
 **Base:**
-- 400g Fat Free Fairlife Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 40-45g Monk Fruit sweetener 🟢
-  - 27g erythritol
-  - 18g xylitol
-  - 0.05g/pinch sucralose
-- 60g canned pumpkin
-- 2.5g vanilla bean paste → 🟢 2.5g vanilla extract
-- 2g pumpkin pie spice 🟢
-  - 1g cinnamon
-  - 0.5g nutmeg
-  - 0.25g allspice
-  - 0.25g ginger
-- 0.5g salt
-- 1g xanthan gum
+- **400g** Fat Free Fairlife Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **40-45g** Monk Fruit sweetener 🟢
+  - **27g** erythritol
+  - **18g** xylitol
+  - **0.05g**/pinch sucralose
+- **60g** canned pumpkin
+- **2.5g** vanilla bean paste → 🟢 **2.5g** vanilla extract
+- **2g** pumpkin pie spice 🟢
+  - **1g** cinnamon
+  - **0.5g** nutmeg
+  - **0.25g** allspice
+  - **0.25g** ginger
+- **0.5g** salt
+- **1g** xanthan gum
 
 **Mix-ins:**
-- mini pie crust (~30g / 100 cal) → 🟡 ~30g any shortcrust pastry or pie crust pieces (different texture)
+- mini pie crust (~30g / 100 cal) → 🟡 **~30g** any shortcrust pastry or pie crust pieces (different texture)
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, pumpkin, vanilla, spices, salt, xanthan to pint.
@@ -2400,23 +2400,23 @@ Tags: pumpkin, pie crust, protein
 Tags: peanut butter, marshmallow, reese's, protein
 
 **Base:**
-- 350-400g Vanilla Protein Shake 🟡 (less vanilla depth than pre-made shake)
-  - 375g Marata 1.5%
-  - 30g whey protein
-  - 15g glycerin
-  - 5g vanilla extract
-- 40g sweetener (bumped from 20-25g — shake had built-in sweetener)
-  - 24g erythritol
-  - 16g xylitol
-  - 0.05g/pinch sucralose
-- 2.5g vanilla bean paste → 🟢 2.5g vanilla extract
-- 1g salt
-- 1g xanthan gum
+- **350-400g** Vanilla Protein Shake 🟡 (less vanilla depth than pre-made shake)
+  - **375g** Marata 1.5%
+  - **30g** whey protein
+  - **15g** glycerin
+  - **5g** vanilla extract
+- **40g** sweetener (bumped from 20-25g — shake had built-in sweetener)
+  - **24g** erythritol
+  - **16g** xylitol
+  - **0.05g**/pinch sucralose
+- **2.5g** vanilla bean paste → 🟢 **2.5g** vanilla extract
+- **1g** salt
+- **1g** xanthan gum
 
 **Mix-ins/Toppings:**
-- 11g Reese's PB Cups, chopped
-- 18g marshmallow creme → 🟡 18g melted marshmallows (less smooth/fluffy)
-- 10g peanut butter chips → 🟡 10g peanut butter + 1.5g coconut oil + 0.5g salt, melted (no chip texture, becomes PB swirl)
+- **11g** Reese's PB Cups, chopped
+- **18g** marshmallow creme → 🟡 **18g** melted marshmallows (less smooth/fluffy)
+- **10g** peanut butter chips → 🟡 **10g** peanut butter + 1.5g coconut oil + 0.5g salt, melted (no chip texture, becomes PB swirl)
 
 **Steps:**
 1. Add milk, whey, glycerin, vanilla, sweeteners, salt, xanthan to pint.
@@ -2434,22 +2434,22 @@ Tags: peanut butter, marshmallow, reese's, protein
 Tags: peanut butter, caramel, chocolate, rolo, protein
 
 **Base:**
-- 400g Fat Free Fairlife Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 40-45g Monk Fruit sweetener 🟢
-  - 27g erythritol
-  - 18g xylitol
-  - 0.05g/pinch sucralose
-- 5g vanilla bean paste → 🟢 5g vanilla extract
-- 1g xanthan gum
-- 0.5g salt
+- **400g** Fat Free Fairlife Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **40-45g** Monk Fruit sweetener 🟢
+  - **27g** erythritol
+  - **18g** xylitol
+  - **0.05g**/pinch sucralose
+- **5g** vanilla bean paste → 🟢 **5g** vanilla extract
+- **1g** xanthan gum
+- **0.5g** salt
 
 **Mix-ins:**
-- 10g Mini Reese's PB Cups, chopped
-- 12g Rolos (or any chocolate covered caramels), chopped
-- 10g chocolate chips + 1.5g coconut oil (melt, pour into hole)
+- **10g** Mini Reese's PB Cups, chopped
+- **12g** Rolos (or any chocolate covered caramels), chopped
+- **10g** chocolate chips + 1.5g coconut oil (melt, pour into hole)
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, vanilla, xanthan, salt to pint.
@@ -2466,23 +2466,23 @@ Tags: peanut butter, caramel, chocolate, rolo, protein
 Tags: cheesecake, strawberry, graham cracker, protein
 
 **Base:**
-- 350-400g Vanilla Protein Shake 🟡 (less vanilla depth than pre-made shake)
-  - 375g Marata 1.5%
-  - 30g whey protein
-  - 15g glycerin
-  - 5g vanilla extract
-- 40g sweetener (bumped from 20-25g — shake had built-in sweetener)
-  - 24g erythritol
-  - 16g xylitol
-  - 0.05g/pinch sucralose
-- 2.5g vanilla bean paste → 🟢 2.5g vanilla extract
-- 1g salt
-- 1g xanthan gum
+- **350-400g** Vanilla Protein Shake 🟡 (less vanilla depth than pre-made shake)
+  - **375g** Marata 1.5%
+  - **30g** whey protein
+  - **15g** glycerin
+  - **5g** vanilla extract
+- **40g** sweetener (bumped from 20-25g — shake had built-in sweetener)
+  - **24g** erythritol
+  - **16g** xylitol
+  - **0.05g**/pinch sucralose
+- **2.5g** vanilla bean paste → 🟢 **2.5g** vanilla extract
+- **1g** salt
+- **1g** xanthan gum
 
 **Mix-ins/Toppings:**
-- 100g strawberries (fresh or frozen), macerated in 10-15g sweetener
-- graham cracker (1/2 sheet) → 🟡 ~7g digestive biscuits, crushed (less sweet, missing honey-graham flavor)
-- 30g cheesecake bites, chopped
+- **100g** strawberries (fresh or frozen), macerated in 10-15g sweetener
+- graham cracker (1/2 sheet) → 🟡 **~7g** digestive biscuits, crushed (less sweet, missing honey-graham flavor)
+- **30g** cheesecake bites, chopped
 
 **Steps:**
 1. Add milk, whey, glycerin, vanilla, sweeteners, salt, xanthan to pint.
@@ -2500,23 +2500,23 @@ Tags: cheesecake, strawberry, graham cracker, protein
 Tags: s'mores, marshmallow, graham, chocolate, protein
 
 **Base:**
-- 400g Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 40g Monk Fruit sweetener 🟢
-  - 24g erythritol
-  - 16g xylitol
-  - 0.05g/pinch sucralose
-- 15g mini marshmallows (toast them! blended into base)
-- 5g vanilla bean paste → 🟢 5g vanilla extract
-- 1g salt
-- 1g xanthan gum
+- **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **40g** Monk Fruit sweetener 🟢
+  - **24g** erythritol
+  - **16g** xylitol
+  - **0.05g**/pinch sucralose
+- **15g** mini marshmallows (toast them! blended into base)
+- **5g** vanilla bean paste → 🟢 **5g** vanilla extract
+- **1g** salt
+- **1g** xanthan gum
 
 **Toppings:**
-- graham cracker (1/2 sheet) → 🟡 ~7g digestive biscuits, crushed (less sweet, missing honey-graham flavor)
-- Hormbles Chormbles (1/2) → 🟡 ~25g any chocolate bar, chopped (less protein)
-- 5g mini marshmallows
+- graham cracker (1/2 sheet) → 🟡 **~7g** digestive biscuits, crushed (less sweet, missing honey-graham flavor)
+- Hormbles Chormbles (1/2) → 🟡 **~25g** any chocolate bar, chopped (less protein)
+- **5g** mini marshmallows
 
 **Steps:**
 1. Toast marshmallows.
@@ -2533,21 +2533,21 @@ Tags: s'mores, marshmallow, graham, chocolate, protein
 Tags: chocolate, brownie, protein
 
 **Base:**
-- 400g Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 40-45g Monk Fruit sweetener 🟢
-  - 27g erythritol
-  - 18g xylitol
-  - 0.05g/pinch sucralose
-- 5g vanilla bean paste → 🟢 5g vanilla extract
-- 1g salt
-- 1g xanthan gum
+- **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **40-45g** Monk Fruit sweetener 🟢
+  - **27g** erythritol
+  - **18g** xylitol
+  - **0.05g**/pinch sucralose
+- **5g** vanilla bean paste → 🟢 **5g** vanilla extract
+- **1g** salt
+- **1g** xanthan gum
 
 **Toppings:**
-- Prime Bites Protein Brownie (1/2) → 🟡 ~25g any brownie, chopped (less protein, more calories)
-- Hormbles Chormbles (1/2) → 🟡 ~25g any chocolate bar, chopped (less protein)
+- Prime Bites Protein Brownie (1/2) → 🟡 **~25g** any brownie, chopped (less protein, more calories)
+- Hormbles Chormbles (1/2) → 🟡 **~25g** any chocolate bar, chopped (less protein)
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, vanilla, salt, xanthan to pint.
@@ -2564,17 +2564,17 @@ Tags: cotton candy, protein
 🔴 **Requires LorAnn Cotton Candy flavoring — buy or skip.**
 
 **Base:**
-- 400g Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 40-45g Monk Fruit sweetener 🟢
-  - 27g erythritol
-  - 18g xylitol
-  - 0.05g/pinch sucralose
-- 1g LorAnn Cotton Candy flavoring 🔴 BUY
-- 1g salt
-- 1g xanthan gum
+- **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **40-45g** Monk Fruit sweetener 🟢
+  - **27g** erythritol
+  - **18g** xylitol
+  - **0.05g**/pinch sucralose
+- **1g** LorAnn Cotton Candy flavoring 🔴 BUY
+- **1g** salt
+- **1g** xanthan gum
 
 **Toppings:**
 - pink/purple sprinkles or candy (to taste)
@@ -2593,20 +2593,20 @@ Tags: cotton candy, protein
 Tags: cake batter, cookie dough, protein
 
 **Base:**
-- 400g Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 40-45g Monk Fruit sweetener 🟢
-  - 27g erythritol
-  - 18g xylitol
-  - 0.05g/pinch sucralose
-- 5g vanilla bean paste → 🟢 5g vanilla extract
-- 1g salt
-- 1g xanthan gum
+- **400g** Fat Free High Protein Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **40-45g** Monk Fruit sweetener 🟢
+  - **27g** erythritol
+  - **18g** xylitol
+  - **0.05g**/pinch sucralose
+- **5g** vanilla bean paste → 🟢 **5g** vanilla extract
+- **1g** salt
+- **1g** xanthan gum
 
 **Mix-ins:**
-- Fuul Snacks Birthday Cake Cookie Dough (1/2 package) → 🟡 ~25g any cookie dough pieces (less protein, more calories)
+- Fuul Snacks Birthday Cake Cookie Dough (1/2 package) → 🟡 **~25g** any cookie dough pieces (less protein, more calories)
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, vanilla, salt, xanthan to pint.
@@ -2622,20 +2622,20 @@ Tags: cake batter, cookie dough, protein
 Tags: cookie dough, chocolate chip, protein
 
 **Base:**
-- 400g Fat Free Fairlife Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 40-45g Monk Fruit sweetener 🟢
-  - 27g erythritol
-  - 18g xylitol
-  - 0.05g/pinch sucralose
-- 5g vanilla bean paste → 🟢 5g vanilla extract
-- 1g salt
-- 1g xanthan gum
+- **400g** Fat Free Fairlife Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **40-45g** Monk Fruit sweetener 🟢
+  - **27g** erythritol
+  - **18g** xylitol
+  - **0.05g**/pinch sucralose
+- **5g** vanilla bean paste → 🟢 **5g** vanilla extract
+- **1g** salt
+- **1g** xanthan gum
 
 **Mix-ins:**
-- HighKey Chocolate Chip Cookies (6, ~30g) → 🟢 ~30g any chocolate chip cookies
+- HighKey Chocolate Chip Cookies (6, ~30g) → 🟢 **~30g** any chocolate chip cookies
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, vanilla, salt, xanthan to pint.
@@ -2652,22 +2652,22 @@ Tags: cookie dough, chocolate chip, protein
 Tags: caramel, pecan, chocolate, protein
 
 **Base:**
-- 400g Fat Free Fairlife Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 40-45g Monk Fruit sweetener 🟢
-  - 27g erythritol
-  - 18g xylitol
-  - 0.05g/pinch sucralose
-- 5g vanilla bean paste → 🟢 5g vanilla extract
-- 1g salt
-- 1g xanthan gum
+- **400g** Fat Free Fairlife Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **40-45g** Monk Fruit sweetener 🟢
+  - **27g** erythritol
+  - **18g** xylitol
+  - **0.05g**/pinch sucralose
+- **5g** vanilla bean paste → 🟢 **5g** vanilla extract
+- **1g** salt
+- **1g** xanthan gum
 
 **Mix-ins/Toppings:**
-- 7.5g salted caramel sauce
-- 5g chopped pecans
-- 15g chocolate chips + 2g coconut oil (melt, pour into hole)
+- **7.5g** salted caramel sauce
+- **5g** chopped pecans
+- **15g** chocolate chips + 2g coconut oil (melt, pour into hole)
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, vanilla, salt, xanthan to pint.
@@ -2685,17 +2685,17 @@ Tags: caramel, pecan, chocolate, protein
 Tags: cookie dough, protein
 
 **Base:**
-- 400g Fat Free Fairlife Milk 🟡 (slightly richer/heavier pint, less "light" feel)
-  - 375g Marata 1.5%
-  - 20g whey protein
-  - 15g glycerin
-- 40-45g sweetener 🟢
-  - 27g erythritol
-  - 18g xylitol
-  - 0.05g/pinch sucralose
-- 5g vanilla extract
-- 1g salt
-- 1g xanthan gum
+- **400g** Fat Free Fairlife Milk 🟡 (slightly richer/heavier pint, less "light" feel)
+  - **375g** Marata 1.5%
+  - **20g** whey protein
+  - **15g** glycerin
+- **40-45g** sweetener 🟢
+  - **27g** erythritol
+  - **18g** xylitol
+  - **0.05g**/pinch sucralose
+- **5g** vanilla extract
+- **1g** salt
+- **1g** xanthan gum
 
 **Mix-ins:**
 - chocolate chip cookie (~30g) or cookie dough (~30g)
@@ -2717,38 +2717,38 @@ Tags: cookie dough, protein
 Tags: almond, amaretto, buttermilk, scoopable, low-sugar
 
 **Prep (heat to 70°C):**
-- 150g soy milk (unsweetened)
-- 40g almond butter (creamy)
-- 15g skim milk powder
-- 2g GMS → 🟢 2g soy lecithin
+- **150g** soy milk (unsweetened)
+- **40g** almond butter (creamy)
+- **15g** skim milk powder
+- **2g** GMS → 🟢 **2g** soy lecithin
 
 **Wet:**
-- 350g buttermilk 1%
-- 10g glycerin
-- 25g Amaretto 28%
+- **350g** buttermilk 1%
+- **10g** glycerin
+- **25g** Amaretto 28%
 
 **Dry:**
-- 24g erythritol
-- 16g xylitol
+- **24g** erythritol
+- **16g** xylitol
 - Salty Stability (15g):
-  - 11.0g inulin
-  - 1.8g soy lecithin
-  - 0.9g CMC
-  - 0.6g guar gum
-  - 0.5g salt
-  - 0.2g xanthan gum
+  - **11.0g** inulin
+  - **1.8g** soy lecithin
+  - **0.9g** CMC
+  - **0.6g** guar gum
+  - **0.5g** salt
+  - **0.2g** xanthan gum
 
 **Fill to MAX:**
-- ~73g buttermilk 1%
+- **~73g** buttermilk 1%
 - Flavor drops Cookies & Cream (~10 drops) → 🟡 skip *(not available)*
 
 **Mix-ins:**
-- 25g dark chocolate 70%, chopped
-- 10g almond slivers
-- 14g amarettini (~10 pcs)
+- **25g** dark chocolate 70%, chopped
+- **10g** almond slivers
+- **14g** amarettini (~10 pcs)
 
 **Topping (optional):**
-- 5g molasses
+- **5g** molasses
 
 **Steps:**
 1. Heat 150g soy milk to 70°C. Add almond butter, SMP, and soy lecithin. Blend with immersion blender until smooth.
@@ -2772,12 +2772,12 @@ Tags: premix, almond-milk-base, low-sugar
 *Premix of dry ingredients for almond milk bases. Yields ten 50g servings (500g total). Store in airtight container.*
 
 **Dry:**
-- 200g erythritol
-- 155g xylitol
-- 100g inulin
-- 20g salt
-- 20g tara gum → 🟡 20g guar gum (similar thickening, slightly different mouthfeel — tara is smoother)
-- 5g xanthan gum
+- **200g** erythritol
+- **155g** xylitol
+- **100g** inulin
+- **20g** salt
+- **20g** tara gum → 🟡 **20g** guar gum (similar thickening, slightly different mouthfeel — tara is smoother)
+- **5g** xanthan gum
 
 **Steps:**
 1. Weigh all dry ingredients into a large jar with a secure lid.
@@ -2793,26 +2793,26 @@ Tags: premix, almond-milk-base, low-sugar
 Tags: apple, cinnamon, high-protein, scoopable, low-fat, vegan
 
 **Prep:**
-- 75g soy milk (unsweetened)
-- 30g hemp hearts → 🟡 30g ground almonds (higher fat, less protein — blends similarly for body)
+- **75g** soy milk (unsweetened)
+- **30g** hemp hearts → 🟡 **30g** ground almonds (higher fat, less protein — blends similarly for body)
 
 **Wet:**
-- 350g apple sauce (no added sugar)
-- 125g soy milk (unsweetened)
-- 15g glycerin
+- **350g** apple sauce (no added sugar)
+- **125g** soy milk (unsweetened)
+- **15g** glycerin
 
 **Dry:**
-- 25g erythritol
-- 25g soy protein isolate → 🟡 25g whey protein (no longer vegan, slightly different water-binding)
-- 15g inulin
-- 15g xylitol
-- 2g cinnamon
-- 2g GMS → 🟢 2g soy lecithin
-- 2g CMC
-- 2g salt
+- **25g** erythritol
+- **25g** soy protein isolate → 🟡 **25g** whey protein (no longer vegan, slightly different water-binding)
+- **15g** inulin
+- **15g** xylitol
+- **2g** cinnamon
+- **2g** GMS → 🟢 **2g** soy lecithin
+- **2g** CMC
+- **2g** salt
 
 **Fill to MAX:**
-- ~37g water
+- **~37g** water
 - Flavor drops Caramel + Vanilla → 🟡 Manis milk cream flavor (2-3 drops) + 1g vanilla extract (approximate caramel/vanilla accent)
 
 **Steps:**
@@ -2836,32 +2836,32 @@ Tags: apple, cinnamon, high-protein, scoopable, low-fat, vegan
 Tags: apple, cinnamon, raisin, scoopable
 
 **Wet:**
-- 350g apple sauce (no added sugar)
-- 200g soy milk (unsweetened)
-- 15g glycerin
-- 10g brandy or vodka 40%
+- **350g** apple sauce (no added sugar)
+- **200g** soy milk (unsweetened)
+- **15g** glycerin
+- **10g** brandy or vodka 40%
 
 **Dry:**
-- 15g erythritol
-- 10g xylitol
+- **15g** erythritol
+- **10g** xylitol
 - Salty Stability (10g):
-  - 7.3g inulin
-  - 1.2g soy lecithin
-  - 0.6g CMC
-  - 0.4g guar gum
-  - 0.3g salt
-  - 0.13g xanthan gum
-- 20g whey + casein protein → 🟢 20g whey protein
-- 1.5g cinnamon
+  - **7.3g** inulin
+  - **1.2g** soy lecithin
+  - **0.6g** CMC
+  - **0.4g** guar gum
+  - **0.3g** salt
+  - **0.13g** xanthan gum
+- **20g** whey + casein protein → 🟢 **20g** whey protein
+- **1.5g** cinnamon
 
 **Fill to MAX:**
 - stay BELOW MAX line (leave room for mix-ins)
 - Flavor drops Vanilla + Caramel → 🟡 Manis milk cream flavor (2-3 drops) + 1g vanilla extract
 
 **Mix-ins:**
-- 15g almond slivers
-- 10g raisins (chopped)
-- 35g half a croissant, sliced
+- **15g** almond slivers
+- **10g** raisins (chopped)
+- **35g** half a croissant, sliced
 
 **Steps:**
 1. Add wet ingredients to pint.
@@ -2881,23 +2881,23 @@ Tags: apple, cinnamon, raisin, scoopable
 Tags: avocado, vegan, dairy-free, low-sugar, scoopable
 
 **Wet:**
-- 350g avocado pulp (fresh)
-- 225g water
-- 15g glycerin
-- 10g brandy or vodka 40%
+- **350g** avocado pulp (fresh)
+- **225g** water
+- **15g** glycerin
+- **10g** brandy or vodka 40%
 
 **Dry:**
-- 50g allulose → 🟡 erythritol/xylitol *(recipe's own SweEX alternative — slight cooling from erythritol)*
-  - 23g erythritol
-  - 15g xylitol
-- 2.5g gum arabic → 🟡 2.5g inulin (loses gum arabic's unique emulsification; lecithin handles emulsifier role)
-- 2.2g salt
-- 2g GMS → 🟢 2g soy lecithin
-- 1.5g matcha green tea powder (optional, for color)
-- 0.8g guar gum
+- **50g** allulose → 🟡 erythritol/xylitol *(recipe's own SweEX alternative — slight cooling from erythritol)*
+  - **23g** erythritol
+  - **15g** xylitol
+- **2.5g** gum arabic → 🟡 **2.5g** inulin (loses gum arabic's unique emulsification; lecithin handles emulsifier role)
+- **2.2g** salt
+- **2g** GMS → 🟢 **2g** soy lecithin
+- **1.5g** matcha green tea powder (optional, for color)
+- **0.8g** guar gum
 
 **Fill to MAX:**
-- 20g avocado oil
+- **20g** avocado oil
 
 **Steps:**
 1. Add wet ingredients to pint.
@@ -2917,24 +2917,24 @@ Tags: avocado, vegan, dairy-free, low-sugar, scoopable
 Tags: banana, aquafaba, vegan, dairy-free, high-protein, low-fat, low-sugar, scoopable
 
 **Prep:**
-- 150g aquafaba (chickpea liquid)
-- 100g banana (peeled)
-- 20g hemp hearts → 🟡 20g ground almonds (higher fat, less protein — similar blending body)
+- **150g** aquafaba (chickpea liquid)
+- **100g** banana (peeled)
+- **20g** hemp hearts → 🟡 **20g** ground almonds (higher fat, less protein — similar blending body)
 
 **Wet:**
-- 300g soy milk (unsweetened)
-- 15g glycerin
-- 10g brandy or vodka 40%
+- **300g** soy milk (unsweetened)
+- **15g** glycerin
+- **10g** brandy or vodka 40%
 
 **Dry:**
-- 24g erythritol
-- 16g xylitol
-- 15g soy protein isolate → 🟡 15g whey protein (no longer vegan)
-- 1g CMC (optional, for chewier texture and slower melting)
+- **24g** erythritol
+- **16g** xylitol
+- **15g** soy protein isolate → 🟡 **15g** whey protein (no longer vegan)
+- **1g** CMC (optional, for chewier texture and slower melting)
 
 **Fill to MAX:**
-- ~27g water
-- vanilla bean powder (2g) + Flavor drops Vanilla (5 drops) → 🟡 4g vanilla extract (loses bean specks and depth)
+- **~27g** water
+- vanilla bean powder (2g) + Flavor drops Vanilla (5 drops) → 🟡 **4g** vanilla extract (loses bean specks and depth)
 
 **Steps:**
 1. Blend ground almonds, banana, and aquafaba in empty pint to a smooth puree.
@@ -2955,29 +2955,29 @@ Tags: banana, aquafaba, vegan, dairy-free, high-protein, low-fat, low-sugar, sco
 Tags: banana, vegan, dairy-free, high-protein, low-fat, low-sugar, scoopable
 
 **Prep:**
-- 200g bananas (peeled)
-- 5g lemon juice
+- **200g** bananas (peeled)
+- **5g** lemon juice
 
 **Wet:**
-- 250g soy milk (unsweetened)
-- 15g glycerin
-- 10g brandy or vodka 40%
-- vanilla bean powder (3g) + Flavor drops Vanilla (7 drops) → 🟡 5g vanilla extract (add with wet; loses bean specks and depth)
+- **250g** soy milk (unsweetened)
+- **15g** glycerin
+- **10g** brandy or vodka 40%
+- vanilla bean powder (3g) + Flavor drops Vanilla (7 drops) → 🟡 **5g** vanilla extract (add with wet; loses bean specks and depth)
 
 **Dry:**
 - ICSv2 (30g):
-  - 13.8g erythritol
-  - 13.8g inulin
-  - 1.4g CMC
-  - 0.5g guar gum
-  - 0.5g salt
-  - 0.14g xanthan gum
-- 30g soy protein isolate → 🟡 30g whey protein (no longer vegan)
-- 25g xylitol
+  - **13.8g** erythritol
+  - **13.8g** inulin
+  - **1.4g** CMC
+  - **0.5g** guar gum
+  - **0.5g** salt
+  - **0.14g** xanthan gum
+- **30g** soy protein isolate → 🟡 **30g** whey protein (no longer vegan)
+- **25g** xylitol
 
 **Fill to MAX:**
-- 125g soy milk (unsweetened)
-- ~27g water
+- **125g** soy milk (unsweetened)
+- **~27g** water
 
 **Steps:**
 1. Blend bananas and lemon juice in empty pint.
@@ -2997,23 +2997,23 @@ Tags: banana, vegan, dairy-free, high-protein, low-fat, low-sugar, scoopable
 Tags: banana, cream-cheese, scoopable, low-fat, low-sugar, light
 
 **Wet:**
-- 450g soy milk (unsweetened)
-- 125g bananas (peeled)
-- 30g cream cheese 23%
-- 16g glycerin
-- 10g brandy or vodka 40%
+- **450g** soy milk (unsweetened)
+- **125g** bananas (peeled)
+- **30g** cream cheese 23%
+- **16g** glycerin
+- **10g** brandy or vodka 40%
 
 **Dry:**
-- 21g erythritol
-- 14g xylitol
+- **21g** erythritol
+- **14g** xylitol
 - Salty Stability (10g):
-  - 7.3g inulin
-  - 1.2g soy lecithin
-  - 0.6g CMC
-  - 0.4g guar gum
-  - 0.3g salt
-  - 0.13g xanthan gum
-- 2g vanilla bean powder → 🟡 3g vanilla extract (add with wet; loses bean specks)
+  - **7.3g** inulin
+  - **1.2g** soy lecithin
+  - **0.6g** CMC
+  - **0.4g** guar gum
+  - **0.3g** salt
+  - **0.13g** xanthan gum
+- **2g** vanilla bean powder → 🟡 **3g** vanilla extract (add with wet; loses bean specks)
 
 **Adjust sweetness:**
 - Flavor drops Vanilla (3 drops) → 🟡 skip (covered by vanilla extract above)
@@ -3038,29 +3038,29 @@ Tags: banana, cottage-cheese, high-protein, low-fat, scoopable
 *Vegan option: replace cottage cheese with 75g silken tofu (or 50g firm tofu + 30g water), and use soy protein isolate instead of whey.*
 
 **Prep:**
-- 225g bananas (peeled)
-- 100g cottage cheese 4%
-- 15g glycerin
-- 10g brandy or vodka 40%
-- 10g lemon juice
+- **225g** bananas (peeled)
+- **100g** cottage cheese 4%
+- **15g** glycerin
+- **10g** brandy or vodka 40%
+- **10g** lemon juice
 
 **Wet:**
-- 275g soy milk (unsweetened)
+- **275g** soy milk (unsweetened)
 
 **Dry:**
-- 18g erythritol
-- 12g xylitol
-- 10g whey + casein protein → 🟢 10g whey protein
+- **18g** erythritol
+- **12g** xylitol
+- **10g** whey + casein protein → 🟢 **10g** whey protein
 - Salty Stability (10g):
-  - 7.3g inulin
-  - 1.2g soy lecithin
-  - 0.6g CMC
-  - 0.4g guar gum
-  - 0.3g salt
-  - 0.13g xanthan gum
+  - **7.3g** inulin
+  - **1.2g** soy lecithin
+  - **0.6g** CMC
+  - **0.4g** guar gum
+  - **0.3g** salt
+  - **0.13g** xanthan gum
 
 **Adjust sweetness:**
-- Flavor drops Vanilla (4 drops) → 🟡 2g vanilla extract
+- Flavor drops Vanilla (4 drops) → 🟡 **2g** vanilla extract
 
 **Steps:**
 1. Blend bananas, cottage cheese, glycerin, brandy/vodka, and lemon juice in empty pint to a smooth puree.
@@ -3081,19 +3081,19 @@ Tags: banana, cottage-cheese, high-protein, low-fat, scoopable
 Tags: banana, rum, gelato, simple, scoopable
 
 **Prep:**
-- 30g gum arabic → 🟡 25g inulin (optional — original marks gum arabic as optional. Inulin provides fiber/body but no pre-hydration needed unlike gum arabic.)
-- 300g bananas (peeled)
-- 50g cream cheese 23%
-- 50g Jamaica rum 43%
-- 10g lemon juice
+- **30g** gum arabic → 🟡 **25g** inulin (optional — original marks gum arabic as optional. Inulin provides fiber/body but no pre-hydration needed unlike gum arabic.)
+- **300g** bananas (peeled)
+- **50g** cream cheese 23%
+- **50g** Jamaica rum 43%
+- **10g** lemon juice
 
 **Wet:**
-- 150g soy milk (unsweetened)
-- 45g water
+- **150g** soy milk (unsweetened)
+- **45g** water
 
 **Fill to MAX:**
-- 50g cream 32% (optional — skip for better macros, saves 156 kcal / 16g fat)
-- Flavor drops Vanilla (10 drops) → 🟡 3g vanilla extract
+- **50g** cream 32% (optional — skip for better macros, saves 156 kcal / 16g fat)
+- Flavor drops Vanilla (10 drops) → 🟡 **3g** vanilla extract
 
 **Steps:**
 1. Blend bananas, cream cheese, rum, lemon juice, and inulin in empty pint to a smooth puree.
@@ -3112,30 +3112,30 @@ Tags: banana, rum, gelato, simple, scoopable
 Tags: banana, toffee, vegan, dairy-free, high-protein, low-fat, scoopable
 
 **Prep:**
-- 100g banana (peeled)
-- 100g tofu (plain)
-- 40g medjool dates (pitted) (2 dates)
-- 15g glycerin
-- 10g brandy or vodka 40%
-- 5g lemon juice
+- **100g** banana (peeled)
+- **100g** tofu (plain)
+- **40g** medjool dates (pitted) (2 dates)
+- **15g** glycerin
+- **10g** brandy or vodka 40%
+- **5g** lemon juice
 
 **Wet:**
-- 250g soy milk (unsweetened)
+- **250g** soy milk (unsweetened)
 
 **Dry:**
-- 15g soy protein isolate → 🟡 15g whey protein (no longer vegan)
-- 25g xylitol
+- **15g** soy protein isolate → 🟡 **15g** whey protein (no longer vegan)
+- **25g** xylitol
 - ICSv2 (10g):
-  - 4.6g erythritol
-  - 4.6g inulin
-  - 0.46g CMC
-  - 0.16g guar gum
-  - 0.16g salt
-  - 0.05g xanthan gum
-- 3g vanilla bean powder → 🟡 4g vanilla extract (add with wet; loses bean specks)
+  - **4.6g** erythritol
+  - **4.6g** inulin
+  - **0.46g** CMC
+  - **0.16g** guar gum
+  - **0.16g** salt
+  - **0.05g** xanthan gum
+- **3g** vanilla bean powder → 🟡 **4g** vanilla extract (add with wet; loses bean specks)
 
 **Fill to MAX:**
-- ~147g soy milk (unsweetened)
+- **~147g** soy milk (unsweetened)
 - Flavor drops Caramel (3-7 drops) → 🟡 Manis milk cream flavor (3-5 drops) (approximate toffee/caramel accent)
 
 **Steps:**
@@ -3159,36 +3159,36 @@ Tags: cherry, coconut, mexican, scoopable, low-sugar
 *Base is intentionally only ~600g to leave room for plenty of mix-ins.*
 
 **Prep:**
-- 150g cherries (pitted, fresh or frozen)
+- **150g** cherries (pitted, fresh or frozen)
 
 **Wet:**
-- 275g soy milk (unsweetened)
-- 35g coconut milk powder → 🟡 90g canned coconut milk (~22% fat) (soy milk reduced by 55g to compensate volume)
-- 15g glycerin
-- 10g brandy or vodka 40%
+- **275g** soy milk (unsweetened)
+- **35g** coconut milk powder → 🟡 **90g** canned coconut milk (~22% fat) (soy milk reduced by 55g to compensate volume)
+- **15g** glycerin
+- **10g** brandy or vodka 40%
 
 **Dry:**
-- 18g erythritol
-- 12g xylitol
+- **18g** erythritol
+- **12g** xylitol
 - Salty Stability (15g):
-  - 11.0g inulin
-  - 1.8g soy lecithin
-  - 0.9g CMC
-  - 0.6g guar gum
-  - 0.5g salt
-  - 0.2g xanthan gum
-- 15g whey + casein protein → 🟢 15g whey protein
-- 2g beet root powder (optional, for color)
+  - **11.0g** inulin
+  - **1.8g** soy lecithin
+  - **0.9g** CMC
+  - **0.6g** guar gum
+  - **0.5g** salt
+  - **0.2g** xanthan gum
+- **15g** whey + casein protein → 🟢 **15g** whey protein
+- **2g** beet root powder (optional, for color)
 
 **Fill to MAX:**
-- Flavor drops Vanilla (8 drops) → 🟡 2g vanilla extract
+- Flavor drops Vanilla (8 drops) → 🟡 **2g** vanilla extract
 
 **Mix-ins:**
-- 15g sultanas/raisins, chopped
-- 8g almond slivers, chopped
-- 8g pecan nuts, crumbled
-- 10g white chocolate shavings
-- 40g cherries (fresh or frozen)
+- **15g** sultanas/raisins, chopped
+- **8g** almond slivers, chopped
+- **8g** pecan nuts, crumbled
+- **10g** white chocolate shavings
+- **40g** cherries (fresh or frozen)
 
 **Steps:**
 1. Put cherries in empty pint. If frozen, let defrost slightly.
@@ -3211,27 +3211,27 @@ Tags: blueberry, buttermilk, high-protein, low-fat, low-sugar, scoopable, multi-
 *Versatile base — replace blueberries with 175g strawberries, 125g mango, or 125g banana. Adjust Fill to MAX liquid accordingly.*
 
 **Wet:**
-- 400g buttermilk 1%
-- 125g blueberries (frozen)
-- 25g cream cheese 23%
-- 15g glycerin
-- 10g brandy or vodka 40%
+- **400g** buttermilk 1%
+- **125g** blueberries (frozen)
+- **25g** cream cheese 23%
+- **15g** glycerin
+- **10g** brandy or vodka 40%
 
 **Dry:**
-- 21g erythritol
-- 14g xylitol
+- **21g** erythritol
+- **14g** xylitol
 - Salty Stability (15g):
-  - 11.0g inulin
-  - 1.8g soy lecithin
-  - 0.9g CMC
-  - 0.6g guar gum
-  - 0.5g salt
-  - 0.2g xanthan gum
-- 20g whey + casein protein → 🟢 20g whey protein
+  - **11.0g** inulin
+  - **1.8g** soy lecithin
+  - **0.9g** CMC
+  - **0.6g** guar gum
+  - **0.5g** salt
+  - **0.2g** xanthan gum
+- **20g** whey + casein protein → 🟢 **20g** whey protein
 
 **Fill to MAX:**
-- ~35g buttermilk 1%
-- Flavor drops Vanilla (5 drops) → 🟡 2g vanilla extract
+- **~35g** buttermilk 1%
+- Flavor drops Vanilla (5 drops) → 🟡 **2g** vanilla extract
 
 **Steps:**
 1. Add wet ingredients to pint.
@@ -3250,32 +3250,32 @@ Tags: blueberry, buttermilk, high-protein, low-fat, low-sugar, scoopable, multi-
 Tags: butter, pecan, vanilla, scoopable, low-sugar, cooked-base
 
 **Prep:**
-- 45g pecan nuts
-- 15g butter (unsalted)
-- 0.75g salt
+- **45g** pecan nuts
+- **15g** butter (unsalted)
+- **0.75g** salt
 
 **Wet:**
-- 400g soy milk (unsweetened)
-- 25g cream cheese 23%
-- 10g glycerin
-- 10g Jamaica rum 43%
-- 3g molasses
+- **400g** soy milk (unsweetened)
+- **25g** cream cheese 23%
+- **10g** glycerin
+- **10g** Jamaica rum 43%
+- **3g** molasses
 
 **Dry:**
-- 24g erythritol
-- 16g xylitol
-- 25g skim milk powder
+- **24g** erythritol
+- **16g** xylitol
+- **25g** skim milk powder
 - Salty Stability (15g):
-  - 11.0g inulin
-  - 1.8g soy lecithin
-  - 0.9g CMC
-  - 0.6g guar gum
-  - 0.5g salt
-  - 0.2g xanthan gum
-- 5g vanilla bean powder → 🟡 6g vanilla extract (add with wet; loses bean specks and depth)
+  - **11.0g** inulin
+  - **1.8g** soy lecithin
+  - **0.9g** CMC
+  - **0.6g** guar gum
+  - **0.5g** salt
+  - **0.2g** xanthan gum
+- **5g** vanilla bean powder → 🟡 **6g** vanilla extract (add with wet; loses bean specks and depth)
 
 **Fill to MAX:**
-- ~86g soy milk (unsweetened)
+- **~86g** soy milk (unsweetened)
 - Flavor drops Vanilla (1 drop) → 🟡 skip (covered by vanilla extract above)
 
 **Steps:**
@@ -3299,30 +3299,30 @@ Tags: butter, pecan, vanilla, scoopable, low-sugar, cooked-base
 Tags: buttermilk, chocolate, stracciatella, high-protein, low-fat, low-sugar, scoopable
 
 **Wet:**
-- 500g buttermilk 1%
-- 50g cottage cheese 4%
-- 15g glycerin
-- 10g brandy or vodka 40%
+- **500g** buttermilk 1%
+- **50g** cottage cheese 4%
+- **15g** glycerin
+- **10g** brandy or vodka 40%
 
 **Dry:**
-- 21g erythritol
-- 14g xylitol
-- 20g whey + casein protein → 🟢 20g whey protein
-- 15g skim milk powder
+- **21g** erythritol
+- **14g** xylitol
+- **20g** whey + casein protein → 🟢 **20g** whey protein
+- **15g** skim milk powder
 - Salty Stability (10g):
-  - 7.3g inulin
-  - 1.2g soy lecithin
-  - 0.6g CMC
-  - 0.4g guar gum
-  - 0.3g salt
-  - 0.13g xanthan gum
+  - **7.3g** inulin
+  - **1.2g** soy lecithin
+  - **0.6g** CMC
+  - **0.4g** guar gum
+  - **0.3g** salt
+  - **0.13g** xanthan gum
 
 **Fill to MAX:**
-- Flavor drops Vanilla (6 drops) → 🟡 2g vanilla extract
+- Flavor drops Vanilla (6 drops) → 🟡 **2g** vanilla extract
 
 **Mix-ins (choose one):**
-- 30g 1️⃣ dark chocolate shavings
-- 50g 2️⃣ dark chocolate 85%, melted with 8g olive oil — pour over flattened ice cream, close lid, start Mix-In immediately
+- **30g** 1️⃣ dark chocolate shavings
+- **50g** 2️⃣ dark chocolate 85%, melted with 8g olive oil — pour over flattened ice cream, close lid, start Mix-In immediately
 
 **Steps:**
 1. Add wet ingredients to pint.
@@ -3343,20 +3343,20 @@ Tags: buttermilk, chocolate, stracciatella, high-protein, low-fat, low-sugar, sc
 Tags: buttermilk, vanilla, high-protein, low-sugar, scoopable
 
 **Wet:**
-- 500g buttermilk 1%
-- 10g glycerin
-- 6g vanilla extract
+- **500g** buttermilk 1%
+- **10g** glycerin
+- **6g** vanilla extract
 
 **Dry:**
-- 27g erythritol
-- 18g xylitol
-- 20g whey + casein protein → 🟢 20g whey protein
-- 10g Ultratex / waxy maize starch → 🟡 10g corn starch (heat part of base to activate — corn starch doesn't cold-swell like Ultratex)
-- 3g vanilla bean powder → 🟡 4g vanilla extract (total vanilla extract in recipe: 10g)
-- 1g salt
+- **27g** erythritol
+- **18g** xylitol
+- **20g** whey + casein protein → 🟢 **20g** whey protein
+- **10g** Ultratex / waxy maize starch → 🟡 **10g** corn starch (heat part of base to activate — corn starch doesn't cold-swell like Ultratex)
+- **3g** vanilla bean powder → 🟡 **4g** vanilla extract (total vanilla extract in recipe: 10g)
+- **1g** salt
 
 **Fill to MAX:**
-- 75g cream 32%
+- **75g** cream 32%
 - Flavor drops Vanilla (3 drops) → 🟡 skip (covered by vanilla extract above)
 
 **Steps:**
@@ -3379,36 +3379,36 @@ Tags: buttermilk, vanilla, high-protein, low-sugar, scoopable
 Tags: butterscotch, vanilla, butter, scoopable, cooked-base
 
 **Prep (butterscotch sauce — heat to 150°C):**
-- 50g trehalose → 🟡 25g sugar (sugar is ~2x as sweet as trehalose — 25g approximates same sweetness. Caramelizes slightly differently.)
-- 40g butter (unsalted)
-- 20g soy milk (unsweetened)
-- 10g xylitol
-- 7g molasses
-- 0.3g salt
+- **50g** trehalose → 🟡 **25g** sugar (sugar is ~2x as sweet as trehalose — 25g approximates same sweetness. Caramelizes slightly differently.)
+- **40g** butter (unsalted)
+- **20g** soy milk (unsweetened)
+- **10g** xylitol
+- **7g** molasses
+- **0.3g** salt
 
 **Wet:**
-- 350g soy milk (unsweetened)
-- 50g butter (unsalted)
-- 10g glycerin
+- **350g** soy milk (unsweetened)
+- **50g** butter (unsalted)
+- **10g** glycerin
 
 **Dry:**
-- 25g erythritol
-- 25g skim milk powder
+- **25g** erythritol
+- **25g** skim milk powder
 - Salty Stability (15g):
-  - 11.0g inulin
-  - 1.8g soy lecithin
-  - 0.9g CMC
-  - 0.6g guar gum
-  - 0.5g salt
-  - 0.2g xanthan gum
-- 4g vanilla bean powder → 🟡 5g vanilla extract (add with wet; loses bean specks)
+  - **11.0g** inulin
+  - **1.8g** soy lecithin
+  - **0.9g** CMC
+  - **0.6g** guar gum
+  - **0.5g** salt
+  - **0.2g** xanthan gum
+- **4g** vanilla bean powder → 🟡 **5g** vanilla extract (add with wet; loses bean specks)
 
 **Fill to MAX:**
-- ~74g soy milk (unsweetened)
+- **~74g** soy milk (unsweetened)
 - Flavor drops Vanilla (1 drop) → 🟡 skip (covered by vanilla extract above)
 
 **Topping (optional):**
-- 15g candied pecans or walnuts
+- **15g** candied pecans or walnuts
 
 **Steps:**
 1. Brown the 40g butter in a saucepan. Whisk in sugar, xylitol, 20g soy milk, molasses, and salt.
@@ -3431,43 +3431,43 @@ Tags: butterscotch, vanilla, butter, scoopable, cooked-base
 Tags: chocolate, coffee, dark-cocoa, scoopable, low-sugar
 
 **Prep (bloom cocoa — near boiling water):**
-- 200g water (90°C)
-- 50g dark chocolate 85%
-- 20g cocoa noir / intense cocoa 11% → 🟡 20g regular cocoa powder (less intense and tart — add 5g extra for deeper flavor if desired)
+- **200g** water (90°C)
+- **50g** dark chocolate 85%
+- **20g** cocoa noir / intense cocoa 11% → 🟡 **20g** regular cocoa powder (less intense and tart — add 5g extra for deeper flavor if desired)
 
 **Wet:**
-- 200g soy milk (unsweetened)
-- 20g glycerin
-- 15g Cointreau 40% (or any orange liqueur)
-- 10g soy sauce
+- **200g** soy milk (unsweetened)
+- **20g** glycerin
+- **15g** Cointreau 40% (or any orange liqueur)
+- **10g** soy sauce
 
 **Dry:**
-- 27g erythritol
-- 18g xylitol
-- 15g skim milk powder
-- 15g whey + casein protein → 🟢 15g whey protein
+- **27g** erythritol
+- **18g** xylitol
+- **15g** skim milk powder
+- **15g** whey + casein protein → 🟢 **15g** whey protein
 - Salty Stability (10g):
-  - 7.3g inulin
-  - 1.2g soy lecithin
-  - 0.6g CMC
-  - 0.4g guar gum
-  - 0.3g salt
-  - 0.13g xanthan gum
-- 4.5g instant coffee
-- 0.5g cinnamon (optional)
+  - **7.3g** inulin
+  - **1.2g** soy lecithin
+  - **0.6g** CMC
+  - **0.4g** guar gum
+  - **0.3g** salt
+  - **0.13g** xanthan gum
+- **4.5g** instant coffee
+- **0.5g** cinnamon (optional)
 - 1 pinch cayenne + nutmeg each (optional)
 
 **Fill to MAX:**
-- ~75g soy milk (unsweetened)
-- Flavor drops Vanilla (10 drops) → 🟡 3g vanilla extract
+- **~75g** soy milk (unsweetened)
+- Flavor drops Vanilla (10 drops) → 🟡 **3g** vanilla extract
 
 **Mix-ins:**
-- 15g cashew nuts, crushed
+- **15g** cashew nuts, crushed
 
 **Topping options:**
-- 8g walnuts
-- 8g pecan nuts
-- 15g cherry fruit spread (no added sugar)
+- **8g** walnuts
+- **8g** pecan nuts
+- **15g** cherry fruit spread (no added sugar)
 
 **Steps:**
 1. In a heat-proof bowl, combine premixed dry ingredients with a whisk.
@@ -3490,22 +3490,22 @@ Tags: chocolate, coffee, dark-cocoa, scoopable, low-sugar
 Tags: caramel, toffee, dates, scoopable, low-fat, low-sugar
 
 **Prep (heat to dissolve candy):**
-- 350g soy milk (unsweetened)
-- 42g sugar-free caramel candy (~13 pcs Werther's or similar)
+- **350g** soy milk (unsweetened)
+- **42g** sugar-free caramel candy (~13 pcs Werther's or similar)
 
 **Wet:**
-- 150g soy milk (unsweetened)
-- 40g medjool dates (pitted) (2 dates)
-- 15g glycerin
+- **150g** soy milk (unsweetened)
+- **40g** medjool dates (pitted) (2 dates)
+- **15g** glycerin
 
 **Dry:**
-- 21g erythritol
-- 14g xylitol
-- 20g inulin
-- 15g whey + casein protein → 🟢 15g whey protein
-- 10g Ultratex / waxy maize starch → 🟡 10g corn starch (activates in heated milk from Prep step)
-- 2g annatto seed powder (optional, for color)
-- 1g salt
+- **21g** erythritol
+- **14g** xylitol
+- **20g** inulin
+- **15g** whey + casein protein → 🟢 **15g** whey protein
+- **10g** Ultratex / waxy maize starch → 🟡 **10g** corn starch (activates in heated milk from Prep step)
+- **2g** annatto seed powder (optional, for color)
+- **1g** salt
 
 **Adjust sweetness:**
 - Flavor drops Caramel (5 drops) → 🟡 Manis milk cream flavor (3-5 drops) (approximate caramel accent)
@@ -3531,34 +3531,34 @@ Tags: caramel, toffee, dates, scoopable, low-fat, low-sugar
 Tags: cheesecake, buttermilk, quark, high-protein, low-fat, low-sugar, light, scoopable
 
 **Wet:**
-- 400g buttermilk 1%
-- 200g Topfen/Quark 0.6% → 🟡 200g Greek strained yogurt 0-2% (tangier and thicker than quark, but functionally similar)
-- 15g glycerin
-- 10g brandy or vodka 40%
+- **400g** buttermilk 1%
+- **200g** Topfen/Quark 0.6% → 🟡 **200g** Greek strained yogurt 0-2% (tangier and thicker than quark, but functionally similar)
+- **15g** glycerin
+- **10g** brandy or vodka 40%
 
 **Dry:**
-- 21g erythritol
-- 14g xylitol
+- **21g** erythritol
+- **14g** xylitol
 - Salty Stability (15g):
-  - 11.0g inulin
-  - 1.8g soy lecithin
-  - 0.9g CMC
-  - 0.6g guar gum
-  - 0.5g salt
-  - 0.2g xanthan gum
-- 10g whey + casein protein → 🟢 10g whey protein
-- 2g vanilla bean powder → 🟡 3g vanilla extract (add with wet)
+  - **11.0g** inulin
+  - **1.8g** soy lecithin
+  - **0.9g** CMC
+  - **0.6g** guar gum
+  - **0.5g** salt
+  - **0.2g** xanthan gum
+- **10g** whey + casein protein → 🟢 **10g** whey protein
+- **2g** vanilla bean powder → 🟡 **3g** vanilla extract (add with wet)
 
 **Fill to MAX:**
 - Flavor drops Vanilla (3 drops) + Cookies & Cream (10 drops) → 🟡 (covered by vanilla extract above) (loses cookies & cream accent)
 
 **Mix-ins:**
-- 50g frozen fruit, chopped
-- 20g sultanas/raisins, chopped
+- **50g** frozen fruit, chopped
+- **20g** sultanas/raisins, chopped
 
 **Topping options:**
 - 3-4 pcs graham crackers or butter cookies
-- 20g caramel syrup (low-sugar)
+- **20g** caramel syrup (low-sugar)
 
 **Steps:**
 1. Add wet ingredients and vanilla extract to pint.
@@ -3579,37 +3579,37 @@ Tags: cheesecake, buttermilk, quark, high-protein, low-fat, low-sugar, light, sc
 Tags: cherry, fruit, cream-cheese, scoopable, low-fat, low-sugar, multi-flavor
 
 **Wet:**
-- 300g soy milk (unsweetened)
-- 150g cherries (frozen or fresh, pitted)
-- 50g cream cheese
-- 20g glycerin
-- 10g brandy or vodka 40%
+- **300g** soy milk (unsweetened)
+- **150g** cherries (frozen or fresh, pitted)
+- **50g** cream cheese
+- **20g** glycerin
+- **10g** brandy or vodka 40%
 
 **Dry:**
-- 20g erythritol
-- 13g xylitol
+- **20g** erythritol
+- **13g** xylitol
 - Salty Stability (10g):
-  - 7.3g inulin
-  - 1.2g soy lecithin
-  - 0.6g CMC
-  - 0.4g guar gum
-  - 0.3g salt
-  - 0.13g xanthan gum
-- 10g whey + casein protein → 🟢 10g whey protein
-- 2g beet root powder (optional, for red color)
+  - **7.3g** inulin
+  - **1.2g** soy lecithin
+  - **0.6g** CMC
+  - **0.4g** guar gum
+  - **0.3g** salt
+  - **0.13g** xanthan gum
+- **10g** whey + casein protein → 🟢 **10g** whey protein
+- **2g** beet root powder (optional, for red color)
 
 **Fill to MAX:**
-- ~95g soy milk (unsweetened)
-- Flavor drops Vanilla (3 drops) → 🟡 2g vanilla extract
+- **~95g** soy milk (unsweetened)
+- Flavor drops Vanilla (3 drops) → 🟡 **2g** vanilla extract
 
 **Mix-ins:**
-- 30g cherry fruit spread (no added sugar)
+- **30g** cherry fruit spread (no added sugar)
 
 **Optional fruit choices (replace cherries):**
-- 225g strawberries
-- 175g blueberries
-- 150g mango
-- 140g pineapple (canned, drained)
+- **225g** strawberries
+- **175g** blueberries
+- **150g** mango
+- **140g** pineapple (canned, drained)
 
 **Steps:**
 1. Add wet ingredients to pint.
@@ -3629,28 +3629,28 @@ Tags: cherry, fruit, cream-cheese, scoopable, low-fat, low-sugar, multi-flavor
 Tags: chocolate, chia, gum-free, low-sugar
 
 **Prep (bloom cocoa — boiling water):**
-- 150g water (boiling)
-- 30g cocoa powder
+- **150g** water (boiling)
+- **30g** cocoa powder
 
 **Wet:**
-- 225g milk 1.5%
-- 20g glycerin
+- **225g** milk 1.5%
+- **20g** glycerin
 - Flavor drops Caramel (7 drops) → 🟡 Manis milk cream flavor (5-7 drops) (approximate caramel accent)
-- 5g vanilla extract
-- 3g soy sauce
+- **5g** vanilla extract
+- **3g** soy sauce
 
 **Dry:**
-- 60g chia seeds
-- 35g xylitol
-- 25g skim milk powder
-- 15g inulin
-- 2g GMS → 🟢 2g soy lecithin
+- **60g** chia seeds
+- **35g** xylitol
+- **25g** skim milk powder
+- **15g** inulin
+- **2g** GMS → 🟢 **2g** soy lecithin
 
 **Fill to MAX:**
-- ~150g water
+- **~150g** water
 
 **Mix-ins:**
-- 10g black sesame seeds (roasted)
+- **10g** black sesame seeds (roasted)
 
 **Steps:**
 1. Mix boiling water with cocoa powder to bloom it. Let cool.
@@ -3674,25 +3674,25 @@ Tags: chocolate, caramel, chickpea, dates, gum-free, low-fat, low-sugar, vegan-o
 > Originally vegan — soy protein → whey swap removes vegan status.
 
 **Prep (bloom cocoa — boiling water):**
-- 150g water (boiling)
-- 40g cocoa powder
+- **150g** water (boiling)
+- **40g** cocoa powder
 
 **Wet:**
-- 60g chickpeas (from can)
-- 40g aquafaba (chickpea liquid)
-- 40g medjool dates (pitted) (2 dates)
-- 200g soy milk (unsweetened)
-- 20g glycerin
-- 15g brandy or vodka 40%
+- **60g** chickpeas (from can)
+- **40g** aquafaba (chickpea liquid)
+- **40g** medjool dates (pitted) (2 dates)
+- **200g** soy milk (unsweetened)
+- **20g** glycerin
+- **15g** brandy or vodka 40%
 
 **Dry:**
-- 10g soy protein isolate → 🟡 10g whey protein (no longer vegan)
-- 20g erythritol
-- 13g xylitol
-- 2g salt
+- **10g** soy protein isolate → 🟡 **10g** whey protein (no longer vegan)
+- **20g** erythritol
+- **13g** xylitol
+- **2g** salt
 
 **Fill to MAX:**
-- ~70g soy milk (unsweetened)
+- **~70g** soy milk (unsweetened)
 - Flavor drops Caramel (6 drops) → 🟡 Manis milk cream flavor (5-6 drops)
 
 **Steps:**
@@ -3715,30 +3715,30 @@ Tags: chocolate, caramel, chickpea, dates, gum-free, low-fat, low-sugar, vegan-o
 Tags: chocolate, caramel, yogurt, high-protein, scoopable, low-sugar
 
 **Prep (bloom cocoa — boiling water):**
-- 100g water (boiling)
-- 40g cocoa powder
+- **100g** water (boiling)
+- **40g** cocoa powder
 
 **Wet:**
-- 275g soy milk (unsweetened)
-- 140g Greek yogurt 9%
-- 20g glycerin
-- 10g brandy or vodka 40%
+- **275g** soy milk (unsweetened)
+- **140g** Greek yogurt 9%
+- **20g** glycerin
+- **10g** brandy or vodka 40%
 
 **Dry:**
-- 30g xylitol
-- 25g whey protein Caramel → 🟡 25g whey protein (unflavored) + Manis milk cream flavor (5-7 drops) (loses built-in caramel flavor)
+- **30g** xylitol
+- **25g** whey protein Caramel → 🟡 **25g** whey protein (unflavored) + Manis milk cream flavor (5-7 drops) (loses built-in caramel flavor)
 - ICSv2 (30g):
-  - 13.8g erythritol
-  - 13.8g inulin
-  - 1.4g CMC
-  - 0.5g guar gum
-  - 0.5g salt
-  - 0.14g xanthan gum
+  - **13.8g** erythritol
+  - **13.8g** inulin
+  - **1.4g** CMC
+  - **0.5g** guar gum
+  - **0.5g** salt
+  - **0.14g** xanthan gum
 
 **Fill to MAX:**
-- ~50g water
+- **~50g** water
 - Flavor drops Caramel (2-4 drops) → 🟡 skip (covered by milk cream flavor above)
-- Flavor drops Vanilla (2-4 drops) → 🟡 2g vanilla extract
+- Flavor drops Vanilla (2-4 drops) → 🟡 **2g** vanilla extract
 
 **Steps:**
 1. Mix boiling water with cocoa powder to bloom it. Let cool.
@@ -3758,30 +3758,30 @@ Tags: chocolate, caramel, yogurt, high-protein, scoopable, low-sugar
 Tags: chocolate, coffee, vegan, dairy-free, scoopable, low-fat, low-sugar, light
 
 **Prep (bloom cocoa — near boiling water):**
-- 100g water (90°C)
-- 35g cocoa powder
+- **100g** water (90°C)
+- **35g** cocoa powder
 
 **Wet:**
-- 350g soy milk (unsweetened)
-- 20g glycerin
-- 10g brandy or vodka 40%
+- **350g** soy milk (unsweetened)
+- **20g** glycerin
+- **10g** brandy or vodka 40%
 
 **Dry:**
-- 30g erythritol
-- 20g xylitol
+- **30g** erythritol
+- **20g** xylitol
 - Salty Stability (15g):
-  - 11.0g inulin
-  - 1.8g soy lecithin
-  - 0.9g CMC
-  - 0.6g guar gum
-  - 0.5g salt
-  - 0.2g xanthan gum
-- 4g instant coffee (optional)
+  - **11.0g** inulin
+  - **1.8g** soy lecithin
+  - **0.9g** CMC
+  - **0.6g** guar gum
+  - **0.5g** salt
+  - **0.2g** xanthan gum
+- **4g** instant coffee (optional)
 
 **Fill to MAX:**
-- ~90g soy milk (unsweetened)
-- 11g caramel syrup, low-sugar → 🟡 Manis milk cream flavor (3-5 drops) (optional; approximate caramel accent)
-- Flavor drops Vanilla (9 drops) → 🟡 4g vanilla extract
+- **~90g** soy milk (unsweetened)
+- **11g** caramel syrup, low-sugar → 🟡 Manis milk cream flavor (3-5 drops) (optional; approximate caramel accent)
+- Flavor drops Vanilla (9 drops) → 🟡 **4g** vanilla extract
 
 **Steps:**
 1. Mix hot water with cocoa powder to bloom it. Let cool.
@@ -3802,36 +3802,36 @@ Tags: chocolate, coffee, vegan, dairy-free, scoopable, low-fat, low-sugar, light
 Tags: coconut, fruit, cooked-base, scoopable, low-sugar
 
 **Prep:**
-- 175g cherries (frozen or fresh, pitted)
+- **175g** cherries (frozen or fresh, pitted)
 
 **Wet:**
-- 250g soy milk (unsweetened) (reduced from 350g — see coconut milk swap below)
-- 65g coconut milk powder → 🟡 175g canned coconut milk (reduce soy milk by 100g to compensate volume)
-- 20g glycerin
-- 10g brandy or vodka 40%
+- **250g** soy milk (unsweetened) (reduced from 350g — see coconut milk swap below)
+- **65g** coconut milk powder → 🟡 **175g** canned coconut milk (reduce soy milk by 100g to compensate volume)
+- **20g** glycerin
+- **10g** brandy or vodka 40%
 
 **Dry:**
-- 18g erythritol
-- 12g xylitol
+- **18g** erythritol
+- **12g** xylitol
 - Salty Stability (15g):
-  - 11.0g inulin
-  - 1.8g soy lecithin
-  - 0.9g CMC
-  - 0.6g guar gum
-  - 0.5g salt
-  - 0.2g xanthan gum
-- 15g whey + casein protein → 🟢 15g whey protein
+  - **11.0g** inulin
+  - **1.8g** soy lecithin
+  - **0.9g** CMC
+  - **0.6g** guar gum
+  - **0.5g** salt
+  - **0.2g** xanthan gum
+- **15g** whey + casein protein → 🟢 **15g** whey protein
 
 **Fill to MAX:**
-- Flavor drops Vanilla (7 drops) → 🟡 3g vanilla extract
+- Flavor drops Vanilla (7 drops) → 🟡 **3g** vanilla extract
 
 **Optional fruit choices (replace cherries):**
-- 150g bananas (blend with lemon juice)
-- 175g blueberries
-- 175g kiwi
-- 175g mango
-- 150g pineapple (canned, in juice)
-- 175g strawberries
+- **150g** bananas (blend with lemon juice)
+- **175g** blueberries
+- **175g** kiwi
+- **175g** mango
+- **150g** pineapple (canned, in juice)
+- **175g** strawberries
 
 **Steps:**
 1. Put fruit into pint. Let defrost slightly if frozen.
@@ -3851,23 +3851,23 @@ Tags: coconut, fruit, cooked-base, scoopable, low-sugar
 Tags: coconut, rum, vegan, scoopable, low-sugar
 
 **Prep (heat to ~95°C):**
-- 60g coconut milk powder → 🟡 180g canned coconut milk (replaces powder + 120g water)
-- 50g coconut flakes (desiccated)
-- 3g GMS → 🟢 3g soy lecithin
-- 15g waxy maize starch / Ultratex → 🟡 15g corn starch (dissolve in hot coconut milk; needs heat to activate)
+- **60g** coconut milk powder → 🟡 **180g** canned coconut milk (replaces powder + 120g water)
+- **50g** coconut flakes (desiccated)
+- **3g** GMS → 🟢 **3g** soy lecithin
+- **15g** waxy maize starch / Ultratex → 🟡 **15g** corn starch (dissolve in hot coconut milk; needs heat to activate)
 
 **Wet:**
-- 350g soy milk (unsweetened)
-- 30g rum 43%
+- **350g** soy milk (unsweetened)
+- **30g** rum 43%
 
 **Dry:**
-- 24g erythritol
-- 16g xylitol
-- 25g inulin
-- 1g salt
+- **24g** erythritol
+- **16g** xylitol
+- **25g** inulin
+- **1g** salt
 
 **Adjust sweetness:**
-- Flavor drops Vanilla (4 drops) → 🟡 2g vanilla extract
+- Flavor drops Vanilla (4 drops) → 🟡 **2g** vanilla extract
 
 **Steps:**
 1. Heat canned coconut milk to ~95°C in a saucepan.
@@ -3889,18 +3889,18 @@ Tags: coconut, rum, vegan, scoopable, low-sugar
 Tags: coconut, yogurt, frozen-yogurt, simple, scoopable, low-sugar
 
 **Wet:**
-- 400g yogurt 4%
-- 55g coconut milk powder → 🟡 200g canned coconut milk (replaces both coconut milk powder and soy milk)
-- 20g glycerin
+- **400g** yogurt 4%
+- **55g** coconut milk powder → 🟡 **200g** canned coconut milk (replaces both coconut milk powder and soy milk)
+- **20g** glycerin
 
 **Dry:**
-- 24g erythritol
-- 16g xylitol
-- 3g GMS → 🟢 3g soy lecithin
-- 1g salt
+- **24g** erythritol
+- **16g** xylitol
+- **3g** GMS → 🟢 **3g** soy lecithin
+- **1g** salt
 
 **Adjust sweetness:**
-- Flavor drops Vanilla (3 drops) → 🟡 2g vanilla extract
+- Flavor drops Vanilla (3 drops) → 🟡 **2g** vanilla extract
 
 **Steps:**
 1. Microwave wet ingredients to ~60°C in the Creami pint.
@@ -3920,29 +3920,29 @@ Tags: coconut, yogurt, frozen-yogurt, simple, scoopable, low-sugar
 Tags: coffee, cream, cream-cheese, scoopable, low-sugar
 
 **Wet:**
-- 350g extra strong coffee
-- 100g soy milk (unsweetened)
-- 50g cream cheese
-- 15g glycerin
-- 10g brandy or vodka 40% (or 14g coffee liqueur instead)
+- **350g** extra strong coffee
+- **100g** soy milk (unsweetened)
+- **50g** cream cheese
+- **15g** glycerin
+- **10g** brandy or vodka 40% (or 14g coffee liqueur instead)
 
 **Dry:**
-- 24g erythritol
-- 16g xylitol
+- **24g** erythritol
+- **16g** xylitol
 - Salty Stability (10g):
-  - 7.3g inulin
-  - 1.2g soy lecithin
-  - 0.6g CMC
-  - 0.4g guar gum
-  - 0.3g salt
-  - 0.13g xanthan gum
-- 10g whey + casein protein → 🟢 10g whey protein
-- 20g skim milk powder
-- 3g instant coffee (optional, for stronger coffee)
-- 3g cocoa powder
+  - **7.3g** inulin
+  - **1.2g** soy lecithin
+  - **0.6g** CMC
+  - **0.4g** guar gum
+  - **0.3g** salt
+  - **0.13g** xanthan gum
+- **10g** whey + casein protein → 🟢 **10g** whey protein
+- **20g** skim milk powder
+- **3g** instant coffee (optional, for stronger coffee)
+- **3g** cocoa powder
 
 **Fill to MAX:**
-- 75g cream 32%
+- **75g** cream 32%
 - Flavor drops Caramel (3 drops) → 🟡 Manis milk cream flavor (3-5 drops)
 
 **Steps:**
@@ -3964,23 +3964,23 @@ Tags: milky, cream, cooked-base, simple, scoopable
 > Adapted from Japanese Cremia soft-serve. Rich, milky, luxurious.
 
 **Wet:**
-- 380g whole milk 3.5%
+- **380g** whole milk 3.5%
 
 **Dry:**
-- 55g full fat milk powder
-- 35g trehalose → 🟡 18g sugar (trehalose POD=45%, sugar=100%; half weight for sweetness match — slightly lower PAC, consider adding 5g extra inulin if desired)
-- 30g xylitol
+- **55g** full fat milk powder
+- **35g** trehalose → 🟡 **18g** sugar (trehalose POD=45%, sugar=100%; half weight for sweetness match — slightly lower PAC, consider adding 5g extra inulin if desired)
+- **30g** xylitol
 - Salty Stability (5g):
-  - 3.7g inulin
-  - 0.6g soy lecithin
-  - 0.3g CMC
-  - 0.2g guar gum
-  - 0.17g salt
-  - 0.07g xanthan gum
-- 1.5g GMS → 🟢 1.5g soy lecithin
+  - **3.7g** inulin
+  - **0.6g** soy lecithin
+  - **0.3g** CMC
+  - **0.2g** guar gum
+  - **0.17g** salt
+  - **0.07g** xanthan gum
+- **1.5g** GMS → 🟢 **1.5g** soy lecithin
 
 **Fill to MAX:**
-- 170g cream 32%
+- **170g** cream 32%
 
 **Steps:**
 1. Weigh and combine dry ingredients in a bowl.
@@ -4000,22 +4000,22 @@ Tags: milky, cream, cooked-base, simple, scoopable
 Tags: watermelon, fruit, sorbet, cream, scoopable
 
 **Wet:**
-- 520g watermelon (blended & strained)
-- 20g glycerin
-- 10g lemon juice
+- **520g** watermelon (blended & strained)
+- **20g** glycerin
+- **10g** lemon juice
 
 **Dry:**
-- 21g erythritol
-- 14g xylitol
-- 10g whey + casein protein → 🟢 10g whey protein
-- 2g GMS → 🟢 2g soy lecithin
-- 1.75g CMC
-- 0.75g xanthan gum
-- 1.5g salt
-- 1g beet root powder (optional, for color)
+- **21g** erythritol
+- **14g** xylitol
+- **10g** whey + casein protein → 🟢 **10g** whey protein
+- **2g** GMS → 🟢 **2g** soy lecithin
+- **1.75g** CMC
+- **0.75g** xanthan gum
+- **1.5g** salt
+- **1g** beet root powder (optional, for color)
 
 **Fill to MAX:**
-- 80g cream 32%
+- **80g** cream 32%
 - Flavor drops Peach/Maracuja (5 drops) → 🟡 skip (no peach flavor available; watermelon provides the main flavor)
 
 **Steps:**
@@ -4036,27 +4036,27 @@ Tags: watermelon, fruit, sorbet, cream, scoopable
 Tags: caramel, quark, high-protein, low-fat, low-sugar, simple, scoopable
 
 **Wet:**
-- 300g soy milk (unsweetened)
-- 240g Topfen/Quark 0.6% → 🟡 240g Greek strained yogurt 0-2% (tangier than quark, but functionally similar)
-- 50g caramel syrup (low-sugar)
-- 20g glycerin
+- **300g** soy milk (unsweetened)
+- **240g** Topfen/Quark 0.6% → 🟡 **240g** Greek strained yogurt 0-2% (tangier than quark, but functionally similar)
+- **50g** caramel syrup (low-sugar)
+- **20g** glycerin
 
 **Dry:**
-- 27g erythritol
-- 18g xylitol
-- 15g inulin
-- 5g waxy maize starch / Ultratex → 🟡 5g corn starch (heat ~100g of the soy milk to dissolve corn starch first; it doesn't cold-swell like Ultratex)
-- 1g salt
+- **27g** erythritol
+- **18g** xylitol
+- **15g** inulin
+- **5g** waxy maize starch / Ultratex → 🟡 **5g** corn starch (heat ~100g of the soy milk to dissolve corn starch first; it doesn't cold-swell like Ultratex)
+- **1g** salt
 
 **Fill to MAX:**
 - Flavor drops Caramel (5 drops) → 🟡 Manis milk cream flavor (3-5 drops)
-- Flavor drops Vanilla (3 drops) → 🟡 2g vanilla extract
+- Flavor drops Vanilla (3 drops) → 🟡 **2g** vanilla extract
 
 **Mix-ins:**
-- 40g medjool dates (pitted, chopped)
+- **40g** medjool dates (pitted, chopped)
 
 **Topping (optional):**
-- 10g caramel syrup (low-sugar)
+- **10g** caramel syrup (low-sugar)
 
 **Steps:**
 1. Heat ~100g of the soy milk to dissolve corn starch. Let cool slightly.
@@ -4078,37 +4078,37 @@ Tags: caramel, quark, high-protein, low-fat, low-sugar, simple, scoopable
 Tags: chocolate, rum-raisin, pecan, coffee, scoopable, low-sugar
 
 **Prep (bloom cocoa — boiling water):**
-- 200g water (boiling)
-- 50g cocoa powder
-- 50g dark chocolate 85%
-- 5g instant coffee
-- 30g whey + casein protein → 🟢 30g whey protein
+- **200g** water (boiling)
+- **50g** cocoa powder
+- **50g** dark chocolate 85%
+- **5g** instant coffee
+- **30g** whey + casein protein → 🟢 **30g** whey protein
 
 **Wet:**
-- 200g soy milk (unsweetened)
-- 15g glycerin
-- 30g rum 43% (drained from soaking mix-ins)
-- 10g soy sauce
+- **200g** soy milk (unsweetened)
+- **15g** glycerin
+- **30g** rum 43% (drained from soaking mix-ins)
+- **10g** soy sauce
 
 **Dry:**
-- 27g erythritol
-- 18g xylitol
+- **27g** erythritol
+- **18g** xylitol
 - Salty Stability (15g):
-  - 11.0g inulin
-  - 1.8g soy lecithin
-  - 0.9g CMC
-  - 0.6g guar gum
-  - 0.5g salt
-  - 0.2g xanthan gum
+  - **11.0g** inulin
+  - **1.8g** soy lecithin
+  - **0.9g** CMC
+  - **0.6g** guar gum
+  - **0.5g** salt
+  - **0.2g** xanthan gum
 
 **Fill to MAX:**
-- ~70g soy milk (unsweetened)
-- Flavor drops Vanilla (10 drops) → 🟡 4g vanilla extract
+- **~70g** soy milk (unsweetened)
+- Flavor drops Vanilla (10 drops) → 🟡 **4g** vanilla extract
 
 **Mix-ins (soak overnight in rum):**
-- 15g pecan nuts, coarsely chopped
-- 15g sultanas/raisins
-- 45g total rum 43% (mix-ins absorb ~15g; drain remaining ~30g for the base)
+- **15g** pecan nuts, coarsely chopped
+- **15g** sultanas/raisins
+- **45g** total rum 43% (mix-ins absorb ~15g; drain remaining ~30g for the base)
 
 **Steps:**
 1. Soak chopped pecans and raisins overnight in 45g rum in a closed container.
@@ -4134,31 +4134,31 @@ Tags: banana, dates, coconut, scoopable, vegan-origin
 > Originally vegan — soy protein → whey swap removes vegan status.
 
 **Prep:**
-- 125g bananas (peeled) (1 large ripe banana)
-- 40g medjool dates (pitted) (2 dates)
-- 5g lemon juice
+- **125g** bananas (peeled) (1 large ripe banana)
+- **40g** medjool dates (pitted) (2 dates)
+- **5g** lemon juice
 
 **Wet:**
-- 250g soy milk (unsweetened)
-- 100g canned coconut milk
-- 20g glycerin
-- 15g brandy or vodka 40%
+- **250g** soy milk (unsweetened)
+- **100g** canned coconut milk
+- **20g** glycerin
+- **15g** brandy or vodka 40%
 
 **Dry:**
-- 20g soy protein isolate → 🟡 20g whey protein (no longer vegan)
-- 9g erythritol
-- 6g xylitol
+- **20g** soy protein isolate → 🟡 **20g** whey protein (no longer vegan)
+- **9g** erythritol
+- **6g** xylitol
 - Salty Stability (7g):
-  - 5.1g inulin
-  - 0.84g soy lecithin
-  - 0.42g CMC
-  - 0.28g guar gum
-  - 0.23g salt
-  - 0.09g xanthan gum
-- 3g vanilla bean powder → 🟡 4g vanilla extract (add with wet; loses bean specks)
+  - **5.1g** inulin
+  - **0.84g** soy lecithin
+  - **0.42g** CMC
+  - **0.28g** guar gum
+  - **0.23g** salt
+  - **0.09g** xanthan gum
+- **3g** vanilla bean powder → 🟡 **4g** vanilla extract (add with wet; loses bean specks)
 
 **Fill to MAX:**
-- ~80g soy milk (unsweetened)
+- **~80g** soy milk (unsweetened)
 - Flavor drops Vanilla (5 drops) → 🟡 skip (covered by vanilla extract above)
 
 **Steps:**
@@ -4182,18 +4182,18 @@ Tags: vanilla, cream, cooked-base, simple, scoopable
 > Dana Cree's Philadelphia-style base. Rich, classic, traditional.
 
 **Prep:**
-- 15g water (cold)
-- 6g corn starch
+- **15g** water (cold)
+- **6g** corn starch
 
 **Wet:**
-- 240g whole milk 3.5%
-- 230g cream 32%
-- 30g light corn syrup → 🟡 30g glucose syrup, rice syrup, or maple syrup (any liquid sweetener works)
+- **240g** whole milk 3.5%
+- **230g** cream 32%
+- **30g** light corn syrup → 🟡 **30g** glucose syrup, rice syrup, or maple syrup (any liquid sweetener works)
 
 **Dry:**
-- 90g sugar
-- 15g skim milk powder
-- 1g salt
+- **90g** sugar
+- **15g** skim milk powder
+- **1g** salt
 
 **Steps:**
 1. Mix dry ingredients in a small container.
@@ -4215,32 +4215,32 @@ Tags: vanilla, cream, cooked-base, simple, scoopable
 Tags: peach, bourbon, molasses, vegan, dairy-free, low-fat, scoopable, light
 
 **Prep:**
-- 50g tofu (plain) (or 75g silken tofu)
-- 40g bourbon 40%
-- 5g molasses
+- **50g** tofu (plain) (or 75g silken tofu)
+- **40g** bourbon 40%
+- **5g** molasses
 
 **Wet:**
-- 400g peaches in juice (canned)
-- 125g soy milk (unsweetened)
+- **400g** peaches in juice (canned)
+- **125g** soy milk (unsweetened)
 
 **Dry:**
-- 30g xylitol
+- **30g** xylitol
 - ICSv2 (20g):
-  - 9.2g erythritol
-  - 9.2g inulin
-  - 0.92g CMC
-  - 0.32g guar gum
-  - 0.32g salt
-  - 0.09g xanthan gum
+  - **9.2g** erythritol
+  - **9.2g** inulin
+  - **0.92g** CMC
+  - **0.32g** guar gum
+  - **0.32g** salt
+  - **0.09g** xanthan gum
 
 **Fill to MAX:**
-- ~50g water
+- **~50g** water
 - Flavor drops Peach (7 drops) → 🟡 skip (no peach flavor available; canned peaches provide the main flavor)
 
 **Topping options:**
-- 8g molasses
-- 8g walnuts
-- 8g pecan nuts
+- **8g** molasses
+- **8g** walnuts
+- **8g** pecan nuts
 
 **Steps:**
 1. In pint, blend tofu with bourbon and molasses to a smooth paste.
@@ -4260,22 +4260,22 @@ Tags: peach, bourbon, molasses, vegan, dairy-free, low-fat, scoopable, light
 Tags: peach, cheesecake, rum, gum-free, simple, scoopable
 
 **Wet:**
-- 375g peaches in juice (canned)
-- 240g Topfen/Quark 14.4% → 🟡 180g ricotta + 60g cream 32% (recipe's own alternative; slightly different texture)
-- 40g rum 43%
+- **375g** peaches in juice (canned)
+- **240g** Topfen/Quark 14.4% → 🟡 **180g** ricotta + 60g cream 32% (recipe's own alternative; slightly different texture)
+- **40g** rum 43%
 
 **Dry:**
-- 18g erythritol
-- 12g xylitol
+- **18g** erythritol
+- **12g** xylitol
 - 1 pinch turmeric (optional, for color)
 
 **Fill to MAX:**
 - Flavor drops Peach (4 drops) → 🟡 skip (no peach flavor available; canned peaches provide the main flavor)
 
 **Topping options:**
-- 8g molasses
-- 8g walnuts
-- 8g pecan nuts
+- **8g** molasses
+- **8g** walnuts
+- **8g** pecan nuts
 
 **Steps:**
 1. Put wet and dry ingredients into pint and blend until smooth.
@@ -4296,29 +4296,29 @@ Tags: caramel, dates, almond-butter, vegan-origin, high-protein, low-fat, low-su
 > Originally vegan — soy protein → whey swap removes vegan status.
 
 **Prep (heat soy milk to ~50°C):**
-- 100g soy milk (unsweetened)
-- 40g medjool dates (pitted) (2 dates)
-- 20g almond butter (creamy)
-- 11g erythritol
-- 7g xylitol
-- 2g GMS → 🟢 2g soy lecithin
+- **100g** soy milk (unsweetened)
+- **40g** medjool dates (pitted) (2 dates)
+- **20g** almond butter (creamy)
+- **11g** erythritol
+- **7g** xylitol
+- **2g** GMS → 🟢 **2g** soy lecithin
 
 **Wet:**
-- 15g glycerin
-- 10g brandy or vodka 40%
-- 350g soy milk (unsweetened)
+- **15g** glycerin
+- **10g** brandy or vodka 40%
+- **350g** soy milk (unsweetened)
 
 **Dry:**
-- 9g erythritol
-- 6g xylitol
-- 15g inulin
-- 15g soy protein isolate → 🟡 15g whey protein (no longer vegan)
-- 1g salt
-- 0.7g CMC
-- 0.3g xanthan gum
+- **9g** erythritol
+- **6g** xylitol
+- **15g** inulin
+- **15g** soy protein isolate → 🟡 **15g** whey protein (no longer vegan)
+- **1g** salt
+- **0.7g** CMC
+- **0.3g** xanthan gum
 
 **Fill to MAX:**
-- ~78g soy milk (unsweetened)
+- **~78g** soy milk (unsweetened)
 - Flavor drops Caramel (4 drops) → 🟡 Manis milk cream flavor (3-5 drops)
 
 **Steps:**
@@ -4343,23 +4343,23 @@ Tags: caramel, dates, almond-butter, vegan-origin, high-protein, low-fat, low-su
 Tags: banana, vegan, dairy-free, low-fat, scoopable
 
 **Prep:**
-- 340g bananas (peeled) (~3 medium)
-- 15g lemon juice
+- **340g** bananas (peeled) (~3 medium)
+- **15g** lemon juice
 
 **Wet:**
-- 250g soy milk (unsweetened)
-- 15g glycerin
+- **250g** soy milk (unsweetened)
+- **15g** glycerin
 
 **Dry:**
-- 21g erythritol
-- 14g xylitol
-- 15g inulin
-- 15g waxy maize starch / Ultratex → 🟡 15g corn starch (heat ~100g of the soy milk to dissolve corn starch first; it doesn't cold-swell like Ultratex)
-- 1g salt
+- **21g** erythritol
+- **14g** xylitol
+- **15g** inulin
+- **15g** waxy maize starch / Ultratex → 🟡 **15g** corn starch (heat ~100g of the soy milk to dissolve corn starch first; it doesn't cold-swell like Ultratex)
+- **1g** salt
 
 **Fill to MAX:**
-- 20g cream 32% (optional; omit for vegan)
-- Flavor drops Vanilla (8 drops) → 🟡 3g vanilla extract
+- **20g** cream 32% (optional; omit for vegan)
+- Flavor drops Vanilla (8 drops) → 🟡 **3g** vanilla extract
 
 **Steps:**
 1. Blend bananas and lemon juice in pint to a smooth puree.
@@ -4384,26 +4384,26 @@ Tags: multi-flavor, vegan-origin, high-protein, low-fat, low-sugar, scoopable, l
 > Alternative base: use 500g buttermilk instead of soy milk, and omit the sugar (trehalose replacement).
 
 **Wet:**
-- 500g soy milk (unsweetened)
-- 20g glycerin
-- 15g brandy or vodka 40%
+- **500g** soy milk (unsweetened)
+- **20g** glycerin
+- **15g** brandy or vodka 40%
 
 **Dry:**
-- 25g erythritol
-- 20g trehalose → 🟡 10g sugar (trehalose POD=45%, sugar=100%; half weight — omit if using buttermilk base)
+- **25g** erythritol
+- **20g** trehalose → 🟡 **10g** sugar (trehalose POD=45%, sugar=100%; half weight — omit if using buttermilk base)
 - Salty Stability (15g):
-  - 11.0g inulin
-  - 1.8g soy lecithin
-  - 0.9g CMC
-  - 0.6g guar gum
-  - 0.5g salt
-  - 0.2g xanthan gum
-- 20g soy protein isolate → 🟡 20g whey protein (no longer vegan)
-- 8g ESN Designer Flavor Powder → 🟡 6g inulin + Manis flavor of choice (3-5 drops) (~70% inulin with flavoring; use chocolate, strawberry, or milk cream)
-- 2g vanilla bean powder → 🟡 3g vanilla extract (add with wet)
+  - **11.0g** inulin
+  - **1.8g** soy lecithin
+  - **0.9g** CMC
+  - **0.6g** guar gum
+  - **0.5g** salt
+  - **0.2g** xanthan gum
+- **20g** soy protein isolate → 🟡 **20g** whey protein (no longer vegan)
+- **8g** ESN Designer Flavor Powder → 🟡 **6g** inulin + Manis flavor of choice (3-5 drops) (~70% inulin with flavoring; use chocolate, strawberry, or milk cream)
+- **2g** vanilla bean powder → 🟡 **3g** vanilla extract (add with wet)
 
 **Fill to MAX:**
-- ~95g soy milk (unsweetened)
+- **~95g** soy milk (unsweetened)
 - Flavor drops Vanilla (1 drop) → 🟡 skip (covered by vanilla extract above)
 
 **Steps:**
@@ -4423,26 +4423,26 @@ Tags: multi-flavor, vegan-origin, high-protein, low-fat, low-sugar, scoopable, l
 Tags: coffee, alcohol, vegan, dairy-free, low-fat, low-sugar, scoopable, light
 
 **Wet:**
-- 450g strong coffee (from 45g beans)
-- 50g coffee liqueur 25%
-- 15g vodka 40%
+- **450g** strong coffee (from 45g beans)
+- **50g** coffee liqueur 25%
+- **15g** vodka 40%
 
 **Dry:**
-- 25g xylitol
+- **25g** xylitol
 - Salty Stability (10g):
-  - 7.3g inulin
-  - 1.2g soy lecithin
-  - 0.6g CMC
-  - 0.4g guar gum
-  - 0.3g salt
-  - 0.13g xanthan gum
+  - **7.3g** inulin
+  - **1.2g** soy lecithin
+  - **0.6g** CMC
+  - **0.4g** guar gum
+  - **0.3g** salt
+  - **0.13g** xanthan gum
 
 **Fill to MAX:**
-- ~50g water
-- Flavor drops Vanilla (5 drops) → 🟡 2g vanilla extract
+- **~50g** water
+- Flavor drops Vanilla (5 drops) → 🟡 **2g** vanilla extract
 
 **Mix-ins (optional):**
-- 80g vodka 40% (pour in after 1st spin for a boozier version; roughly doubles calories)
+- **80g** vodka 40% (pour in after 1st spin for a boozier version; roughly doubles calories)
 
 **Steps:**
 1. Add wet ingredients to pint.
@@ -4463,11 +4463,11 @@ Tags: caramel, peanut, swirl, mix-in
 
 > Not a standalone ice cream — this is a caramel-peanut swirl to fold into any vanilla or chocolate base.
 
-- 40g caramel syrup (low-sugar)
-- 30g cream 32%
-- 20g peanut butter (crunchy)
-- 10g brandy or vodka 40%
-- 5g glycerin
+- **40g** caramel syrup (low-sugar)
+- **30g** cream 32%
+- **20g** peanut butter (crunchy)
+- **10g** brandy or vodka 40%
+- **5g** glycerin
 
 **Steps:**
 1. Weigh and mix all ingredients in a small bowl until combined.
@@ -4481,29 +4481,29 @@ Tags: caramel, peanut, swirl, mix-in
 Tags: skyr, fruit, high-protein, low-fat, low-sugar, scoopable, multi-flavor
 
 **Wet:**
-- 425g skyr
-- 30g cream cheese
-- 20g glycerin
-- 10g brandy or vodka 40%
-- 125g cherries (fresh or frozen)
+- **425g** skyr
+- **30g** cream cheese
+- **20g** glycerin
+- **10g** brandy or vodka 40%
+- **125g** cherries (fresh or frozen)
 
 **Dry:**
-- 25g xylitol
+- **25g** xylitol
 - ICSv2 (20g):
-  - 9.2g erythritol
-  - 9.2g inulin
-  - 0.92g CMC
-  - 0.32g guar gum
-  - 0.32g salt
-  - 0.09g xanthan gum
+  - **9.2g** erythritol
+  - **9.2g** inulin
+  - **0.92g** CMC
+  - **0.32g** guar gum
+  - **0.32g** salt
+  - **0.09g** xanthan gum
 
 **Fill to MAX:**
-- ~65g soy milk (unsweetened)
-- Flavor drops Vanilla (3 drops) → 🟡 2g vanilla extract
+- **~65g** soy milk (unsweetened)
+- Flavor drops Vanilla (3 drops) → 🟡 **2g** vanilla extract
 
 **Optional fruit choices (replace cherries):**
-- 125g mango
-- 30g fruit powder (strawberry, lingonberry, etc.) + extra liquid to MAX
+- **125g** mango
+- **30g** fruit powder (strawberry, lingonberry, etc.) + extra liquid to MAX
 
 **Steps:**
 1. Add wet ingredients to pint.
@@ -4522,21 +4522,21 @@ Tags: skyr, fruit, high-protein, low-fat, low-sugar, scoopable, multi-flavor
 Tags: apricot, yogurt, frozen-yogurt, fruit
 
 **Wet:**
-- 480g apricots (canned)
-- 150g Greek yogurt 9%
+- **480g** apricots (canned)
+- **150g** Greek yogurt 9%
 
 **Dry:**
-- 25g full fat milk powder
-- 15g xylitol
+- **25g** full fat milk powder
+- **15g** xylitol
 - ICS (15g):
-  - 12.5g erythritol
-  - 1.5g CMC
-  - 0.5g tara gum → 🟢 0.5g guar gum (functionally equivalent galactomannan)
-  - 0.15g xanthan gum
-  - 0.5g salt
+  - **12.5g** erythritol
+  - **1.5g** CMC
+  - **0.5g** tara gum → 🟢 **0.5g** guar gum (functionally equivalent galactomannan)
+  - **0.15g** xanthan gum
+  - **0.5g** salt
 
 **Fill to MAX:**
-- ~50g cream 32%
+- **~50g** cream 32%
 
 **Steps:**
 1. Add wet ingredients to pint.
@@ -4555,32 +4555,32 @@ Tags: apricot, yogurt, frozen-yogurt, fruit
 Tags: kefir, fruit, high-protein, low-fat, scoopable, light, multi-flavor
 
 **Wet:**
-- 400g kefir 1.5%
-- 225g blueberries (fresh or frozen)
-- 15g glycerin
-- 10g brandy or vodka 40%
+- **400g** kefir 1.5%
+- **225g** blueberries (fresh or frozen)
+- **15g** glycerin
+- **10g** brandy or vodka 40%
 
 **Dry:**
-- 18g erythritol
-- 12g xylitol
-- 20g whey + casein protein → 🟢 20g whey protein
+- **18g** erythritol
+- **12g** xylitol
+- **20g** whey + casein protein → 🟢 **20g** whey protein
 - Salty Stability (15g):
-  - 11.0g inulin
-  - 1.8g soy lecithin
-  - 0.9g CMC
-  - 0.6g guar gum
-  - 0.5g salt
-  - 0.2g xanthan gum
+  - **11.0g** inulin
+  - **1.8g** soy lecithin
+  - **0.9g** CMC
+  - **0.6g** guar gum
+  - **0.5g** salt
+  - **0.2g** xanthan gum
 
 **Fill to MAX:**
 - Flavor drops Strawberry (7 drops) → 🟢 Manis strawberry flavor (5-7 drops)
 
 **Optional fruit choices (replace blueberries):**
-- 175g cherries
-- 200g kiwi
-- 200g mango
-- 175g pineapple (canned, in juice)
-- 225g strawberries
+- **175g** cherries
+- **200g** kiwi
+- **200g** mango
+- **175g** pineapple (canned, in juice)
+- **225g** strawberries
 
 **Steps:**
 1. Add wet ingredients to pint.
@@ -4602,27 +4602,27 @@ Tags: fruit-powder, multi-flavor, high-protein, low-fat, low-sugar, scoopable, p
 > Use any fruit or root powder (strawberry, ube, lingonberry, etc.).
 
 **Premix (per tub, 93g — or make x5 batch of 463g):**
-- 30g erythritol
-- 15g inulin
-- 15g skim milk powder
-- 15g whey protein Vanilla → 🟡 15g whey protein (unflavored) + 2g vanilla extract in base
-- 15g xylitol
-- 1.5g CMC
-- 0.5g guar gum
-- 0.5g salt
-- 0.15g xanthan gum
+- **30g** erythritol
+- **15g** inulin
+- **15g** skim milk powder
+- **15g** whey protein Vanilla → 🟡 **15g** whey protein (unflavored) + 2g vanilla extract in base
+- **15g** xylitol
+- **1.5g** CMC
+- **0.5g** guar gum
+- **0.5g** salt
+- **0.15g** xanthan gum
 
 **Wet:**
-- 400g soy milk (unsweetened)
-- 100g cottage cheese 4%
-- 15g glycerin
-- 10g brandy or vodka 40%
+- **400g** soy milk (unsweetened)
+- **100g** cottage cheese 4%
+- **15g** glycerin
+- **10g** brandy or vodka 40%
 
 **Dry:**
-- 25g fruit powder of choice (e.g. strawberry, lingonberry, ube)
+- **25g** fruit powder of choice (e.g. strawberry, lingonberry, ube)
 
 **Fill to MAX:**
-- ~77g water
+- **~77g** water
 
 **Steps:**
 1. If using premix batch: measure 93g from your container. Otherwise weigh premix ingredients individually.
@@ -4644,27 +4644,27 @@ Tags: melon, sorbet, vegan-origin, high-protein, low-fat, low-sugar, scoopable, 
 > Originally vegan — soy protein → whey swap removes vegan status.
 
 **Wet:**
-- 500g galia melon (or honeydew/watermelon)
-- 50g soy milk (unsweetened)
-- 15g glycerin
-- 10g brandy or vodka 40%
-- 10g lemon juice
+- **500g** galia melon (or honeydew/watermelon)
+- **50g** soy milk (unsweetened)
+- **15g** glycerin
+- **10g** brandy or vodka 40%
+- **10g** lemon juice
 
 **Dry:**
-- 21g erythritol
-- 14g xylitol
+- **21g** erythritol
+- **14g** xylitol
 - Salty Stability (10g):
-  - 7.3g inulin
-  - 1.2g soy lecithin
-  - 0.6g CMC
-  - 0.4g guar gum
-  - 0.3g salt
-  - 0.13g xanthan gum
-- 20g soy protein isolate → 🟡 20g whey protein (no longer vegan)
-- 1g matcha powder (optional, for color)
+  - **7.3g** inulin
+  - **1.2g** soy lecithin
+  - **0.6g** CMC
+  - **0.4g** guar gum
+  - **0.3g** salt
+  - **0.13g** xanthan gum
+- **20g** soy protein isolate → 🟡 **20g** whey protein (no longer vegan)
+- **1g** matcha powder (optional, for color)
 
 **Fill to MAX:**
-- ~29g soy milk (unsweetened)
+- **~29g** soy milk (unsweetened)
 - Flavor drops Peach (5 drops) → 🟡 skip (no peach flavor available; melon provides the main flavor)
 
 **Steps:**
@@ -4685,35 +4685,35 @@ Tags: melon, sorbet, vegan-origin, high-protein, low-fat, low-sugar, scoopable, 
 Tags: cheesecake, quark, lemon, scoopable, low-sugar
 
 **Wet:**
-- 400g soured milk 3.5% → 🟡 400g buttermilk 1% (lower fat; tanginess is similar)
-- 200g Topfen/Quark 14.4% → 🟡 200g Greek strained yogurt 10% (tangy and thick, functionally similar for cheesecake)
-- 15g glycerin
-- 15g lemon juice
-- 10g brandy or vodka 40%
+- **400g** soured milk 3.5% → 🟡 **400g** buttermilk 1% (lower fat; tanginess is similar)
+- **200g** Topfen/Quark 14.4% → 🟡 **200g** Greek strained yogurt 10% (tangy and thick, functionally similar for cheesecake)
+- **15g** glycerin
+- **15g** lemon juice
+- **10g** brandy or vodka 40%
 
 **Dry:**
-- 30g xylitol
+- **30g** xylitol
 - ICSv2 (20g):
-  - 9.2g erythritol
-  - 9.2g inulin
-  - 0.92g CMC
-  - 0.32g guar gum
-  - 0.32g salt
-  - 0.09g xanthan gum
-- 2g vanilla bean powder → 🟡 3g vanilla extract (add with wet)
+  - **9.2g** erythritol
+  - **9.2g** inulin
+  - **0.92g** CMC
+  - **0.32g** guar gum
+  - **0.32g** salt
+  - **0.09g** xanthan gum
+- **2g** vanilla bean powder → 🟡 **3g** vanilla extract (add with wet)
 
 **Fill to MAX:**
-- 25g cream 32%
+- **25g** cream 32%
 - Flavor drops Vanilla (3 drops) → 🟡 skip (covered by vanilla extract above)
 - Flavor drops Cookies & Cream (10 drops) → 🟡 skip (no cookies & cream flavor available)
 
 **Mix-ins:**
-- 50g frozen fruit (chopped)
-- 20g sultanas/raisins (chopped)
+- **50g** frozen fruit (chopped)
+- **20g** sultanas/raisins (chopped)
 
 **Topping options:**
 - 3-4 pcs graham crackers or butter cookies
-- 20g caramel syrup (low-sugar)
+- **20g** caramel syrup (low-sugar)
 
 **Steps:**
 1. Add wet ingredients and vanilla extract to pint.
@@ -4734,23 +4734,23 @@ Tags: cheesecake, quark, lemon, scoopable, low-sugar
 Tags: apple, grape, sorbet, vegan, dairy-free, low-fat, scoopable, light
 
 **Wet:**
-- 300g apple juice (clear)
-- 150g grape juice (white)
-- 150g water (cold)
-- 15g glycerin
+- **300g** apple juice (clear)
+- **150g** grape juice (white)
+- **150g** water (cold)
+- **15g** glycerin
 
 **Dry:**
-- 21g erythritol
-- 14g xylitol
-- 20g waxy maize starch / Ultratex → 🟡 20g corn starch (heat apple juice to dissolve corn starch first; it doesn't cold-swell like Ultratex)
-- 1g citric acid (or ~15ml lemon juice)
-- 1g xanthan gum
+- **21g** erythritol
+- **14g** xylitol
+- **20g** waxy maize starch / Ultratex → 🟡 **20g** corn starch (heat apple juice to dissolve corn starch first; it doesn't cold-swell like Ultratex)
+- **1g** citric acid (or ~15ml lemon juice)
+- **1g** xanthan gum
 
 **Fill to MAX:**
 - Stevia drops (8 drops) → 🟡 pinch of sucralose (or use stevia drops if available)
 
 **Optional:**
-- 225g pear juice instead of grape juice (reduce water accordingly)
+- **225g** pear juice instead of grape juice (reduce water accordingly)
 
 **Steps:**
 1. Heat apple juice in a saucepan. Whisk in corn starch until dissolved and slightly thickened. Let cool.
@@ -4770,30 +4770,30 @@ Tags: apple, grape, sorbet, vegan, dairy-free, low-fat, scoopable, light
 Tags: pumpkin, cooked-base, low-fat, low-sugar, scoopable
 
 **Prep (steam pumpkin):**
-- 450g Hokkaido pumpkin (or butternut squash)
+- **450g** Hokkaido pumpkin (or butternut squash)
 
 **Wet:**
-- 75g soy milk (unsweetened)
-- 16g glycerin
-- 16g brandy or vodka 40%
-- 16g honey
+- **75g** soy milk (unsweetened)
+- **16g** glycerin
+- **16g** brandy or vodka 40%
+- **16g** honey
 
 **Dry:**
-- 12g erythritol
-- 8g xylitol
-- 10g soy protein isolate → 🟡 10g whey protein (no longer vegan)
+- **12g** erythritol
+- **8g** xylitol
+- **10g** soy protein isolate → 🟡 **10g** whey protein (no longer vegan)
 - Salty Stability (5g):
-  - 3.7g inulin
-  - 0.6g soy lecithin
-  - 0.3g CMC
-  - 0.2g guar gum
-  - 0.17g salt
-  - 0.07g xanthan gum
+  - **3.7g** inulin
+  - **0.6g** soy lecithin
+  - **0.3g** CMC
+  - **0.2g** guar gum
+  - **0.17g** salt
+  - **0.07g** xanthan gum
 
 **Fill to MAX:**
-- 50g cream 32%
-- ~22g soy milk (unsweetened)
-- Flavor drops Vanilla (7 drops) → 🟡 3g vanilla extract
+- **50g** cream 32%
+- **~22g** soy milk (unsweetened)
+- Flavor drops Vanilla (7 drops) → 🟡 **3g** vanilla extract
 
 **Steps:**
 1. Cut pumpkin into pieces. Steam in a saucepan with very little water, a pinch of salt, nutmeg, ginger, and turmeric. ~20-30 min until soft.
@@ -4819,12 +4819,12 @@ Pre-mixed stabilizer for Ninja Creami recipes. No swaps needed — all ingredien
 **Type:** Premix blend (not a standalone recipe)
 
 **Dry:**
-- 100g erythritol
-- 100g inulin
-- 10g CMC
-- 3.5g guar gum
-- 3.5g salt
-- 1g xanthan gum
+- **100g** erythritol
+- **100g** inulin
+- **10g** CMC
+- **3.5g** guar gum
+- **3.5g** salt
+- **1g** xanthan gum
 
 **Steps:**
 1. Weigh and mix all dry ingredients in a jar with a secure lid and shake vigorously.
@@ -4850,12 +4850,12 @@ Pre-mixed starchy stabilizer. **Draft / Work in Progress.**
 **Type:** Premix blend (not a standalone recipe)
 
 **Dry:**
-- 160g Waxy Maize Starch / Ultratex → 🟡 160g corn starch (no longer cold-swelling; must cook a slurry before use — loses the "instant" property)
-- 110g inulin
-- 17g GMS → 🟢 17g soy lecithin
-- 6g CMC
-- 5g salt
-- 2g xanthan gum
+- **160g** Waxy Maize Starch / Ultratex → 🟡 **160g** corn starch (no longer cold-swelling; must cook a slurry before use — loses the "instant" property)
+- **110g** inulin
+- **17g** GMS → 🟢 **17g** soy lecithin
+- **6g** CMC
+- **5g** salt
+- **2g** xanthan gum
 
 **Steps:**
 1. Weigh and mix all dry ingredients in a jar with a secure lid and shake vigorously.
@@ -4876,28 +4876,28 @@ Irish Cream ice cream with notes of vanilla, coffee, and chocolate. Spun on Lite
 
 **Prep:**
 - 50ml water (almost boiling, 90°C)
-- 15g cocoa powder
+- **15g** cocoa powder
 
 **Wet:**
 - 350ml soy milk (unsweetened)
-- 70g Irish whiskey 40%
+- **70g** Irish whiskey 40%
 
 **Dry:**
-- 30g skim milk powder (SMP)
+- **30g** skim milk powder (SMP)
 - Salty Stability (15g):
-  - 11.0g inulin
-  - 1.8g soy lecithin
-  - 0.9g CMC
-  - 0.6g guar gum
-  - 0.5g salt
-  - 0.2g xanthan gum
-- 4g instant coffee
-- 2g vanilla bean powder → 🟡 3g vanilla extract (less complex aroma than whole bean)
-- sweetener tablets (15 pcs, ≈60g sugar-equiv sweetness) → 🟡 0.1g sucralose (purely sweetness, no bulk — recipe doesn't need the tablet bulk)
+  - **11.0g** inulin
+  - **1.8g** soy lecithin
+  - **0.9g** CMC
+  - **0.6g** guar gum
+  - **0.5g** salt
+  - **0.2g** xanthan gum
+- **4g** instant coffee
+- **2g** vanilla bean powder → 🟡 **3g** vanilla extract (less complex aroma than whole bean)
+- sweetener tablets (15 pcs, ≈60g sugar-equiv sweetness) → 🟡 **0.1g** sucralose (purely sweetness, no bulk — recipe doesn't need the tablet bulk)
 
 **Fill to MAX:**
 - 150ml cream 32%
-- Flavor drops Vanilla (8 drops) → 🟡 3g vanilla extract
+- Flavor drops Vanilla (8 drops) → 🟡 **3g** vanilla extract
 
 **Steps:**
 1. Mix the hot water with cocoa powder to bloom it, then let it cool down.
@@ -4921,17 +4921,17 @@ Classic Jeni Britton Bauer ice cream base, scaled to Deluxe tub. Cooked base. Ad
 
 **Prep:**
 - 45ml milk 3.5%
-- 10g corn starch
+- **10g** corn starch
 
 **Wet:**
 - 250ml milk 3.5%
 - light corn syrup (20ml) → 🟡 20ml glucose syrup or rice syrup (slightly different sweetness profile)
-- 40g cream cheese 23%
+- **40g** cream cheese 23%
 - 225ml cream 32%
 
 **Dry:**
-- 95g sugar
-- 1g salt
+- **95g** sugar
+- **1g** salt
 
 **Steps:**
 1. Make cornstarch slurry: whisk corn starch with the 45ml milk until smooth.
@@ -4956,21 +4956,21 @@ Light version of Jeni's base (~850 kcal vs ~1500 kcal). Cooked base. Add any fla
 
 **Prep:**
 - 50ml soy milk (unsweetened)
-- 10g corn starch
+- **10g** corn starch
 
 **Wet:**
 - 350ml soy milk (unsweetened)
-- 50g cream cheese 23%
-- 15g glycerin
+- **50g** cream cheese 23%
+- **15g** glycerin
 
 **Dry:**
 - SweEX (40g):
-  - 24g erythritol
-  - 16g xylitol
-- 35g inulin
-- 35g isomalt → 🟡 35g erythritol (slightly sweeter than isomalt at 75% vs 50% POD; reduce sucralose to taste)
-- 0.75g salt
-- 0.75g xanthan gum
+  - **24g** erythritol
+  - **16g** xylitol
+- **35g** inulin
+- **35g** isomalt → 🟡 **35g** erythritol (slightly sweeter than isomalt at 75% vs 50% POD; reduce sucralose to taste)
+- **0.75g** salt
+- **0.75g** xanthan gum
 
 **Fill to MAX:**
 - 100ml cream 32%
@@ -4998,20 +4998,20 @@ Light version of Jeni's base (~850 kcal vs ~1500 kcal). Cooked base. Add any fla
 Sorbet mostly from fresh/frozen fruit, with minimal additions. Vegan & dairy-free. Spin on Sorbet, scrape down, and Re-Spin.
 
 **Wet:**
-- 450g fruit (e.g. strawberries)
+- **450g** fruit (e.g. strawberries)
 - 100ml water (cold)
-- 20g glycerin
+- **20g** glycerin
 - 10ml lemon juice
 
 **Dry:**
 - SweEX (35g):
-  - 21g erythritol
-  - 14g xylitol
-- 1.25g CMC
-- 1.25g xanthan gum
-- 1.5g salt
-- 1.5g beet root powder *(optional, for color with strawberry/watermelon/cherry)*
-- 1g matcha powder *(optional, for color with melon/kiwi)*
+  - **21g** erythritol
+  - **14g** xylitol
+- **1.25g** CMC
+- **1.25g** xanthan gum
+- **1.5g** salt
+- **1.5g** beet root powder *(optional, for color with strawberry/watermelon/cherry)*
+- **1g** matcha powder *(optional, for color with melon/kiwi)*
 - 1 pinch turmeric *(optional, for color with mango/pineapple)*
 
 **Fill to MAX:**
@@ -5048,23 +5048,23 @@ Sorbet mostly from fresh/frozen fruit, with minimal additions. Vegan & dairy-fre
 "Lazily" using a container of pre-flavored yogurt. Spin on Frozen Yogurt, scrape down, and re-mix.
 
 **Wet:**
-- 500g yogurt 8% apricot
+- **500g** yogurt 8% apricot
 - 70ml soy milk (unsweetened)
-- 50g cottage cheese 4%
-- 16g glycerin
-- 10g brandy or vodka 40% *(alternative: 8g additional glycerin for sober recipe)*
+- **50g** cottage cheese 4%
+- **16g** glycerin
+- **10g** brandy or vodka 40% *(alternative: 8g additional glycerin for sober recipe)*
 
 **Dry:**
 - SweEX (20g):
-  - 12g erythritol
-  - 8g xylitol
+  - **12g** erythritol
+  - **8g** xylitol
 - Salty Stability (10g):
-  - 7.3g inulin
-  - 1.2g soy lecithin
-  - 0.6g CMC
-  - 0.4g guar gum
-  - 0.3g salt
-  - 0.13g xanthan gum
+  - **7.3g** inulin
+  - **1.2g** soy lecithin
+  - **0.6g** CMC
+  - **0.4g** guar gum
+  - **0.3g** salt
+  - **0.13g** xanthan gum
 
 **Steps:**
 1. Add wet ingredients to empty Creami tub.
@@ -5086,27 +5086,27 @@ Sorbet mostly from fresh/frozen fruit, with minimal additions. Vegan & dairy-fre
 **Wet:**
 - 450ml skyr (flavored, e.g. vanilla) *(from 500g container)*
 - 150ml soy milk (unsweetened)
-- 15g glycerin
-- 15g brandy or vodka 40% *(alternative: 12g additional glycerin for sober recipe)*
+- **15g** glycerin
+- **15g** brandy or vodka 40% *(alternative: 12g additional glycerin for sober recipe)*
 - 5ml lemon juice
 - 5ml vanilla extract *(optional, recommended for vanilla flavor)*
 
 **Dry:**
 - Salty Stability (10g):
-  - 7.3g inulin
-  - 1.2g soy lecithin
-  - 0.6g CMC
-  - 0.4g guar gum
-  - 0.3g salt
-  - 0.13g xanthan gum
-- 10g whey + casein protein → 🟢 10g whey protein
+  - **7.3g** inulin
+  - **1.2g** soy lecithin
+  - **0.6g** CMC
+  - **0.4g** guar gum
+  - **0.3g** salt
+  - **0.13g** xanthan gum
+- **10g** whey + casein protein → 🟢 **10g** whey protein
 - SweEX (30g):
-  - 18g erythritol
-  - 12g xylitol
-- 10g strawberry powder *(optional, recommended for strawberry flavor)*
+  - **18g** erythritol
+  - **12g** xylitol
+- **10g** strawberry powder *(optional, recommended for strawberry flavor)*
 
 **Mix-ins:**
-- 30g mint chocolate thins *(optional; freeze and chop before adding)*
+- **30g** mint chocolate thins *(optional; freeze and chop before adding)*
 
 **Steps:**
 1. Add wet ingredients to empty Creami tub.
@@ -5130,26 +5130,26 @@ Reduced-calorie version of Coffee & Cream (~30% less). Spun on Sorbet, scrape do
 **Wet:**
 - 350ml extra strong coffee
 - 120ml soy milk (unsweetened)
-- 100g cottage cheese 4%
-- 15g glycerin
-- 15g brandy or vodka 40% *(alternative: 12g additional glycerin for sober recipe)*
-- 21g coffee liqueur 25% *(optional, use instead of brandy/vodka if available)*
+- **100g** cottage cheese 4%
+- **15g** glycerin
+- **15g** brandy or vodka 40% *(alternative: 12g additional glycerin for sober recipe)*
+- **21g** coffee liqueur 25% *(optional, use instead of brandy/vodka if available)*
 
 **Dry:**
 - SweEX (35g):
-  - 21g erythritol
-  - 14g xylitol
+  - **21g** erythritol
+  - **14g** xylitol
 - Salty Stability (15g):
-  - 11.0g inulin
-  - 1.8g soy lecithin
-  - 0.9g CMC
-  - 0.6g guar gum
-  - 0.5g salt
-  - 0.2g xanthan gum
-- 10g whey + casein protein → 🟢 10g whey protein
-- 20g skim milk powder (SMP)
-- 3g instant coffee *(optional, for stronger coffee taste)*
-- 5g cocoa powder *(optional, for darker color and cocoa note)*
+  - **11.0g** inulin
+  - **1.8g** soy lecithin
+  - **0.9g** CMC
+  - **0.6g** guar gum
+  - **0.5g** salt
+  - **0.2g** xanthan gum
+- **10g** whey + casein protein → 🟢 **10g** whey protein
+- **20g** skim milk powder (SMP)
+- **3g** instant coffee *(optional, for stronger coffee taste)*
+- **5g** cocoa powder *(optional, for darker color and cocoa note)*
 
 **Fill to MAX:**
 - Flavor drops Caramel (7 drops) → 🟡 3 drops Manis milk cream flavor (caramel → milk cream)
@@ -5173,21 +5173,21 @@ Reduced-calorie version of Coffee & Cream (~30% less). Spun on Sorbet, scrape do
 Inspired by Italian lemon ricotta cake, with a Limoncello twist. Process on Sorbet, run cold water over container briefly, scrape down, then Re-Spin.
 
 **Wet:**
-- 330g soured milk 3.5% → 🟡 330g buttermilk (similar tanginess, slightly thinner)
-- 250g ricotta 9%
+- **330g** soured milk 3.5% → 🟡 **330g** buttermilk (similar tanginess, slightly thinner)
+- **250g** ricotta 9%
 - 40ml Limoncello 28% *(alternative: 20g glycerin + 15ml lemon juice for non-alcoholic version)*
 - 20ml lime juice + zest (organic) *(1 lime, zest first then juice)*
 
 **Dry:**
 - SweEX (40g):
-  - 24g erythritol
-  - 16g xylitol
-- 5g Ultratex / Waxy Maize Starch → 🟡 5g corn starch (won't activate cold; make a slurry with 30ml warm water, heat until thickened, cool, then add to base)
-- 0.25g salt
+  - **24g** erythritol
+  - **16g** xylitol
+- **5g** Ultratex / Waxy Maize Starch → 🟡 **5g** corn starch (won't activate cold; make a slurry with 30ml warm water, heat until thickened, cool, then add to base)
+- **0.25g** salt
 - 1-2 pinches turmeric *(optional, for color)*
 
 **Fill to MAX:**
-- Flavor drops Vanilla (4 drops) → 🟡 2g vanilla extract
+- Flavor drops Vanilla (4 drops) → 🟡 **2g** vanilla extract
 
 **Steps:**
 1. Zest the lime first, then juice it.
@@ -5211,20 +5211,20 @@ Inspired by Italian lemon ricotta cake, with a Limoncello twist. Process on Sorb
 Mandarin lemon sorbet — refreshing, tangy. Vegan & dairy-free. Spin on Sorbet, scrape down, Re-Spin.
 
 **Wet:**
-- 300g mandarins in juice (canned)
+- **300g** mandarins in juice (canned)
 - 125ml lemon juice
 - 125ml water (cold)
-- 15g glycerin
-- 10g Cointreau 40%
+- **15g** glycerin
+- **10g** Cointreau 40%
 - 1 tsp lemon zest (or lime zest) *(zest before juicing)*
 
 **Dry:**
 - SweEX (40g):
-  - 24g erythritol
-  - 16g xylitol
-- 1.25g xanthan gum
-- 1.25g CMC
-- 1.25g salt
+  - **24g** erythritol
+  - **16g** xylitol
+- **1.25g** xanthan gum
+- **1.25g** CMC
+- **1.25g** salt
 - 1 pinch turmeric *(for color)*
 
 **Fill to MAX:**
@@ -5250,24 +5250,24 @@ Mandarin lemon sorbet — refreshing, tangy. Vegan & dairy-free. Spin on Sorbet,
 Mostly mandarin slices in juice with soy milk and cream. Lite Ice Cream + Re-Spin.
 
 **Wet:**
-- 300g mandarins in juice (canned)
+- **300g** mandarins in juice (canned)
 - 250ml soy milk (unsweetened)
-- 15g glycerin
-- 10g brandy or vodka 40% *(alternative: 8g additional glycerin for sober recipe)*
+- **15g** glycerin
+- **10g** brandy or vodka 40% *(alternative: 8g additional glycerin for sober recipe)*
 
 **Dry:**
 - SweEX (35g):
-  - 21g erythritol
-  - 14g xylitol
-- 20g inulin
+  - **21g** erythritol
+  - **14g** xylitol
+- **20g** inulin
 - Salty Stability (15g):
-  - 11.0g inulin
-  - 1.8g soy lecithin
-  - 0.9g CMC
-  - 0.6g guar gum
-  - 0.5g salt
-  - 0.2g xanthan gum
-- 10g whey + casein protein → 🟢 10g whey protein
+  - **11.0g** inulin
+  - **1.8g** soy lecithin
+  - **0.9g** CMC
+  - **0.6g** guar gum
+  - **0.5g** salt
+  - **0.2g** xanthan gum
+- **10g** whey + casein protein → 🟢 **10g** whey protein
 
 **Fill to MAX:**
 - 25ml cream 32%
@@ -5294,27 +5294,27 @@ Rich, creamy mango frozen dessert with coconut and cardamom. Vegan & dairy-free.
 
 **Prep:**
 - coconut milk powder (75g) + 150ml hot water → 🟡 225ml canned coconut milk 18-22% (recipe's own alternative; skip the hot water)
-- 2g GMS → 🟢 2g soy lecithin
+- **2g** GMS → 🟢 **2g** soy lecithin
 
 **Wet:**
 - 225ml canned coconut milk 18-22% *(replaces powder + water from prep)*
-- 300g mango
+- **300g** mango
 - 30ml lemon juice
-- 15g glycerin
-- 10g brandy or vodka 40% *(alternative: 8g additional glycerin for sober recipe)*
+- **15g** glycerin
+- **10g** brandy or vodka 40% *(alternative: 8g additional glycerin for sober recipe)*
 
 **Dry:**
 - SweEX (40g):
-  - 24g erythritol
-  - 16g xylitol
+  - **24g** erythritol
+  - **16g** xylitol
 - Salty Stability (10g):
-  - 7.3g inulin
-  - 1.2g soy lecithin
-  - 0.6g CMC
-  - 0.4g guar gum
-  - 0.3g salt
-  - 0.13g xanthan gum
-- 5g Ultratex / Waxy Maize Starch → 🟡 5g corn starch *(optional; make a slurry with 30ml warm water, heat until thickened, cool, then add)*
+  - **7.3g** inulin
+  - **1.2g** soy lecithin
+  - **0.6g** CMC
+  - **0.4g** guar gum
+  - **0.3g** salt
+  - **0.13g** xanthan gum
+- **5g** Ultratex / Waxy Maize Starch → 🟡 **5g** corn starch *(optional; make a slurry with 30ml warm water, heat until thickened, cool, then add)*
 - 1 pinch cardamom
 
 **Fill to MAX:**
@@ -5344,15 +5344,15 @@ Frozen margarita sorbet — citrus, tequila, refreshing. Vegan. Spin on Sorbet, 
 **Wet:**
 - 400ml water (cold) *(includes 50ml that originally hydrated the gum arabic)*
 - 65ml lemon juice
-- 45g tequila 38%
+- **45g** tequila 38%
 - 40ml lime juice + zest (organic) *(2 limes; zest before juicing)*
-- 15g Cointreau 40%
+- **15g** Cointreau 40%
 
 **Dry:**
-- gum arabic (30g, hydrated in 50ml hot water) → 🟡 25g inulin + 1g CMC + 0.5g xanthan gum (approximates body and stabilization; no overnight hydration needed — mix into dry)
-- 80g isomalt → 🟡 48g erythritol + 32g inulin (matches isomalt's bulk + sweetness profile)
-- sweetener tablets (10 pcs, ≈40g sugar-equiv) → 🟡 0.07g sucralose
-- 3g salt
+- gum arabic (30g, hydrated in 50ml hot water) → 🟡 **25g** inulin + 1g CMC + 0.5g xanthan gum (approximates body and stabilization; no overnight hydration needed — mix into dry)
+- **80g** isomalt → 🟡 **48g** erythritol + 32g inulin (matches isomalt's bulk + sweetness profile)
+- sweetener tablets (10 pcs, ≈40g sugar-equiv) → 🟡 **0.07g** sucralose
+- **3g** salt
 
 > Combined dry section: 57g inulin (25+32), 48g erythritol, 3g salt, 1g CMC, 0.5g xanthan, 0.07g sucralose.
 
@@ -5380,27 +5380,27 @@ Matcha ice cream with coconut and soy milk. Cooked/heated base. Process on Sorbe
 **Wet:**
 - 350ml soy milk (unsweetened)
 - 100ml coconut milk 22% (canned)
-- 15g glycerin
-- 15g brandy or vodka 40%
+- **15g** glycerin
+- **15g** brandy or vodka 40%
 
 **Dry:**
-- 12g matcha green tea powder
+- **12g** matcha green tea powder
 - SweEX (40g):
-  - 24g erythritol
-  - 16g xylitol
+  - **24g** erythritol
+  - **16g** xylitol
 - Salty Stability (10g):
-  - 7.3g inulin
-  - 1.2g soy lecithin
-  - 0.6g CMC
-  - 0.4g guar gum
-  - 0.3g salt
-  - 0.13g xanthan gum
-- 25g whey + casein protein → 🟢 25g whey protein
-- 25g skim milk powder (SMP)
+  - **7.3g** inulin
+  - **1.2g** soy lecithin
+  - **0.6g** CMC
+  - **0.4g** guar gum
+  - **0.3g** salt
+  - **0.13g** xanthan gum
+- **25g** whey + casein protein → 🟢 **25g** whey protein
+- **25g** skim milk powder (SMP)
 
 **Fill to MAX:**
 - 88ml soy milk (unsweetened)
-- Flavor drops Vanilla (2 drops) → 🟡 2g vanilla extract
+- Flavor drops Vanilla (2 drops) → 🟡 **2g** vanilla extract
 
 **Steps:**
 1. Heat soy milk and coconut milk in a small pot to 80°C, take off heat.
@@ -5424,12 +5424,12 @@ Thick milkshake — blend and enjoy. Not a Creami spin recipe.
 
 **Wet:**
 - 500ml soy milk (unsweetened)
-- 99g ice cream *(2 scoops from any pint)*
+- **99g** ice cream *(2 scoops from any pint)*
 - 2 pcs ice cubes
 
 **Dry:**
 - sweetener tablets (3 pcs, ≈12g sugar-equiv) → 🟡 tiny pinch sucralose (or skip if ice cream is sweet enough)
-- 0.75g xanthan gum
+- **0.75g** xanthan gum
 
 **Mix-ins:**
 - 30ml cream 32%
@@ -5450,25 +5450,25 @@ Pure milk-flavored ice cream. Spin on Ice Cream, scrape down, Re-Spin. Manually 
 
 **Wet:**
 - 550ml milk 3.5%
-- 15g glycerin
-- 10g brandy or vodka 40% *(alternative: 8g additional glycerin for sober recipe)*
+- **15g** glycerin
+- **10g** brandy or vodka 40% *(alternative: 8g additional glycerin for sober recipe)*
 
 **Dry:**
 - SweEX (30g):
-  - 18g erythritol
-  - 12g xylitol
-- 20g Ultratex / Waxy Maize Starch → 🟡 20g corn starch (won't activate cold; make a slurry with 100ml of the milk, heat to 85°C+ until thickened, cool, then add — remaining cold milk = ~450ml)
-- 20g whey + casein protein → 🟢 20g whey protein
-- 15g skim milk powder (SMP)
-- 1.5g guar gum
-- 1g salt
+  - **18g** erythritol
+  - **12g** xylitol
+- **20g** Ultratex / Waxy Maize Starch → 🟡 **20g** corn starch (won't activate cold; make a slurry with 100ml of the milk, heat to 85°C+ until thickened, cool, then add — remaining cold milk = ~450ml)
+- **20g** whey + casein protein → 🟢 **20g** whey protein
+- **15g** skim milk powder (SMP)
+- **1.5g** guar gum
+- **1g** salt
 
 **Fill to MAX:**
 - 30ml cream 32%
 - Flavor drops "Natural" / stevia (5 drops) → 🟡 pinch of sucralose (just sweetness, unflavored)
 
 **Mix-ins:**
-- 45g lemon crème wafers *(manually crumble and fold in with a chopstick)*
+- **45g** lemon crème wafers *(manually crumble and fold in with a chopstick)*
 
 **Steps:**
 1. Make a corn starch slurry: whisk 20g corn starch into 100ml of the milk. Heat gently to 85°C+ until thickened. Let cool.
@@ -5493,26 +5493,26 @@ Orange and peach soft serve. Processed on Lite Ice Cream.
 
 **Wet:**
 - orange zest — ½ peel *(zest before juicing)*
-- 410g peaches in grape juice (canned)
+- **410g** peaches in grape juice (canned)
 - 80ml freshly pressed orange juice *(1 medium orange)*
-- 75g cream cheese 23%
-- 15g glycerin
-- 15g brandy 40%
+- **75g** cream cheese 23%
+- **15g** glycerin
+- **15g** brandy 40%
 
 **Dry:**
 - ICSv2 (30g):
-  - 13.8g erythritol
-  - 13.8g inulin
-  - 1.4g CMC
-  - 0.5g guar gum
-  - 0.5g salt
-  - 0.14g xanthan gum
-- 30g vanilla whey protein → 🟢 30g whey protein (unflavored) + 2g vanilla extract
-- 25g xylitol
+  - **13.8g** erythritol
+  - **13.8g** inulin
+  - **1.4g** CMC
+  - **0.5g** guar gum
+  - **0.5g** salt
+  - **0.14g** xanthan gum
+- **30g** vanilla whey protein → 🟢 **30g** whey protein (unflavored) + 2g vanilla extract
+- **25g** xylitol
 
 **Fill to MAX:**
 - ~40ml to MAX line water
-- 2g vanilla extract *(from whey swap)*
+- **2g** vanilla extract *(from whey swap)*
 
 **Steps:**
 1. Zest the orange before juicing it.
@@ -5535,27 +5535,27 @@ Intense citrus sorbet with mango and cottage cheese. Processed on Sorbet, scrape
 
 **Wet:**
 - 1 peel orange zest *(zest before juicing; use ½ for less intensity)*
-- 300g mandarins in juice (canned)
-- 150g mango
+- **300g** mandarins in juice (canned)
+- **150g** mango
 - 80ml freshly pressed orange juice *(1 medium orange)*
-- 75g cottage cheese 4%
-- 10g glycerin
-- 10g brandy 40%
+- **75g** cottage cheese 4%
+- **10g** glycerin
+- **10g** brandy 40%
 
 **Dry:**
 - ICSv2 (30g):
-  - 13.8g erythritol
-  - 13.8g inulin
-  - 1.4g CMC
-  - 0.5g guar gum
-  - 0.5g salt
-  - 0.14g xanthan gum
-- 25g vanilla whey protein → 🟢 25g whey protein (unflavored) + 2g vanilla extract
-- 25g xylitol
+  - **13.8g** erythritol
+  - **13.8g** inulin
+  - **1.4g** CMC
+  - **0.5g** guar gum
+  - **0.5g** salt
+  - **0.14g** xanthan gum
+- **25g** vanilla whey protein → 🟢 **25g** whey protein (unflavored) + 2g vanilla extract
+- **25g** xylitol
 
 **Fill to MAX:**
 - ~15ml to MAX line water
-- 2g vanilla extract *(from whey swap)*
+- **2g** vanilla extract *(from whey swap)*
 
 **Steps:**
 1. Zest the orange before juicing it.
@@ -5578,32 +5578,32 @@ Peanut butter & jelly ice cream with freeze-dried strawberry mix-in. Includes a 
 
 **Premix (×4 tubs, dry portion only):**
 
-> PB powder (100g) → 🟡 12.5g peanut butter per tub added to wet (higher fat, can't pre-mix dry)
+> PB powder (100g) → 🟡 **12.5g** peanut butter per tub added to wet (higher fat, can't pre-mix dry)
 
-- 120g xylitol
-- 80g skim milk powder (SMP)
-- 60g vanilla whey protein → 🟢 60g whey protein (unflavored)
-- 60g inulin
-- 4g salt
-- 6g CMC
-- 4g guar gum
+- **120g** xylitol
+- **80g** skim milk powder (SMP)
+- **60g** vanilla whey protein → 🟢 **60g** whey protein (unflavored)
+- **60g** inulin
+- **4g** salt
+- **6g** CMC
+- **4g** guar gum
 
 Per tub dry portion (~84g): 30g xylitol, 20g SMP, 15g whey, 15g inulin, 1g salt, 1.5g CMC, 1g guar.
 
 **Wet (per tub):**
 - 275ml milk 1.5%
 - 150ml water
-- 100g cottage cheese 4%
-- 20g glycerin
-- 15g brandy 40%
-- 12.5g peanut butter 🟡 *(from PB powder swap; add to wet and blend)*
+- **100g** cottage cheese 4%
+- **20g** glycerin
+- **15g** brandy 40%
+- **12.5g** peanut butter 🟡 *(from PB powder swap; add to wet and blend)*
 
 **Fill to MAX:**
 - ~51ml to MAX line water
-- Flavor drops Vanilla (7 drops) → 🟡 5g vanilla extract *(3g replacing drops + 2g compensating unflavored whey)*
+- Flavor drops Vanilla (7 drops) → 🟡 **5g** vanilla extract *(3g replacing drops + 2g compensating unflavored whey)*
 
 **Mix-ins:**
-- 10g freeze-dried strawberry slices *(alternative: 30g frozen strawberries, patted dry)*
+- **10g** freeze-dried strawberry slices *(alternative: 30g frozen strawberries, patted dry)*
 
 **Steps:**
 1. Add wet ingredients (including peanut butter) to empty Creami tub.
@@ -5625,9 +5625,9 @@ Per tub dry portion (~84g): 30g xylitol, 20g SMP, 15g whey, 15g inulin, 1g salt,
 Peanut butter swirl as a manual mix-in for refreezable bases. Not a standalone ice cream. Vegan option with coconut/soy cream.
 
 - 70ml cream 32% *(use coconut or soy cream to keep vegan)*
-- 20g PB powder → 🟡 10g peanut butter (higher fat, richer; stir until smooth)
-- 10g xylitol
-- 0.25g salt
+- **20g** PB powder → 🟡 **10g** peanut butter (higher fat, richer; stir until smooth)
+- **10g** xylitol
+- **0.25g** salt
 
 **Steps:**
 1. Put ingredients into a bowl and stir until smooth.
@@ -5649,24 +5649,24 @@ Peanut butter & jelly frozen yogurt. Frozen Yogurt setting, scrape down, then Mi
 
 **Wet:**
 - 350ml milk 1.5%
-- 150g Greek yogurt 9%
-- 50g cream cheese 23%
-- 15g glycerin
+- **150g** Greek yogurt 9%
+- **50g** cream cheese 23%
+- **15g** glycerin
 
 **Dry:**
-- 35g erythritol
-- 20g PB powder → 🟡 10g peanut butter added to wet (higher fat; blend thoroughly with wet ingredients)
-- 20g vanilla whey protein → 🟢 20g whey protein (unflavored) + 2g vanilla extract
-- 20g inulin
-- 2.5g GMS → 🟢 2.5g soy lecithin
-- 2.5g CMC
+- **35g** erythritol
+- **20g** PB powder → 🟡 **10g** peanut butter added to wet (higher fat; blend thoroughly with wet ingredients)
+- **20g** vanilla whey protein → 🟢 **20g** whey protein (unflavored) + 2g vanilla extract
+- **20g** inulin
+- **2.5g** GMS → 🟢 **2.5g** soy lecithin
+- **2.5g** CMC
 
 **Fill to MAX:**
 - ~55ml to MAX line water
-- 2g vanilla extract *(from whey swap)*
+- **2g** vanilla extract *(from whey swap)*
 
 **Mix-ins:**
-- 10g freeze-dried strawberry slices *(alternative: 30g frozen strawberries, patted dry)*
+- **10g** freeze-dried strawberry slices *(alternative: 30g frozen strawberries, patted dry)*
 
 **Steps:**
 1. Add wet ingredients (including peanut butter) to empty Creami tub. Blend with immersion blender.
@@ -5689,21 +5689,21 @@ Traditional Sicilian gelato thickened with cornstarch instead of eggs. Cooked ba
 
 **Wet:**
 - 150ml soy milk (unsweetened)
-- 25g almond butter (creamy)
-- 10g glycerin
+- **25g** almond butter (creamy)
+- **10g** glycerin
 
 **Dry:**
-- 30g erythritol
-- 25g xylitol
-- 10g corn starch
-- 10g inulin
-- 10g soy protein isolate → 🟡 10g whey protein (no longer vegan)
-- 1.5g salt
+- **30g** erythritol
+- **25g** xylitol
+- **10g** corn starch
+- **10g** inulin
+- **10g** soy protein isolate → 🟡 **10g** whey protein (no longer vegan)
+- **1.5g** salt
 
 **Fill to MAX:**
-- 250g peaches in grape juice (drained)
+- **250g** peaches in grape juice (drained)
 - 150ml soy milk (unsweetened)
-- 10g brandy or vodka 40%
+- **10g** brandy or vodka 40%
 - Flavor drops Peach/Maracuja (5 drops) → 🟡 skip (peaches provide the flavor)
 - ~38ml to MAX line water
 
@@ -5729,18 +5729,18 @@ Classic peaches and cream ice cream. Spun on Ice Cream, scrape down, Re-Spin.
 
 **Wet:**
 - 250ml soy milk (unsweetened)
-- 250g peaches in grape juice (drained)
-- 15g glycerin
-- 10g brandy or vodka 40% *(alternative: same amount additional glycerin for sober recipe)*
+- **250g** peaches in grape juice (drained)
+- **15g** glycerin
+- **10g** brandy or vodka 40% *(alternative: same amount additional glycerin for sober recipe)*
 
 **Dry:**
 - SweEX (40g):
-  - 24g erythritol
-  - 16g xylitol
-- 15g Ultratex / Waxy Maize Starch → 🟡 15g corn starch (won't activate cold; make a slurry with 80ml of the soy milk, heat to 85°C+ until thickened, cool, then add — remaining cold soy milk = ~170ml)
-- 15g whey + casein protein → 🟢 15g whey protein
-- 15g inulin
-- 1g salt
+  - **24g** erythritol
+  - **16g** xylitol
+- **15g** Ultratex / Waxy Maize Starch → 🟡 **15g** corn starch (won't activate cold; make a slurry with 80ml of the soy milk, heat to 85°C+ until thickened, cool, then add — remaining cold soy milk = ~170ml)
+- **15g** whey + casein protein → 🟢 **15g** whey protein
+- **15g** inulin
+- **1g** salt
 - 1 pinch turmeric *(optional, for color)*
 
 **Fill to MAX:**
@@ -5769,24 +5769,24 @@ Classic peaches and cream ice cream. Spun on Ice Cream, scrape down, Re-Spin.
 Peanut butter ice cream. Process on Lite Ice Cream. Originally vegan; soy protein swap makes it non-vegan.
 
 **Prep:**
-- 50g peanut butter (creamy)
+- **50g** peanut butter (creamy)
 
 **Wet:**
 - 450ml soy milk (unsweetened)
-- 15g glycerin
-- 10g brandy or vodka 40% *(alternative: 8g additional glycerin)*
+- **15g** glycerin
+- **10g** brandy or vodka 40% *(alternative: 8g additional glycerin)*
 
 **Dry:**
-- 20g soy protein isolate → 🟡 20g whey protein (no longer vegan)
+- **20g** soy protein isolate → 🟡 **20g** whey protein (no longer vegan)
 - SweEX (40g):
-  - 24g erythritol
-  - 16g xylitol
-- 1g salt
-- 3g soy lecithin *(already in original recipe — no swap needed)*
+  - **24g** erythritol
+  - **16g** xylitol
+- **1g** salt
+- **3g** soy lecithin *(already in original recipe — no swap needed)*
 
 **Fill to MAX:**
 - 91ml soy milk (unsweetened)
-- Flavor drops Vanilla (3 drops) → 🟡 2g vanilla extract
+- Flavor drops Vanilla (3 drops) → 🟡 **2g** vanilla extract
 
 **Steps:**
 1. Put peanut butter into empty tub and soften in microwave (10-15s).
@@ -5810,24 +5810,24 @@ Tropical coconut-pineapple with rum. Vegan & dairy-free. Process on Lite Ice Cre
 
 **Prep:**
 - coconut milk powder (70g) + 130ml hot water → 🟡 200ml canned coconut milk 19-22% (recipe's own alternative; skip the hot water)
-- 4g GMS → 🟢 4g soy lecithin
+- **4g** GMS → 🟢 **4g** soy lecithin
 
 **Wet:**
 - 200ml canned coconut milk 19-22% *(replaces powder + water from prep)*
-- 225g pineapple in juice (canned)
+- **225g** pineapple in juice (canned)
 - 150ml soy milk (unsweetened)
-- 40g Jamaica rum 43%
+- **40g** Jamaica rum 43%
 
 **Dry:**
 - SweEX (20g):
-  - 12g erythritol
-  - 8g xylitol
-- 15g Ultratex / Waxy Maize Starch → 🟡 15g corn starch (won't activate cold; heat 100ml of the soy milk with corn starch to make a slurry at 85°C+, cool, then add — remaining cold soy milk = ~50ml)
-- 2g CMC
+  - **12g** erythritol
+  - **8g** xylitol
+- **15g** Ultratex / Waxy Maize Starch → 🟡 **15g** corn starch (won't activate cold; heat 100ml of the soy milk with corn starch to make a slurry at 85°C+, cool, then add — remaining cold soy milk = ~50ml)
+- **2g** CMC
 
 **Fill to MAX:**
 - ~24ml to MAX line soy milk (unsweetened)
-- Flavor drops Vanilla (4 drops) → 🟡 2g vanilla extract
+- Flavor drops Vanilla (4 drops) → 🟡 **2g** vanilla extract
 
 **Steps:**
 1. Warm the coconut milk gently. Whisk in soy lecithin until dissolved. Let cool.
@@ -5859,22 +5859,22 @@ Tropical coconut-pineapple with rum. Vegan & dairy-free. Process on Lite Ice Cre
 Pineapple in juice with cottage cheese for creaminess. Processed on Sorbet, scrape down, Re-Spin.
 
 **Wet:**
-- 450g pineapple in juice (canned)
-- 100g cottage cheese 4% *(alternative: 30g cream cheese + 70ml milk, or 100ml coconut milk)*
-- 15g Jamaica rum 43% *(alternative: 12g additional glycerin for sober recipe)*
-- 10g glycerin
+- **450g** pineapple in juice (canned)
+- **100g** cottage cheese 4% *(alternative: 30g cream cheese + 70ml milk, or 100ml coconut milk)*
+- **15g** Jamaica rum 43% *(alternative: 12g additional glycerin for sober recipe)*
+- **10g** glycerin
 
 **Dry:**
 - SweEX (20g):
-  - 12g erythritol
-  - 8g xylitol
+  - **12g** erythritol
+  - **8g** xylitol
 - Salty Stability (10g):
-  - 7.3g inulin
-  - 1.2g soy lecithin
-  - 0.6g CMC
-  - 0.4g guar gum
-  - 0.3g salt
-  - 0.13g xanthan gum
+  - **7.3g** inulin
+  - **1.2g** soy lecithin
+  - **0.6g** CMC
+  - **0.4g** guar gum
+  - **0.3g** salt
+  - **0.13g** xanthan gum
 
 **Fill to MAX:**
 - 75ml soy milk (unsweetened)
@@ -5903,32 +5903,32 @@ Pineapple in juice with cottage cheese for creaminess. Processed on Sorbet, scra
 Pistachio ice cream with nut butters, tofu, and soy. Originally vegan; soy protein swap makes it non-vegan. Process on Lite Ice Cream, scrape down, Re-Spin.
 
 **Prep:**
-- 30g pistachio butter
-- 20g almond butter (creamy)
-- 4g GMS → 🟢 4g soy lecithin
-- 65g tofu (plain)
+- **30g** pistachio butter
+- **20g** almond butter (creamy)
+- **4g** GMS → 🟢 **4g** soy lecithin
+- **65g** tofu (plain)
 
 **Wet:**
 - 350ml soy milk (unsweetened)
-- 20g glycerin
-- 15g brandy or vodka 40%
+- **20g** glycerin
+- **15g** brandy or vodka 40%
 
 **Dry:**
 - ICSv2 (20g):
-  - 9.2g erythritol
-  - 9.2g inulin
-  - 0.92g CMC
-  - 0.32g guar gum
-  - 0.32g salt
-  - 0.09g xanthan gum
-- 25g xylitol
-- 20g soy protein isolate → 🟡 20g whey protein (no longer vegan)
-- 3g vanilla bean powder → 🟡 4g vanilla extract (less complex aroma)
-- 1g salt
+  - **9.2g** erythritol
+  - **9.2g** inulin
+  - **0.92g** CMC
+  - **0.32g** guar gum
+  - **0.32g** salt
+  - **0.09g** xanthan gum
+- **25g** xylitol
+- **20g** soy protein isolate → 🟡 **20g** whey protein (no longer vegan)
+- **3g** vanilla bean powder → 🟡 **4g** vanilla extract (less complex aroma)
+- **1g** salt
 
 **Fill to MAX:**
 - 147ml soy milk (unsweetened)
-- Flavor drops Vanilla (0-7 drops) → 🟡 2g vanilla extract *(total vanilla extract with bean powder swap = ~6g)*
+- Flavor drops Vanilla (0-7 drops) → 🟡 **2g** vanilla extract *(total vanilla extract with bean powder swap = ~6g)*
 
 **Steps:**
 1. Mix soy lecithin with the nut butters to dissolve.
@@ -5952,31 +5952,31 @@ Pistachio ice cream with cottage cheese. Heated base. Process on Lite Ice Cream.
 
 **Wet:**
 - 400ml soy milk (unsweetened)
-- 100g cottage cheese 4%
-- 30g pistachio butter
-- 20g almond butter (creamy) *(optional: use more pistachio butter instead)*
-- 20g glycerin
-- 15g brandy or vodka 40% *(alternative: 12g additional glycerin for sober recipe)*
+- **100g** cottage cheese 4%
+- **30g** pistachio butter
+- **20g** almond butter (creamy) *(optional: use more pistachio butter instead)*
+- **20g** glycerin
+- **15g** brandy or vodka 40% *(alternative: 12g additional glycerin for sober recipe)*
 
 **Dry:**
 - SweEX (35g):
-  - 21g erythritol
-  - 14g xylitol
+  - **21g** erythritol
+  - **14g** xylitol
 - Salty Stability (15g):
-  - 11.0g inulin
-  - 1.8g soy lecithin
-  - 0.9g CMC
-  - 0.6g guar gum
-  - 0.5g salt
-  - 0.2g xanthan gum
-- 15g whey + casein protein → 🟢 15g whey protein
-- 15g skim milk powder (SMP)
-- 3g GMS → 🟢 3g soy lecithin
-- 2g matcha green tea powder *(optional, for color)*
+  - **11.0g** inulin
+  - **1.8g** soy lecithin
+  - **0.9g** CMC
+  - **0.6g** guar gum
+  - **0.5g** salt
+  - **0.2g** xanthan gum
+- **15g** whey + casein protein → 🟢 **15g** whey protein
+- **15g** skim milk powder (SMP)
+- **3g** GMS → 🟢 **3g** soy lecithin
+- **2g** matcha green tea powder *(optional, for color)*
 
 **Fill to MAX:**
 - 15ml cream 32%
-- Flavor drops Vanilla (3 drops) → 🟡 2g vanilla extract
+- Flavor drops Vanilla (3 drops) → 🟡 **2g** vanilla extract
 
 **Steps:**
 1. Heat the soy milk to about 60°C.
@@ -5999,19 +5999,19 @@ Pistachio ice cream with cottage cheese. Heated base. Process on Lite Ice Cream.
 **Draft**
 
 **Wet:**
-- 600g plums
-- 50g cream cheese
-- 15g glycerin
+- **600g** plums
+- **50g** cream cheese
+- **15g** glycerin
 
 **Dry:**
 - ICSv2 (30g):
-  - 13.8g erythritol
-  - 13.8g inulin
-  - 1.4g CMC
-  - 0.5g guar gum
-  - 0.5g salt
-  - 0.14g xanthan gum
-- 15g xylitol
+  - **13.8g** erythritol
+  - **13.8g** inulin
+  - **1.4g** CMC
+  - **0.5g** guar gum
+  - **0.5g** salt
+  - **0.14g** xanthan gum
+- **15g** xylitol
 
 **Fill to MAX:**
 - ~10ml to MAX line water
@@ -6036,26 +6036,26 @@ Pistachio ice cream with cottage cheese. Heated base. Process on Lite Ice Cream.
 **Ninja Creami Deluxe [24 oz]**
 
 **Wet:**
-- 75g cottage cheese 4%
+- **75g** cottage cheese 4%
 - 490ml buttermilk 1%
-- 40g pomegranate syrup (nar ekşisi)
-- 10g glycerin
+- **40g** pomegranate syrup (nar ekşisi)
+- **10g** glycerin
 
 **Dry:**
 - SweEX (45g):
-  - 27g erythritol
-  - 18g xylitol
+  - **27g** erythritol
+  - **18g** xylitol
 - Salty Stability (10g):
-  - 7.3g inulin
-  - 1.2g soy lecithin
-  - 0.6g CMC
-  - 0.4g guar gum
-  - 0.3g salt
-  - 0.13g xanthan gum
-- 1.5g beet root powder *(optional, for color)*
+  - **7.3g** inulin
+  - **1.2g** soy lecithin
+  - **0.6g** CMC
+  - **0.4g** guar gum
+  - **0.3g** salt
+  - **0.13g** xanthan gum
+- **1.5g** beet root powder *(optional, for color)*
 
 **Fill to MAX:**
-- Flavor drops Vanilla (3 drops) → 🟡 1g vanilla extract
+- Flavor drops Vanilla (3 drops) → 🟡 **1g** vanilla extract
 
 **Steps:**
 1. In an empty Creami tub, warm up the cheese and blend with an equal amount of buttermilk to a very creamy texture.
@@ -6081,32 +6081,32 @@ Pistachio ice cream with cottage cheese. Heated base. Process on Lite Ice Cream.
 
 **Prep:**
 - 180ml soy milk 1.6% *(or any ~2% milk)*
-- 4g pumpkin spice
-- 3g annatto seed powder *(optional, for color)*
+- **4g** pumpkin spice
+- **3g** annatto seed powder *(optional, for color)*
 
 **Wet:**
 - 280ml soy milk 1.6% *(or any ~2% milk)*
-- 15g glycerin
-- 8g brandy or vodka 40% *(alternative: 6g additional glycerin)*
+- **15g** glycerin
+- **8g** brandy or vodka 40% *(alternative: 6g additional glycerin)*
 
 **Dry:**
 - SweEX (40g):
-  - 24g erythritol
-  - 16g xylitol
-- 15g inulin
-- 15g skim milk powder (SMP)
-- 15g whey + casein protein → 🟢 15g whey protein
-- 2g GMS → 🟢 2g soy lecithin
-- 1.5g guar gum
-- 0.5g xanthan gum
-- 1g salt
+  - **24g** erythritol
+  - **16g** xylitol
+- **15g** inulin
+- **15g** skim milk powder (SMP)
+- **15g** whey + casein protein → 🟢 **15g** whey protein
+- **2g** GMS → 🟢 **2g** soy lecithin
+- **1.5g** guar gum
+- **0.5g** xanthan gum
+- **1g** salt
 
 **Fill to MAX:**
 - 100ml cream 32%
-- Flavor drops Vanilla (5 drops) → 🟡 2g vanilla extract
+- Flavor drops Vanilla (5 drops) → 🟡 **2g** vanilla extract
 
 **Mix-ins:**
-- 20g dark chocolate shavings *(not in base macros; +101 kcal, +9.5g sugar)*
+- **20g** dark chocolate shavings *(not in base macros; +101 kcal, +9.5g sugar)*
 
 **Steps:**
 1. Heat 180ml soy milk to ~60°C, add pumpkin spice (and annatto), let infuse in the fridge ~1 hour.
@@ -6133,17 +6133,17 @@ A bitter-sweet sorbet from a typical German summer beer mix (radler/shandy). Als
 
 **Wet:**
 - 330ml radler / shandy beer ~2.4 vol% *(any brand)*
-- 10g glycerin
+- **10g** glycerin
 - 10ml lemon juice
 
 **Dry:**
-- 15g inulin
-- 15g soy protein isolate → 🟡 15g whey protein *(no longer vegan/dairy-free)*
-- 1g salt
-- 1g xanthan gum
+- **15g** inulin
+- **15g** soy protein isolate → 🟡 **15g** whey protein *(no longer vegan/dairy-free)*
+- **1g** salt
+- **1g** xanthan gum
 
 **Mix-ins:**
-- 10g salty pretzels *(~5 small pretzels, broken; +40 kcal, +7g carbs)*
+- **10g** salty pretzels *(~5 small pretzels, broken; +40 kcal, +7g carbs)*
 
 **Optional:**
 - Flavor drops Peach/Maracuja (3 drops) → 🟡 skip
@@ -6169,31 +6169,31 @@ A bitter-sweet sorbet from a typical German summer beer mix (radler/shandy). Als
 
 **Prep:**
 - coconut milk powder (50g) + water (100ml) → 🟡 150ml canned coconut milk (~18%)
-- 0.9g GMS → 🟢 0.9g soy lecithin *(stir into warmed coconut milk)*
+- **0.9g** GMS → 🟢 **0.9g** soy lecithin *(stir into warmed coconut milk)*
 
 **Wet:**
 - 375ml soy milk 1.6% *(or any ~2% milk)*
 
 **Dry:**
 - SweEX (30g):
-  - 18g erythritol
-  - 12g xylitol
+  - **18g** erythritol
+  - **12g** xylitol
 - Salty Stability (15g):
-  - 11.0g inulin
-  - 1.8g soy lecithin
-  - 0.9g CMC
-  - 0.6g guar gum
-  - 0.5g salt
-  - 0.2g xanthan gum
-- 15g whey + casein protein → 🟢 15g whey protein
-- 1.5g cinnamon (Ceylon)
+  - **11.0g** inulin
+  - **1.8g** soy lecithin
+  - **0.9g** CMC
+  - **0.6g** guar gum
+  - **0.5g** salt
+  - **0.2g** xanthan gum
+- **15g** whey + casein protein → 🟢 **15g** whey protein
+- **1.5g** cinnamon (Ceylon)
 
 **Adjust sweetness:**
-- Flavor drops Vanilla (5 drops) → 🟡 2g vanilla extract
+- Flavor drops Vanilla (5 drops) → 🟡 **2g** vanilla extract
 
 **Mix-ins:**
-- 40g sultanas *(chopped, soaked in rum at least 1 day ahead; +119 kcal, +27g sugar)*
-- 45g Jamaica rum 43% *(drain raisins, add surplus rum to base)*
+- **40g** sultanas *(chopped, soaked in rum at least 1 day ahead; +119 kcal, +27g sugar)*
+- **45g** Jamaica rum 43% *(drain raisins, add surplus rum to base)*
 
 **Steps:**
 1. At least one day before: chop raisins, cover with rum in a small container, refrigerate.
@@ -6221,24 +6221,24 @@ Adapts S&S Light by replacing dairy cream with coconut cream.
 
 **Prep:**
 - coconut milk powder (70g) + water (140ml) → 🟡 210ml canned coconut milk (~18%)
-- 1.8g GMS → 🟢 1.8g soy lecithin *(stir into warmed coconut milk)*
+- **1.8g** GMS → 🟢 **1.8g** soy lecithin *(stir into warmed coconut milk)*
 
 **Wet:**
 - 350ml soy milk 1.6% *(or any ~2% milk)*
-- 17g glycerin
+- **17g** glycerin
 
 **Dry:**
 - SweEX (45g):
-  - 27g erythritol
-  - 18g xylitol
-- 20g inulin
-- 20g skim milk powder (SMP)
-- 20g whey + casein protein → 🟢 20g whey protein
-- 1g salt
-- 1g xanthan gum
+  - **27g** erythritol
+  - **18g** xylitol
+- **20g** inulin
+- **20g** skim milk powder (SMP)
+- **20g** whey + casein protein → 🟢 **20g** whey protein
+- **1g** salt
+- **1g** xanthan gum
 
 **Adjust sweetness:**
-- Flavor drops "Natural" / stevia (3 drops) → 🟡 ~0.02g pinch of sucralose
+- Flavor drops "Natural" / stevia (3 drops) → 🟡 **~0.02g** pinch of sucralose
 
 **Steps:**
 1. Warm 210ml canned coconut milk gently, stir in the 1.8g soy lecithin until dissolved.
@@ -6268,25 +6268,25 @@ Adapted Salt & Straw base, scaled to ~600g neutral base. Use the 80-100g unclaim
 
 **Wet:**
 - 375ml soy milk 1.6% *(or any ~2% milk)*
-- 18g glycerin
+- **18g** glycerin
 
 **Dry:**
 - SweEX (45g):
-  - 27g erythritol
-  - 18g xylitol
-- 25g inulin
-- 10g skim milk powder (SMP)
-- 10g whey + casein protein → 🟢 10g whey protein
-- 0.75g salt
-- 0.75g xanthan gum
+  - **27g** erythritol
+  - **18g** xylitol
+- **25g** inulin
+- **10g** skim milk powder (SMP)
+- **10g** whey + casein protein → 🟢 **10g** whey protein
+- **0.75g** salt
+- **0.75g** xanthan gum
 
 **Flavor (example: strawberry — treat as Wet/Dry as appropriate):**
-- 60g strawberries
-- 20g strawberry powder
-- 2g beet root powder *(optional, for color)*
+- **60g** strawberries
+- **20g** strawberry powder
+- **2g** beet root powder *(optional, for color)*
 
 **Fill to MAX:**
-- 125g cream 32%
+- **125g** cream 32%
 
 **Steps:**
 1. Add soy milk and glycerin to empty Creami tub.
@@ -6313,20 +6313,20 @@ Adapted Salt & Straw base, scaled to ~600g neutral base. Use the 80-100g unclaim
 *Example below: strawberry.*
 
 **Wet:**
-- 275g cream 32%
-- 200g milk 3.5%
-- 30g light corn syrup → 🟡 30g glucose syrup *(or rice syrup)*
+- **275g** cream 32%
+- **200g** milk 3.5%
+- **30g** light corn syrup → 🟡 **30g** glucose syrup *(or rice syrup)*
 
 **Dry:**
-- 75g sugar
-- 15g skim milk powder (SMP)
-- 0.75g salt
-- 0.75g xanthan gum
+- **75g** sugar
+- **15g** skim milk powder (SMP)
+- **0.75g** salt
+- **0.75g** xanthan gum
 
 **Fill to MAX (example: strawberry):**
-- 60g strawberries
-- 20g strawberry powder
-- 10g glycerin
+- **60g** strawberries
+- **20g** strawberry powder
+- **10g** glycerin
 
 **Steps:**
 1. Add cream, milk, and glucose syrup to empty Creami tub.
@@ -6349,12 +6349,12 @@ Adapted Salt & Straw base, scaled to ~600g neutral base. Use the 80-100g unclaim
 **Premix blend — yields 10 Deluxe doses (15g each) or 15 regular doses (10g each)**
 
 **Dry:**
-- 110g inulin
-- 18g GMS → 🟢 18g soy lecithin
-- 9g CMC (carboxymethyl cellulose)
-- 6g guar gum
-- 5g salt
-- 2g xanthan gum
+- **110g** inulin
+- **18g** GMS → 🟢 **18g** soy lecithin
+- **9g** CMC (carboxymethyl cellulose)
+- **6g** guar gum
+- **5g** salt
+- **2g** xanthan gum
 
 **Total:** 150g
 
@@ -6390,14 +6390,14 @@ Egg liqueur ice cream. Can also use Baileys (17 vol%) — bumps energy to ~125 k
 **Wet:**
 - 450ml soy milk 1.6%
 - 190ml egg liqueur 15 vol% (e.g. Bols Advocaat)
-- Flavor drops Vanilla (10 drops) → 🟡 3g vanilla extract
+- Flavor drops Vanilla (10 drops) → 🟡 **3g** vanilla extract
 
 **Dry:**
-- 30g soy protein isolate → 🟡 30g whey protein *(no longer vegan/dairy-free)*
-- 20g inulin
-- 2g GMS → 🟢 2g soy lecithin
-- 2g CMC (tylose powder)
-- 1g tara gum → 🟢 1g guar gum
+- **30g** soy protein isolate → 🟡 **30g** whey protein *(no longer vegan/dairy-free)*
+- **20g** inulin
+- **2g** GMS → 🟢 **2g** soy lecithin
+- **2g** CMC (tylose powder)
+- **1g** tara gum → 🟢 **1g** guar gum
 
 **Fill to MAX:**
 - ~25ml to MAX line water *(or use cream for more richness)*
@@ -6427,15 +6427,15 @@ Egg & cream punch (9 vol%) ice cream — lighter alcohol variant of Shregg.
 **Wet:**
 - 250ml soy milk 1.6%
 - 375ml egg cream punch 9 vol% (e.g. Katlenburger)
-- Flavor drops Vanilla (10 drops) → 🟡 3g vanilla extract
+- Flavor drops Vanilla (10 drops) → 🟡 **3g** vanilla extract
 
 **Dry:**
-- 30g soy protein isolate → 🟡 30g whey protein *(no longer vegan/dairy-free)*
-- 20g inulin
-- 10g xylitol
-- 2g GMS → 🟢 2g soy lecithin
-- 2g CMC (tylose powder)
-- 1g tara gum → 🟢 1g guar gum
+- **30g** soy protein isolate → 🟡 **30g** whey protein *(no longer vegan/dairy-free)*
+- **20g** inulin
+- **10g** xylitol
+- **2g** GMS → 🟢 **2g** soy lecithin
+- **2g** CMC (tylose powder)
+- **1g** tara gum → 🟢 **1g** guar gum
 
 **Fill to MAX:**
 - ~30ml to MAX line water *(or use cream for more richness)*
@@ -6465,23 +6465,23 @@ Soda sorbet from 0-cal syrup. Works with any 0-sugar soda syrup — increase rec
 **Wet:**
 - 400ml water (cold)
 - 45ml soda syrup (0-sugar, any brand)
-- 20g glycerin
+- **20g** glycerin
 - 20ml lime juice + zest (organic)
-- 15g brandy or vodka 40%
+- **15g** brandy or vodka 40%
 
 **Dry:**
-- 15g soy protein isolate → 🟡 15g whey protein *(no longer vegan/dairy-free)*
+- **15g** soy protein isolate → 🟡 **15g** whey protein *(no longer vegan/dairy-free)*
 - SweEX (30g):
-  - 18g erythritol
-  - 12g xylitol
+  - **18g** erythritol
+  - **12g** xylitol
 - Salty Stability (20g):
-  - 14.7g inulin
-  - 2.4g soy lecithin
-  - 1.2g CMC
-  - 0.8g guar gum
-  - 0.67g salt
-  - 0.27g xanthan gum
-- 1g salt
+  - **14.7g** inulin
+  - **2.4g** soy lecithin
+  - **1.2g** CMC
+  - **0.8g** guar gum
+  - **0.67g** salt
+  - **0.27g** xanthan gum
+- **1g** salt
 
 **Fill to MAX:**
 - ~154ml to MAX line water
@@ -6514,34 +6514,34 @@ Dark cacao base with white chocolate flakes mixed in. Macros include mix-ins.
 
 **Wet:**
 - 475ml soy milk 1.6% *(or any ~2% milk)*
-- 20g Cointreau 40 vol%
-- 10g glycerin
+- **20g** Cointreau 40 vol%
+- **10g** glycerin
 
 **Dry:**
 - SweEX (45g):
-  - 27g erythritol
-  - 18g xylitol
-- 25g cocoa powder (intense/dark, 11% fat)
-- 20g inulin
-- 20g whey + casein protein → 🟢 20g whey protein
-- 15g skim milk powder (SMP)
+  - **27g** erythritol
+  - **18g** xylitol
+- **25g** cocoa powder (intense/dark, 11% fat)
+- **20g** inulin
+- **20g** whey + casein protein → 🟢 **20g** whey protein
+- **15g** skim milk powder (SMP)
 - Salty Stability (10g):
-  - 7.3g inulin
-  - 1.2g soy lecithin
-  - 0.6g CMC
-  - 0.4g guar gum
-  - 0.3g salt
-  - 0.13g xanthan gum
-- 4g instant coffee *(optional)*
-- 1g cinnamon (Ceylon) *(optional)*
+  - **7.3g** inulin
+  - **1.2g** soy lecithin
+  - **0.6g** CMC
+  - **0.4g** guar gum
+  - **0.3g** salt
+  - **0.13g** xanthan gum
+- **4g** instant coffee *(optional)*
+- **1g** cinnamon (Ceylon) *(optional)*
 
 **Fill to MAX:**
 - 25ml cream 32%
-- Flavor drops Vanilla (6 drops) → 🟡 2g vanilla extract
+- Flavor drops Vanilla (6 drops) → 🟡 **2g** vanilla extract
 
 **Mix-ins:**
-- 25g white chocolate shavings *(pre-frozen; +140 kcal, +14g sugar)*
-- 10g almond slivers *(chopped; +59 kcal, +0.4g sugar)*
+- **25g** white chocolate shavings *(pre-frozen; +140 kcal, +14g sugar)*
+- **10g** almond slivers *(chopped; +59 kcal, +0.4g sugar)*
 
 **Steps:**
 1. Pre-freeze chocolate and almonds at least 1 hour before processing.
@@ -6566,35 +6566,35 @@ Dark cacao base with white chocolate flakes mixed in. Macros include mix-ins.
 A great combination of tart flavors, based on quark/topfen. In Greece, use cream cheese as substitute.
 
 **Wet:**
-- 245g quark / topfen 14.4% → 🟡 245g cream cheese (low-fat) *(or strained yogurt)*
-- 200g strawberries
+- **245g** quark / topfen 14.4% → 🟡 **245g** cream cheese (low-fat) *(or strained yogurt)*
+- **200g** strawberries
 - 125ml soy milk 1.6% *(or any ~2% milk)*
-- 15g brandy or vodka 40%
-- 15g glycerin
+- **15g** brandy or vodka 40%
+- **15g** glycerin
 - 15ml lemon juice
 
 **Dry:**
 - SweEX (30g):
-  - 18g erythritol
-  - 12g xylitol
-- 20g whey + casein protein → 🟢 20g whey protein
+  - **18g** erythritol
+  - **12g** xylitol
+- **20g** whey + casein protein → 🟢 **20g** whey protein
 - Salty Stability (10g):
-  - 7.3g inulin
-  - 1.2g soy lecithin
-  - 0.6g CMC
-  - 0.4g guar gum
-  - 0.3g salt
-  - 0.13g xanthan gum
-- 2g beet root powder *(optional, for color)*
-- 1g salt
+  - **7.3g** inulin
+  - **1.2g** soy lecithin
+  - **0.6g** CMC
+  - **0.4g** guar gum
+  - **0.3g** salt
+  - **0.13g** xanthan gum
+- **2g** beet root powder *(optional, for color)*
+- **1g** salt
 
 **Fill to MAX:**
-- Flavor drops Vanilla (3 drops) → 🟡 1g vanilla extract
+- Flavor drops Vanilla (3 drops) → 🟡 **1g** vanilla extract
 - Flavor drops Cookies&Cream / stevia (3 drops) → 🟡 skip
 
 **Mix-ins:**
-- 20g sultanas *(coarsely chopped; +60 kcal, +13g sugar)*
-- 20g white chocolate shavings *(pre-freeze; +112 kcal, +11g sugar)*
+- **20g** sultanas *(coarsely chopped; +60 kcal, +13g sugar)*
+- **20g** white chocolate shavings *(pre-freeze; +112 kcal, +11g sugar)*
 
 **Topping options:** graham crackers, wafers, Biscoff cookies, or butter cookies.
 
@@ -6625,7 +6625,7 @@ Based on the Strawberry Sangria sorbet (recipe 98).
 **Ingredients:**
 - 100ml Strawberry Sangria sorbet (2 scoops)
 - 250ml sparkling water (fridge cold)
-- sweetener tablets (2, equiv. 2 tsp sugar) → 🟡 ~0.01g pinch of sucralose *(or any sweetener to taste)*
+- sweetener tablets (2, equiv. 2 tsp sugar) → 🟡 **~0.01g** pinch of sucralose *(or any sweetener to taste)*
 - 4ml pomegranate syrup (nar ekşisi) (1 squeeze)
 
 **Steps:**
@@ -6647,28 +6647,28 @@ Frozen yogurt with fruit, cream cheese, and protein. Replace strawberries with o
 
 **Wet:**
 - 350ml yogurt mild 4%
-- 25g cream cheese
-- 15g glycerin
-- 10g brandy or vodka 40%
+- **25g** cream cheese
+- **15g** glycerin
+- **10g** brandy or vodka 40%
 - 10ml lemon juice
-- 175g strawberries
+- **175g** strawberries
 
 **Dry:**
 - SweEX (35g):
-  - 21g erythritol
-  - 14g xylitol
+  - **21g** erythritol
+  - **14g** xylitol
 - Salty Stability (10g):
-  - 7.3g inulin
-  - 1.2g soy lecithin
-  - 0.6g CMC
-  - 0.4g guar gum
-  - 0.3g salt
-  - 0.13g xanthan gum
-- 15g whey + casein protein → 🟢 15g whey protein
+  - **7.3g** inulin
+  - **1.2g** soy lecithin
+  - **0.6g** CMC
+  - **0.4g** guar gum
+  - **0.3g** salt
+  - **0.13g** xanthan gum
+- **15g** whey + casein protein → 🟢 **15g** whey protein
 
 **Fill to MAX:**
 - ~35ml to MAX line water, milk, or yogurt
-- Flavor drops Vanilla (3 drops) → 🟡 1g vanilla extract
+- Flavor drops Vanilla (3 drops) → 🟡 **1g** vanilla extract
 
 **Topping options:** balsamic vinegar of Modena, pomegranate syrup.
 
@@ -6698,25 +6698,25 @@ Intense flavor, very creamy, dense and free of ice crystals.
 
 **Wet:**
 - 300ml soy milk 1.6%
-- 225g strawberries
-- 50g cream cheese
-- 20g glycerin
-- 10g brandy or vodka 40%
+- **225g** strawberries
+- **50g** cream cheese
+- **20g** glycerin
+- **10g** brandy or vodka 40%
 
 **Dry:**
 - ICSv2 (30g):
-  - 13.8g erythritol
-  - 13.8g inulin
-  - 1.4g CMC
-  - 0.5g guar gum
-  - 0.5g salt
-  - 0.14g xanthan gum
-- 25g xylitol
-- 25g soy protein isolate → 🟡 25g whey protein
+  - **13.8g** erythritol
+  - **13.8g** inulin
+  - **1.4g** CMC
+  - **0.5g** guar gum
+  - **0.5g** salt
+  - **0.14g** xanthan gum
+- **25g** xylitol
+- **25g** soy protein isolate → 🟡 **25g** whey protein
 
 **Fill to MAX:**
 - ~35ml to MAX line water
-- Flavor drops Vanilla (3-5 drops) → 🟡 2g vanilla extract
+- Flavor drops Vanilla (3-5 drops) → 🟡 **2g** vanilla extract
 
 **Steps:**
 1. Add wet ingredients to empty Creami tub.
@@ -6741,14 +6741,14 @@ Intense flavor, very creamy, dense and free of ice crystals.
 A creamy sorbet inspired by Sangria. Also works with blueberries, berry mix, rosé, or white wine. With mulled wine from berries (11 vol%), use 225g to compensate.
 
 **Wet:**
-- 400g strawberries *(or blueberries, berry mix)*
-- 200g red wine 13 vol% (dry) *(also works with rosé or white)*
+- **400g** strawberries *(or blueberries, berry mix)*
+- **200g** red wine 13 vol% (dry) *(also works with rosé or white)*
 - 20ml lime juice + zest (organic)
 
 **Dry:**
-- 20g inulin
-- 1g salt
-- 1g xanthan gum
+- **20g** inulin
+- **1g** salt
+- **1g** xanthan gum
 
 **Fill to MAX:**
 - ~25ml to MAX line soy milk 1.6%
@@ -6778,25 +6778,25 @@ A creamy sorbet inspired by Sangria. Also works with blueberries, berry mix, ros
 
 **Wet:**
 - 300ml soy milk 1.6%
-- 225g strawberries
-- 15g brandy or vodka 40%
-- 15g glycerin
+- **225g** strawberries
+- **15g** brandy or vodka 40%
+- **15g** glycerin
 - 5ml lemon juice
 
 **Dry:**
 - SweEX (33g):
-  - 19.8g erythritol
-  - 13.2g xylitol
+  - **19.8g** erythritol
+  - **13.2g** xylitol
 - Salty Stability (15g):
-  - 11.0g inulin
-  - 1.8g soy lecithin
-  - 0.9g CMC
-  - 0.6g guar gum
-  - 0.5g salt
-  - 0.2g xanthan gum
-- 15g soy protein isolate → 🟡 15g whey protein *(no longer vegan/dairy-free)*
-- 2g vanilla bean powder → 🟡 2g vanilla extract *(optional)*
-- 2g beet root powder *(optional, for color)*
+  - **11.0g** inulin
+  - **1.8g** soy lecithin
+  - **0.9g** CMC
+  - **0.6g** guar gum
+  - **0.5g** salt
+  - **0.2g** xanthan gum
+- **15g** soy protein isolate → 🟡 **15g** whey protein *(no longer vegan/dairy-free)*
+- **2g** vanilla bean powder → 🟡 **2g** vanilla extract *(optional)*
+- **2g** beet root powder *(optional, for color)*
 
 **Fill to MAX:**
 - ~57ml to MAX line water
@@ -6823,21 +6823,21 @@ A creamy sorbet inspired by Sangria. Also works with blueberries, berry mix, ros
 **Draft · Gum-Free · ~~Vegan~~ (whey swap)**
 
 **Prep:**
-- 150g sweet potato (baked) *(1 potato ~130g, bake at 200°C for 50-60 min)*
+- **150g** sweet potato (baked) *(1 potato ~130g, bake at 200°C for 50-60 min)*
 
 **Wet:**
 - 300ml soy milk 1.6%
-- 20g glycerin
-- 10g brandy or vodka 40%
+- **20g** glycerin
+- **10g** brandy or vodka 40%
 
 **Dry:**
-- 40g soy protein isolate → 🟡 40g whey protein *(no longer vegan/dairy-free)*
-- 30g xylitol
-- 15g inulin
-- 3g vanilla bean powder → 🟡 3g vanilla extract
-- 1.5g cinnamon (Ceylon)
-- 1.5g salt
-- 1g nutmeg
+- **40g** soy protein isolate → 🟡 **40g** whey protein *(no longer vegan/dairy-free)*
+- **30g** xylitol
+- **15g** inulin
+- **3g** vanilla bean powder → 🟡 **3g** vanilla extract
+- **1.5g** cinnamon (Ceylon)
+- **1.5g** salt
+- **1g** nutmeg
 
 **Fill to MAX:**
 - ~148ml to MAX line soy milk 1.6%
@@ -6866,24 +6866,24 @@ A creamy sorbet inspired by Sangria. Also works with blueberries, berry mix, ros
 
 **Prep:**
 - 100ml water (boiling)
-- 20g cocoa powder 11%
-- 30g skim milk powder (SMP) *(toast carefully in a pan first)*
+- **20g** cocoa powder 11%
+- **30g** skim milk powder (SMP) *(toast carefully in a pan first)*
 
 **Wet:**
 - 400ml buttermilk 1%
-- 15g glycerin
-- 10g brandy or vodka 40%
-- 5g molasses
+- **15g** glycerin
+- **10g** brandy or vodka 40%
+- **5g** molasses
 
 **Dry:**
 - ICSv2 (30g):
-  - 13.8g erythritol
-  - 13.8g inulin
-  - 1.4g CMC
-  - 0.5g guar gum
-  - 0.5g salt
-  - 0.14g xanthan gum
-- 25g xylitol
+  - **13.8g** erythritol
+  - **13.8g** inulin
+  - **1.4g** CMC
+  - **0.5g** guar gum
+  - **0.5g** salt
+  - **0.14g** xanthan gum
+- **25g** xylitol
 
 **Fill to MAX:**
 - ~85ml to MAX line buttermilk 1%
@@ -6915,35 +6915,35 @@ Classic Austrian dessert reimagined as ice cream: quark/lime base with rum-soake
 
 **Prep (pancakes):**
 - 125ml soy milk 1.6% *(or any low-fat milk)*
-- 75g flour (cake flour)
-- 60g egg *(1 medium)*
+- **75g** flour (cake flour)
+- **60g** egg *(1 medium)*
 - pinch of salt
 - 15ml avocado oil *(to fry)*
 
 **Wet:**
-- 245g quark / topfen 14.4% → 🟡 245g cream cheese (low-fat) *(or strained yogurt)*
+- **245g** quark / topfen 14.4% → 🟡 **245g** cream cheese (low-fat) *(or strained yogurt)*
 - 100ml soy milk 1.6% *(or any low-fat milk)*
 - 20ml lime juice + zest (organic)
-- 10g glycerin
+- **10g** glycerin
 
 **Dry:**
 - SweEX (35g):
-  - 21g erythritol
-  - 14g xylitol
+  - **21g** erythritol
+  - **14g** xylitol
 - Salty Stability (5g):
-  - 3.7g inulin
-  - 0.6g soy lecithin
-  - 0.3g CMC
-  - 0.2g guar gum
-  - 0.17g salt
-  - 0.07g xanthan gum
-- 2g vanilla bean powder → 🟡 2g vanilla extract *(add with wet)*
-- 1g salt
+  - **3.7g** inulin
+  - **0.6g** soy lecithin
+  - **0.3g** CMC
+  - **0.2g** guar gum
+  - **0.17g** salt
+  - **0.07g** xanthan gum
+- **2g** vanilla bean powder → 🟡 **2g** vanilla extract *(add with wet)*
+- **1g** salt
 
 **Mix-ins:**
-- 15g sultanas *(coarsely chopped, soaked overnight in rum; +45 kcal, +10g sugar)*
-- 15g Jamaica rum 43% *(for soaking raisins)*
-- ~160g pancake ribbons *(as prepared from Prep)*
+- **15g** sultanas *(coarsely chopped, soaked overnight in rum; +45 kcal, +10g sugar)*
+- **15g** Jamaica rum 43% *(for soaking raisins)*
+- **~160g** pancake ribbons *(as prepared from Prep)*
 
 **Steps:**
 1. Bake pancakes from prep ingredients in a pan with a little oil. Let cool, cut into ribbons, refrigerate.
@@ -6979,34 +6979,34 @@ A boozy combination of layered chocolate and coconut ice cream. Prepared in 3 ph
 
 **Prep (chocolate layer):**
 - 100ml water (boiling)
-- 20g cocoa powder 11%
-- 20g dark chocolate 70%
+- **20g** cocoa powder 11%
+- **20g** dark chocolate 70%
 - 50ml almond liqueur (Amaretto) 21.5 vol%
 
 **Prep (coconut layer):**
 - 100ml soy milk 1.6% *(heat to 90°C)*
-- 20g coconut flakes (desiccated) *(soak in hot milk for 30-60 min)*
+- **20g** coconut flakes (desiccated) *(soak in hot milk for 30-60 min)*
 - Batida de Côco (50ml) → 🟡 50ml Malibu (or any coconut liqueur)
 
 **Wet:**
 - 225ml soy milk 1.6%
-- 50g cottage cheese 4%
-- 25g Jamaica rum 43%
+- **50g** cottage cheese 4%
+- **25g** Jamaica rum 43%
 
 **Dry:**
-- 5g xylitol
-- 20g whey + casein protein → 🟢 20g whey protein
+- **5g** xylitol
+- **20g** whey + casein protein → 🟢 **20g** whey protein
 - ICSv2 (20g):
-  - 9.2g erythritol
-  - 9.2g inulin
-  - 0.92g CMC
-  - 0.32g guar gum
-  - 0.32g salt
-  - 0.09g xanthan gum
-- 3g vanilla bean powder → 🟡 3g vanilla extract *(add with wet)*
+  - **9.2g** erythritol
+  - **9.2g** inulin
+  - **0.92g** CMC
+  - **0.32g** guar gum
+  - **0.32g** salt
+  - **0.09g** xanthan gum
+- **3g** vanilla bean powder → 🟡 **3g** vanilla extract *(add with wet)*
 
 **Fill to MAX:**
-- Flavor drops Vanilla (7 drops per half) → 🟡 2g vanilla extract per half
+- Flavor drops Vanilla (7 drops per half) → 🟡 **2g** vanilla extract per half
 
 **Steps:**
 1. Bloom cocoa with boiling water, melt chocolate into paste, add Amaretto.
@@ -7037,18 +7037,18 @@ Blends pineapple, orange, and mango juices with coconut milk and a touch of Jama
 - 200ml juice (60% orange / 20% mango / 20% pineapple)
 - 70ml water *(reduced from 100ml to offset canned coconut milk)*
 - 30ml lime or lemon juice
-- 15g pomegranate syrup (grenadine / nar ekşisi)
+- **15g** pomegranate syrup (grenadine / nar ekşisi)
 
 **Wet:**
-- 225g pineapple in juice (canned) *(1 can ~227g, 140g fruit)*
-- 45g Jamaica rum 43%
+- **225g** pineapple in juice (canned) *(1 can ~227g, 140g fruit)*
+- **45g** Jamaica rum 43%
 
 **Dry:**
-- 10g banana powder / green plantain → 🟡 10g corn starch *(recipe heats to 90°C, so starch activates fine)*
-- 20g coconut milk powder → 🟡 50ml canned coconut milk (~18%) *(add to prep liquid)*
-- 20g inulin
-- 1g salt
-- 1g xanthan gum
+- **10g** banana powder / green plantain → 🟡 **10g** corn starch *(recipe heats to 90°C, so starch activates fine)*
+- **20g** coconut milk powder → 🟡 50ml canned coconut milk (~18%) *(add to prep liquid)*
+- **20g** inulin
+- **1g** salt
+- **1g** xanthan gum
 
 **Adjust sweetness:**
 - Flavor drops Peach/Maracuja (9 drops) → 🟡 skip
@@ -7078,22 +7078,22 @@ Works with any fruit powder that harmonizes with coconut milk — ube yam root i
 **Wet:**
 - 400ml soy milk 1.6%
 - 133ml coconut milk 22%
-- 15g brandy 40%
-- 15g glycerin
-- Flavor drops Vanilla (7 drops) → 🟡 2g vanilla extract
+- **15g** brandy 40%
+- **15g** glycerin
+- Flavor drops Vanilla (7 drops) → 🟡 **2g** vanilla extract
 
 **Dry:**
 - ICSv2 (30g):
-  - 13.8g erythritol
-  - 13.8g inulin
-  - 1.4g CMC
-  - 0.5g guar gum
-  - 0.5g salt
-  - 0.14g xanthan gum
-- 25g soy protein isolate → 🟡 25g whey protein *(no longer vegan/dairy-free)*
-- 25g ube yam root powder *(or other fruit powder)*
-- 25g xylitol
-- 3g GMS → 🟢 3g soy lecithin
+  - **13.8g** erythritol
+  - **13.8g** inulin
+  - **1.4g** CMC
+  - **0.5g** guar gum
+  - **0.5g** salt
+  - **0.14g** xanthan gum
+- **25g** soy protein isolate → 🟡 **25g** whey protein *(no longer vegan/dairy-free)*
+- **25g** ube yam root powder *(or other fruit powder)*
+- **25g** xylitol
+- **3g** GMS → 🟢 **3g** soy lecithin
 
 **Fill to MAX:**
 - ~49ml to MAX line water
@@ -7122,27 +7122,27 @@ A balanced, creamy frozen yogurt — light on sugar, rich in texture. Versatile 
 
 **Prep (heated to 90°C):**
 - 100ml soy milk 1.6% *(or any ~2% milk)*
-- 50g monk fruit / erythritol sweetener → 🟢 50g erythritol
-- 30g cream cheese
+- **50g** monk fruit / erythritol sweetener → 🟢 **50g** erythritol
+- **30g** cream cheese
 - 20ml agave syrup
-- 15g banana powder / green plantain → 🟡 15g corn starch *(recipe heats to 90°C, so starch activates fine)*
-- 3g GMS → 🟢 3g soy lecithin *(stir into hot prep)*
+- **15g** banana powder / green plantain → 🟡 **15g** corn starch *(recipe heats to 90°C, so starch activates fine)*
+- **3g** GMS → 🟢 **3g** soy lecithin *(stir into hot prep)*
 
 **Wet:**
 - 400ml yogurt mild 4%
 
 **Dry:**
-- 15g inulin
-- 15g whey + casein protein → 🟢 15g whey protein
-- 1.5g CMC
-- 1g guar gum
-- 1g salt
+- **15g** inulin
+- **15g** whey + casein protein → 🟢 **15g** whey protein
+- **1.5g** CMC
+- **1g** guar gum
+- **1g** salt
 
 **Adjust sweetness:**
-- Flavor drops Vanilla (3 drops) → 🟡 1g vanilla extract
+- Flavor drops Vanilla (3 drops) → 🟡 **1g** vanilla extract
 
 **Mix-ins:**
-- 50g no-sugar-added cherry jam *(manual mix-in; +30 kcal, +3.6g sugar)*
+- **50g** no-sugar-added cherry jam *(manual mix-in; +30 kcal, +3.6g sugar)*
 
 **Optional:**
 - 3ml vanilla extract *(add before freezing)*
@@ -7172,10 +7172,10 @@ A balanced, creamy frozen yogurt — light on sugar, rich in texture. Versatile 
 An exotic ice cream made from miso, hon mirin, coconut milk, and soy protein.
 
 **Prep:**
-- 65g tofu (plain)
-- 50g hon mirin 14 vol%
-- 40g miso (genmai, organic)
-- 20g glycerin
+- **65g** tofu (plain)
+- **50g** hon mirin 14 vol%
+- **40g** miso (genmai, organic)
+- **20g** glycerin
 - 10ml sesame oil (roasted)
 
 **Wet:**
@@ -7183,11 +7183,11 @@ An exotic ice cream made from miso, hon mirin, coconut milk, and soy protein.
 - 100ml coconut milk 22%
 
 **Dry:**
-- 20g soy protein isolate → 🟡 20g whey protein *(no longer vegan/dairy-free)*
-- 20g erythritol
-- 2g GMS → 🟢 2g soy lecithin
-- 1.5g CMC (tylose powder)
-- 0.5g xanthan gum
+- **20g** soy protein isolate → 🟡 **20g** whey protein *(no longer vegan/dairy-free)*
+- **20g** erythritol
+- **2g** GMS → 🟢 **2g** soy lecithin
+- **1.5g** CMC (tylose powder)
+- **0.5g** xanthan gum
 
 **Fill to MAX:**
 - ~91ml to MAX line water
@@ -7216,15 +7216,15 @@ An exotic ice cream made from miso, hon mirin, coconut milk, and soy protein.
 Superior to store-bought vanilla extracts. Use grade B vanilla beans (preferably with residual moisture). Sterilize all equipment for long shelf life (months, refrigerated).
 
 **Prep:**
-- 35g vanilla beans (Bourbon) *(17-18 beans, grade B or A, 12-13 cm)*
+- **35g** vanilla beans (Bourbon) *(17-18 beans, grade B or A, 12-13 cm)*
 
 **Wet:**
 - 140ml water (cold)
 - 24ml agave syrup
 
 **Dry:**
-- 80g trehalose → 🟡 80g sugar *(original suggests table sugar as alternative; slightly sweeter than trehalose)*
-- 1g citric acid
+- **80g** trehalose → 🟡 **80g** sugar *(original suggests table sugar as alternative; slightly sweeter than trehalose)*
+- **1g** citric acid
 
 **Steps:**
 1. Split and chop vanilla beans, removing hard ends.
@@ -7250,30 +7250,30 @@ Pure vanilla, no cream or cottage cheese, double protein. Low fat & sugar, high 
 
 **Wet:**
 - 500ml soy milk 1.6%
-- 20g glycerin
-- 10g brandy or vodka 40%
+- **20g** glycerin
+- **10g** brandy or vodka 40%
 
 **Dry:**
-- 60g soy protein isolate → 🟡 60g whey protein *(no longer vegan/dairy-free)*
+- **60g** soy protein isolate → 🟡 **60g** whey protein *(no longer vegan/dairy-free)*
 - SweEX (40g):
-  - 24g erythritol
-  - 16g xylitol
+  - **24g** erythritol
+  - **16g** xylitol
 - Salty Stability (15g):
-  - 11.0g inulin
-  - 1.8g soy lecithin
-  - 0.9g CMC
-  - 0.6g guar gum
-  - 0.5g salt
-  - 0.2g xanthan gum
-- 4g vanilla bean powder → 🟡 4g vanilla extract *(add with wet)*
+  - **11.0g** inulin
+  - **1.8g** soy lecithin
+  - **0.9g** CMC
+  - **0.6g** guar gum
+  - **0.5g** salt
+  - **0.2g** xanthan gum
+- **4g** vanilla bean powder → 🟡 **4g** vanilla extract *(add with wet)*
 
 **Fill to MAX:**
 - ~71ml to MAX line soy milk 1.6%
-- Flavor drops Vanilla (5 drops) → 🟡 2g vanilla extract
+- Flavor drops Vanilla (5 drops) → 🟡 **2g** vanilla extract
 
 **Mix-ins:**
-- 15g dried sour cherries (pitted) *(chopped; +44 kcal, +9g sugar)*
-- 15g freeze-dried strawberry slices *(crumbled; +45 kcal, +7g sugar)*
+- **15g** dried sour cherries (pitted) *(chopped; +44 kcal, +9g sugar)*
+- **15g** freeze-dried strawberry slices *(crumbled; +45 kcal, +7g sugar)*
 
 **Topping options:** balsamic vinegar of Modena.
 
@@ -7300,35 +7300,35 @@ Vanilla ice cream based on soy milk and cottage cheese, with very low net carbs 
 
 **Wet:**
 - 400ml soy milk 1.6%
-- 100g cottage cheese 4% *(alt: 150g greek yogurt 9% for +64 kcal)*
-- 15g glycerin
-- 10g brandy or vodka 40%
+- **100g** cottage cheese 4% *(alt: 150g greek yogurt 9% for +64 kcal)*
+- **15g** glycerin
+- **10g** brandy or vodka 40%
 
 **Dry:**
 - SweEX (45g):
-  - 27g erythritol
-  - 18g xylitol
+  - **27g** erythritol
+  - **18g** xylitol
 - Salty Stability (15g):
-  - 11.0g inulin
-  - 1.8g soy lecithin
-  - 0.9g CMC
-  - 0.6g guar gum
-  - 0.5g salt
-  - 0.2g xanthan gum
-- 5g vanilla bean powder → 🟡 5g vanilla extract *(add with wet)*
-- 10g whey protein Vanilla → 🟢 10g whey protein (unflavored) *(vanilla already covered by extract)*
+  - **11.0g** inulin
+  - **1.8g** soy lecithin
+  - **0.9g** CMC
+  - **0.6g** guar gum
+  - **0.5g** salt
+  - **0.2g** xanthan gum
+- **5g** vanilla bean powder → 🟡 **5g** vanilla extract *(add with wet)*
+- **10g** whey protein Vanilla → 🟢 **10g** whey protein (unflavored) *(vanilla already covered by extract)*
 
 **Fill to MAX:**
 - ~80ml to MAX line soy milk 1.6%
-- Flavor drops Vanilla (8 drops) → 🟡 3g vanilla extract
+- Flavor drops Vanilla (8 drops) → 🟡 **3g** vanilla extract
 
 **Mix-ins:**
-- 30g mint chocolate (After Eight) *(freeze and chop; +128 kcal, +20g sugar)*
+- **30g** mint chocolate (After Eight) *(freeze and chop; +128 kcal, +20g sugar)*
 
 **Optional / Choices:**
-- 25g ube yam root powder — like vanilla+pistachio (+96 kcal)
-- 25g lingonberry powder — replacing vanilla (+88 kcal)
-- 25g strawberry powder — replacing vanilla (+72 kcal)
+- **25g** ube yam root powder — like vanilla+pistachio (+96 kcal)
+- **25g** lingonberry powder — replacing vanilla (+88 kcal)
+- **25g** strawberry powder — replacing vanilla (+72 kcal)
 
 **Steps:**
 1. Add wet ingredients (including 5g vanilla extract) to empty Creami tub.
@@ -7355,25 +7355,25 @@ Vegan almond butter + amaretto in soy milk. Cooked base thickened with starch. S
 
 **Prep:**
 - 350ml soy milk 1.6%
-- 40g almond butter (creamy)
+- **40g** almond butter (creamy)
 
 **Wet:**
 - 160ml soy milk 1.6%
-- 40g amaretto 21.5%
+- **40g** amaretto 21.5%
 
 **Dry:**
 - SweEX (45g):
-  - 27g erythritol
-  - 18g xylitol
-- 20g banana powder / green plantain → 🟡 20g corn starch *(OK — cooked base reaches 90°C)*
-- 20g inulin
-- 2g GMS → 🟢 2g soy lecithin
-- 2g vanilla bean powder → 🟡 2g vanilla extract *(add with wet)*
-- 1g salt
+  - **27g** erythritol
+  - **18g** xylitol
+- **20g** banana powder / green plantain → 🟡 **20g** corn starch *(OK — cooked base reaches 90°C)*
+- **20g** inulin
+- **2g** GMS → 🟢 **2g** soy lecithin
+- **2g** vanilla bean powder → 🟡 **2g** vanilla extract *(add with wet)*
+- **1g** salt
 
 **Adjust sweetness:**
 - Flavor drops Cookies&Cream stevia (12 drops) → 🟡 skip *(not available; base already sweet from SweEX + amaretto)*
-- Flavor drops Vanilla (3 drops) → 🟡 1g vanilla extract
+- Flavor drops Vanilla (3 drops) → 🟡 **1g** vanilla extract
 
 **Steps:**
 1. Heat 350ml soy milk and almond butter to ~90°C in a saucepan.
@@ -7399,25 +7399,25 @@ Holiday gingerbread ice cream — soy milk, winter spices, molasses, and Amarett
 
 **Wet:**
 - 525ml soy milk 1.6%
-- 30g molasses
+- **30g** molasses
 - 25ml amaretto 21.5%
-- 15g glycerin
+- **15g** glycerin
 
 **Dry:**
 - SweEX (30g):
-  - 18g erythritol
-  - 12g xylitol
-- 15g Waxy Maize Starch / Ultratex → 🟡 15g corn starch *(cold base — heat 100ml of the soy milk to 90°C, whisk in corn starch until thickened, let cool, then add to tub)*
-- 30g inulin
-- 5g pumpkin spice
-- 2g vanilla bean powder → 🟡 2g vanilla extract *(add with wet)*
-- 1g salt
+  - **18g** erythritol
+  - **12g** xylitol
+- **15g** Waxy Maize Starch / Ultratex → 🟡 **15g** corn starch *(cold base — heat 100ml of the soy milk to 90°C, whisk in corn starch until thickened, let cool, then add to tub)*
+- **30g** inulin
+- **5g** pumpkin spice
+- **2g** vanilla bean powder → 🟡 **2g** vanilla extract *(add with wet)*
+- **1g** salt
 
 **Top off:**
 - Flavor drops Cookies&Cream stevia (3 drops) → 🟡 skip *(not available; molasses + SweEX provide sweetness)*
 
 **Topping options:**
-- 40g Biscoff "Lotus" cookies *(1pc = 7.8g; +194 kcal, +15g sugar)*
+- **40g** Biscoff "Lotus" cookies *(1pc = 7.8g; +194 kcal, +15g sugar)*
 
 **Steps:**
 1. Heat 100ml of the soy milk to 90°C, whisk in corn starch until thickened. Let cool.
@@ -7444,27 +7444,27 @@ Refreshing dairy-free lime ice cream with tofu and soy milk. Zesty and creamy.
 **Prep:**
 - 50ml Limoncello 28%
 - SweEX (45g):
-  - 27g erythritol
-  - 18g xylitol
+  - **27g** erythritol
+  - **18g** xylitol
 - 20ml lime juice + zest (organic) *(1 lime; optionally 2 limes or 1 lemon)*
 
 **Wet:**
 - 200ml soy milk 1.6% *(heat and blend with the tofu)*
-- 90g tofu (plain) *(silken tofu preferred)*
+- **90g** tofu (plain) *(silken tofu preferred)*
 - 250ml soy milk 1.6%
 
 **Dry:**
 - Salty Stability (15g):
-  - 11.0g inulin
-  - 1.8g soy lecithin
-  - 0.9g CMC
-  - 0.6g guar gum
-  - 0.5g salt
-  - 0.2g xanthan gum
-- 10g Waxy Maize Starch / Ultratex → 🟡 10g corn starch *(optional, for viscosity; dissolve into the hot soy milk when softening tofu)*
+  - **11.0g** inulin
+  - **1.8g** soy lecithin
+  - **0.9g** CMC
+  - **0.6g** guar gum
+  - **0.5g** salt
+  - **0.2g** xanthan gum
+- **10g** Waxy Maize Starch / Ultratex → 🟡 **10g** corn starch *(optional, for viscosity; dissolve into the hot soy milk when softening tofu)*
 
 **Fill to MAX:**
-- Flavor drops "Natural" stevia (12 drops) → 🟡 ~0.02g pinch sucralose
+- Flavor drops "Natural" stevia (12 drops) → 🟡 **~0.02g** pinch sucralose
 
 **Steps:**
 1. Zest the lime(s), rub zest into the SweEX, add juice and Limoncello. Set aside.
@@ -7491,21 +7491,21 @@ Plain vanilla base using soy milk and starch. Use enough vanilla — taste the b
 
 **Wet:**
 - 575ml soy milk 1.6%
-- 15g glycerin
-- 10g brandy or vodka 40%
+- **15g** glycerin
+- **10g** brandy or vodka 40%
 
 **Dry:**
 - SweEX (45g):
-  - 27g erythritol
-  - 18g xylitol
-- 20g inulin
-- 15g Waxy Maize Starch / Ultratex → 🟡 15g corn starch *(cold base — heat 100ml of the soy milk to 90°C, whisk in corn starch until thickened, let cool, then add to tub)*
-- 4g vanilla bean powder → 🟡 4g vanilla extract *(add with wet)*
-- 1g salt
-- 0.75g xanthan gum
+  - **27g** erythritol
+  - **18g** xylitol
+- **20g** inulin
+- **15g** Waxy Maize Starch / Ultratex → 🟡 **15g** corn starch *(cold base — heat 100ml of the soy milk to 90°C, whisk in corn starch until thickened, let cool, then add to tub)*
+- **4g** vanilla bean powder → 🟡 **4g** vanilla extract *(add with wet)*
+- **1g** salt
+- **0.75g** xanthan gum
 
 **Adjust sweetness:**
-- Flavor drops Vanilla (4 drops) → 🟡 2g vanilla extract
+- Flavor drops Vanilla (4 drops) → 🟡 **2g** vanilla extract
 
 **Steps:**
 1. Heat 100ml of the soy milk to 90°C, whisk in corn starch until thickened. Let cool.
@@ -7533,32 +7533,32 @@ Velvety nuts, sweetened with dates, kissed by vanilla. Medjool dates give a natu
 
 **Prep:**
 - 150ml water (boiling)
-- 60g Medjool dates (organic) *(3 dates, pitted, coarsely chopped)*
-- 30g cashew nuts
-- 20g coconut flakes (desiccated)
+- **60g** Medjool dates (organic) *(3 dates, pitted, coarsely chopped)*
+- **30g** cashew nuts
+- **20g** coconut flakes (desiccated)
 
 **Wet:**
 - 300ml soy milk 1.6%
-- 15g glycerin
-- 10g brandy or vodka 40%
+- **15g** glycerin
+- **10g** brandy or vodka 40%
 
 **Dry:**
 - SweEX (25g):
-  - 15g erythritol
-  - 10g xylitol
+  - **15g** erythritol
+  - **10g** xylitol
 - Salty Stability (8g):
-  - 5.9g inulin
-  - 0.96g soy lecithin
-  - 0.48g CMC
-  - 0.32g guar gum
-  - 0.27g salt
-  - 0.11g xanthan gum
-- 2g vanilla bean powder → 🟡 2g vanilla extract *(add with wet)*
-- 1g salt
+  - **5.9g** inulin
+  - **0.96g** soy lecithin
+  - **0.48g** CMC
+  - **0.32g** guar gum
+  - **0.27g** salt
+  - **0.11g** xanthan gum
+- **2g** vanilla bean powder → 🟡 **2g** vanilla extract *(add with wet)*
+- **1g** salt
 
 **Fill to MAX:**
 - ~59ml to MAX line soy milk 1.6%
-- Flavor drops Vanilla (4 drops) → 🟡 2g vanilla extract
+- Flavor drops Vanilla (4 drops) → 🟡 **2g** vanilla extract
 
 **Steps:**
 1. Cut dates in half, check for pits/spoilage, coarsely chop.
@@ -7589,12 +7589,12 @@ Soaked raisins variant (option 2): soak 40g chopped raisins in 45g rum (43%) a d
 
 **Prep:**
 - 175ml buttermilk 1%
-- 40g almond butter (creamy)
+- **40g** almond butter (creamy)
 - SweEX (33g):
-  - 19.8g erythritol
-  - 13.2g xylitol
-- 15g skim milk powder (SMP)
-- 2g GMS → 🟢 2g soy lecithin
+  - **19.8g** erythritol
+  - **13.2g** xylitol
+- **15g** skim milk powder (SMP)
+- **2g** GMS → 🟢 **2g** soy lecithin
 
 **Wet:**
 - 300ml buttermilk 1%
@@ -7602,19 +7602,19 @@ Soaked raisins variant (option 2): soak 40g chopped raisins in 45g rum (43%) a d
 
 **Dry:**
 - Salty Stability (15g):
-  - 11.0g inulin
-  - 1.8g soy lecithin
-  - 0.9g CMC
-  - 0.6g guar gum
-  - 0.5g salt
-  - 0.2g xanthan gum
+  - **11.0g** inulin
+  - **1.8g** soy lecithin
+  - **0.9g** CMC
+  - **0.6g** guar gum
+  - **0.5g** salt
+  - **0.2g** xanthan gum
 
 **Adjust sweetness:**
 - Flavor drops Cookies&Cream stevia (10 drops) → 🟡 skip *(not available; amaretto + SweEX provide sweetness)*
 
 **Mix-ins (choose option 1 or 2):**
-- 20g Option 1: dark chocolate shavings *(+101 kcal, +10g sugar)* · 20g gingerbread (herbal) *(chopped; +74 kcal, +8g sugar)* · 15g almond slivers *(chopped; +88 kcal)* · 15g sultanas *(chopped; +45 kcal, +10g sugar)*
-- 40g Option 2: sultanas *(chopped, soaked in rum; +119 kcal, +27g sugar)* · 45g Jamaica rum 43% *(drain raisins, add surplus to base)*
+- **20g** Option 1: dark chocolate shavings *(+101 kcal, +10g sugar)* · 20g gingerbread (herbal) *(chopped; +74 kcal, +8g sugar)* · 15g almond slivers *(chopped; +88 kcal)* · 15g sultanas *(chopped; +45 kcal, +10g sugar)*
+- **40g** Option 2: sultanas *(chopped, soaked in rum; +119 kcal, +27g sugar)* · 45g Jamaica rum 43% *(drain raisins, add surplus to base)*
 
 **Steps:**
 1. Microwave 175ml buttermilk with almond butter to ~75°C.
@@ -7643,32 +7643,32 @@ Applesauce sherbet with cinnamon, stollen pieces as mix-in. Mix-ins not included
 **Wet:**
 - 300ml apple sauce (no added sugar)
 - 150ml soy milk 1.6%
-- 100g cottage cheese 4% *(alt: silken tofu for dairy-free)*
-- 15g glycerin
-- 10g brandy or vodka 40%
+- **100g** cottage cheese 4% *(alt: silken tofu for dairy-free)*
+- **15g** glycerin
+- **10g** brandy or vodka 40%
 
 **Dry:**
 - SweEX (32g):
-  - 19.2g erythritol
-  - 12.8g xylitol
+  - **19.2g** erythritol
+  - **12.8g** xylitol
 - Salty Stability (15g):
-  - 11.0g inulin
-  - 1.8g soy lecithin
-  - 0.9g CMC
-  - 0.6g guar gum
-  - 0.5g salt
-  - 0.2g xanthan gum
-- 3g cinnamon (Ceylon)
+  - **11.0g** inulin
+  - **1.8g** soy lecithin
+  - **0.9g** CMC
+  - **0.6g** guar gum
+  - **0.5g** salt
+  - **0.2g** xanthan gum
+- **3g** cinnamon (Ceylon)
 
 **Fill to MAX:**
 - ~55ml to MAX line soy milk 1.6%
-- Flavor drops Vanilla (3 drops) → 🟡 1g vanilla extract
+- Flavor drops Vanilla (3 drops) → 🟡 **1g** vanilla extract
 - Flavor drops Caramel (3 drops) → 🟡 5ml Manis milk cream
 
 **Mix-ins:**
-- 20g almond slivers *(topping or mix-in; +118 kcal)*
-- 15g raisins (chopped) *(+45 kcal, +10g sugar)*
-- 50g stollen (coarsely cubed) *(+194 kcal, +17g sugar)*
+- **20g** almond slivers *(topping or mix-in; +118 kcal)*
+- **15g** raisins (chopped) *(+45 kcal, +10g sugar)*
+- **50g** stollen (coarsely cubed) *(+194 kcal, +17g sugar)*
 
 **Steps:**
 1. Add wet ingredients to empty Creami tub.
@@ -7695,37 +7695,37 @@ Festive chocolate ice cream — cocoa + gingerbread + Amaretto + cinnamon + vani
 
 **Prep:**
 - 130ml soy milk 1.6% *(heat to ~80°C)*
-- 40g cocoa powder 11%
+- **40g** cocoa powder 11%
 
 **Wet:**
 - 250ml soy milk 1.6%
 - 35ml amaretto 28% *(alt: 19g glycerin + almond extract)*
-- 5g glycerin
+- **5g** glycerin
 
 **Dry:**
 - SweEX (50g):
-  - 30g erythritol
-  - 20g xylitol
-- 30g inulin
-- 15g whey + casein protein → 🟢 15g whey protein
+  - **30g** erythritol
+  - **20g** xylitol
+- **30g** inulin
+- **15g** whey + casein protein → 🟢 **15g** whey protein
 - Salty Stability (10g):
-  - 7.3g inulin
-  - 1.2g soy lecithin
-  - 0.6g CMC
-  - 0.4g guar gum
-  - 0.3g salt
-  - 0.13g xanthan gum
-- 1g cinnamon (Ceylon) *(optional, to taste)*
+  - **7.3g** inulin
+  - **1.2g** soy lecithin
+  - **0.6g** CMC
+  - **0.4g** guar gum
+  - **0.3g** salt
+  - **0.13g** xanthan gum
+- **1g** cinnamon (Ceylon) *(optional, to taste)*
 
 **Top off:**
 - 50ml cream 32%
-- Flavor drops Vanilla (5 drops) → 🟡 2g vanilla extract
+- Flavor drops Vanilla (5 drops) → 🟡 **2g** vanilla extract
 
 **Mix-ins:**
-- 30g gingerbread (herbal) *(firm, chopped; +111 kcal, +12g sugar)*
-- 10g almond slivers *(chopped; +59 kcal)*
-- 7g candied orange peel *(chopped; +22 kcal, +5g sugar)*
-- 13g sultanas *(chopped; +39 kcal, +9g sugar)*
+- **30g** gingerbread (herbal) *(firm, chopped; +111 kcal, +12g sugar)*
+- **10g** almond slivers *(chopped; +59 kcal)*
+- **7g** candied orange peel *(chopped; +22 kcal, +5g sugar)*
+- **13g** sultanas *(chopped; +39 kcal, +9g sugar)*
 
 **Steps:**
 1. Bloom cocoa: microwave 130ml soy milk ~60s at 800W, stir in cocoa until smooth paste.
@@ -7752,32 +7752,32 @@ Festive chocolate ice cream — cocoa + gingerbread + Amaretto + cinnamon + vani
 "Take a scoop, if you dare!" — Halloween ice cream inspired by themed cocktails. Mix-ins not included in macros.
 
 **Prep:**
-- 50g grappa 40%
+- **50g** grappa 40%
 - 20ml lime juice + zest (organic) *(1 lime)*
-- 17g pomegranate syrup (nar ekşisi)
+- **17g** pomegranate syrup (nar ekşisi)
 - 3ml raspberry emulsion *(LorAnn or similar; optional if unavailable)*
 
 **Wet:**
 - 425ml soy milk 1.6%
-- 10g molasses
+- **10g** molasses
 
 **Dry:**
-- 30g trehalose → 🟡 30g sugar *(original suggests sugar as alternative; adjust stevia accordingly)*
-- 15g inulin
-- 15g ube yam root powder *(alt: blueberry or lingonberry powder)*
-- 15g whey + casein protein → 🟢 15g whey protein
-- 10g Waxy Maize Starch / Ultratex → 🟡 10g corn starch *(cold base — heat 100ml of the soy milk to 90°C, whisk in corn starch until thickened, let cool, then add to tub)*
-- 3g beet root powder *(optional, for color)*
-- 0.75g salt
-- 0.75g xanthan gum
+- **30g** trehalose → 🟡 **30g** sugar *(original suggests sugar as alternative; adjust stevia accordingly)*
+- **15g** inulin
+- **15g** ube yam root powder *(alt: blueberry or lingonberry powder)*
+- **15g** whey + casein protein → 🟢 **15g** whey protein
+- **10g** Waxy Maize Starch / Ultratex → 🟡 **10g** corn starch *(cold base — heat 100ml of the soy milk to 90°C, whisk in corn starch until thickened, let cool, then add to tub)*
+- **3g** beet root powder *(optional, for color)*
+- **0.75g** salt
+- **0.75g** xanthan gum
 
 **Fill to MAX:**
 - prepared grappa/lime/syrup mix *(blend into base before tasting)*
 - 60ml cream 32%
-- stevia drops "natural" (15 drops) → 🟡 ~0.03g pinch sucralose
+- stevia drops "natural" (15 drops) → 🟡 **~0.03g** pinch sucralose
 
 **Mix-ins:**
-- 20g cranberries (sugared, chopped) *(soak overnight in some of the grappa; +64 kcal, +12g sugar)*
+- **20g** cranberries (sugared, chopped) *(soak overnight in some of the grappa; +64 kcal, +12g sugar)*
 
 **Steps:**
 1. Chop cranberries, soak overnight in some of the grappa (covered, in fridge).
@@ -7806,27 +7806,27 @@ Woodruff ("Waldmeister") — a German flavor used in Berliner Kindl, Maibowle, a
 
 **Wet:**
 - 500ml soy milk 1.6%
-- 20g glycerin
-- 15g brandy or vodka 40%
+- **20g** glycerin
+- **15g** brandy or vodka 40%
 
 **Dry:**
-- 20g soy protein isolate → 🟡 20g whey protein *(no longer vegan/dairy-free)*
-- 20g whey + casein protein → 🟢 20g whey protein *(total 40g whey)*
-- 20g trehalose → 🟡 20g sugar
-- 15g erythritol
+- **20g** soy protein isolate → 🟡 **20g** whey protein *(no longer vegan/dairy-free)*
+- **20g** whey + casein protein → 🟢 **20g** whey protein *(total 40g whey)*
+- **20g** trehalose → 🟡 **20g** sugar
+- **15g** erythritol
 - Salty Stability (15g):
-  - 11.0g inulin
-  - 1.8g soy lecithin
-  - 0.9g CMC
-  - 0.6g guar gum
-  - 0.5g salt
-  - 0.2g xanthan gum
-- 2.5g instant drink "Woodruff" (0 sugar) *(1 stick for 500ml; or any instant drink powder)*
-- 1g matcha green tea powder *(for color; ½ tsp)*
+  - **11.0g** inulin
+  - **1.8g** soy lecithin
+  - **0.9g** CMC
+  - **0.6g** guar gum
+  - **0.5g** salt
+  - **0.2g** xanthan gum
+- **2.5g** instant drink "Woodruff" (0 sugar) *(1 stick for 500ml; or any instant drink powder)*
+- **1g** matcha green tea powder *(for color; ½ tsp)*
 
 **Fill to MAX:**
 - ~91.5ml to MAX line water (cold)
-- Flavor drops Vanilla (1 drop) → 🟡 ~0.5g splash vanilla extract
+- Flavor drops Vanilla (1 drop) → 🟡 **~0.5g** splash vanilla extract
 
 **Steps:**
 1. Add wet ingredients to empty Creami tub.
@@ -7849,15 +7849,15 @@ Tags: ice cream, cookie dough, chickpea, low-calorie, high-protein
 Scaled to Deluxe pint from u/Salty_Zebra5937's original.
 
 **Ingredients:**
-- 400g Marata 1.5% milk
-- 110g canned chickpeas (drained, no aquafaba)
-- 11g peanut butter
-  - 22g PB2 → 🟡 11g peanut butter (higher fat, less peanut intensity — blend thoroughly)
-- 55g dates (pitted) (~4 dates)
-- 10g erythritol
-- 8g xylitol
-- 0.05g/pinch sucralose
-- 2.5g guar gum
+- **400g** Marata 1.5% milk
+- **110g** canned chickpeas (drained, no aquafaba)
+- **11g** peanut butter
+  - **22g** PB2 → 🟡 **11g** peanut butter (higher fat, less peanut intensity — blend thoroughly)
+- **55g** dates (pitted) (~4 dates)
+- **10g** erythritol
+- **8g** xylitol
+- **0.05g**/pinch sucralose
+- **2.5g** guar gum
 
 **Steps:**
 1. Pit dates and roughly chop.
@@ -7888,15 +7888,15 @@ Tags: mix-in, prep, low-calorie, high-protein, chocolate, crunch, chewy
 Low-cal brownie cubes for mix-ins. One batch makes ~9 pints worth. Two textures from one batch: chewy center cubes + crunchy re-baked edge cubes.
 
 **Ingredients (1 batch, ~272g finished):**
-- 50g whey protein (unflavored)
-- 35g cocoa powder
-- 80g erythritol (or SweEX)
+- **50g** whey protein (unflavored)
+- **35g** cocoa powder
+- **80g** erythritol (or SweEX)
 - 1 egg (~50g)
-- 15g corn starch
-- 85g water
-- 1g salt
-- 1g baking powder
-- 0.05g/pinch sucralose
+- **15g** corn starch
+- **85g** water
+- **1g** salt
+- **1g** baking powder
+- **0.05g**/pinch sucralose
 
 **Steps:**
 1. Preheat oven to 170°C.
@@ -7934,15 +7934,15 @@ Pure crunch, almost zero calories. Shatters into ice cream during Mix-In. Choose
 
 **Ingredients (1 batch, ~4 pints):**
 - 2 egg whites (~66g)
-- 60g sweet / 50g sweet-salty (adjust down to make room for salt) SweEX
-- 1.5g/pinch cream of tartar (stabilizes foam)
-- 3g *sweet-salty only:* salt
+- **60g** sweet / 50g sweet-salty (adjust down to make room for salt) SweEX
+- **1.5g**/pinch cream of tartar (stabilizes foam)
+- **3g** *sweet-salty only:* salt
 
 **Ingredients (double batch — makes both, ~8 pints):**
 - 4 egg whites (~132g)
-- 110g SweEX (66g erythritol + 44g xylitol)
-- 3g cream of tartar
-- 3g salt (for the salty half only)
+- **110g** SweEX (66g erythritol + 44g xylitol)
+- **3g** cream of tartar
+- **3g** salt (for the salty half only)
 
 **Steps:**
 1. Preheat oven to 100°C. Line tray(s) with parchment.
@@ -7974,9 +7974,9 @@ Tags: mix-in, prep, low-calorie, crunch-to-chewy, tangy
 Snappy crunch from the freezer that softens to chewy in the ice cream. Adds a tangy flavor layer.
 
 **Ingredients (1 batch, ~170g finished, ~5 pints):**
-- 150g Marata 2% strained yogurt
-- 20g erythritol
-- 0.05g/pinch sucralose
+- **150g** Marata 2% strained yogurt
+- **20g** erythritol
+- **0.05g**/pinch sucralose
 - optional: flavor drops (chocolate, strawberry, or milk cream) or 5g cocoa powder swirled through
 
 **Steps:**
@@ -8005,8 +8005,8 @@ Tags: mix-in, prep, low-calorie, crunch, chocolate
 Paper-thin chocolate shards — the pre-made version of the chocolate ribbon hack. Controlled portions, stays crispy through Mix-In.
 
 **Ingredients (1 batch, ~18g finished, ~2 pints):**
-- 15g dark chocolate (70%+)
-- 3g coconut oil
+- **15g** dark chocolate (70%+)
+- **3g** coconut oil
 
 **Steps:**
 1. Melt chocolate and coconut oil together (microwave 20 sec intervals, stir between, or double boiler).
