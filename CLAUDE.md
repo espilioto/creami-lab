@@ -7,6 +7,7 @@
 
 > For recipe optimization, Scoopulator validation, ingredient science, and target profiles → use `/optimize`
 > For recipe adaptation rules, ingredient swaps, blend compositions, and CREAMing.md formatting → use `/adapt`
+> For extracting recipes from Reddit posts (body + comments, pantry check, unit conversion) → use `/reddit`
 
 ---
 
