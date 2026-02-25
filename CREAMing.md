@@ -695,10 +695,10 @@ Tags: cream-pie, cinnamon, protein, low-calorie
 - 1g xanthan gum
 
 **Mix-in (frozen alongside pint):**
-- Oatmeal Creme Pie (1 whole) → 🟡 any cream-filled sandwich cookie, frozen
+- 1 Oatmeal Creme Pie → 🟡 any cream-filled sandwich cookie, frozen
 
 **Topping:**
-- Oatmeal Creme Pie (1/3) → 🟡 sandwich cookie, chopped
+- 1/3 Oatmeal Creme Pie → 🟡 sandwich cookie, chopped
 
 **Steps:**
 1. Add milk, whey, glycerin, sweetener, vanilla to high-sided container.
@@ -815,7 +815,7 @@ Calories: base only ~470 kcal (102/100g) · with mix-ins ~610 kcal (~120/100g)
 
 **Toppings:**
 - 10g crushed pretzels
-- Prime Bites Protein Brownie (1/2) → 🟡 half a regular brownie, or ~25g DIY brownie (see Fudge Brownie recipe) (less protein, more calories)
+- 1/2 Prime Bites Protein Brownie → 🟡 half a regular brownie, or ~25g DIY brownie (see Fudge Brownie recipe) (less protein, more calories)
 
 **Steps:**
 1. Add milk, whey, glycerin, sweeteners, peanut butter, salt, xanthan to pint.
@@ -1216,7 +1216,7 @@ Tags: chocolate, vanilla, brownie, cookie dough, protein
 
 **Mix-ins (split across both pints):**
 - Prime Bites Protein Brownie (1/2) → 🟡 ~25g any brownie, chopped (less protein, more calories)
-- Fuul Snacks Cookie Dough (1/3 package) → 🟡 ~17g any cookie dough pieces (less protein, more calories)
+- 1/3 package Fuul Snacks Cookie Dough → 🟡 ~17g any cookie dough pieces (less protein, more calories)
 
 **Steps:**
 1. Blend each base separately with immersion blender 90 sec. Freeze both 24h.
