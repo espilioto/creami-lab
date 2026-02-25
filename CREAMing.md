@@ -1,15 +1,4 @@
-# CREAMing Again — Recipes Adapted for me 🌻
-Swap science in `CREAMI_CONTEXT.md` Section 4.
-
-## Swap Tiers
-- 🟢 = functionally equivalent
-- 🟡 = works but noticeably different
-- 🔴 = no viable swap — buy it or skip
-
-## Format
-- `original → swap [tier emoji]` — swapped ingredient with exact weights
-- No marking = ingredient available as-is, use directly
-
+# CREAMing — Recipes Adapted for me 🌻
 
 ## [E4CM](https://www.youtube.com/@Exercise4CheatMeals)
 
