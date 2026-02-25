@@ -7912,7 +7912,6 @@ Tags: frozen yogurt, banana, biscoff, high-protein
 - Optional: add 8–15g Biscoff cookie butter (Lotus spread) to base for more Biscoff intensity.
 - Xylitol safe at 17g (limit ~20-30g). If sensitive, shift 5g to erythritol.
 
-**Scoopulator:** `Serv. -15.7°C 🟢 | Solids 29.1% 🟢 | Stab 0.6% 🟢 | Sugars 14.3% 🟡 | Sweet 10.4% 🟡 | Fat 1.0% 🔴 | MSNF 3.0% 🔴 | Emul 0% 🔴`
 **Nutrition (per 100g):** 102 kcal | 1.7g fat | 12.7g carbs | 5.9g protein
 **Total weight:** ~572g base + ~46g mix-ins = ~618g
 
