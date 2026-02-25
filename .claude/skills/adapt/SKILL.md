@@ -9,7 +9,10 @@ allowed-tools: Read, Grep, Glob, Write, Edit, WebFetch
 ## Formatting Rules
 
 1. **Self-contained:** Every recipe must be complete and ready to follow. Never reference another file — "see e4cm_recipes.md" is not acceptable.
-2. **Swap format:** `original (weight) [tier emoji]` then sub-bullets for each replacement ingredient. For simple 1:1 swaps use inline `→`. No shorthand — expand blends to components. Break multi-ingredient swaps into sub-bullets for readability.
+2. **Swap format:** Two styles depending on complexity:
+   - **1:1 swap:** `original -> swap {weight} (notes) {emoji}`
+   - **Multi-ingredient swap:** `original {weight} {emoji} (notes)` then sub-bullets with each replacement ingredient.
+   No shorthand — expand blends to components.
 3. **Only swap what's unavailable.** If it's at the supermarket (almond milk, cocoa, Oreos, cream cheese, fruit, etc.), don't list a swap.
 4. **Steps as numbered lists.** Never compress steps into a single line.
 5. **No hot water rinse.** Process straight from freezer → scrape down sides with butter knife → push top down with spoon → Re-Spin or Mix-In. Follow ice-creamery repo guidance over YouTubers when in doubt.
