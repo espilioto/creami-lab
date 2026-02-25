@@ -2762,6 +2762,7 @@ Tags: almond, amaretto, buttermilk, scoopable, low-sugar
 9. Drizzle molasses on top if desired.
 
 **Nutrition (per pint):** 689 kcal | 26g fat | 33g protein | 101g carbs
+
 **PAC:** 31
 
 ---
@@ -2828,6 +2829,7 @@ Tags: apple, cinnamon, high-protein, scoopable, low-fat, vegan
 **Mix-in options:** 20g almond slivers, 10g raisins
 
 **Nutrition (per pint):** 678 kcal | 21g fat | 40g protein | 117g carbs
+
 **PAC:** 31
 
 ---
@@ -2873,6 +2875,7 @@ Tags: apple, cinnamon, raisin, scoopable
 7. Make a hole to the bottom. Add almonds, raisins, and croissant slices in layers. Mix-In.
 
 **Nutrition (per pint, incl. mix-ins):** 735 kcal | 25g fat | 30g protein | 114g carbs
+
 **PAC:** 30
 
 ---
@@ -2909,6 +2912,7 @@ Tags: avocado, vegan, dairy-free, low-sugar, scoopable
 7. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
 
 **Nutrition (per pint):** 852 kcal | 71g fat | 8g protein | 88g carbs
+
 **PAC:** 30
 
 ---
@@ -2947,6 +2951,7 @@ Tags: banana, aquafaba, vegan, dairy-free, high-protein, low-fat, low-sugar, sco
 8. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
 
 **Nutrition (per pint):** 568 kcal | 17g fat | 32g protein | 86g carbs
+
 **PAC:** 31
 
 ---
@@ -2989,6 +2994,7 @@ Tags: banana, vegan, dairy-free, high-protein, low-fat, low-sugar, scoopable
 7. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
 
 **Nutrition (per pint):** 630 kcal | 8g fat | 41g protein | 116g carbs
+
 **PAC:** 31
 
 ---
@@ -3028,6 +3034,7 @@ Tags: banana, cream-cheese, scoopable, low-fat, low-sugar, light
 7. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
 
 **Nutrition (per pint):** 504 kcal | 15g fat | 17g protein | 92g carbs
+
 **PAC:** 30
 
 ---
@@ -3073,6 +3080,7 @@ Tags: banana, cottage-cheese, high-protein, low-fat, scoopable
 8. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
 
 **Nutrition (per pint):** 605 kcal | 11g fat | 32g protein | 106g carbs
+
 **PAC:** 30
 
 ---
@@ -3104,6 +3112,7 @@ Tags: banana, rum, gelato, simple, scoopable
 6. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
 
 **Nutrition (per pint):** 850 kcal | 32g fat | 13g protein | 69g carbs
+
 **PAC:** 31
 
 ---
@@ -3149,6 +3158,7 @@ Tags: banana, toffee, vegan, dairy-free, high-protein, low-fat, scoopable
 8. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
 
 **Nutrition (per pint):** 691 kcal | 15g fat | 40g protein | 107g carbs
+
 **PAC:** 28
 
 ---
@@ -3201,6 +3211,7 @@ Tags: cherry, coconut, mexican, scoopable, low-sugar
 8. Make a hole to the bottom. Add mix-ins in layers. Mix-In.
 
 **Nutrition (per pint, base only):** 640 kcal | 26g fat | 26g protein | 98g carbs
+
 **PAC:** 30
 
 ---
@@ -3242,6 +3253,7 @@ Tags: blueberry, buttermilk, high-protein, low-fat, low-sugar, scoopable, multi-
 6. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
 
 **Nutrition (per pint):** 515 kcal | 10g fat | 33g protein | 94g carbs
+
 **PAC:** 32
 
 ---
@@ -3291,6 +3303,7 @@ Tags: butter, pecan, vanilla, scoopable, low-sugar, cooked-base
 10. Warm the butter-pecan mixture briefly in microwave until butter is liquid. Add to base and quickly start Mix-In before butter re-solidifies.
 
 **Nutrition (per pint):** 907 kcal | 59g fat | 29g protein | 86g carbs
+
 **PAC:** 30
 
 ---
@@ -3335,6 +3348,7 @@ Tags: buttermilk, chocolate, stracciatella, high-protein, low-fat, low-sugar, sc
 8. Refreeze at least 1 hour before serving.
 
 **Nutrition (per pint, base only):** 656 kcal | 14g fat | 47g protein | 104g carbs
+
 **PAC:** 31
 
 ---
@@ -3371,6 +3385,7 @@ Tags: buttermilk, vanilla, high-protein, low-sugar, scoopable
 9. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
 
 **Nutrition (per pint):** 640 kcal | 27g fat | 35g protein | 89g carbs
+
 **PAC:** 31
 
 ---
@@ -3423,6 +3438,7 @@ Tags: butterscotch, vanilla, butter, scoopable, cooked-base
 10. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
 
 **Nutrition (per pint):** 1200 kcal | 82g fat | 23g protein | 125g carbs
+
 **PAC:** 30
 
 ---
@@ -3482,6 +3498,7 @@ Tags: chocolate, coffee, dark-cocoa, scoopable, low-sugar
 10. Make a hole to the bottom. Add crushed cashews. Mix-In.
 
 **Nutrition (per pint, incl. cashews):** 862 kcal | 40g fat | 39g protein | 104g carbs
+
 **PAC:** 31
 
 ---
@@ -3523,6 +3540,7 @@ Tags: caramel, toffee, dates, scoopable, low-fat, low-sugar
 10. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
 
 **Nutrition (per pint):** 623 kcal | 13g fat | 28g protein | 151g carbs
+
 **PAC:** 30
 
 ---
@@ -3571,6 +3589,7 @@ Tags: cheesecake, buttermilk, quark, high-protein, low-fat, low-sugar, light, sc
 8. Serve with graham crackers or cookies on the side.
 
 **Nutrition (per pint, base only):** 491 kcal | 4g fat | 46g protein | 87g carbs
+
 **PAC:** 30
 
 ---
@@ -3621,6 +3640,7 @@ Tags: cherry, fruit, cream-cheese, scoopable, low-fat, low-sugar, multi-flavor
 7. Make a hole to the bottom. Add cherry spread in partial amounts, folding ice cream over between additions. Mix-In.
 
 **Nutrition (per pint):** 545 kcal | 19g fat | 24g protein | 89g carbs
+
 **PAC:** 31
 
 ---
@@ -3664,6 +3684,7 @@ Tags: chocolate, chia, gum-free, low-sugar
 9. Make a hole to the bottom. Add sesame seeds. Mix-In.
 
 **Nutrition (per pint):** 849 kcal | 34g fat | 38g protein | 86g carbs
+
 **PAC:** 27
 
 ---
@@ -3707,6 +3728,7 @@ Tags: chocolate, caramel, chickpea, dates, gum-free, low-fat, low-sugar, vegan-o
 9. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
 
 **Nutrition (per pint):** 798 kcal | 9g fat | 33g protein | 107g carbs
+
 **PAC:** 30
 
 ---
@@ -3750,6 +3772,7 @@ Tags: chocolate, caramel, yogurt, high-protein, scoopable, low-sugar
 7. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
 
 **Nutrition (per pint):** 697 kcal | 23g fat | 44g protein | 99g carbs
+
 **PAC:** 31
 
 ---
@@ -3794,6 +3817,7 @@ Tags: chocolate, coffee, vegan, dairy-free, scoopable, low-fat, low-sugar, light
 8. Re-Spin if not creamy enough.
 
 **Nutrition (per pint):** 480 kcal | 11g fat | 23g protein | 99g carbs
+
 **PAC:** 30
 
 ---
@@ -3843,6 +3867,7 @@ Tags: coconut, fruit, cooked-base, scoopable, low-sugar
 7. Scrape down sides with butter knife, push top down with spoon. Re-Spin or Mix-In as desired.
 
 **Nutrition (per pint):** 866 kcal | 43g fat | 28g protein | 117g carbs
+
 **PAC:** 30
 
 ---
@@ -3881,6 +3906,7 @@ Tags: coconut, rum, vegan, scoopable, low-sugar
 9. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
 
 **Nutrition (per pint):** 1076 kcal | 70g fat | 17g protein | 109g carbs
+
 **PAC:** 31
 
 ---
@@ -3912,6 +3938,7 @@ Tags: coconut, yogurt, frozen-yogurt, simple, scoopable, low-sugar
 7. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
 
 **Nutrition (per pint):** 817 kcal | 48g fat | 24g protein | 103g carbs
+
 **PAC:** 32
 
 ---
@@ -3954,6 +3981,7 @@ Tags: coffee, cream, cream-cheese, scoopable, low-sugar
 6. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
 
 **Nutrition (per pint):** 651 kcal | 38g fat | 23g protein | 79g carbs
+
 **PAC:** 31
 
 ---
@@ -3992,6 +4020,7 @@ Tags: milky, cream, cooked-base, simple, scoopable
 7. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough. Mix-In for even softer texture.
 
 **Nutrition (per pint):** 1252 kcal | 82g fat | 31g protein | 108g carbs
+
 **PAC:** 23
 
 ---
@@ -4028,6 +4057,7 @@ Tags: watermelon, fruit, sorbet, cream, scoopable
 7. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
 
 **Nutrition (per pint):** 589 kcal | 27g fat | 13g protein | 100g carbs
+
 **PAC:** 32
 
 ---
@@ -4070,6 +4100,7 @@ Tags: caramel, quark, high-protein, low-fat, low-sugar, simple, scoopable
 9. Make a hole to the bottom. Add chopped dates in layers. Mix-In.
 
 **Nutrition (per pint, base only):** 513 kcal | 6g fat | 38g protein | 106g carbs
+
 **PAC:** 32
 
 ---
@@ -4124,6 +4155,7 @@ Tags: chocolate, rum-raisin, pecan, coffee, scoopable, low-sugar
 11. Make a hole to the bottom. Fold in soaked pecans and raisins manually with a chopstick.
 
 **Nutrition (per pint, incl. mix-ins):** 1127 kcal | 48g fat | 54g protein | 112g carbs
+
 **PAC:** 27
 
 ---
@@ -4172,6 +4204,7 @@ Tags: banana, dates, coconut, scoopable, vegan-origin
 8. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
 
 **Nutrition (per pint):** 808 kcal | 29g fat | 32g protein | 106g carbs
+
 **PAC:** 31
 
 ---
@@ -4207,6 +4240,7 @@ Tags: vanilla, cream, cooked-base, simple, scoopable
 9. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
 
 **Nutrition (per pint):** 1412 kcal | 82g fat | 19g protein | 151g carbs
+
 **PAC:** 24
 
 ---
@@ -4252,6 +4286,7 @@ Tags: peach, bourbon, molasses, vegan, dairy-free, low-fat, scoopable, light
 7. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
 
 **Nutrition (per pint):** 534 kcal | 6g fat | 12g protein | 103g carbs
+
 **PAC:** 30
 
 ---
@@ -4286,6 +4321,7 @@ Tags: peach, cheesecake, rum, gum-free, simple, scoopable
 6. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
 
 **Nutrition (per pint):** 781 kcal | 35g fat | 22g protein | 84g carbs
+
 **PAC:** 31
 
 ---
@@ -4335,6 +4371,7 @@ Tags: caramel, dates, almond-butter, vegan-origin, high-protein, low-fat, low-su
 11. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
 
 **Nutrition (per pint):** 614 kcal | 19g fat | 34g protein | 100g carbs
+
 **PAC:** 32
 
 ---
@@ -4372,6 +4409,7 @@ Tags: banana, vegan, dairy-free, low-fat, scoopable
 8. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
 
 **Nutrition (per pint):** 697 kcal | 13g fat | 12g protein | 155g carbs
+
 **PAC:** 31
 
 ---
@@ -4415,6 +4453,7 @@ Tags: multi-flavor, vegan-origin, high-protein, low-fat, low-sugar, scoopable, l
 6. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
 
 **Nutrition (per pint):** 521 kcal | 11g fat | 36g protein | 84g carbs
+
 **PAC:** 31
 
 ---
@@ -4454,6 +4493,7 @@ Tags: coffee, alcohol, vegan, dairy-free, low-fat, low-sugar, scoopable, light
 7. Optional: pour in extra vodka after 1st spin. Mix-In.
 
 **Nutrition (per pint, base only):** 248 kcal | 0g fat | 0g protein | 45g carbs
+
 **PAC:** 31
 
 ---
@@ -4514,6 +4554,7 @@ Tags: skyr, fruit, high-protein, low-fat, low-sugar, scoopable, multi-flavor
 6. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
 
 **Nutrition (per pint):** 624 kcal | 9g fat | 50g protein | 99g carbs
+
 **PAC:** 31
 
 ---
@@ -4547,6 +4588,7 @@ Tags: apricot, yogurt, frozen-yogurt, fruit
 6. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
 
 **Nutrition (per pint):** 773 kcal | 36g fat | 14g protein | 112g carbs
+
 **PAC:** 22
 
 ---
@@ -4591,6 +4633,7 @@ Tags: kefir, fruit, high-protein, low-fat, scoopable, light, multi-flavor
 6. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
 
 **Nutrition (per pint):** 534 kcal | 8g fat | 30g protein | 96g carbs
+
 **PAC:** 29
 
 ---
@@ -4634,6 +4677,7 @@ Tags: fruit-powder, multi-flavor, high-protein, low-fat, low-sugar, scoopable, p
 7. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
 
 **Nutrition (per pint):** 578 kcal | 12g fat | 43g protein | 97g carbs
+
 **PAC:** 32
 
 ---
@@ -4677,6 +4721,7 @@ Tags: melon, sorbet, vegan-origin, high-protein, low-fat, low-sugar, scoopable, 
 7. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
 
 **Nutrition (per pint):** 388 kcal | 2g fat | 23g protein | 89g carbs
+
 **PAC:** 31
 
 ---
@@ -4726,6 +4771,7 @@ Tags: cheesecake, quark, lemon, scoopable, low-sugar
 8. Serve with graham crackers or cookies on the side.
 
 **Nutrition (per pint, base only):** 882 kcal | 51g fat | 31g protein | 89g carbs
+
 **PAC:** 29
 
 ---
@@ -4762,6 +4808,7 @@ Tags: apple, grape, sorbet, vegan, dairy-free, low-fat, scoopable, light
 7. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
 
 **Nutrition (per pint):** 437 kcal | 1g fat | 1g protein | 130g carbs
+
 **PAC:** 30
 
 ---
@@ -4806,6 +4853,7 @@ Tags: pumpkin, cooked-base, low-fat, low-sugar, scoopable
 8. Re-Spin if not creamy enough.
 
 **Nutrition (per pint):** 538 kcal | 18g fat | 18g protein | 77g carbs
+
 **PAC:** 30
 
 ---
@@ -4909,6 +4957,7 @@ Irish Cream ice cream with notes of vanilla, coffee, and chocolate. Spun on Lite
 7. Lite Ice Cream setting, scrape down, then Re-Spin or Mix-In.
 
 **Nutrition (per pint):** 976 kcal | 56g fat | 29g protein | 41g carbs
+
 **PAC:** 32
 
 ---
@@ -4944,6 +4993,7 @@ Classic Jeni Britton Bauer ice cream base, scaled to Deluxe tub. Cooked base. Ad
 8. Ice Cream setting, scrape down, then Re-Spin if needed.
 
 **Nutrition (per pint):** 1467 kcal | 91g fat | 18g protein | 146g carbs
+
 **PAC:** 21
 
 ---
@@ -4987,6 +5037,7 @@ Light version of Jeni's base (~850 kcal vs ~1500 kcal). Cooked base. Add any fla
 8. Lite Ice Cream setting, scrape down, then Re-Spin if needed.
 
 **Nutrition (per pint):** 848 kcal | 50g fat | 17g protein | 141g carbs
+
 **PAC:** 28
 
 ---
@@ -5037,6 +5088,7 @@ Sorbet mostly from fresh/frozen fruit, with minimal additions. Vegan & dairy-fre
 5. Sorbet setting, scrape down, then Re-Spin.
 
 **Nutrition (per pint, strawberry):** 272 kcal | 2g fat | 4g protein | 83g carbs
+
 **PAC:** 30
 
 ---
@@ -5073,6 +5125,7 @@ Sorbet mostly from fresh/frozen fruit, with minimal additions. Vegan & dairy-fre
 4. Frozen Yogurt setting, scrape down, then Re-Spin.
 
 **Nutrition (per pint):** 862 kcal | 44g fat | 22g protein | 107g carbs
+
 **PAC:** 30
 
 ---
@@ -5117,6 +5170,7 @@ Sorbet mostly from fresh/frozen fruit, with minimal additions. Vegan & dairy-fre
 6. For mix-ins: add chopped frozen mint thins, then run Mix-In setting.
 
 **Nutrition (per pint, without mix-ins):** 593 kcal | 4g fat | 52g protein | 99g carbs
+
 **PAC:** 33
 
 ---
@@ -5162,6 +5216,7 @@ Reduced-calorie version of Coffee & Cream (~30% less). Spun on Sorbet, scrape do
 5. Sorbet setting, scrape down, then Re-Spin.
 
 **Nutrition (per pint):** 418 kcal | 7g fat | 31g protein | 76g carbs
+
 **PAC:** 31
 
 ---
@@ -5200,6 +5255,7 @@ Inspired by Italian lemon ricotta cake, with a Limoncello twist. Process on Sorb
 8. Sorbet setting, run cold water over container briefly, scrape down, then Re-Spin.
 
 **Nutrition (per pint):** 719 kcal | 34g fat | 36g protein | 78g carbs
+
 **PAC:** 30
 
 ---
@@ -5239,6 +5295,7 @@ Mandarin lemon sorbet — refreshing, tangy. Vegan & dairy-free. Spin on Sorbet,
 5. Sorbet setting, scrape down, then Re-Spin.
 
 **Nutrition (per pint):** 324 kcal | 0g fat | 2g protein | 97g carbs
+
 **PAC:** 32
 
 ---
@@ -5282,6 +5339,7 @@ Mostly mandarin slices in juice with soy milk and cream. Lite Ice Cream + Re-Spi
 6. Lite Ice Cream setting, scrape down, then Re-Spin.
 
 **Nutrition (per pint):** 544 kcal | 13g fat | 18g protein | 119g carbs
+
 **PAC:** 31
 
 ---
@@ -5331,6 +5389,7 @@ Rich, creamy mango frozen dessert with coconut and cardamom. Vegan & dairy-free.
 7. Sorbet setting, scrape down, then Re-Spin.
 
 **Nutrition (per pint):** 860 kcal | 43g fat | 7g protein | 139g carbs
+
 **PAC:** 34
 
 ---
@@ -5367,6 +5426,7 @@ Frozen margarita sorbet — citrus, tequila, refreshing. Vegan. Spin on Sorbet, 
 5. Sorbet setting, scrape down, then Re-Spin.
 
 **Nutrition (per pint):** 439 kcal | 0g fat | 1g protein | 88g carbs
+
 **PAC:** 31
 
 ---
@@ -5412,6 +5472,7 @@ Matcha ice cream with coconut and soy milk. Cooked/heated base. Process on Sorbe
 7. Sorbet setting, scrape down, then Re-Spin or Mix-In.
 
 **Nutrition (per pint):** 757 kcal | 31g fat | 47g protein | 94g carbs
+
 **PAC:** 33
 
 ---
@@ -5481,6 +5542,7 @@ Pure milk-flavored ice cream. Spin on Ice Cream, scrape down, Re-Spin. Manually 
 8. For mix-ins: crumble frozen lemon wafers and manually fold in with a chopstick.
 
 **Nutrition (per pint, without mix-ins):** 778 kcal | 30g fat | 41g protein | 101g carbs
+
 **PAC:** 31
 
 ---
@@ -5523,6 +5585,7 @@ Orange and peach soft serve. Processed on Lite Ice Cream.
 6. Lite Ice Cream setting, scrape down, then Re-Spin.
 
 **Nutrition (per pint):** 743 kcal | 19g fat | 30g protein | 118g carbs
+
 **PAC:** 29
 
 ---
@@ -5566,6 +5629,7 @@ Intense citrus sorbet with mango and cottage cheese. Processed on Sorbet, scrape
 6. Sorbet setting, scrape down, then Re-Spin.
 
 **Nutrition (per pint):** 599 kcal | 5g fat | 32g protein | 114g carbs
+
 **PAC:** 31
 
 ---
@@ -5614,6 +5678,7 @@ Per tub dry portion (~84g): 30g xylitol, 20g SMP, 15g whey, 15g inulin, 1g salt,
 6. Crumble freeze-dried strawberry slices into center hole, fold ice cream over, then Mix-In setting.
 
 **Nutrition (per pint, without mix-ins):** 713 kcal | 13g fat | 54g protein | 88g carbs
+
 **PAC:** 32
 
 ---
@@ -5637,6 +5702,7 @@ Peanut butter swirl as a manual mix-in for refreezable bases. Not a standalone i
 5. Refreeze for at least a few hours.
 
 **Nutrition (total):** 319 kcal | 25g fat | 12g protein | 18g carbs
+
 **PAC:** 29
 
 ---
@@ -5677,6 +5743,7 @@ Peanut butter & jelly frozen yogurt. Frozen Yogurt setting, scrape down, then Mi
 6. Crumble freeze-dried strawberries into center hole, fold over, then Mix-In setting.
 
 **Nutrition (per pint, without mix-ins):** 766 kcal | 35g fat | 46g protein | 87g carbs
+
 **PAC:** 26
 
 ---
@@ -5717,6 +5784,7 @@ Traditional Sicilian gelato thickened with cornstarch instead of eggs. Cooked ba
 7. Lite Ice Cream setting, scrape down, then Re-Spin if needed.
 
 **Nutrition (per pint):** 600 kcal | 18g fat | 25g protein | 119g carbs
+
 **PAC:** 32
 
 ---
@@ -5758,6 +5826,7 @@ Classic peaches and cream ice cream. Spun on Ice Cream, scrape down, Re-Spin.
 8. Ice Cream setting, scrape down, then Re-Spin.
 
 **Nutrition (per pint):** 720 kcal | 29g fat | 23g protein | 120g carbs
+
 **PAC:** 30
 
 ---
@@ -5798,6 +5867,7 @@ Peanut butter ice cream. Process on Lite Ice Cream. Originally vegan; soy protei
 7. Lite Ice Cream setting, scrape down, then Re-Spin if needed.
 
 **Nutrition (per pint):** 693 kcal | 37g fat | 47g protein | 64g carbs
+
 **PAC:** 30
 
 ---
@@ -5840,6 +5910,7 @@ Tropical coconut-pineapple with rum. Vegan & dairy-free. Process on Lite Ice Cre
 8. Lite Ice Cream setting, scrape down, then Re-Spin.
 
 **Nutrition (per pint):** 885 kcal | 41g fat | 11g protein | 102g carbs
+
 **PAC:** 31
 
 ---
@@ -5892,6 +5963,7 @@ Pineapple in juice with cottage cheese for creaminess. Processed on Sorbet, scra
 6. Sorbet setting, scrape down, then Re-Spin.
 
 **Nutrition (per pint):** 553 kcal | 6g fat | 17g protein | 108g carbs
+
 **PAC:** 31
 
 ---
@@ -5940,6 +6012,7 @@ Pistachio ice cream with nut butters, tofu, and soy. Originally vegan; soy prote
 7. Lite Ice Cream setting, scrape down, then Re-Spin.
 
 **Nutrition (per pint):** 841 kcal | 38g fat | 50g protein | 81g carbs
+
 **PAC:** 31
 
 ---
@@ -5988,6 +6061,7 @@ Pistachio ice cream with cottage cheese. Heated base. Process on Lite Ice Cream.
 7. Lite Ice Cream setting, scrape down, then Re-Spin if needed.
 
 **Nutrition (per pint):** 895 kcal | 41g fat | 52g protein | 94g carbs
+
 **PAC:** 31
 
 ---
@@ -5995,7 +6069,9 @@ Pistachio ice cream with cottage cheese. Heated base. Process on Lite Ice Cream.
 ### 81. Plum Sherbet (Deluxe)
 
 **Source:** ice-creamery — Plum Sherbet (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Plum%20Sherbet%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
+
 **Draft**
 
 **Wet:**
@@ -6026,6 +6102,7 @@ Pistachio ice cream with cottage cheese. Heated base. Process on Lite Ice Cream.
 7. Sorbet setting, then Re-Spin if needed.
 
 **Nutrition (per pint):** 535 kcal | 11g fat | 9g protein | 114g carbs
+
 **PAC:** 28
 
 ---
@@ -6033,6 +6110,7 @@ Pistachio ice cream with cottage cheese. Heated base. Process on Lite Ice Cream.
 ### 82. Pomegranate Light (Deluxe)
 
 **Source:** ice-creamery — Pomegranate Light (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Pomegranate%20Light%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
 
 **Wet:**
@@ -6069,6 +6147,7 @@ Pistachio ice cream with cottage cheese. Heated base. Process on Lite Ice Cream.
 9. Lite Ice Cream setting, hold briefly under running water, scrape down sides, then Re-Spin or Mix-In.
 
 **Nutrition (per pint):** 478 kcal | 6g fat | 27g protein | 114g carbs
+
 **PAC:** 31
 
 ---
@@ -6076,7 +6155,9 @@ Pistachio ice cream with cottage cheese. Heated base. Process on Lite Ice Cream.
 ### 83. Pumpkin Spice Gelato (Deluxe)
 
 **Source:** ice-creamery — Pumpkin Spice Gelato (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Pumpkin%20Spice%20Gelato%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
+
 **Draft · Cooked Base · Seasonal**
 
 **Prep:**
@@ -6119,6 +6200,7 @@ Pistachio ice cream with cottage cheese. Heated base. Process on Lite Ice Cream.
 8. Lite Ice Cream setting, scrape down, Re-Spin or Mix-In as needed.
 
 **Nutrition (per pint):** 750 kcal | 41g fat | 34g protein | 90g carbs
+
 **PAC:** 31
 
 ---
@@ -6126,7 +6208,9 @@ Pistachio ice cream with cottage cheese. Heated base. Process on Lite Ice Cream.
 ### 84. Radler Zäpfle (Deluxe)
 
 **Source:** ice-creamery — Radler Zäpfle (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Radler%20Z%C3%A4pfle%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
+
 **Weird Science · ~~Vegan~~ (whey swap)**
 
 A bitter-sweet sorbet from a typical German summer beer mix (radler/shandy). Also works with Berliner Weiße or Belgian Früli (strawberry beer — leave out VG).
@@ -6157,6 +6241,7 @@ A bitter-sweet sorbet from a typical German summer beer mix (radler/shandy). Als
 6. Sorbet setting, scrape down, then Mix-In with pretzels. Refreeze 1-2h before serving.
 
 **Nutrition (per pint):** 245 kcal | 2g fat | 14g protein | 43g carbs
+
 **PAC:** 30
 
 ---
@@ -6164,7 +6249,9 @@ A bitter-sweet sorbet from a typical German summer beer mix (radler/shandy). Als
 ### 85. Rum Raisin Coconut (Deluxe)
 
 **Source:** ice-creamery — Rum Raisin Coconut (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Rum%20Raisin%20Coconut%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
+
 **Draft**
 
 **Prep:**
@@ -6208,6 +6295,7 @@ A bitter-sweet sorbet from a typical German summer beer mix (radler/shandy). Als
 10. Lite Ice Cream setting, scrape down, then Mix-In with drained rum-soaked raisins.
 
 **Nutrition (per pint):** 821 kcal | 35g fat | 27g protein | 95g carbs
+
 **PAC:** 31
 
 ---
@@ -6215,6 +6303,7 @@ A bitter-sweet sorbet from a typical German summer beer mix (radler/shandy). Als
 ### 86. S&S Coconut (Deluxe)
 
 **Source:** ice-creamery — S&S Coconut (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/S%26S%20Coconut%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
 
 Adapts S&S Light by replacing dairy cream with coconut cream.
@@ -6252,6 +6341,7 @@ Adapts S&S Light by replacing dairy cream with coconut cream.
 9. Lite Ice Cream setting, scrape down, Re-Spin or Mix-In as needed.
 
 **Nutrition (per pint):** 871 kcal | 45g fat | 38g protein | 125g carbs
+
 **PAC:** 30
 
 ---
@@ -6259,7 +6349,9 @@ Adapts S&S Light by replacing dairy cream with coconut cream.
 ### 87. S&S Light (Deluxe)
 
 **Source:** ice-creamery — S&S Light (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/S%26S%20Light%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
+
 **Multi-Flavor Base**
 
 Adapted Salt & Straw base, scaled to ~600g neutral base. Use the 80-100g unclaimed tub space for a flavor component of your choice (blended before freezing, or as mix-in).
@@ -6300,6 +6392,7 @@ Adapted Salt & Straw base, scaled to ~600g neutral base. Use the 80-100g unclaim
 9. Lite Ice Cream setting, scrape down, Re-Spin or Mix-In as needed.
 
 **Nutrition (per pint, strawberry variant):** 835 kcal | 48g fat | 28g protein | 116g carbs
+
 **PAC:** 32
 
 ---
@@ -6307,7 +6400,9 @@ Adapted Salt & Straw base, scaled to ~600g neutral base. Use the 80-100g unclaim
 ### 88. Salt & Straw Base (Deluxe)
 
 **Source:** ice-creamery — Salt & Straw Base (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Salt%20%26%20Straw%20Base%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
+
 **Draft · Indulgent (16% fat, 18.6% sugar)**
 
 *Example below: strawberry.*
@@ -6339,6 +6434,7 @@ Adapted Salt & Straw base, scaled to ~600g neutral base. Use the 80-100g unclaim
 8. Ice Cream setting, then Re-Spin if needed.
 
 **Nutrition (per pint, strawberry variant):** 1566 kcal | 96g fat | 21g protein | 155g carbs
+
 **PAC:** 27
 
 ---
@@ -6346,6 +6442,7 @@ Adapted Salt & Straw base, scaled to ~600g neutral base. Use the 80-100g unclaim
 ### 89. Salty Stability (Premix)
 
 **Source:** ice-creamery — Salty Stability · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Salty%20Stability)
+
 **Premix blend — yields 10 Deluxe doses (15g each) or 15 regular doses (10g each)**
 
 **Dry:**
@@ -6373,6 +6470,7 @@ Adapted Salt & Straw base, scaled to ~600g neutral base. Use the 80-100g unclaim
 **Quick substitute (per 15g dose):** 1.5g guar + 0.5g xanthan + 0.5g salt *(not as good)*
 
 **Per 15g dose:** 11.0g inulin, 1.8g soy lecithin, 0.9g CMC, 0.6g guar, 0.5g salt, 0.2g xanthan
+
 **Per 10g dose:** 7.3g inulin, 1.2g soy lecithin, 0.6g CMC, 0.4g guar, 0.33g salt, 0.13g xanthan
 
 **Nutrition (per 15g dose):** 40 kcal | 0.5g fat | 0g protein | 13g carbs
@@ -6382,7 +6480,9 @@ Adapted Salt & Straw base, scaled to ~600g neutral base. Use the 80-100g unclaim
 ### 90. Shregg (Deluxe)
 
 **Source:** ice-creamery — Shregg (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Shregg%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
+
 **Seasonal · ~~Vegan~~ (whey swap)**
 
 Egg liqueur ice cream. Can also use Baileys (17 vol%) — bumps energy to ~125 kcal/100g; use 3g soy lecithin. For eggnog, check label for alcohol content; >20 vol% will be too soft.
@@ -6412,6 +6512,7 @@ Egg liqueur ice cream. Can also use Baileys (17 vol%) — bumps energy to ~125 k
 7. Sorbet setting, then Re-Spin if needed.
 
 **Nutrition (per pint):** 463 kcal | 20g fat | 42g protein | 60g carbs
+
 **PAC:** 31
 
 ---
@@ -6419,7 +6520,9 @@ Egg liqueur ice cream. Can also use Baileys (17 vol%) — bumps energy to ~125 k
 ### 91. Shregg 2 (Deluxe)
 
 **Source:** ice-creamery — Shregg 2 (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Shregg%202%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
+
 **Draft · Seasonal · ~~Vegan~~ (whey swap)**
 
 Egg & cream punch (9 vol%) ice cream — lighter alcohol variant of Shregg.
@@ -6450,6 +6553,7 @@ Egg & cream punch (9 vol%) ice cream — lighter alcohol variant of Shregg.
 7. Sorbet setting, then Re-Spin if needed.
 
 **Nutrition (per pint):** 580 kcal | 10g fat | 38g protein | 33g carbs
+
 **PAC:** 33
 
 ---
@@ -6457,7 +6561,9 @@ Egg & cream punch (9 vol%) ice cream — lighter alcohol variant of Shregg.
 ### 92. Soda Pop Sorbet (Deluxe)
 
 **Source:** ice-creamery — Soda Pop Sorbet (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Soda%20Pop%20Sorbet%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
+
 **Weird Science · Keto · ~~Vegan~~ (whey swap)**
 
 Soda sorbet from 0-cal syrup. Works with any 0-sugar soda syrup — increase recommended dosage by 33%, because ice cream.
@@ -6500,6 +6606,7 @@ Soda sorbet from 0-cal syrup. Works with any 0-sugar soda syrup — increase rec
 *Serve as a float: 2 scoops in sparkling water with a splash of vanilla extract and sweetener.*
 
 **Nutrition (per pint):** 269 kcal | 1g fat | 14g protein | 69g carbs
+
 **PAC:** 30
 
 ---
@@ -6507,7 +6614,9 @@ Soda sorbet from 0-cal syrup. Works with any 0-sugar soda syrup — increase rec
 ### 93. Starry Night (Deluxe)
 
 **Source:** ice-creamery — Starry Night (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Starry%20Night%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
+
 **Cooked Base**
 
 Dark cacao base with white chocolate flakes mixed in. Macros include mix-ins.
@@ -6553,6 +6662,7 @@ Dark cacao base with white chocolate flakes mixed in. Macros include mix-ins.
 7. Lite Ice Cream setting, scrape down, then Mix-In with pre-frozen chocolate and almonds.
 
 **Nutrition (per pint, with mix-ins):** 852 kcal | 34g fat | 45g protein | 120g carbs
+
 **PAC:** 30
 
 ---
@@ -6560,7 +6670,9 @@ Dark cacao base with white chocolate flakes mixed in. Macros include mix-ins.
 ### 94. Strawberry Cheesecake (Deluxe)
 
 **Source:** ice-creamery — Strawberry Cheesecake (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Strawberry%20Cheesecake%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
+
 **Favorite**
 
 A great combination of tart flavors, based on quark/topfen. In Greece, use cream cheese as substitute.
@@ -6611,6 +6723,7 @@ A great combination of tart flavors, based on quark/topfen. In Greece, use cream
 *Serve with graham crackers or shortbread to stand in for the pie crust.*
 
 **Nutrition (per pint):** 787 kcal | 39g fat | 42g protein | 78g carbs
+
 **PAC:** 32
 
 ---
@@ -6618,6 +6731,7 @@ A great combination of tart flavors, based on quark/topfen. In Greece, use cream
 ### 95. Strawberry Float (Drink)
 
 **Source:** ice-creamery — Strawberry Float · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Strawberry%20Float)
+
 **Not a spin recipe — refreshing long-drink for hot summer days**
 
 Based on the Strawberry Sangria sorbet (recipe 98).
@@ -6640,7 +6754,9 @@ Based on the Strawberry Sangria sorbet (recipe 98).
 ### 96. Strawberry FroYo (Deluxe)
 
 **Source:** ice-creamery — Strawberry FroYo (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Strawberry%20FroYo%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
+
 **Multi-Flavor Base**
 
 Frozen yogurt with fruit, cream cheese, and protein. Replace strawberries with other fruit or fruit powder (adjust liquid to fill to MAX).
@@ -6684,6 +6800,7 @@ Frozen yogurt with fruit, cream cheese, and protein. Replace strawberries with o
 7. Frozen Yogurt setting, scrape down, then Re-Spin or Mix-In.
 
 **Nutrition (per pint, strawberry):** 576 kcal | 21g fat | 29g protein | 88g carbs
+
 **PAC:** 31
 
 ---
@@ -6691,7 +6808,9 @@ Frozen yogurt with fruit, cream cheese, and protein. Replace strawberries with o
 ### 97. Strawberry Ice Cream (Deluxe)
 
 **Source:** ice-creamery — Strawberry Ice Cream (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Strawberry%20Ice%20Cream%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
+
 **Favorite**
 
 Intense flavor, very creamy, dense and free of ice crystals.
@@ -6728,6 +6847,7 @@ Intense flavor, very creamy, dense and free of ice crystals.
 7. Lite Ice Cream setting, fill hole with crumbled dried strawberry slices, then Mix-In.
 
 **Nutrition (per pint):** 571 kcal | 17g fat | 36g protein | 91g carbs
+
 **PAC:** 31
 
 ---
@@ -6735,7 +6855,9 @@ Intense flavor, very creamy, dense and free of ice crystals.
 ### 98. Strawberry Sangria (Deluxe)
 
 **Source:** ice-creamery — Strawberry Sangria (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Strawberry%20Sangria%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
+
 **Favorite · Vegan · Dairy-Free**
 
 A creamy sorbet inspired by Sangria. Also works with blueberries, berry mix, rosé, or white wine. With mulled wine from berries (11 vol%), use 225g to compensate.
@@ -6766,6 +6888,7 @@ A creamy sorbet inspired by Sangria. Also works with blueberries, berry mix, ros
 9. Sorbet setting, scrape down, then Re-Spin or Mix-In. Refreeze 1-2h before serving.
 
 **Nutrition (per pint):** 352 kcal | 2g fat | 4g protein | 47g carbs
+
 **PAC:** 35
 
 ---
@@ -6773,7 +6896,9 @@ A creamy sorbet inspired by Sangria. Also works with blueberries, berry mix, ros
 ### 99. Strawberry Sherbet • Vegan (Deluxe)
 
 **Source:** ice-creamery — Strawberry Sherbet • Vegan (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Strawberry%20Sherbet%20%E2%80%A2%20Vegan%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
+
 **Draft · ~~Vegan~~ (whey swap)**
 
 **Wet:**
@@ -6812,6 +6937,7 @@ A creamy sorbet inspired by Sangria. Also works with blueberries, berry mix, ros
 7. Sorbet setting, scrape down, then Re-Spin or Mix-In.
 
 **Nutrition (per pint):** 395 kcal | 6g fat | 24g protein | 77g carbs
+
 **PAC:** 30
 
 ---
@@ -6819,7 +6945,9 @@ A creamy sorbet inspired by Sangria. Also works with blueberries, berry mix, ros
 ### 100. Sweet Potato Pie (Deluxe)
 
 **Source:** ice-creamery — Sweet Potato Pie (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Sweet%20Potato%20Pie%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
+
 **Draft · Gum-Free · ~~Vegan~~ (whey swap)**
 
 **Prep:**
@@ -6854,6 +6982,7 @@ A creamy sorbet inspired by Sangria. Also works with blueberries, berry mix, ros
 8. Lite Ice Cream setting, hold briefly under running water, scrape down, then Re-Spin.
 
 **Nutrition (per pint):** 638 kcal | 8g fat | 52g protein | 87g carbs
+
 **PAC:** 27
 
 ---
@@ -6861,7 +6990,9 @@ A creamy sorbet inspired by Sangria. Also works with blueberries, berry mix, ros
 ### 101. Toasted Cowcoa (Deluxe)
 
 **Source:** ice-creamery — Toasted Cowcoa (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Toasted%20Cowcoa%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
+
 **Draft**
 
 **Prep:**
@@ -6901,6 +7032,7 @@ A creamy sorbet inspired by Sangria. Also works with blueberries, berry mix, ros
 9. Lite Ice Cream setting, scrape down, then Re-Spin or Mix-In.
 
 **Nutrition (per pint):** 546 kcal | 5g fat | 33g protein | 112g carbs
+
 **PAC:** 31
 
 ---
@@ -6908,7 +7040,9 @@ A creamy sorbet inspired by Sangria. Also works with blueberries, berry mix, ros
 ### 102. Topfenpalatschinken (Deluxe)
 
 **Source:** ice-creamery — Topfenpalatschinken (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Topfenpalatschinken%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
+
 **Draft**
 
 Classic Austrian dessert reimagined as ice cream: quark/lime base with rum-soaked raisins and pancake ribbons as mix-ins.
@@ -6957,6 +7091,7 @@ Classic Austrian dessert reimagined as ice cream: quark/lime base with rum-soake
 9. Lite Ice Cream setting, scrape down, then Mix-In with drained raisins and pancake ribbons.
 
 **Nutrition (per pint, with mix-ins):** 1171 kcal | 60g fat | 45g protein | 124g carbs
+
 **PAC:** 32
 
 ---
@@ -6972,7 +7107,9 @@ Not a recipe — reference page for mix-in and topping ideas. See also: Forget-M
 ### 104. Tropical Mudslide (Deluxe)
 
 **Source:** ice-creamery — Tropical Mudslide (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Tropical%20Mudslide%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
+
 **Draft · Boozy · Layered (2 flavors)**
 
 A boozy combination of layered chocolate and coconut ice cream. Prepared in 3 phases, combined to 2 layers. Do not overprocess, to keep discernible layers.
@@ -7021,6 +7158,7 @@ A boozy combination of layered chocolate and coconut ice cream. Prepared in 3 ph
 10. Sorbet setting, scrape down, then Mix-In. Do not overprocess.
 
 **Nutrition (per pint):** 879 kcal | 33g fat | 42g protein | 66g carbs
+
 **PAC:** 32
 
 ---
@@ -7028,7 +7166,9 @@ A boozy combination of layered chocolate and coconut ice cream. Prepared in 3 ph
 ### 105. Tropical Rum Punch (Deluxe)
 
 **Source:** ice-creamery — Tropical Rum Punch (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Tropical%20Rum%20Punch%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
+
 **Cooked Base · Vegan · Dairy-Free**
 
 Blends pineapple, orange, and mango juices with coconut milk and a touch of Jamaica Rum.
@@ -7063,6 +7203,7 @@ Blends pineapple, orange, and mango juices with coconut milk and a touch of Jama
 7. Sorbet setting, scrape down, then Re-Spin.
 
 **Nutrition (per pint):** 647 kcal | 11g fat | 4g protein | 106g carbs
+
 **PAC:** 33
 
 ---
@@ -7070,7 +7211,9 @@ Blends pineapple, orange, and mango juices with coconut milk and a touch of Jama
 ### 106. Ube Coconut • Vegan (Deluxe)
 
 **Source:** ice-creamery — Ube Coconut • Vegan (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Ube%20Coconut%20%E2%80%A2%20Vegan%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
+
 **Draft · Multi-Flavor · ~~Vegan~~ (whey swap)**
 
 Works with any fruit powder that harmonizes with coconut milk — ube yam root is the example below (order online if unavailable locally; tastes like vanilla+pistachio).
@@ -7108,6 +7251,7 @@ Works with any fruit powder that harmonizes with coconut milk — ube yam root i
 7. Lite Ice Cream setting, scrape down, then Re-Spin or Mix-In.
 
 **Nutrition (per pint):** 810 kcal | 36g fat | 39g protein | 86g carbs
+
 **PAC:** 29
 
 ---
@@ -7115,7 +7259,9 @@ Works with any fruit powder that harmonizes with coconut milk — ube yam root i
 ### 107. Ultimate FroYo (Deluxe)
 
 **Source:** ice-creamery — Ultimate FroYo (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Ultimate%20FroYo%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
+
 **Cooked Prep**
 
 A balanced, creamy frozen yogurt — light on sugar, rich in texture. Versatile base for any topping or swirl.
@@ -7159,6 +7305,7 @@ A balanced, creamy frozen yogurt — light on sugar, rich in texture. Versatile 
 9. Frozen Yogurt setting, scrape down, then Mix-In with jam.
 
 **Nutrition (per pint):** 623 kcal | 25g fat | 34g protein | 72g carbs
+
 **PAC:** 31
 
 ---
@@ -7166,7 +7313,9 @@ A balanced, creamy frozen yogurt — light on sugar, rich in texture. Versatile 
 ### 108. Umamiso (Deluxe)
 
 **Source:** ice-creamery — Umamiso (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Umamiso%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
+
 **Draft · Weird Science · ~~Vegan~~ (whey swap)**
 
 An exotic ice cream made from miso, hon mirin, coconut milk, and soy protein.
@@ -7203,6 +7352,7 @@ An exotic ice cream made from miso, hon mirin, coconut milk, and soy protein.
 8. Sorbet setting, hold briefly under running water, scrape down, then Re-Spin.
 
 **Nutrition (per pint):** 783 kcal | 39g fat | 33g protein | 78g carbs
+
 **PAC:** 29
 
 ---
@@ -7210,7 +7360,9 @@ An exotic ice cream made from miso, hon mirin, coconut milk, and soy protein.
 ### 109. Vanilla Paste (Condiment)
 
 **Source:** ice-creamery — Vanilla Paste · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Vanilla%20Paste)
+
 **Not a spin recipe — homemade vanilla paste for ice cream making**
+
 **Draft**
 
 Superior to store-bought vanilla extracts. Use grade B vanilla beans (preferably with residual moisture). Sterilize all equipment for long shelf life (months, refrigerated).
@@ -7243,6 +7395,7 @@ Superior to store-bought vanilla extracts. Use grade B vanilla beans (preferably
 ### 110. Vanilla Protein (Deluxe)
 
 **Source:** ice-creamery — Vanilla Protein (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Vanilla%20Protein%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
 **~~Vegan~~ (whey swap)**
 
@@ -7287,6 +7440,7 @@ Pure vanilla, no cream or cottage cheese, double protein. Low fat & sugar, high 
 7. Lite Ice Cream setting, then Mix-In with dried fruit.
 
 **Nutrition (per pint):** 598 kcal | 10g fat | 71g protein | 79g carbs
+
 **PAC:** 31
 
 ---
@@ -7294,6 +7448,7 @@ Pure vanilla, no cream or cottage cheese, double protein. Low fat & sugar, high 
 ### 111. Vanil-Low (Deluxe)
 
 **Source:** ice-creamery — Vanil-Low (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Vanil-Low%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
 
 Vanilla ice cream based on soy milk and cottage cheese, with very low net carbs to total energy ratio. Multi-flavor base — swap vanilla for fruit/yam powders for variety (see options below).
@@ -7341,6 +7496,7 @@ Vanilla ice cream based on soy milk and cottage cheese, with very low net carbs 
 8. Mix-In with frozen chopped After Eight.
 
 **Nutrition (per pint):** 466 kcal | 13g fat | 35g protein | 80g carbs
+
 **PAC:** 31
 
 ---
@@ -7348,7 +7504,9 @@ Vanilla ice cream based on soy milk and cottage cheese, with very low net carbs 
 ### 112. Vegan Almond (Deluxe)
 
 **Source:** ice-creamery — Vegan Almond (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Vegan%20Almond%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
+
 **Cooked base (90°C)**
 
 Vegan almond butter + amaretto in soy milk. Cooked base thickened with starch. Sweet marzipan note.
@@ -7385,6 +7543,7 @@ Vegan almond butter + amaretto in soy milk. Cooked base thickened with starch. S
 7. Frozen Yogurt or Lite Ice Cream setting, scrape down, Re-Spin if needed.
 
 **Nutrition (per pint):** 647 kcal | 30g fat | 24g protein | 96g carbs
+
 **PAC:** 30
 
 ---
@@ -7392,7 +7551,9 @@ Vegan almond butter + amaretto in soy milk. Cooked base thickened with starch. S
 ### 113. Vegan Gingerbread (Deluxe)
 
 **Source:** ice-creamery — Vegan Gingerbread (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Vegan%20Gingerbread%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
+
 **Draft · Seasonal**
 
 Holiday gingerbread ice cream — soy milk, winter spices, molasses, and Amaretto. Alcohol-free variant: use 8g additional glycerin instead of Amaretto.
@@ -7430,6 +7591,7 @@ Holiday gingerbread ice cream — soy milk, winter spices, molasses, and Amarett
 8. Lite Ice Cream setting, scrape down, Re-Spin if needed. Top with Biscoff.
 
 **Nutrition (per pint):** 536 kcal | 9g fat | 17g protein | 122g carbs
+
 **PAC:** 30
 
 ---
@@ -7437,6 +7599,7 @@ Holiday gingerbread ice cream — soy milk, winter spices, molasses, and Amarett
 ### 114. Vegan Lime Light (Deluxe)
 
 **Source:** ice-creamery — Vegan Lime Light (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Vegan%20Lime%20Light%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
 
 Refreshing dairy-free lime ice cream with tofu and soy milk. Zesty and creamy.
@@ -7477,6 +7640,7 @@ Refreshing dairy-free lime ice cream with tofu and soy milk. Zesty and creamy.
 8. Lite Ice Cream setting, scrape down, Re-Spin.
 
 **Nutrition (per pint):** 515 kcal | 15g fat | 25g protein | 89g carbs
+
 **PAC:** 32
 
 ---
@@ -7484,7 +7648,9 @@ Refreshing dairy-free lime ice cream with tofu and soy milk. Zesty and creamy.
 ### 115. Vegan Vanilla (Deluxe)
 
 **Source:** ice-creamery — Vegan Vanilla (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Vegan%20Vanilla%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
+
 **Vegan · Dairy-Free**
 
 Plain vanilla base using soy milk and starch. Use enough vanilla — taste the base before freezing.
@@ -7519,6 +7685,7 @@ Plain vanilla base using soy milk and starch. Use enough vanilla — taste the b
 9. Frozen Yogurt setting, scrape down, Re-Spin.
 
 **Nutrition (per pint):** 424 kcal | 9g fat | 17g protein | 100g carbs
+
 **PAC:** 32
 
 ---
@@ -7526,7 +7693,9 @@ Plain vanilla base using soy milk and starch. Use enough vanilla — taste the b
 ### 116. Velvet Oasis (Deluxe)
 
 **Source:** ice-creamery — Velvet Oasis (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Velvet%20Oasis%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
+
 **Vegan · Dairy-Free**
 
 Velvety nuts, sweetened with dates, kissed by vanilla. Medjool dates give a natural caramel note.
@@ -7573,6 +7742,7 @@ Velvety nuts, sweetened with dates, kissed by vanilla. Medjool dates give a natu
 10. Sorbet setting, scrape down, then Ice Cream. Re-freeze ~1h if too soft.
 
 **Nutrition (per pint):** 729 kcal | 33g fat | 19g protein | 102g carbs
+
 **PAC:** 31
 
 ---
@@ -7580,7 +7750,9 @@ Velvety nuts, sweetened with dates, kissed by vanilla. Medjool dates give a natu
 ### 117. Winter Almonds (Deluxe)
 
 **Source:** ice-creamery — Winter Almonds (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Winter%20Almonds%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
+
 **Seasonal**
 
 Almond butter + Amaretto ice cream with buttermilk base. Winter mix-ins: gingerbread, dark chocolate, almonds, raisins. Macros include mix-ins.
@@ -7628,6 +7800,7 @@ Soaked raisins variant (option 2): soak 40g chopped raisins in 45g rum (43%) a d
 9. Lite Ice Cream setting, scrape down, then Mix-In with chosen mix-ins.
 
 **Nutrition (per pint, option 1 w/ mix-ins):** 965 kcal | 38g fat | 37g protein | 126g carbs
+
 **PAC:** 30
 
 ---
@@ -7635,7 +7808,9 @@ Soaked raisins variant (option 2): soak 40g chopped raisins in 45g rum (43%) a d
 ### 118. Winter Apple (Deluxe)
 
 **Source:** ice-creamery — Winter Apple (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Winter%20Apple%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
+
 **Seasonal**
 
 Applesauce sherbet with cinnamon, stollen pieces as mix-in. Mix-ins not included in macros.
@@ -7681,6 +7856,7 @@ Applesauce sherbet with cinnamon, stollen pieces as mix-in. Mix-ins not included
 8. Sorbet setting, scrape down, Re-Spin if needed. Mix-In with stollen, raisins, and almonds.
 
 **Nutrition (per pint, base only):** 472 kcal | 9g fat | 20g protein | 99g carbs
+
 **PAC:** 30
 
 ---
@@ -7688,7 +7864,9 @@ Applesauce sherbet with cinnamon, stollen pieces as mix-in. Mix-ins not included
 ### 119. Winter Wonderland (Deluxe)
 
 **Source:** ice-creamery — Winter Wonderland (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Winter%20Wonderland%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
+
 **Seasonal**
 
 Festive chocolate ice cream — cocoa + gingerbread + Amaretto + cinnamon + vanilla. Mix-ins: gingerbread, almond slivers, candied orange peel, sultanas. Mix-ins included in macros.
@@ -7739,6 +7917,7 @@ Festive chocolate ice cream — cocoa + gingerbread + Amaretto + cinnamon + vani
 9. Lite Ice Cream setting, scrape down, then Mix-In with gingerbread, almonds, orange peel, and sultanas.
 
 **Nutrition (per pint, with mix-ins):** 857 kcal | 33g fat | 38g protein | 135g carbs
+
 **PAC:** 31
 
 ---
@@ -7746,7 +7925,9 @@ Festive chocolate ice cream — cocoa + gingerbread + Amaretto + cinnamon + vani
 ### 120. Witches' Brew (Deluxe)
 
 **Source:** ice-creamery — Witches' Brew (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Witches'%20Brew%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
+
 **Seasonal (Halloween)**
 
 "Take a scoop, if you dare!" — Halloween ice cream inspired by themed cocktails. Mix-ins not included in macros.
@@ -7792,6 +7973,7 @@ Festive chocolate ice cream — cocoa + gingerbread + Amaretto + cinnamon + vani
 10. Lite Ice Cream setting, scrape down, then Mix-In with drained cranberries.
 
 **Nutrition (per pint, base only):** 819 kcal | 27g fat | 28g protein | 94g carbs
+
 **PAC:** 32
 
 ---
@@ -7799,7 +7981,9 @@ Festive chocolate ice cream — cocoa + gingerbread + Amaretto + cinnamon + vani
 ### 121. Woodruff (Deluxe)
 
 **Source:** ice-creamery — Woodruff (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Woodruff%20(Deluxe))
+
 **Ninja Creami Deluxe [24 oz]**
+
 **Draft · ~~Vegan~~ (whey swap)**
 
 Woodruff ("Waldmeister") — a German flavor used in Berliner Kindl, Maibowle, and Ahoi Brause. Uses instant drink powder sticks for flavoring; any brand/flavor of 0-sugar instant drink for ~500ml water works. The powder already contains sweetness, so dial in additional sweeteners to taste.
@@ -7838,6 +8022,7 @@ Woodruff ("Waldmeister") — a German flavor used in Berliner Kindl, Maibowle, a
 7. Sorbet setting, scrape down, Re-Spin.
 
 **Nutrition (per pint):** 551 kcal | 10g fat | 49g protein | 75g carbs
+
 **PAC:** 27
 
 ---
@@ -7913,6 +8098,7 @@ Tags: frozen yogurt, banana, biscoff, high-protein
 - Xylitol safe at 17g (limit ~20-30g). If sensitive, shift 5g to erythritol.
 
 **Nutrition (per 100g):** 102 kcal | 1.7g fat | 12.7g carbs | 5.9g protein
+
 **Total weight:** ~572g base + ~46g mix-ins = ~618g
 
 ---
@@ -7959,7 +8145,9 @@ Low-cal brownie cubes for mix-ins. One batch makes ~9 pints worth. Two textures 
 - **Storage:** freeze cubes flat on parchment first (1-2h), then transfer to a zip-lock bag with air squeezed out. Keeps 2-3 months. After 3 months erythritol can develop a gritty surface — still safe, just less pleasant. Pull and use directly, no thawing needed.
 
 **Nutrition (per batch ~272g):** 445 kcal | 11.2g fat | 25.5g net carbs | 56.2g protein
+
 **Nutrition (per 100g):** 164 kcal | 4.1g fat | 9.4g net carbs | 20.7g protein
+
 **Nutrition (per 30g pint serving):** 49 kcal | 1.2g fat | 2.8g net carbs | 6.2g protein
 
 ---
@@ -8001,6 +8189,7 @@ Pure crunch, almost zero calories. Shatters into ice cream during Mix-In. Choose
 - Variation: fold in 5g cocoa powder after stiff peaks for chocolate meringue (adds ~18 kcal to batch).
 
 **Nutrition — sweet (per 100g):** 51 kcal | 0.1g fat | 0.7g net carbs | 10.9g protein
+
 **Nutrition — sweet-salty (per 100g):** 41 kcal | 0.1g fat | 0.6g net carbs | 10.4g protein
 
 ---
@@ -8031,7 +8220,9 @@ Snappy crunch from the freezer that softens to chewy in the ice cream. Adds a ta
 - **Storage:** zip-lock bag, air squeezed out, frozen. Keeps 1-2 months. After that, surface gets icy/grainy from freezer burn.
 
 **Nutrition (per batch ~170g):** 99 kcal | 3g fat | 5.9g carbs | 12g protein
+
 **Nutrition (per 100g):** 58 kcal | 1.8g fat | 3.5g carbs | 7.1g protein
+
 **Nutrition (per 30g pint serving):** 18 kcal | 0.5g fat | 1g carbs | 2.1g protein
 
 ---
@@ -8061,7 +8252,9 @@ Paper-thin chocolate shards — the pre-made version of the chocolate ribbon hac
 - **Storage:** zip-lock bag, air squeezed out, frozen. Keeps 3+ months (chocolate is shelf-stable, coconut oil prevents bloom).
 
 **Nutrition (per batch ~18g):** 112 kcal | 9.1g fat | 5.1g carbs | 1.4g protein
+
 **Nutrition (per 100g):** 622 kcal | 50.6g fat | 28.3g carbs | 7.8g protein
+
 **Nutrition (per 9g pint serving):** 56 kcal | 4.6g fat | 2.6g carbs | 0.7g protein
 
 ---
