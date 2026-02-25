@@ -174,7 +174,7 @@ Tags: chocolate, premium, egg-yolk, melted-chocolate, best
 
 **Base:**
 - **410g** 1% milk → 🟢 **410g** Marata 1.5% milk
-- 1 egg yolk
+- **1** egg yolk
 - **2.1g** vanilla extract
 
 **Dry mix:**
@@ -252,7 +252,7 @@ Tags: vanilla-bean, premium, egg-yolk, best
 
 **Base:**
 - **430g** 2% milk → 🟢 **430g** Marata 1.5% milk
-- 1 egg yolk
+- **1** egg yolk
 - **5g** vanilla extract
 - vanilla bean 1/2 (seeds scraped) → 🟡 use 15g vanilla extract total instead of 5g (loses specks and aromatic depth — buy beans online if vanilla is the star)
 
@@ -281,7 +281,7 @@ Tags: apple-pie, holiday, protein
   - **12g** whey protein
   - **15g** glycerin
 - **4.2g** vanilla extract
-- 1 egg yolk
+- **1** egg yolk
 
 **Dry mix:**
 - **20g** PEScience Snickerdoodle protein 🟢
@@ -455,7 +455,7 @@ Tags: cherry-garcia, protein, egg-yolk, mix-ins, premium
   - **375g** Marata 1.5%
   - **8g** whey protein
   - **10g** glycerin
-- 2 egg yolks
+- **2** egg yolks
 - **4g** vanilla extract
 
 **Dry mix:**
@@ -485,7 +485,7 @@ Tags: cherry-garcia, protein, egg-yolk, mix-ins, premium
 Tags: oreo, cookies-and-cream, protein, premium
 
 **Base:**
-- 1 Oreo (blended into base)
+- **1** Oreo (blended into base)
 - **410g** Fairlife fat-free milk 🟡 (slightly richer/heavier pint, less "light" feel)
   - **385g** Marata 1.5%
   - **12g** whey protein
@@ -503,10 +503,10 @@ Tags: oreo, cookies-and-cream, protein, premium
 - **0.5g** xanthan gum
 
 **Mix-ins (milk-dunked, frozen):**
-- 2 Oreos (dunked in milk 15-20 sec, bagged, frozen alongside pint)
+- **2** Oreos (dunked in milk 15-20 sec, bagged, frozen alongside pint)
 
 **Topping:**
-- 1 Oreo (chopped)
+- **1** Oreo (chopped)
 
 **Steps:**
 1. Add 2 Oreos (1 per original + 1 to cover protein flavor swap), milk, whey, glycerin, vanilla to high-sided container.
@@ -646,7 +646,7 @@ Tags: vanilla-bean, chocolate-chip, protein, egg-yolk, premium
   - **400g** Marata 1.5%
   - **8g** whey protein
   - **10g** glycerin
-- 1 egg yolk
+- **1** egg yolk
 - vanilla bean 1/2 (seeds scraped) → 🟡 use 15g vanilla extract total instead of 4.2g (buy beans — vanilla is the star of this recipe)
 - **4.2g** vanilla extract
 
@@ -728,7 +728,7 @@ Tags: fudge-brownie, chocolate, protein, egg-yolk, premium
   - **385g** Marata 1.5%
   - **12g** whey protein
   - **15g** glycerin
-- 1 egg yolk
+- **1** egg yolk
 - **2.1g** vanilla extract
 - coffee extract (6 drops) → 🟢 **1g** instant coffee dissolved in 2g warm water
 
@@ -4923,11 +4923,11 @@ Pre-mixed starchy stabilizer. **Draft / Work in Progress.**
 Irish Cream ice cream with notes of vanilla, coffee, and chocolate. Spun on Lite Ice Cream, scrape down and re-mix.
 
 **Prep:**
-- 50ml water (almost boiling, 90°C)
+- **50ml**  water (almost boiling, 90°C)
 - **15g** cocoa powder
 
 **Wet:**
-- 350ml soy milk (unsweetened)
+- **350ml**  soy milk (unsweetened)
 - **70g** Irish whiskey 40%
 
 **Dry:**
@@ -4944,7 +4944,7 @@ Irish Cream ice cream with notes of vanilla, coffee, and chocolate. Spun on Lite
 - sweetener tablets (15 pcs, ≈60g sugar-equiv sweetness) → 🟡 **0.1g** sucralose (purely sweetness, no bulk — recipe doesn't need the tablet bulk)
 
 **Fill to MAX:**
-- 150ml cream 32%
+- **150ml**  cream 32%
 - Flavor drops Vanilla (8 drops) → 🟡 **3g** vanilla extract
 
 **Steps:**
@@ -4969,14 +4969,14 @@ Irish Cream ice cream with notes of vanilla, coffee, and chocolate. Spun on Lite
 Classic Jeni Britton Bauer ice cream base, scaled to Deluxe tub. Cooked base. Add any flavor to your liking.
 
 **Prep:**
-- 45ml milk 3.5%
+- **45ml**  milk 3.5%
 - **10g** corn starch
 
 **Wet:**
-- 250ml milk 3.5%
+- **250ml**  milk 3.5%
 - light corn syrup (20ml) → 🟡 20ml glucose syrup or rice syrup (slightly different sweetness profile)
 - **40g** cream cheese 23%
-- 225ml cream 32%
+- **225ml**  cream 32%
 
 **Dry:**
 - **95g** sugar
@@ -5005,11 +5005,11 @@ Classic Jeni Britton Bauer ice cream base, scaled to Deluxe tub. Cooked base. Ad
 Light version of Jeni's base (~850 kcal vs ~1500 kcal). Cooked base. Add any flavor to your liking (e.g. 1-2 tsp vanilla extract).
 
 **Prep:**
-- 50ml soy milk (unsweetened)
+- **50ml**  soy milk (unsweetened)
 - **10g** corn starch
 
 **Wet:**
-- 350ml soy milk (unsweetened)
+- **350ml**  soy milk (unsweetened)
 - **50g** cream cheese 23%
 - **15g** glycerin
 
@@ -5023,7 +5023,7 @@ Light version of Jeni's base (~850 kcal vs ~1500 kcal). Cooked base. Add any fla
 - **0.75g** xanthan gum
 
 **Fill to MAX:**
-- 100ml cream 32%
+- **100ml**  cream 32%
 - stevia drops (3 drops) → 🟡 pinch of sucralose
 
 **Steps:**
@@ -5050,9 +5050,9 @@ Sorbet mostly from fresh/frozen fruit, with minimal additions. Vegan & dairy-fre
 
 **Wet:**
 - **450g** fruit (e.g. strawberries)
-- 100ml water (cold)
+- **100ml**  water (cold)
 - **20g** glycerin
-- 10ml lemon juice
+- **10ml**  lemon juice
 
 **Dry:**
 - SweEX (35g):
@@ -5101,7 +5101,7 @@ Sorbet mostly from fresh/frozen fruit, with minimal additions. Vegan & dairy-fre
 
 **Wet:**
 - **500g** yogurt 8% apricot
-- 70ml soy milk (unsweetened)
+- **70ml**  soy milk (unsweetened)
 - **50g** cottage cheese 4%
 - **16g** glycerin
 - **10g** brandy or vodka 40% *(alternative: 8g additional glycerin for sober recipe)*
@@ -5137,12 +5137,12 @@ Sorbet mostly from fresh/frozen fruit, with minimal additions. Vegan & dairy-fre
 "Lazily" using a container of pre-flavored skyr (vanilla, blueberry, cherry, or strawberry). Spin on Frozen Yogurt, scrape down, and Re-Spin or Mix-In.
 
 **Wet:**
-- 450ml skyr (flavored, e.g. vanilla) *(from 500g container)*
-- 150ml soy milk (unsweetened)
+- **450ml**  skyr (flavored, e.g. vanilla) *(from 500g container)*
+- **150ml**  soy milk (unsweetened)
 - **15g** glycerin
 - **15g** brandy or vodka 40% *(alternative: 12g additional glycerin for sober recipe)*
-- 5ml lemon juice
-- 5ml vanilla extract *(optional, recommended for vanilla flavor)*
+- **5ml**  lemon juice
+- **5ml**  vanilla extract *(optional, recommended for vanilla flavor)*
 
 **Dry:**
 - Salty Stability (10g):
@@ -5182,8 +5182,8 @@ Sorbet mostly from fresh/frozen fruit, with minimal additions. Vegan & dairy-fre
 Reduced-calorie version of Coffee & Cream (~30% less). Spun on Sorbet, scrape down, Re-Spin.
 
 **Wet:**
-- 350ml extra strong coffee
-- 120ml soy milk (unsweetened)
+- **350ml**  extra strong coffee
+- **120ml**  soy milk (unsweetened)
 - **100g** cottage cheese 4%
 - **15g** glycerin
 - **15g** brandy or vodka 40% *(alternative: 12g additional glycerin for sober recipe)*
@@ -5230,8 +5230,8 @@ Inspired by Italian lemon ricotta cake, with a Limoncello twist. Process on Sorb
 **Wet:**
 - **330g** soured milk 3.5% → 🟡 **330g** buttermilk (similar tanginess, slightly thinner)
 - **250g** ricotta 9%
-- 40ml Limoncello 28% *(alternative: 20g glycerin + 15ml lemon juice for non-alcoholic version)*
-- 20ml lime juice + zest (organic) *(1 lime, zest first then juice)*
+- **40ml**  Limoncello 28% *(alternative: 20g glycerin + 15ml lemon juice for non-alcoholic version)*
+- **20ml**  lime juice + zest (organic) *(1 lime, zest first then juice)*
 
 **Dry:**
 - SweEX (40g):
@@ -5268,8 +5268,8 @@ Mandarin lemon sorbet — refreshing, tangy. Vegan & dairy-free. Spin on Sorbet,
 
 **Wet:**
 - **300g** mandarins in juice (canned)
-- 125ml lemon juice
-- 125ml water (cold)
+- **125ml**  lemon juice
+- **125ml**  water (cold)
 - **15g** glycerin
 - **10g** Cointreau 40%
 - 1 tsp lemon zest (or lime zest) *(zest before juicing)*
@@ -5308,7 +5308,7 @@ Mostly mandarin slices in juice with soy milk and cream. Lite Ice Cream + Re-Spi
 
 **Wet:**
 - **300g** mandarins in juice (canned)
-- 250ml soy milk (unsweetened)
+- **250ml**  soy milk (unsweetened)
 - **15g** glycerin
 - **10g** brandy or vodka 40% *(alternative: 8g additional glycerin for sober recipe)*
 
@@ -5327,7 +5327,7 @@ Mostly mandarin slices in juice with soy milk and cream. Lite Ice Cream + Re-Spi
 - **10g** whey + casein protein → 🟢 **10g** whey protein
 
 **Fill to MAX:**
-- 25ml cream 32%
+- **25ml**  cream 32%
 - Flavor drops Peach/Maracuja (3 drops) → 🟡 skip (mandarin provides the flavor)
 
 **Steps:**
@@ -5355,9 +5355,9 @@ Rich, creamy mango frozen dessert with coconut and cardamom. Vegan & dairy-free.
 - **2g** GMS → 🟢 **2g** soy lecithin
 
 **Wet:**
-- 225ml canned coconut milk 18-22% *(replaces powder + water from prep)*
+- **225ml**  canned coconut milk 18-22% *(replaces powder + water from prep)*
 - **300g** mango
-- 30ml lemon juice
+- **30ml**  lemon juice
 - **15g** glycerin
 - **10g** brandy or vodka 40% *(alternative: 8g additional glycerin for sober recipe)*
 
@@ -5401,10 +5401,10 @@ Rich, creamy mango frozen dessert with coconut and cardamom. Vegan & dairy-free.
 Frozen margarita sorbet — citrus, tequila, refreshing. Vegan. Spin on Sorbet, scrape down, re-mix.
 
 **Wet:**
-- 400ml water (cold) *(includes 50ml that originally hydrated the gum arabic)*
-- 65ml lemon juice
+- **400ml**  water (cold) *(includes 50ml that originally hydrated the gum arabic)*
+- **65ml**  lemon juice
 - **45g** tequila 38%
-- 40ml lime juice + zest (organic) *(2 limes; zest before juicing)*
+- **40ml**  lime juice + zest (organic) *(2 limes; zest before juicing)*
 - **15g** Cointreau 40%
 
 **Dry:**
@@ -5438,8 +5438,8 @@ Frozen margarita sorbet — citrus, tequila, refreshing. Vegan. Spin on Sorbet, 
 Matcha ice cream with coconut and soy milk. Cooked/heated base. Process on Sorbet, then Re-Spin or Mix-In.
 
 **Wet:**
-- 350ml soy milk (unsweetened)
-- 100ml coconut milk 22% (canned)
+- **350ml**  soy milk (unsweetened)
+- **100ml**  coconut milk 22% (canned)
 - **15g** glycerin
 - **15g** brandy or vodka 40%
 
@@ -5459,7 +5459,7 @@ Matcha ice cream with coconut and soy milk. Cooked/heated base. Process on Sorbe
 - **25g** skim milk powder (SMP)
 
 **Fill to MAX:**
-- 88ml soy milk (unsweetened)
+- **88ml**  soy milk (unsweetened)
 - Flavor drops Vanilla (2 drops) → 🟡 **2g** vanilla extract
 
 **Steps:**
@@ -5484,7 +5484,7 @@ Matcha ice cream with coconut and soy milk. Cooked/heated base. Process on Sorbe
 Thick milkshake — blend and enjoy. Not a Creami spin recipe.
 
 **Wet:**
-- 500ml soy milk (unsweetened)
+- **500ml**  soy milk (unsweetened)
 - **99g** ice cream *(2 scoops from any pint)*
 - 2 pcs ice cubes
 
@@ -5493,7 +5493,7 @@ Thick milkshake — blend and enjoy. Not a Creami spin recipe.
 - **0.75g** xanthan gum
 
 **Mix-ins:**
-- 30ml cream 32%
+- **30ml**  cream 32%
 - Batida de Côco (30ml) → 🟡 30ml Malibu or any coconut liqueur *(or skip for non-alcoholic)*
 
 **Steps:**
@@ -5510,7 +5510,7 @@ Thick milkshake — blend and enjoy. Not a Creami spin recipe.
 Pure milk-flavored ice cream. Spin on Ice Cream, scrape down, Re-Spin. Manually mix in lemon wafers.
 
 **Wet:**
-- 550ml milk 3.5%
+- **550ml**  milk 3.5%
 - **15g** glycerin
 - **10g** brandy or vodka 40% *(alternative: 8g additional glycerin for sober recipe)*
 
@@ -5525,7 +5525,7 @@ Pure milk-flavored ice cream. Spin on Ice Cream, scrape down, Re-Spin. Manually 
 - **1g** salt
 
 **Fill to MAX:**
-- 30ml cream 32%
+- **30ml**  cream 32%
 - Flavor drops "Natural" / stevia (5 drops) → 🟡 pinch of sucralose (just sweetness, unflavored)
 
 **Mix-ins:**
@@ -5556,7 +5556,7 @@ Orange and peach soft serve. Processed on Lite Ice Cream.
 **Wet:**
 - orange zest — ½ peel *(zest before juicing)*
 - **410g** peaches in grape juice (canned)
-- 80ml freshly pressed orange juice *(1 medium orange)*
+- **80ml**  freshly pressed orange juice *(1 medium orange)*
 - **75g** cream cheese 23%
 - **15g** glycerin
 - **15g** brandy 40%
@@ -5600,7 +5600,7 @@ Intense citrus sorbet with mango and cottage cheese. Processed on Sorbet, scrape
 - 1 peel orange zest *(zest before juicing; use ½ for less intensity)*
 - **300g** mandarins in juice (canned)
 - **150g** mango
-- 80ml freshly pressed orange juice *(1 medium orange)*
+- **80ml**  freshly pressed orange juice *(1 medium orange)*
 - **75g** cottage cheese 4%
 - **10g** glycerin
 - **10g** brandy 40%
@@ -5655,8 +5655,8 @@ Peanut butter & jelly ice cream with freeze-dried strawberry mix-in. Includes a 
 Per tub dry portion (~84g): 30g xylitol, 20g SMP, 15g whey, 15g inulin, 1g salt, 1.5g CMC, 1g guar.
 
 **Wet (per tub):**
-- 275ml milk 1.5%
-- 150ml water
+- **275ml**  milk 1.5%
+- **150ml**  water
 - **100g** cottage cheese 4%
 - **20g** glycerin
 - **15g** brandy 40%
@@ -5689,7 +5689,7 @@ Per tub dry portion (~84g): 30g xylitol, 20g SMP, 15g whey, 15g inulin, 1g salt,
 
 Peanut butter swirl as a manual mix-in for refreezable bases. Not a standalone ice cream. Vegan option with coconut/soy cream.
 
-- 70ml cream 32% *(use coconut or soy cream to keep vegan)*
+- **70ml**  cream 32% *(use coconut or soy cream to keep vegan)*
 - **20g** PB powder → 🟡 **10g** peanut butter (higher fat, richer; stir until smooth)
 - **10g** xylitol
 - **0.25g** salt
@@ -5714,7 +5714,7 @@ Peanut butter swirl as a manual mix-in for refreezable bases. Not a standalone i
 Peanut butter & jelly frozen yogurt. Frozen Yogurt setting, scrape down, then Mix-In with strawberries.
 
 **Wet:**
-- 350ml milk 1.5%
+- **350ml**  milk 1.5%
 - **150g** Greek yogurt 9%
 - **50g** cream cheese 23%
 - **15g** glycerin
@@ -5755,7 +5755,7 @@ Peanut butter & jelly frozen yogurt. Frozen Yogurt setting, scrape down, then Mi
 Traditional Sicilian gelato thickened with cornstarch instead of eggs. Cooked base. Process on Lite Ice Cream.
 
 **Wet:**
-- 150ml soy milk (unsweetened)
+- **150ml**  soy milk (unsweetened)
 - **25g** almond butter (creamy)
 - **10g** glycerin
 
@@ -5769,7 +5769,7 @@ Traditional Sicilian gelato thickened with cornstarch instead of eggs. Cooked ba
 
 **Fill to MAX:**
 - **250g** peaches in grape juice (drained)
-- 150ml soy milk (unsweetened)
+- **150ml**  soy milk (unsweetened)
 - **10g** brandy or vodka 40%
 - Flavor drops Peach/Maracuja (5 drops) → 🟡 skip (peaches provide the flavor)
 - ~38ml to MAX line water
@@ -5796,7 +5796,7 @@ Traditional Sicilian gelato thickened with cornstarch instead of eggs. Cooked ba
 Classic peaches and cream ice cream. Spun on Ice Cream, scrape down, Re-Spin.
 
 **Wet:**
-- 250ml soy milk (unsweetened)
+- **250ml**  soy milk (unsweetened)
 - **250g** peaches in grape juice (drained)
 - **15g** glycerin
 - **10g** brandy or vodka 40% *(alternative: same amount additional glycerin for sober recipe)*
@@ -5812,7 +5812,7 @@ Classic peaches and cream ice cream. Spun on Ice Cream, scrape down, Re-Spin.
 - 1 pinch turmeric *(optional, for color)*
 
 **Fill to MAX:**
-- 75ml cream 32%
+- **75ml**  cream 32%
 - Flavor drops Peach/Maracuja (6 drops) → 🟡 skip (peaches provide the flavor)
 
 **Steps:**
@@ -5841,7 +5841,7 @@ Peanut butter ice cream. Process on Lite Ice Cream. Originally vegan; soy protei
 - **50g** peanut butter (creamy)
 
 **Wet:**
-- 450ml soy milk (unsweetened)
+- **450ml**  soy milk (unsweetened)
 - **15g** glycerin
 - **10g** brandy or vodka 40% *(alternative: 8g additional glycerin)*
 
@@ -5854,7 +5854,7 @@ Peanut butter ice cream. Process on Lite Ice Cream. Originally vegan; soy protei
 - **3g** soy lecithin *(already in original recipe — no swap needed)*
 
 **Fill to MAX:**
-- 91ml soy milk (unsweetened)
+- **91ml**  soy milk (unsweetened)
 - Flavor drops Vanilla (3 drops) → 🟡 **2g** vanilla extract
 
 **Steps:**
@@ -5883,9 +5883,9 @@ Tropical coconut-pineapple with rum. Vegan & dairy-free. Process on Lite Ice Cre
 - **4g** GMS → 🟢 **4g** soy lecithin
 
 **Wet:**
-- 200ml canned coconut milk 19-22% *(replaces powder + water from prep)*
+- **200ml**  canned coconut milk 19-22% *(replaces powder + water from prep)*
 - **225g** pineapple in juice (canned)
-- 150ml soy milk (unsweetened)
+- **150ml**  soy milk (unsweetened)
 - **40g** Jamaica rum 43%
 
 **Dry:**
@@ -5948,7 +5948,7 @@ Pineapple in juice with cottage cheese for creaminess. Processed on Sorbet, scra
   - **0.13g** xanthan gum
 
 **Fill to MAX:**
-- 75ml soy milk (unsweetened)
+- **75ml**  soy milk (unsweetened)
 - Flavor drops Peach/Maracuja (7 drops) → 🟡 skip (pineapple provides the flavor)
 
 **Optional:**
@@ -5981,7 +5981,7 @@ Pistachio ice cream with nut butters, tofu, and soy. Originally vegan; soy prote
 - **65g** tofu (plain)
 
 **Wet:**
-- 350ml soy milk (unsweetened)
+- **350ml**  soy milk (unsweetened)
 - **20g** glycerin
 - **15g** brandy or vodka 40%
 
@@ -5999,7 +5999,7 @@ Pistachio ice cream with nut butters, tofu, and soy. Originally vegan; soy prote
 - **1g** salt
 
 **Fill to MAX:**
-- 147ml soy milk (unsweetened)
+- **147ml**  soy milk (unsweetened)
 - Flavor drops Vanilla (0-7 drops) → 🟡 **2g** vanilla extract *(total vanilla extract with bean powder swap = ~6g)*
 
 **Steps:**
@@ -6024,7 +6024,7 @@ Pistachio ice cream with nut butters, tofu, and soy. Originally vegan; soy prote
 Pistachio ice cream with cottage cheese. Heated base. Process on Lite Ice Cream.
 
 **Wet:**
-- 400ml soy milk (unsweetened)
+- **400ml**  soy milk (unsweetened)
 - **100g** cottage cheese 4%
 - **30g** pistachio butter
 - **20g** almond butter (creamy) *(optional: use more pistachio butter instead)*
@@ -6048,7 +6048,7 @@ Pistachio ice cream with cottage cheese. Heated base. Process on Lite Ice Cream.
 - **2g** matcha green tea powder *(optional, for color)*
 
 **Fill to MAX:**
-- 15ml cream 32%
+- **15ml**  cream 32%
 - Flavor drops Vanilla (3 drops) → 🟡 **2g** vanilla extract
 
 **Steps:**
@@ -6115,7 +6115,7 @@ Pistachio ice cream with cottage cheese. Heated base. Process on Lite Ice Cream.
 
 **Wet:**
 - **75g** cottage cheese 4%
-- 490ml buttermilk 1%
+- **490ml**  buttermilk 1%
 - **40g** pomegranate syrup (nar ekşisi)
 - **10g** glycerin
 
@@ -6161,12 +6161,12 @@ Pistachio ice cream with cottage cheese. Heated base. Process on Lite Ice Cream.
 **Draft · Cooked Base · Seasonal**
 
 **Prep:**
-- 180ml soy milk 1.6% *(or any ~2% milk)*
+- **180ml**  soy milk 1.6% *(or any ~2% milk)*
 - **4g** pumpkin spice
 - **3g** annatto seed powder *(optional, for color)*
 
 **Wet:**
-- 280ml soy milk 1.6% *(or any ~2% milk)*
+- **280ml**  soy milk 1.6% *(or any ~2% milk)*
 - **15g** glycerin
 - **8g** brandy or vodka 40% *(alternative: 6g additional glycerin)*
 
@@ -6183,7 +6183,7 @@ Pistachio ice cream with cottage cheese. Heated base. Process on Lite Ice Cream.
 - **1g** salt
 
 **Fill to MAX:**
-- 100ml cream 32%
+- **100ml**  cream 32%
 - Flavor drops Vanilla (5 drops) → 🟡 **2g** vanilla extract
 
 **Mix-ins:**
@@ -6216,9 +6216,9 @@ Pistachio ice cream with cottage cheese. Heated base. Process on Lite Ice Cream.
 A bitter-sweet sorbet from a typical German summer beer mix (radler/shandy). Also works with Berliner Weiße or Belgian Früli (strawberry beer — leave out VG).
 
 **Wet:**
-- 330ml radler / shandy beer ~2.4 vol% *(any brand)*
+- **330ml**  radler / shandy beer ~2.4 vol% *(any brand)*
 - **10g** glycerin
-- 10ml lemon juice
+- **10ml**  lemon juice
 
 **Dry:**
 - **15g** inulin
@@ -6259,7 +6259,7 @@ A bitter-sweet sorbet from a typical German summer beer mix (radler/shandy). Als
 - **0.9g** GMS → 🟢 **0.9g** soy lecithin *(stir into warmed coconut milk)*
 
 **Wet:**
-- 375ml soy milk 1.6% *(or any ~2% milk)*
+- **375ml**  soy milk 1.6% *(or any ~2% milk)*
 
 **Dry:**
 - SweEX (30g):
@@ -6313,7 +6313,7 @@ Adapts S&S Light by replacing dairy cream with coconut cream.
 - **1.8g** GMS → 🟢 **1.8g** soy lecithin *(stir into warmed coconut milk)*
 
 **Wet:**
-- 350ml soy milk 1.6% *(or any ~2% milk)*
+- **350ml**  soy milk 1.6% *(or any ~2% milk)*
 - **17g** glycerin
 
 **Dry:**
@@ -6359,7 +6359,7 @@ Adapted Salt & Straw base, scaled to ~600g neutral base. Use the 80-100g unclaim
 *Example below: strawberry.*
 
 **Wet:**
-- 375ml soy milk 1.6% *(or any ~2% milk)*
+- **375ml**  soy milk 1.6% *(or any ~2% milk)*
 - **18g** glycerin
 
 **Dry:**
@@ -6488,8 +6488,8 @@ Adapted Salt & Straw base, scaled to ~600g neutral base. Use the 80-100g unclaim
 Egg liqueur ice cream. Can also use Baileys (17 vol%) — bumps energy to ~125 kcal/100g; use 3g soy lecithin. For eggnog, check label for alcohol content; >20 vol% will be too soft.
 
 **Wet:**
-- 450ml soy milk 1.6%
-- 190ml egg liqueur 15 vol% (e.g. Bols Advocaat)
+- **450ml**  soy milk 1.6%
+- **190ml**  egg liqueur 15 vol% (e.g. Bols Advocaat)
 - Flavor drops Vanilla (10 drops) → 🟡 **3g** vanilla extract
 
 **Dry:**
@@ -6528,8 +6528,8 @@ Egg liqueur ice cream. Can also use Baileys (17 vol%) — bumps energy to ~125 k
 Egg & cream punch (9 vol%) ice cream — lighter alcohol variant of Shregg.
 
 **Wet:**
-- 250ml soy milk 1.6%
-- 375ml egg cream punch 9 vol% (e.g. Katlenburger)
+- **250ml**  soy milk 1.6%
+- **375ml**  egg cream punch 9 vol% (e.g. Katlenburger)
 - Flavor drops Vanilla (10 drops) → 🟡 **3g** vanilla extract
 
 **Dry:**
@@ -6569,10 +6569,10 @@ Egg & cream punch (9 vol%) ice cream — lighter alcohol variant of Shregg.
 Soda sorbet from 0-cal syrup. Works with any 0-sugar soda syrup — increase recommended dosage by 33%, because ice cream.
 
 **Wet:**
-- 400ml water (cold)
-- 45ml soda syrup (0-sugar, any brand)
+- **400ml**  water (cold)
+- **45ml**  soda syrup (0-sugar, any brand)
 - **20g** glycerin
-- 20ml lime juice + zest (organic)
+- **20ml**  lime juice + zest (organic)
 - **15g** brandy or vodka 40%
 
 **Dry:**
@@ -6622,7 +6622,7 @@ Soda sorbet from 0-cal syrup. Works with any 0-sugar soda syrup — increase rec
 Dark cacao base with white chocolate flakes mixed in. Macros include mix-ins.
 
 **Wet:**
-- 475ml soy milk 1.6% *(or any ~2% milk)*
+- **475ml**  soy milk 1.6% *(or any ~2% milk)*
 - **20g** Cointreau 40 vol%
 - **10g** glycerin
 
@@ -6645,7 +6645,7 @@ Dark cacao base with white chocolate flakes mixed in. Macros include mix-ins.
 - **1g** cinnamon (Ceylon) *(optional)*
 
 **Fill to MAX:**
-- 25ml cream 32%
+- **25ml**  cream 32%
 - Flavor drops Vanilla (6 drops) → 🟡 **2g** vanilla extract
 
 **Mix-ins:**
@@ -6680,10 +6680,10 @@ A great combination of tart flavors, based on quark/topfen. In Greece, use cream
 **Wet:**
 - **245g** quark / topfen 14.4% → 🟡 **245g** cream cheese (low-fat) *(or strained yogurt)*
 - **200g** strawberries
-- 125ml soy milk 1.6% *(or any ~2% milk)*
+- **125ml**  soy milk 1.6% *(or any ~2% milk)*
 - **15g** brandy or vodka 40%
 - **15g** glycerin
-- 15ml lemon juice
+- **15ml**  lemon juice
 
 **Dry:**
 - SweEX (30g):
@@ -6737,10 +6737,10 @@ A great combination of tart flavors, based on quark/topfen. In Greece, use cream
 Based on the Strawberry Sangria sorbet (recipe 98).
 
 **Ingredients:**
-- 100ml Strawberry Sangria sorbet (2 scoops)
-- 250ml sparkling water (fridge cold)
+- **100ml**  Strawberry Sangria sorbet (2 scoops)
+- **250ml**  sparkling water (fridge cold)
 - sweetener tablets (2, equiv. 2 tsp sugar) → 🟡 **~0.01g** pinch of sucralose *(or any sweetener to taste)*
-- 4ml pomegranate syrup (nar ekşisi) (1 squeeze)
+- **4ml**  pomegranate syrup (nar ekşisi) (1 squeeze)
 
 **Steps:**
 1. Put ~⅔ of the water, sweetener, and syrup into a long-drink glass. Stir.
@@ -6762,11 +6762,11 @@ Based on the Strawberry Sangria sorbet (recipe 98).
 Frozen yogurt with fruit, cream cheese, and protein. Replace strawberries with other fruit or fruit powder (adjust liquid to fill to MAX).
 
 **Wet:**
-- 350ml yogurt mild 4%
+- **350ml**  yogurt mild 4%
 - **25g** cream cheese
 - **15g** glycerin
 - **10g** brandy or vodka 40%
-- 10ml lemon juice
+- **10ml**  lemon juice
 - **175g** strawberries
 
 **Dry:**
@@ -6816,7 +6816,7 @@ Frozen yogurt with fruit, cream cheese, and protein. Replace strawberries with o
 Intense flavor, very creamy, dense and free of ice crystals.
 
 **Wet:**
-- 300ml soy milk 1.6%
+- **300ml**  soy milk 1.6%
 - **225g** strawberries
 - **50g** cream cheese
 - **20g** glycerin
@@ -6865,7 +6865,7 @@ A creamy sorbet inspired by Sangria. Also works with blueberries, berry mix, ros
 **Wet:**
 - **400g** strawberries *(or blueberries, berry mix)*
 - **200g** red wine 13 vol% (dry) *(also works with rosé or white)*
-- 20ml lime juice + zest (organic)
+- **20ml**  lime juice + zest (organic)
 
 **Dry:**
 - **20g** inulin
@@ -6902,11 +6902,11 @@ A creamy sorbet inspired by Sangria. Also works with blueberries, berry mix, ros
 **Draft · ~~Vegan~~ (whey swap)**
 
 **Wet:**
-- 300ml soy milk 1.6%
+- **300ml**  soy milk 1.6%
 - **225g** strawberries
 - **15g** brandy or vodka 40%
 - **15g** glycerin
-- 5ml lemon juice
+- **5ml**  lemon juice
 
 **Dry:**
 - SweEX (33g):
@@ -6954,7 +6954,7 @@ A creamy sorbet inspired by Sangria. Also works with blueberries, berry mix, ros
 - **150g** sweet potato (baked) *(1 potato ~130g, bake at 200°C for 50-60 min)*
 
 **Wet:**
-- 300ml soy milk 1.6%
+- **300ml**  soy milk 1.6%
 - **20g** glycerin
 - **10g** brandy or vodka 40%
 
@@ -6996,12 +6996,12 @@ A creamy sorbet inspired by Sangria. Also works with blueberries, berry mix, ros
 **Draft**
 
 **Prep:**
-- 100ml water (boiling)
+- **100ml**  water (boiling)
 - **20g** cocoa powder 11%
 - **30g** skim milk powder (SMP) *(toast carefully in a pan first)*
 
 **Wet:**
-- 400ml buttermilk 1%
+- **400ml**  buttermilk 1%
 - **15g** glycerin
 - **10g** brandy or vodka 40%
 - **5g** molasses
@@ -7048,16 +7048,16 @@ A creamy sorbet inspired by Sangria. Also works with blueberries, berry mix, ros
 Classic Austrian dessert reimagined as ice cream: quark/lime base with rum-soaked raisins and pancake ribbons as mix-ins.
 
 **Prep (pancakes):**
-- 125ml soy milk 1.6% *(or any low-fat milk)*
+- **125ml**  soy milk 1.6% *(or any low-fat milk)*
 - **75g** flour (cake flour)
 - **60g** egg *(1 medium)*
 - pinch of salt
-- 15ml avocado oil *(to fry)*
+- **15ml**  avocado oil *(to fry)*
 
 **Wet:**
 - **245g** quark / topfen 14.4% → 🟡 **245g** cream cheese (low-fat) *(or strained yogurt)*
-- 100ml soy milk 1.6% *(or any low-fat milk)*
-- 20ml lime juice + zest (organic)
+- **100ml**  soy milk 1.6% *(or any low-fat milk)*
+- **20ml**  lime juice + zest (organic)
 - **10g** glycerin
 
 **Dry:**
@@ -7115,18 +7115,18 @@ Not a recipe — reference page for mix-in and topping ideas. See also: Forget-M
 A boozy combination of layered chocolate and coconut ice cream. Prepared in 3 phases, combined to 2 layers. Do not overprocess, to keep discernible layers.
 
 **Prep (chocolate layer):**
-- 100ml water (boiling)
+- **100ml**  water (boiling)
 - **20g** cocoa powder 11%
 - **20g** dark chocolate 70%
-- 50ml almond liqueur (Amaretto) 21.5 vol%
+- **50ml**  almond liqueur (Amaretto) 21.5 vol%
 
 **Prep (coconut layer):**
-- 100ml soy milk 1.6% *(heat to 90°C)*
+- **100ml**  soy milk 1.6% *(heat to 90°C)*
 - **20g** coconut flakes (desiccated) *(soak in hot milk for 30-60 min)*
 - Batida de Côco (50ml) → 🟡 50ml Malibu (or any coconut liqueur)
 
 **Wet:**
-- 225ml soy milk 1.6%
+- **225ml**  soy milk 1.6%
 - **50g** cottage cheese 4%
 - **25g** Jamaica rum 43%
 
@@ -7174,9 +7174,9 @@ A boozy combination of layered chocolate and coconut ice cream. Prepared in 3 ph
 Blends pineapple, orange, and mango juices with coconut milk and a touch of Jamaica Rum.
 
 **Prep (heated):**
-- 200ml juice (60% orange / 20% mango / 20% pineapple)
-- 70ml water *(reduced from 100ml to offset canned coconut milk)*
-- 30ml lime or lemon juice
+- **200ml**  juice (60% orange / 20% mango / 20% pineapple)
+- **70ml**  water *(reduced from 100ml to offset canned coconut milk)*
+- **30ml**  lime or lemon juice
 - **15g** pomegranate syrup (grenadine / nar ekşisi)
 
 **Wet:**
@@ -7219,8 +7219,8 @@ Blends pineapple, orange, and mango juices with coconut milk and a touch of Jama
 Works with any fruit powder that harmonizes with coconut milk — ube yam root is the example below (order online if unavailable locally; tastes like vanilla+pistachio).
 
 **Wet:**
-- 400ml soy milk 1.6%
-- 133ml coconut milk 22%
+- **400ml**  soy milk 1.6%
+- **133ml**  coconut milk 22%
 - **15g** brandy 40%
 - **15g** glycerin
 - Flavor drops Vanilla (7 drops) → 🟡 **2g** vanilla extract
@@ -7267,15 +7267,15 @@ Works with any fruit powder that harmonizes with coconut milk — ube yam root i
 A balanced, creamy frozen yogurt — light on sugar, rich in texture. Versatile base for any topping or swirl.
 
 **Prep (heated to 90°C):**
-- 100ml soy milk 1.6% *(or any ~2% milk)*
+- **100ml**  soy milk 1.6% *(or any ~2% milk)*
 - **50g** monk fruit / erythritol sweetener → 🟢 **50g** erythritol
 - **30g** cream cheese
-- 20ml agave syrup
+- **20ml**  agave syrup
 - **15g** banana powder / green plantain → 🟡 **15g** corn starch *(recipe heats to 90°C, so starch activates fine)*
 - **3g** GMS → 🟢 **3g** soy lecithin *(stir into hot prep)*
 
 **Wet:**
-- 400ml yogurt mild 4%
+- **400ml**  yogurt mild 4%
 
 **Dry:**
 - **15g** inulin
@@ -7291,7 +7291,7 @@ A balanced, creamy frozen yogurt — light on sugar, rich in texture. Versatile 
 - **50g** no-sugar-added cherry jam *(manual mix-in; +30 kcal, +3.6g sugar)*
 
 **Optional:**
-- 3ml vanilla extract *(add before freezing)*
+- **3ml**  vanilla extract *(add before freezing)*
 
 **Steps:**
 1. In a small saucepan, mix all prep ingredients and heat to 90°C on medium while whisking.
@@ -7325,11 +7325,11 @@ An exotic ice cream made from miso, hon mirin, coconut milk, and soy protein.
 - **50g** hon mirin 14 vol%
 - **40g** miso (genmai, organic)
 - **20g** glycerin
-- 10ml sesame oil (roasted)
+- **10ml**  sesame oil (roasted)
 
 **Wet:**
-- 300ml water (cold)
-- 100ml coconut milk 22%
+- **300ml**  water (cold)
+- **100ml**  coconut milk 22%
 
 **Dry:**
 - **20g** soy protein isolate → 🟡 **20g** whey protein *(no longer vegan/dairy-free)*
@@ -7371,8 +7371,8 @@ Superior to store-bought vanilla extracts. Use grade B vanilla beans (preferably
 - **35g** vanilla beans (Bourbon) *(17-18 beans, grade B or A, 12-13 cm)*
 
 **Wet:**
-- 140ml water (cold)
-- 24ml agave syrup
+- **140ml**  water (cold)
+- **24ml**  agave syrup
 
 **Dry:**
 - **80g** trehalose → 🟡 **80g** sugar *(original suggests table sugar as alternative; slightly sweeter than trehalose)*
@@ -7402,7 +7402,7 @@ Superior to store-bought vanilla extracts. Use grade B vanilla beans (preferably
 Pure vanilla, no cream or cottage cheese, double protein. Low fat & sugar, high protein.
 
 **Wet:**
-- 500ml soy milk 1.6%
+- **500ml**  soy milk 1.6%
 - **20g** glycerin
 - **10g** brandy or vodka 40%
 
@@ -7454,7 +7454,7 @@ Pure vanilla, no cream or cottage cheese, double protein. Low fat & sugar, high 
 Vanilla ice cream based on soy milk and cottage cheese, with very low net carbs to total energy ratio. Multi-flavor base — swap vanilla for fruit/yam powders for variety (see options below).
 
 **Wet:**
-- 400ml soy milk 1.6%
+- **400ml**  soy milk 1.6%
 - **100g** cottage cheese 4% *(alt: 150g greek yogurt 9% for +64 kcal)*
 - **15g** glycerin
 - **10g** brandy or vodka 40%
@@ -7512,11 +7512,11 @@ Vanilla ice cream based on soy milk and cottage cheese, with very low net carbs 
 Vegan almond butter + amaretto in soy milk. Cooked base thickened with starch. Sweet marzipan note.
 
 **Prep:**
-- 350ml soy milk 1.6%
+- **350ml**  soy milk 1.6%
 - **40g** almond butter (creamy)
 
 **Wet:**
-- 160ml soy milk 1.6%
+- **160ml**  soy milk 1.6%
 - **40g** amaretto 21.5%
 
 **Dry:**
@@ -7559,9 +7559,9 @@ Vegan almond butter + amaretto in soy milk. Cooked base thickened with starch. S
 Holiday gingerbread ice cream — soy milk, winter spices, molasses, and Amaretto. Alcohol-free variant: use 8g additional glycerin instead of Amaretto.
 
 **Wet:**
-- 525ml soy milk 1.6%
+- **525ml**  soy milk 1.6%
 - **30g** molasses
-- 25ml amaretto 21.5%
+- **25ml**  amaretto 21.5%
 - **15g** glycerin
 
 **Dry:**
@@ -7605,16 +7605,16 @@ Holiday gingerbread ice cream — soy milk, winter spices, molasses, and Amarett
 Refreshing dairy-free lime ice cream with tofu and soy milk. Zesty and creamy.
 
 **Prep:**
-- 50ml Limoncello 28%
+- **50ml**  Limoncello 28%
 - SweEX (45g):
   - **27g** erythritol
   - **18g** xylitol
-- 20ml lime juice + zest (organic) *(1 lime; optionally 2 limes or 1 lemon)*
+- **20ml**  lime juice + zest (organic) *(1 lime; optionally 2 limes or 1 lemon)*
 
 **Wet:**
-- 200ml soy milk 1.6% *(heat and blend with the tofu)*
+- **200ml**  soy milk 1.6% *(heat and blend with the tofu)*
 - **90g** tofu (plain) *(silken tofu preferred)*
-- 250ml soy milk 1.6%
+- **250ml**  soy milk 1.6%
 
 **Dry:**
 - Salty Stability (15g):
@@ -7656,7 +7656,7 @@ Refreshing dairy-free lime ice cream with tofu and soy milk. Zesty and creamy.
 Plain vanilla base using soy milk and starch. Use enough vanilla — taste the base before freezing.
 
 **Wet:**
-- 575ml soy milk 1.6%
+- **575ml**  soy milk 1.6%
 - **15g** glycerin
 - **10g** brandy or vodka 40%
 
@@ -7701,13 +7701,13 @@ Plain vanilla base using soy milk and starch. Use enough vanilla — taste the b
 Velvety nuts, sweetened with dates, kissed by vanilla. Medjool dates give a natural caramel note.
 
 **Prep:**
-- 150ml water (boiling)
+- **150ml**  water (boiling)
 - **60g** Medjool dates (organic) *(3 dates, pitted, coarsely chopped)*
 - **30g** cashew nuts
 - **20g** coconut flakes (desiccated)
 
 **Wet:**
-- 300ml soy milk 1.6%
+- **300ml**  soy milk 1.6%
 - **15g** glycerin
 - **10g** brandy or vodka 40%
 
@@ -7760,7 +7760,7 @@ Almond butter + Amaretto ice cream with buttermilk base. Winter mix-ins: gingerb
 Soaked raisins variant (option 2): soak 40g chopped raisins in 45g rum (43%) a day before, drain surplus rum into base (~26g), leave out Amaretto.
 
 **Prep:**
-- 175ml buttermilk 1%
+- **175ml**  buttermilk 1%
 - **40g** almond butter (creamy)
 - SweEX (33g):
   - **19.8g** erythritol
@@ -7769,8 +7769,8 @@ Soaked raisins variant (option 2): soak 40g chopped raisins in 45g rum (43%) a d
 - **2g** GMS → 🟢 **2g** soy lecithin
 
 **Wet:**
-- 300ml buttermilk 1%
-- 40ml amaretto 28% *(with option 2: replace with 26g surplus rum)*
+- **300ml**  buttermilk 1%
+- **40ml**  amaretto 28% *(with option 2: replace with 26g surplus rum)*
 
 **Dry:**
 - Salty Stability (15g):
@@ -7816,8 +7816,8 @@ Soaked raisins variant (option 2): soak 40g chopped raisins in 45g rum (43%) a d
 Applesauce sherbet with cinnamon, stollen pieces as mix-in. Mix-ins not included in macros.
 
 **Wet:**
-- 300ml apple sauce (no added sugar)
-- 150ml soy milk 1.6%
+- **300ml**  apple sauce (no added sugar)
+- **150ml**  soy milk 1.6%
 - **100g** cottage cheese 4% *(alt: silken tofu for dairy-free)*
 - **15g** glycerin
 - **10g** brandy or vodka 40%
@@ -7872,12 +7872,12 @@ Applesauce sherbet with cinnamon, stollen pieces as mix-in. Mix-ins not included
 Festive chocolate ice cream — cocoa + gingerbread + Amaretto + cinnamon + vanilla. Mix-ins: gingerbread, almond slivers, candied orange peel, sultanas. Mix-ins included in macros.
 
 **Prep:**
-- 130ml soy milk 1.6% *(heat to ~80°C)*
+- **130ml**  soy milk 1.6% *(heat to ~80°C)*
 - **40g** cocoa powder 11%
 
 **Wet:**
-- 250ml soy milk 1.6%
-- 35ml amaretto 28% *(alt: 19g glycerin + almond extract)*
+- **250ml**  soy milk 1.6%
+- **35ml**  amaretto 28% *(alt: 19g glycerin + almond extract)*
 - **5g** glycerin
 
 **Dry:**
@@ -7896,7 +7896,7 @@ Festive chocolate ice cream — cocoa + gingerbread + Amaretto + cinnamon + vani
 - **1g** cinnamon (Ceylon) *(optional, to taste)*
 
 **Top off:**
-- 50ml cream 32%
+- **50ml**  cream 32%
 - Flavor drops Vanilla (5 drops) → 🟡 **2g** vanilla extract
 
 **Mix-ins:**
@@ -7934,12 +7934,12 @@ Festive chocolate ice cream — cocoa + gingerbread + Amaretto + cinnamon + vani
 
 **Prep:**
 - **50g** grappa 40%
-- 20ml lime juice + zest (organic) *(1 lime)*
+- **20ml**  lime juice + zest (organic) *(1 lime)*
 - **17g** pomegranate syrup (nar ekşisi)
-- 3ml raspberry emulsion *(LorAnn or similar; optional if unavailable)*
+- **3ml**  raspberry emulsion *(LorAnn or similar; optional if unavailable)*
 
 **Wet:**
-- 425ml soy milk 1.6%
+- **425ml**  soy milk 1.6%
 - **10g** molasses
 
 **Dry:**
@@ -7954,7 +7954,7 @@ Festive chocolate ice cream — cocoa + gingerbread + Amaretto + cinnamon + vani
 
 **Fill to MAX:**
 - prepared grappa/lime/syrup mix *(blend into base before tasting)*
-- 60ml cream 32%
+- **60ml**  cream 32%
 - stevia drops "natural" (15 drops) → 🟡 **~0.03g** pinch sucralose
 
 **Mix-ins:**
@@ -7989,7 +7989,7 @@ Festive chocolate ice cream — cocoa + gingerbread + Amaretto + cinnamon + vani
 Woodruff ("Waldmeister") — a German flavor used in Berliner Kindl, Maibowle, and Ahoi Brause. Uses instant drink powder sticks for flavoring; any brand/flavor of 0-sugar instant drink for ~500ml water works. The powder already contains sweetness, so dial in additional sweeteners to taste.
 
 **Wet:**
-- 500ml soy milk 1.6%
+- **500ml**  soy milk 1.6%
 - **20g** glycerin
 - **15g** brandy or vodka 40%
 
@@ -8114,7 +8114,7 @@ Low-cal brownie cubes for mix-ins. One batch makes ~9 pints worth. Two textures 
 - **50g** whey protein (unflavored)
 - **35g** cocoa powder
 - **80g** erythritol (or SweEX)
-- 1 egg (~50g)
+- **1** egg (~50g)
 - **15g** corn starch
 - **85g** water
 - **1g** salt
@@ -8158,13 +8158,13 @@ Tags: mix-in, prep, low-calorie, crunch, almost-zero-cal
 Pure crunch, almost zero calories. Shatters into ice cream during Mix-In. Choose sweet or sweet-salty.
 
 **Ingredients (1 batch, ~4 pints):**
-- 2 egg whites (~66g)
+- **2** egg whites (~66g)
 - **60g** sweet / 50g sweet-salty (adjust down to make room for salt) SweEX
 - **1.5g**/pinch cream of tartar (stabilizes foam)
 - **3g** *sweet-salty only:* salt
 
 **Ingredients (double batch — makes both, ~8 pints):**
-- 4 egg whites (~132g)
+- **4** egg whites (~132g)
 - **110g** SweEX (66g erythritol + 44g xylitol)
 - **3g** cream of tartar
 - **3g** salt (for the salty half only)
