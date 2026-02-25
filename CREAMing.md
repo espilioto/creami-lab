@@ -7881,48 +7881,40 @@ Scaled to Deluxe pint from u/Salty_Zebra5937's original.
 ---
 
 ### [Banana Biscoff Creami](https://www.reddit.com/r/ninjacreami/comments/1r89su8/)
-Tags: ice cream, banana, biscoff, cookie butter, high-protein
-From u/Boring_Bug_9637 (r/ninjacreami). "Banana always gives me the best consistency and texture."
+Tags: frozen yogurt, banana, biscoff, high-protein
 
 **Ingredients:**
-- **122g** Fairlife fat-free milk → 🟡 **122g** Marata 1.5% (slightly less protein — negligible, base already has whey)
-- **300g** unsweetened almond milk (plain; vanilla flavour covered by extract below)
-- **20g** vanilla ice cream protein powder → 🟢 **20g** unflavored whey + vanilla extract below
-- **8g** sugar-free banana cream pudding mix → 🟡 **5g** inulin (loses thickening/banana-cream note — real banana compensates)
-- **12g** allulose → 🟡 **12g** erythritol (higher PAC, faint cooling — negligible at this dose)
-- **8g** Biscoff cookie butter (Lotus)
-- **3g** vanilla extract
-- **1 cap** butter extract → 🟡 **2–3 drops** Milk Cream flavor (buttery-caramel instead of pure butter)
-- **0.5g** salt
-- **0.5g** xanthan gum
+- **253g** Marata 1.5% milk
+- **100g** Marata 2% strained yogurt
 - **120g** ripe banana, sliced
+- **25g** inulin
+- **20g** unflavored whey protein
+- **17g** xylitol
+- **15g** erythritol
+- **15g** glycerin
+- **3g** vanilla extract
+- **2–3 drops** Milk Cream flavor
+- **1.5g** xanthan gum
+- **1g** guar gum
+- **1g** CMC
+- **0.5g** salt
 
-**Mix-Ins:**
-- **8g** Biscoff cookie butter
-- **1** Biscoff cookie
-- Remaining banana pieces
-
-**Toppings:**
-- **1** Biscoff cookie, crumbled
+**Mix-Ins:** 2 Biscoff cookies (1 broken in, 1 crumbled on top) + banana pieces
 
 **Steps:**
-1. Add milk, almond milk, whey, inulin, erythritol, cookie butter, vanilla extract, Milk Cream flavor, salt, and xanthan to immersion blender cup.
-2. Blend until smooth and cookie butter is fully incorporated.
-3. Add banana slices to pint.
-4. Pour blended base over bananas. Stir gently to distribute.
-5. Freeze 24h.
-6. Ice Cream setting.
-7. Scrape down sides with butter knife, push top down with spoon. Re-Spin if needed.
-8. Mix-In: add cookie butter dollops, broken cookie, and banana pieces. Run Mix-In program.
-9. Top with crumbled Biscoff cookie.
+1. Blend all base ingredients except banana (~60 sec).
+2. Add banana slices to pint, pour base over, stir gently.
+3. Freeze 24h.
+4. Frozen Yogurt setting. Scrape + Re-Spin if needed.
+5. Mix-In: add broken cookie + banana pieces. Top with crumbled cookie.
 
 **Notes:**
-- Cookie butter emulsion (LorAnn) skipped — OP confirmed it's optional when using actual cookie butter.
-- Banana provides natural body + sweetness, making this forgiving with less added sweetener.
-- For more Biscoff intensity, increase base cookie butter to 12–15g.
-- Community variant (u/Salty_Zebra5937): pumpkin spice biscoff — 250ml milk, 50g cottage cheese, ⅓ cup pumpkin puree, sweetener, 25g protein, gingerbread spice, guar gum, 4 biscoff cookies mix-in.
+- Optional: add 8–15g Biscoff cookie butter (Lotus spread) to base for more Biscoff intensity.
+- Xylitol safe at 17g (limit ~20-30g). If sensitive, shift 5g to erythritol.
 
-**Total weight:** ~591g base + ~46g mix-ins = ~637g (within 680g pint)
+**Scoopulator:** `Serv. -15.7°C 🟢 | Solids 29.1% 🟢 | Stab 0.6% 🟢 | Sugars 14.3% 🟡 | Sweet 10.4% 🟡 | Fat 1.0% 🔴 | MSNF 3.0% 🔴 | Emul 0% 🔴`
+**Nutrition (per 100g):** 102 kcal | 1.7g fat | 12.7g carbs | 5.9g protein
+**Total weight:** ~572g base + ~46g mix-ins = ~618g
 
 ---
 
