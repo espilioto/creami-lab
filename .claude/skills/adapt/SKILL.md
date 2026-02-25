@@ -10,8 +10,9 @@ allowed-tools: Read, Grep, Glob, Write, Edit, WebFetch
 
 1. **Self-contained:** Every recipe must be complete and ready to follow. Never reference another file — "see e4cm_recipes.md" is not acceptable.
 2. **Swap format:** Two styles depending on complexity:
-   - **1:1 swap:** `original -> swap {weight} (notes) {emoji}`
-   - **Multi-ingredient swap:** `original {weight} {emoji} (notes)` then sub-bullets with each replacement ingredient.
+   - **1:1 swap:** `original (weight) → emoji swap (weight) (drawback comments)`
+   - **Multi-ingredient swap:** `original (weight) emoji (drawback comments)` then sub-bullets with each replacement ingredient.
+   - If a drawback doesn't exist then skip the drawback comments section.
    No shorthand — expand blends to components.
 3. **Only swap what's unavailable.** If it's at the supermarket (almond milk, cocoa, Oreos, cream cheese, fruit, etc.), don't list a swap.
 4. **Steps as numbered lists.** Never compress steps into a single line.
