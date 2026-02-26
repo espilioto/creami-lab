@@ -8036,8 +8036,7 @@ Scaled to Deluxe pint from u/Salty_Zebra5937's original.
 **Ingredients:**
 - **400g** Marata 1.5% milk
 - **110g** canned chickpeas (drained, no aquafaba)
-- **11g** peanut butter
-  - **22g** PB2 → 🟡 **11g** peanut butter (higher fat, less peanut intensity — blend thoroughly)
+- **22g** PB2 → 🟡 **11g** peanut butter (higher fat, less peanut intensity — blend thoroughly)
 - **55g** dates (pitted) (~4 dates)
 - **10g** erythritol
 - **8g** xylitol
