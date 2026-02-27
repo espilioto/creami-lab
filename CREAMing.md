@@ -2141,11 +2141,11 @@ Tags: mint, oreo, shamrock, mcflurry, protein
 - **400g** Fairlife fat-free milk 🟡 (slightly richer pint, less protein-dense)
   - **385g** Marata 1.5%
   - **15g** whey protein
-  - **5g** glycerin
-- 40-45g Monk Fruit sweetener (reduced to 46g SweEX — Marata adds ~8g lactose sweetness, offset by higher xylitol ratio) 🟢
-  - **24g** erythritol
-  - **22g** xylitol
-- **18g** inulin (body/solids — compensates low MSNF)
+- 40-45g Monk Fruit sweetener (reduced to 38g SweEX — Marata adds ~8g lactose sweetness; lower total for firmer pint) 🟢
+  - **20g** erythritol
+  - **18g** xylitol
+  - **0.15g** sucralose (compensates reduced sugar-alcohol sweetness)
+- **22g** inulin (body/solids — compensates low MSNF)
 - **5g** vanilla extract 🟢
 - **0.6g** peppermint extract (1/8 tsp) 🔴 BUY
 - **0.5g**/pinch salt
@@ -2157,8 +2157,10 @@ Tags: mint, oreo, shamrock, mcflurry, protein
 **Mix-ins:**
 - 5 Oreo Thins (cream removed) → 🟢 3 Oreos, cream removed (3 regular ≈ 5 Thins by cookie mass)
 
+**Scoopulator:** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-15-4d71c8:385,user-hsn-whey-protein-concentrate-984009:15,erythritol:20,xylitol:18,usdafndds-2710263:0.15,pure-vanilla-extract:5,usdaff-746775:0.5,xanthan-gum:1.5,guar-gum:1,sodium-carboxymethyl-cellulose-cmc:1,usdabranded-soy-lecithin:1.5,inulin:22,usdafndds-2707920:15&target=low-fat-ice-cream) — PAC 31 | Serv. -13.5°C 🟢 | Stab 0.72% 🟢 | Emul 0.31% 🟢 | Solids 27.4% 🟡 | Sweet 8.3% 🟡 | MSNF 2.9% 🔴 (needs SMP)
+
 **Steps:**
-1. Add milk, whey, glycerin, sweeteners, inulin, vanilla, peppermint, salt, xanthan, guar, CMC, soy lecithin to pint.
+1. Add milk, whey, sweeteners, inulin, vanilla, peppermint, salt, xanthan, guar, CMC, soy lecithin to pint.
 2. Blend with immersion blender 90 sec.
 3. Freeze 24h.
 4. Lite Ice Cream setting.
