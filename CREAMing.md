@@ -2140,23 +2140,26 @@ Tags: mint, oreo, shamrock, mcflurry, protein
 **Base:**
 - **400g** Fairlife fat-free milk 🟡 (slightly richer pint, less protein-dense)
   - **385g** Marata 1.5%
-  - **12g** whey protein
-  - **15g** glycerin
-- 40-45g Monk Fruit sweetener (reduced to 37g — Marata adds lactose sweetness) 🟢
-  - **22g** erythritol
-  - **15g** xylitol
-  - **0.05g**/pinch sucralose
+  - **15g** whey protein
+  - **5g** glycerin
+- 40-45g Monk Fruit sweetener (reduced to 46g SweEX — Marata adds ~8g lactose sweetness, offset by higher xylitol ratio) 🟢
+  - **24g** erythritol
+  - **22g** xylitol
+- **18g** inulin (body/solids — compensates low MSNF)
 - **5g** vanilla extract 🟢
 - **0.6g** peppermint extract (1/8 tsp) 🔴 BUY
 - **0.5g**/pinch salt
-- **1g** xanthan gum
+- **1.5g** xanthan gum
+- **1g** guar gum
+- **1g** CMC
+- **1.5g** soy lecithin
 
 **Mix-ins:**
 - 5 Oreo Thins (cream removed) → 🟢 3 Oreos, cream removed (3 regular ≈ 5 Thins by cookie mass)
 
 **Steps:**
-1. Add milk, whey, glycerin, sweeteners, vanilla, peppermint, salt, xanthan to pint.
-2. Blend with immersion blender.
+1. Add milk, whey, glycerin, sweeteners, inulin, vanilla, peppermint, salt, xanthan, guar, CMC, soy lecithin to pint.
+2. Blend with immersion blender 90 sec.
 3. Freeze 24h.
 4. Lite Ice Cream setting.
 5. Scrape down sides with butter knife, push top down with spoon. Re-Spin if powdery.
