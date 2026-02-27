@@ -8119,6 +8119,7 @@ Tags: frozen yogurt, banana, biscoff, high-protein
 - **1g** guar gum
 - **1g** CMC
 - **0.5g** salt
+- **1.5g** soy lecithin
 
 **Mix-Ins:** 2 Biscoff cookies (1 broken in, 1 crumbled on top) + banana pieces
 
@@ -8136,6 +8137,8 @@ Tags: frozen yogurt, banana, biscoff, high-protein
 **Nutrition (per 100g):** 102 kcal | 1.7g fat | 12.7g carbs | 5.9g protein
 
 **Total weight:** ~572g base + ~46g mix-ins = ~618g
+
+**Scoopulator:** [frozen-yogurt-regular](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-15-4d71c8:253,user-yogurt-straggisto-2-33939d:100,usdaff-1105314:120,inulin:25,user-hsn-whey-protein-concentrate-984009:20,xylitol:17,erythritol:15,glycerin:15,pure-vanilla-extract:3,xanthan-gum:1.5,guar-gum:1,sodium-carboxymethyl-cellulose-cmc:1,usdabranded-soy-lecithin:1.5,usdaff-746775:0.5&target=frozen-yogurt-regular&type=frozen_yogurt) — PAC 36.6 | Serv. -16.7°C 🟡 | Sweet 10.39% 🟡 | Solids 28.26% 🟡 | Milk Fat 1.01% 🔴 | Sugars 14.16% 🟡 | MSNF 3.06% 🔴 | Stab 0.61% 🟡 | Emul 0.26% 🟢
 
 ---
 
