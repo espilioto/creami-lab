@@ -2133,6 +2133,38 @@ Tags: cherry, chocolate, protein
 
 ---
 
+### Shamrock Oreo McFlurry Protein Ice Cream
+Tags: mint, oreo, shamrock, mcflurry, protein
+🔴 **Requires peppermint extract — buy or skip.**
+
+**Base:**
+- **400g** Fairlife fat-free milk 🟡 (slightly richer pint, less protein-dense)
+  - **385g** Marata 1.5%
+  - **12g** whey protein
+  - **15g** glycerin
+- 40-45g Monk Fruit sweetener (reduced to 37g — Marata adds lactose sweetness) 🟢
+  - **22g** erythritol
+  - **15g** xylitol
+  - **0.05g**/pinch sucralose
+- **5g** vanilla extract 🟢
+- **0.6g** peppermint extract (1/8 tsp) 🔴 BUY
+- **0.5g**/pinch salt
+- **1g** xanthan gum
+
+**Mix-ins:**
+- 5 Oreo Thins (cream removed) → 🟢 3 Oreos, cream removed (3 regular ≈ 5 Thins by cookie mass)
+
+**Steps:**
+1. Add milk, whey, glycerin, sweeteners, vanilla, peppermint, salt, xanthan to pint.
+2. Blend with immersion blender.
+3. Freeze 24h.
+4. Lite Ice Cream setting.
+5. Scrape down sides with butter knife, push top down with spoon. Re-Spin if powdery.
+6. Make a hole to the bottom with butter knife. Fill with Oreo pieces.
+7. Mix-In.
+
+---
+
 ## DQ Blizzard Dupes
 
 ### Red Velvet Cake Protein Blizzard
