@@ -2157,7 +2157,7 @@ Tags: mint, oreo, shamrock, mcflurry, protein
 **Mix-ins:**
 - 5 Oreo Thins (cream removed) → 🟢 3 Oreos, cream removed (3 regular ≈ 5 Thins by cookie mass)
 
-**Scoopulator:** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-15-4d71c8:385,user-hsn-whey-protein-concentrate-984009:15,erythritol:20,xylitol:18,usdafndds-2710263:0.15,pure-vanilla-extract:5,usdaff-746775:0.5,xanthan-gum:1.5,guar-gum:1,sodium-carboxymethyl-cellulose-cmc:1,usdabranded-soy-lecithin:1.5,inulin:22,usdafndds-2707920:15&target=low-fat-ice-cream) — PAC 31 | Serv. -13.5°C 🟢 | Stab 0.72% 🟢 | Emul 0.31% 🟢 | Solids 27.4% 🟡 | Sweet 8.3% 🟡 | MSNF 2.9% 🔴 (needs SMP)
+**Scoopulator:** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-15-4d71c8:385,user-hsn-whey-protein-concentrate-984009:15,erythritol:20,xylitol:18,usdafndds-2710263:0.15,pure-vanilla-extract:5,usdaff-746775:0.5,xanthan-gum:1.5,guar-gum:1,sodium-carboxymethyl-cellulose-cmc:1,usdabranded-soy-lecithin:1.5,inulin:22,usdafndds-2707920:15&target=low-fat-ice-cream) — PAC 31 | Serv. -13.5°C 🟢 | Sweet 8.28% 🔴 | Solids 27.41% 🟡 | Milk Fat 1.19% 🔴 | Sugars 13.44% 🔴 | MSNF 2.93% 🔴 | Stab 0.72% 🟢 | Emul 0.31% 🟢
 
 **Steps:**
 1. Add milk, whey, sweeteners, inulin, vanilla, peppermint, salt, xanthan, guar, CMC, soy lecithin to pint.

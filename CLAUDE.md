@@ -6,6 +6,7 @@
 > **Acronyms:** Always explain ice cream science acronyms in parentheses on first use in each response. E.g. "PAC (anti-freezing power — how much an ingredient keeps ice cream soft/scoopable)", "POD (sweetening power — how sweet an ingredient is relative to sugar)", "MSNF (milk solids-non-fat — proteins, lactose, minerals in milk minus the fat and water)", "FPDF (freezing point depression factor — same concept as PAC)", "GI (glycemic index — how fast it spikes blood sugar)", "DE (dextrose equivalent — how broken-down a starch syrup is, higher = sweeter and more anti-freeze)", "HLB (hydrophilic-lipophilic balance — whether an emulsifier prefers water or fat, scale 0-20)".
 
 > For recipe optimization, Scoopulator validation, ingredient science, and target profiles → use `/optimize`
+> **Scoopulator parsing:** ALWAYS use `PYTHONIOENCODING=utf-8 bash rest/scoopulator_parse.sh "<URL>"` — never WebFetch (it can't read CSS status classes)
 > For recipe adaptation rules, ingredient swaps, blend compositions, and CREAMing.md formatting → use `/adapt`
 > For extracting recipes from Reddit posts (body + comments, pantry check, unit conversion) → use `/reddit`
 

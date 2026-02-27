@@ -1,7 +1,7 @@
 ---
 name: optimize
 description: Recipe optimization and Scoopulator validation workflow. Use when proposing, modifying, or validating any ice cream recipe — handles the iterative Scoopulator loop, ingredient science lookup, and metric evaluation.
-allowed-tools: Read, Grep, Glob, WebFetch, Edit, Write
+allowed-tools: Read, Grep, Glob, Bash, WebFetch, Edit, Write
 ---
 
 # Recipe Optimization Workflow
@@ -18,7 +18,11 @@ Do NOT guess or rely on memory for ingredient science, PAC/POD values, thickener
 
 ## Scoopulator Validation Loop
 
-1. **Always validate against Scoopulator before presenting.** Build a Scoopulator calc URL using slugs from `rest/scoopulator_ingredients_index.txt`, fetch the page, and extract metrics (PAC, POD, solids, MSNF, fat, serving temp, etc.).
+1. **Always validate against Scoopulator before presenting.** Build a Scoopulator calc URL using slugs from `rest/scoopulator_ingredients_index.txt`. **Parse results with the script** — NEVER use WebFetch (it loses CSS class colors):
+   ```bash
+   PYTHONIOENCODING=utf-8 bash rest/scoopulator_parse.sh "<SCOOPULATOR_URL>"
+   ```
+   This reads the actual `card-success`/`card-warn`/`card-critical` CSS classes from the HTML. Use the emoji output directly (🟢/🟡/🔴/⚪) — do not guess colors from values vs ranges.
 2. **Adjust recipe and validate again:** Loop until metrics are realistically acceptable for the ingredients (no need to fixate on getting all green, just as many as possible for given ingredients). No more than 10 requests, then give the best one and show the URL.
 3. **No buying extras to fix metrics.** Work with pantry + supermarket only. Accept the best achievable result — don't suggest buying specialty ingredients (SMP, etc.) unless they're in the `/adapt` buy list and the recipe depends on them.
 4. **Scoopulator URL format:** `https://scoopulator.app/calc?ingredients=slug1:weight1,slug2:weight2,...&target=TARGET` where TARGET is one of the **slugs** from the Target Profiles section below. **Type parameter:** For non-ice-cream profiles, append `&type=TYPE` using the Type column from the "Other Profiles" table (e.g. `&type=sorbet`, `&type=gelato`). Ice cream profiles omit `&type=` entirely. For `freeform`, use whichever type matches the actual recipe. Choose the correct TARGET profile for what the recipe actually is — don't game the metrics by picking whichever target happens to score more greens. When a recipe fits multiple profiles, present both Scoopulator URLs (one per candidate target) and let the user choose. If a recipe doesn't clearly fit any profile, inform the user and let them decide which target to validate against (or whether to use `freeform`).
