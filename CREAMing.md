@@ -811,7 +811,7 @@ Calories: base only ~470 kcal (102/100g) · with mix-ins ~610 kcal (~120/100g)
 - **16g** PBfit → 🟡 **8g** peanut butter (add to base, blend thoroughly) (richer/fattier pint, heavier PB flavor)
 - **5g** inulin
 - **1g** salt
-- **1.5g** xanthan gum
+- **1g** xanthan gum
 
 **Toppings:**
 - **10g** crushed pretzels
