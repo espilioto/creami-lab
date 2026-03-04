@@ -8337,16 +8337,13 @@ Sugar-free strawberry frozen yogurt base using flavor drops + real frozen strawb
 
 **Nutrition (per 100g):** 95 kcal | 1.5g fat | 11.7g carbs (13.7g sugars, 7g fiber) | 7.8g protein
 
-**Scoopulator:** [frozen-yogurt-regular](https://scoopulator.app/calc?ingredients=user-yogurt-straggisto-2-33939d:250,user-milk-fresh-marata-15-4d71c8:150,usdafndds-2709285:100,erythritol:27,xylitol:26,glycerin:8,inulin:49,user-hsn-whey-protein-concentrate-984009:30,usdafndds-2710263:0.5,pure-vanilla-extract:2,xanthan-gum:0.5,guar-gum:0.9,sodium-carboxymethyl-cellulose-cmc:1.2,usdabranded-soy-lecithin:1.5,usdaff-746775:0.5&target=frozen-yogurt-regular&type=frozen_yogurt) — Serv. -16.4°C 🟡 | Sweet 9.71% 🟡 | Solids 30.13% 🟢 | Sugars 12.16% 🟡 | Milk Fat 1.12% 🔴 | MSNF 4.03% 🔴 | Stab 0.4% 🟢 | Emul 0.23% 🟢
+**Scoopulator:** [frozen-yogurt-regular](https://scoopulator.app/calc?ingredients=user-yogurt-straggisto-2-33939d:250,user-milk-fresh-marata-15-4d71c8:150,usdafndds-2709285:100,erythritol:27,xylitol:26,glycerin:8,inulin:49,user-hsn-whey-protein-concentrate-984009:30,usdafndds-2710263:0.5,pure-vanilla-extract:2,user-strawberry-food-flavor-9rLc4w:0.2,xanthan-gum:0.5,guar-gum:0.9,sodium-carboxymethyl-cellulose-cmc:1.2,usdabranded-soy-lecithin:1.5,usdaff-746775:0.5&target=frozen-yogurt-regular&type=frozen_yogurt) — Serv. -16.4°C 🟡 | Sweet 9.71% 🟡 | Solids 30.13% 🟢 | Sugars 12.16% 🟡 | Milk Fat 1.12% 🔴 | MSNF 4.03% 🔴 | Stab 0.4% 🟢 | Emul 0.23% 🟢
 *(Milk Fat/MSNF reds are structural — no cream in pantry, custom ingredient MSNF data gap.)*
 
 ---
 
 ### Vanilla Base (Sugar-Free)
 Tags: ice-cream, vanilla, low-fat, sugar-free, no-cook, high-protein, original
-
-[Scoopulator](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-15-4d71c8:443,usdafndds-2705423:100,erythritol:30,xylitol:15,glycerin:5,inulin:47,sodium-carboxymethyl-cellulose-cmc:2.5,guar-gum:2,xanthan-gum:0.5,usdabranded-soy-lecithin:3,user-hsn-whey-protein-concentrate-984009:25,pure-vanilla-extract:5,usdaff-746775:2,usdafndds-2710263:0.1&target=low-fat-ice-cream)
-*(Sweetness/Sugars reds are structural for sugar-free — Scoopulator can't compute sucralose's 600x multiplier; real perceived sweetness ~14-15%. Milk Fat/MSNF reds are inherent to 1.5% milk + no cream.)*
 
 **Ingredients (680g):**
 - **443g** Marata 1.5% milk
@@ -8375,5 +8372,8 @@ Tags: ice-cream, vanilla, low-fat, sugar-free, no-cook, high-protein, original
 8. Scrape down sides with butter knife, push top down with spoon. Re-Spin if needed.
 
 **Nutrition (per 100g):** 84 kcal | 1.6g fat | 10.6g carbs (11.7g sugars, 6.1g fiber) | 6.8g protein
+
+**Scoopulator:** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-15-4d71c8:443,usdafndds-2705423:100,erythritol:30,xylitol:15,glycerin:5,inulin:47,sodium-carboxymethyl-cellulose-cmc:2.5,guar-gum:2,xanthan-gum:0.5,usdabranded-soy-lecithin:3,user-hsn-whey-protein-concentrate-984009:25,pure-vanilla-extract:5,usdaff-746775:2,usdafndds-2710263:0.1&target=low-fat-ice-cream)
+*(Sweetness/Sugars reds are structural for sugar-free — Scoopulator can't compute sucralose's 600x multiplier; real perceived sweetness ~14-15%. Milk Fat/MSNF reds are inherent to 1.5% milk + no cream.)*
 
 ---
