@@ -8373,7 +8373,7 @@ Tags: ice-cream, vanilla, low-fat, sugar-free, no-cook, high-protein, original
 
 **Nutrition (per 100g):** 84 kcal | 1.6g fat | 10.6g carbs (11.7g sugars, 6.1g fiber) | 6.8g protein
 
-**Scoopulator:** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-15-4d71c8:443,usdafndds-2705423:100,erythritol:30,xylitol:15,glycerin:5,inulin:47,sodium-carboxymethyl-cellulose-cmc:2.5,guar-gum:2,xanthan-gum:0.5,usdabranded-soy-lecithin:3,user-hsn-whey-protein-concentrate-984009:25,pure-vanilla-extract:5,usdaff-746775:2,usdafndds-2710263:0.1&target=low-fat-ice-cream)
+**Scoopulator:** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-15-4d71c8:443,usdafndds-2705423:100,erythritol:30,xylitol:15,glycerin:5,inulin:47,sodium-carboxymethyl-cellulose-cmc:2.5,guar-gum:2,xanthan-gum:0.5,usdabranded-soy-lecithin:3,user-hsn-whey-protein-concentrate-984009:25,pure-vanilla-extract:5,usdaff-746775:2,usdafndds-2710263:0.1&target=low-fat-ice-cream) — Serv. -14.2°C 🟢 | Sweet 6.37% 🔴 | Solids 28.09% 🟢 | Sugars 11.24% 🔴 | Milk Fat 1.18% 🔴 | MSNF 4.53% 🔴 | Stab 0.74% 🟢 | Emul 0.44% 🟢
 *(Sweetness/Sugars reds are structural for sugar-free — Scoopulator can't compute sucralose's 600x multiplier; real perceived sweetness ~14-15%. Milk Fat/MSNF reds are inherent to 1.5% milk + no cream.)*
 
 ---
