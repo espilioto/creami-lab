@@ -135,6 +135,22 @@ Ultra-filtered, lactase-treated. Per 100g: **fat-free** → 33 kcal, 0g fat, 2.5
 ### Emulsifiers
 - **GMS (E471)** → Soy Lecithin Powder same weight 🟢
 
+### Pudding Mix (Jell-O / instant pudding)
+Composite ingredient: modified starch (cold-acting) + sugar + emulsifier (mono- & diglycerides) + buffer salts + flavor + color. **No sugar-free version in Greek supermarkets** (Γιώτης κρέμα = 50-66g sugar/100g). DIY no-cook swaps from pantry only.
+
+| Recipe calls for… | No-cook swap | Tier |
+|-------------------|-------------|------|
+| 7-10g (1 tbsp), body only | 1g xanthan | 🟢 |
+| 7-10g (1 tbsp), any flavor | 1g xanthan + 0.5g CMC + 1g soy lecithin + flavor to taste | 🟢 |
+| 28-34g (1 packet) chocolate | 1g xanthan + 1g CMC + 1g soy lecithin + 12g cocoa + 25g erythritol + pinch sucralose + pinch salt | 🟢 |
+| 28-34g (1 packet) vanilla | 1g xanthan + 1g CMC + 1g soy lecithin + 3g vanilla extract + 25g erythritol + pinch sucralose + pinch salt | 🟢 |
+| 28-34g (1 packet) cheesecake | 15g cream cheese + 1g xanthan + 0.5g CMC + 1g soy lecithin + sweetener to taste | 🟡 less custardy body |
+
+**Notes:**
+- Per FPF blind tests: xanthan alone gives firmer, more ice-cream-like texture than pudding mix (which makes it "soft and pasty, more like pudding")
+- Pudding mix contains ~18g sugar per 28g packet — the erythritol in the swap accounts for this; reduce recipe's other sweetener accordingly if the original already sweetened on top
+- If recipe already has ≥1g xanthan + stabilizer blend, just add flavor/cocoa — skip extra thickeners
+
 ### Mix-ins (US-specific)
 - **PBfit** (8g) → 4g peanut butter 🟡 — higher fat, blend thoroughly
 - **Zero sugar brownie mix** → DIY: 100g flour + 40g cocoa + 80g erythritol + pinch salt + pinch baking powder 🟡
