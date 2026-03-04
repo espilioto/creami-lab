@@ -3122,3 +3122,6 @@ Milk, fresh, marata 1.5%:user-milk-fresh-marata-15-4d71c8
 Yogurt marata peach 1.7%:user-yogurt-marata-peach-17-90edee
 Yogurt marata strawberry 1.7%:user-yogurt-marata-strawberry-17-3ab50b
 HSN whey protein concentrate:user-hsn-whey-protein-concentrate-984009
+Milk Cream Food Flavor:user-milk-cream-food-flavor-a1ynPB
+Strawberry Food Flavor:user-strawberry-food-flavor-9rLc4w
+Chocolate Food Flavor:user-chocolate-food-flavor-PX5DeH
