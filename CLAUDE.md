@@ -49,7 +49,6 @@
 | Salt | Supermarket | Kitchen salt |
 | Cocoa powder | Supermarket | For chocolate bases |
 | Vanilla extract | Supermarket | Replaces vanilla bean powder in all repo recipes |
-| Corn starch | Supermarket | Replaces Ultratex: same weight (~10g/pint, ~1.5%), BUT must cook (slurry in cold liquid → heat to 90°C+). Ultratex is cold-acting; corn starch is not |
 | Marata 1.5% milk | Supermarket | 47 kcal/100ml. Fat 1.5, carbs 4.8, protein 3.5, water ~90%. Standard base |
 | Marata 2% strained yogurt | Supermarket | 66 kcal/100g. Fat 2, carbs 3.9, protein 8 |
 | Alpro unsweetened soy milk | Supermarket | ~33 kcal/100ml. Alternative base liquid |

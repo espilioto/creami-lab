@@ -135,6 +135,10 @@ Both ferment in the gut. Keep half-pint (340g) doses tolerable: **inulin ≤15g 
 - **Coffee extract** (6 drops) → 1g instant coffee in 2ml warm water 🟢
 - **Vanilla bean** (half bean, ~2g) → 6g vanilla extract (3x the weight) 🟡 — loses specks + depth. Buy beans for vanilla-forward recipes.
 
+### Thickeners
+- **Corn starch / Ultratex** → NEVER use corn starch (requires cooking to 90°C+). All recipes are no-cook. Swap to cold-acting stabilizers: 1g xanthan + 0.5g CMC for body, or bump existing gum amounts 🟢
+- **Ultratex 10g** → 1g xanthan + 0.5g CMC + 5g inulin 🟢 — cold-acting, no heat needed
+
 ### Emulsifiers
 - **GMS (E471)** → Soy Lecithin Powder same weight 🟢
 

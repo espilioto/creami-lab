@@ -22,6 +22,9 @@ Do NOT guess or rely on memory for ingredient science, PAC/POD values, thickener
 - **Original/reference recipes** (reproducing a source recipe as-is): Use the source recipe's exact ingredients — do not add or substitute ingredients. If the user asks to "create" an original recipe, use ONLY pantry ingredients unless they specify otherwise.
 - **When in doubt:** ask the user which ingredients are in scope.
 
+### No-cook only
+**All recipes are cold-process (no-cook).** NEVER use corn starch — it requires cooking to 90°C+ to gelatinize. Use cold-acting stabilizers instead: xanthan, guar, CMC, inulin, whey protein. These provide body and thickening without heat.
+
 ## Scoopulator Validation Loop
 
 1. **Always validate against Scoopulator before presenting.** Build a Scoopulator calc URL using slugs from `rest/scoopulator_ingredients_index.txt`. **Parse results with the script** — NEVER use WebFetch (it loses CSS class colors):
