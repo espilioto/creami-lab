@@ -43,7 +43,7 @@
 | Xylitol (E967) | HSN | PAC=2.2, sweetness=100%. GI issues at ~20-30g |
 | Inulin | HSN | Fiber/bulking, PAC=0.22, sweetness=8%. Adds body, replaces fat |
 | Sucralose | HSN | 600x sweeter than sugar, zero GI, zero cal. Tiny amounts |
-| Whey Protein (unflavored) | HSN | Binds water, prevents ice crystals, adds protein |
+| Whey Protein (unflavored) | HSN | WPC80. Per 100g: 408kcal, P82 F6.4 C5.8 S0.57. Contains sunflower lecithin (~0.8-1g/100g est.). Binds water, prevents ice crystals |
 | Sugar | Supermarket | Regular table sugar |
 | Salt | Supermarket | Kitchen salt |
 | Cocoa powder | Supermarket | For chocolate bases |
