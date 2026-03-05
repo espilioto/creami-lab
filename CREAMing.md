@@ -8377,3 +8377,42 @@ Tags: ice-cream, vanilla, low-fat, sugar-free, no-cook, high-protein, original
 *(Sweetness/Sugars reds are structural for sugar-free — Scoopulator can't compute sucralose's 600x multiplier; real perceived sweetness ~14-15%. Milk Fat/MSNF reds are inherent to 1.5% milk + no cream.)*
 
 ---
+
+### Vanilla Base — Salty Stability (Sugar-Free)
+Tags: ice-cream, vanilla, low-fat, sugar-free, no-cook, high-protein, salty-stability, original
+
+Milk-only vanilla base (no yogurt) built on Salty Stability philosophy: inulin for body, soy lecithin for emulsification, CMC/guar/xanthan for stability, salt to enhance vanilla and suppress erythritol cooling. Glycerin kept minimal — erythritol+xylitol carry the FPD load while contributing sweetness.
+
+**Ingredients (~503g):**
+- **400g** Marata 1.5% milk
+- **27g** erythritol
+- **25g** whey protein (HSN WPC80)
+- **18g** inulin
+- **17g** xylitol
+- **5g** vanilla extract
+- **5g** glycerin
+- **2.2g** CMC
+- **2g** soy lecithin
+- **1.2g** guar gum
+- **0.5g** salt
+- **0.35g** xanthan gum
+- **0.2g** sucralose
+
+**Steps:**
+1. Add milk, vanilla, glycerin to pint.
+2. Combine dry ingredients in a bowl: erythritol, xylitol, sucralose, inulin, whey protein, soy lecithin, CMC, guar, xanthan, salt. Mix well.
+3. Add dry mix to pint. Immersion-blend ~30 sec, then 90 sec more until smooth and slightly thickened.
+4. Freeze 24h. Process on **Lite Ice Cream**. Re-spin if needed.
+
+**Notes:**
+- SweEX ratio 27:17 (≈3:2) — prevents erythritol crystallization. Erythritol at 5.4% (under 8% threshold).
+- GI safety per half-pint: xylitol ~11.5g, inulin ~12.2g — both within tolerance.
+- Salt (0.5g) amplifies vanilla, suppresses erythritol cooling sensation.
+- Glycerin only 5g — high PAC (3.7) but low POD (60%), so minimized to keep serving temp in range.
+
+**Nutrition (per 100g):** 84 kcal | 1.7g fat | 7.6g carbs (14.1g sugars, 3.1g fiber) | 6.9g protein
+
+**Scoopulator:** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-15-4d71c8:400,inulin:18,usdabranded-soy-lecithin:2,sodium-carboxymethyl-cellulose-cmc:2.2,guar-gum:1.2,usdaff-746775:0.5,xanthan-gum:0.35,erythritol:27,xylitol:17,glycerin:5,user-hsn-whey-protein-concentrate-984009:25,pure-vanilla-extract:5,usdafndds-2710263:0.2&target=low-fat-ice-cream) — Serv. -15.8°C 🟢 | Sweet 8.05% 🔴 | Solids 27.35% 🟡 | Sugars 14.14% 🔴 | Milk Fat 1.19% 🔴 | MSNF 2.94% 🔴 | Stab 0.74% 🟢 | Emul 0.4% 🟢
+*(Sweetness/Sugars reds are structural for sugar-free. Milk Fat/MSNF reds are inherent to milk-only base with no cream or SMP.)*
+
+---
