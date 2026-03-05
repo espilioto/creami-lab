@@ -25,6 +25,17 @@ Do NOT guess or rely on memory for ingredient science, PAC/POD values, thickener
 ### No-cook only
 **All recipes are cold-process (no-cook).** NEVER use corn starch — it requires cooking to 90°C+ to gelatinize. Use cold-acting stabilizers instead: xanthan, guar, CMC, inulin, whey protein. These provide body and thickening without heat.
 
+## Our Recipe Style: Low-Fat, No-Sugar
+
+We primarily make **low-fat, no-sugar** recipes (1.5% milk base, sugar-free sweeteners). This means many Scoopulator metrics will inherently read outside "normal" ranges — that's expected and fine. **Do not chase green numbers by adding fat or sugar we don't use.** Instead, evaluate recipes by what actually matters for the finished product:
+
+- **Scoopability / serving temperature** — will it be scoopable at -18°C?
+- **Texture & body** — smooth, creamy mouthfeel vs icy/crumbly?
+- **Sweetness balance** — pleasant sweetness without cooling/off-flavors?
+- **Stability** — does it resist ice crystal growth over storage?
+
+Metrics like Sugars%, Milk Fat%, Total Solids%, and MSNF% will often be red/yellow — those are just numbers reflecting our intentional ingredient choices, not problems to solve. Focus on PAC (scoopability), stabilizer/emulsifier balance (texture), and relative sweetness (taste) as the metrics that actually predict quality for our style.
+
 ## Scoopulator Validation Loop
 
 1. **Always validate against Scoopulator before presenting.** Build a Scoopulator calc URL using slugs from `rest/scoopulator_ingredients_index.txt`. **Parse results with the script** — NEVER use WebFetch (it loses CSS class colors):

@@ -5,6 +5,8 @@
 
 > **NO SUGAR.** Never use table sugar (sucrose) in recipes. Sweeten only with pantry sugar-free sweeteners: erythritol, xylitol, glycerin, sucralose.
 
+> **LOW-FAT, NO-SUGAR style.** Our recipes intentionally use 1.5% milk, no cream, no sugar. Scoopulator metrics (Fat%, Sugars%, Solids%, MSNF%) will be outside traditional ranges — that's by design. Don't "fix" those numbers. Judge recipes by real-world outcome: scoopability, texture, sweetness balance, and stability.
+
 > **Acronyms:** Always explain ice cream science acronyms in parentheses on first use in each response. E.g. "PAC (anti-freezing power — how much an ingredient keeps ice cream soft/scoopable)", "POD (sweetening power — how sweet an ingredient is relative to sugar)", "MSNF (milk solids-non-fat — proteins, lactose, minerals in milk minus the fat and water)", "FPDF (freezing point depression factor — same concept as PAC)", "GI (glycemic index — how fast it spikes blood sugar)", "DE (dextrose equivalent — how broken-down a starch syrup is, higher = sweeter and more anti-freeze)", "HLB (hydrophilic-lipophilic balance — whether an emulsifier prefers water or fat, scale 0-20)".
 
 > For recipe optimization, Scoopulator validation, ingredient science, and target profiles → use `/optimize`
