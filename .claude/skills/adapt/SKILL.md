@@ -113,6 +113,9 @@ Ultra-filtered, lactase-treated. Per 100g: **fat-free** → 33 kcal, 0g fat, 2.5
 - **380-430g 2%/high-protein** → 375-420g Marata 1.5% + 8-10g whey + 10g glycerin 🟡 — fat nearly matches (1.5 vs 1.9/100g). Protein gap smaller. Reduce sweetener by **~8g** (same lactose delta).
 - **Gap closer (recipe-dependent):** If recipe has ≤1g xanthan, bump to 1.5g. If recipe has no inulin/Salty Stability, add 5-10g inulin. Skip if recipe already has >3g total gums (>0.5% of mix = overdosed per repo).
 
+### GI safety — inulin + xylitol stacking
+Both ferment in the gut. Keep half-pint (340g) doses tolerable: **inulin ≤15g and xylitol ≤15g per half-pint.** Reduce inulin first if over (swap body to whey protein).
+
 ### Sweeteners
 - **Swerve** → SweEX same weight 🟢 — xylitol prevents erythritol crystallization (same role as Swerve's oligos). PAC ~2.56 vs ~2.70. Pinch sucralose if needed.
 - **Swerve** → pure erythritol same weight 🟡 — crystallization risk at 50g+. Add xylitol or 0.05% xanthan.

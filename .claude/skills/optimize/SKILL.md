@@ -47,6 +47,9 @@ Do NOT guess or rely on memory for ingredient science, PAC/POD values, thickener
 - Guar : Xanthan = 3:1 (cold gel)
 - No GMS — use soy lecithin (1:1 by weight) as emulsifier alongside thickeners
 
+### GI safety — inulin + xylitol stacking
+Both inulin and xylitol ferment in the gut. Combined high doses cause gas/bloating. When designing recipes, check half-pint (340g) doses stay tolerable: **inulin ≤15g and xylitol ≤15g per half-pint.** If over, reduce inulin first (swap body to whey protein). Erythritol is mostly absorbed in the small intestine — minimal GI impact.
+
 ---
 
 ## Scoopify Target Profiles
