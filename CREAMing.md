@@ -8342,42 +8342,6 @@ Sugar-free strawberry frozen yogurt base using flavor drops + real frozen strawb
 
 ---
 
-### Vanilla Base (Sugar-Free)
-Tags: ice-cream, vanilla, low-fat, sugar-free, no-cook, high-protein, original
-
-**Ingredients (680g):**
-- **443g** Marata 1.5% milk
-- **100g** strained yogurt 2% (body, protein, MSNF — masked by vanilla)
-- **47g** inulin
-- **30g** erythritol
-- **25g** whey protein (unflavored)
-- **15g** xylitol (prevents erythritol crystallization)
-- **5g** glycerin
-- **5g** vanilla extract
-- **3g** soy lecithin
-- **2.5g** CMC
-- **2g** salt
-- **2g** guar gum
-- **0.5g** xanthan gum
-- **0.1g** sucralose
-
-**Steps:**
-1. Add milk and yogurt to the pint container on the scale.
-2. Add erythritol, xylitol, inulin, whey protein, soy lecithin, CMC, guar gum, xanthan gum, salt, and sucralose.
-3. Immersion-blend on full speed for 60-90 sec until fully homogenized and gums are hydrated.
-4. Add glycerin and vanilla extract. Stir with a spoon.
-5. For best results, let the base age in the fridge (lid on) for a few hours or overnight — helps gum hydration and flavor development.
-6. Freeze 24h with lid on. Flatten any humps before freezing.
-7. Scrape test. Default is **Ice Cream** mode.
-8. Scrape down sides with butter knife, push top down with spoon. Re-Spin if needed.
-
-**Nutrition (per 100g):** 84 kcal | 1.6g fat | 10.6g carbs (11.7g sugars, 6.1g fiber) | 6.8g protein
-
-**Scoopulator:** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-15-4d71c8:443,usdafndds-2705423:100,erythritol:30,xylitol:15,glycerin:5,inulin:47,sodium-carboxymethyl-cellulose-cmc:2.5,guar-gum:2,xanthan-gum:0.5,usdabranded-soy-lecithin:3,user-hsn-whey-protein-concentrate-984009:25,pure-vanilla-extract:5,usdaff-746775:2,usdafndds-2710263:0.1&target=low-fat-ice-cream) — Serv. -14.2°C 🟢 | Sweet 6.37% 🔴 | Solids 28.09% 🟢 | Sugars 11.24% 🔴 | Milk Fat 1.18% 🔴 | MSNF 4.53% 🔴 | Stab 0.74% 🟢 | Emul 0.44% 🟢
-*(Sweetness/Sugars reds are structural for sugar-free — Scoopulator can't compute sucralose's 600x multiplier; real perceived sweetness ~14-15%. Milk Fat/MSNF reds are inherent to 1.5% milk + no cream.)*
-
----
-
 ### Vanilla Base — Salty Stability (Sugar-Free)
 Tags: ice-cream, vanilla, low-fat, sugar-free, no-cook, high-protein, salty-stability, original
 
