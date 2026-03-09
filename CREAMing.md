@@ -8359,6 +8359,82 @@ Paper-thin chocolate shards — the pre-made version of the chocolate ribbon hac
 
 ---
 
+### Chocolate Swirl Sauce
+Tags: swirl, sauce, prep, low-calorie, chocolate, dairy-free, sugar-free, original
+
+Water-based "ganache" — no cream, no milk, no fat beyond cocoa. Glycerin keeps it soft at -18°C so it works as a frozen swirl. One batch enough for 1-2 pints.
+
+**Ingredients (~151g batch):**
+- **100g** water
+- **15g** cocoa powder
+- **20g** glycerin
+- **15g** erythritol
+- **0.3g** xanthan gum
+- **0.5g** salt
+- **0.1g** sucralose (tiny pinch)
+
+**Steps:**
+1. Whisk cocoa, erythritol, and xanthan together dry (prevents xanthan clumps).
+2. Heat water in a small pot until simmering.
+3. Whisk in the dry mix, stir until smooth (~1 min).
+4. Remove from heat, stir in glycerin, salt, and sucralose.
+5. Cool to room temp — thickens as it cools.
+
+**Usage as swirl:** Pour ice cream base into pint (~80% full), drizzle sauce on top, use a chopstick/knife to swirl through. Freeze 24h, spin as normal.
+
+**Notes:**
+- Glycerin at ~13% concentration keeps the swirl syrupy at -18°C (PAC 3.7).
+- Want softer in freezer? Bump glycerin to 25-30g. Want firmer? Drop to 15g.
+- Want thicker before freezing? Increase xanthan to 0.5g for paste-like consistency.
+- Chocolate flavor drops (1-2) can intensify further if cocoa alone isn't enough.
+- Xanthan here is for the sauce itself — 0.3g is negligible toward the pint's 2g gum limit.
+- **Low-cal variant (no glycerin, ~35 kcal/batch):** Replace 20g glycerin with +10g erythritol and +5g xylitol. Slightly firmer at -18°C but nearly zero calories. Watch xylitol GI (gastrointestinal) budget if base also contains xylitol.
+
+**Nutrition (per batch ~151g):** ~115 kcal | 1.5g fat | 6.9g carbs | 2.1g protein
+
+**Nutrition (per 100g):** ~76 kcal | 1.0g fat | 4.6g carbs | 1.4g protein
+
+---
+
+### Caramel Swirl Sauce
+Tags: swirl, sauce, prep, low-calorie, caramel, dairy-free, sugar-free, original
+
+Fake caramel — xylitol actually caramelizes when heated (unlike erythritol), giving real browning and toffee notes. Milk Cream flavor drops sell the buttery illusion without any fat.
+
+**Ingredients (~146g batch):**
+- **90g** water
+- **25g** xylitol
+- **20g** glycerin
+- **10g** erythritol
+- **0.3g** xanthan gum
+- **0.5g** salt
+- **2 drops** Milk Cream flavor
+- **0.1g** sucralose (tiny pinch)
+
+**Steps:**
+1. Whisk erythritol and xanthan together dry.
+2. Combine water and xylitol in a small pot, heat on medium-high.
+3. Once dissolved, simmer 3-5 min — xylitol browns slightly and develops a mild toffee note. Watch it, don't burn.
+4. Whisk in the erythritol/xanthan mix.
+5. Remove from heat, stir in glycerin, salt, sucralose, and Milk Cream flavor drops.
+6. Cool — thickens as it rests.
+
+**Usage as swirl:** Same as Chocolate Swirl Sauce — drizzle into pint base, swirl with chopstick, freeze 24h.
+
+**Notes:**
+- Xylitol is the star — only pantry sweetener that actually caramelizes. PAC (anti-freezing power) 2.2 also helps freeze softness.
+- Combined xylitol (25g) + glycerin (20g) FPD (freezing point depression) keeps it pliable at -18°C.
+- Xylitol GI (gastrointestinal) limit: 25g in sauce is under 30g/pint cap, but if base also contains xylitol, count both.
+- Want darker color? Simmer xylitol longer, or add 1-2g cocoa powder for "salted caramel" vibe.
+- Want thicker? Bump xanthan to 0.5g or reduce water to 75g.
+- **Low-cal variant (~72 kcal/batch):** Drop glycerin, use 30g xylitol + 20g erythritol instead. Slightly firmer in freezer. Xylitol at 30g = right at GI limit, so base must be xylitol-free.
+
+**Nutrition (per batch ~146g):** ~140 kcal | 0g fat | 5.5g carbs | 0g protein
+
+**Nutrition (per 100g):** ~96 kcal | 0g fat | 3.8g carbs | 0g protein
+
+---
+
 ## Original
 
 ### Vanilla Base — Salty Stability (Sugar-Free)
