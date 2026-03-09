@@ -57,6 +57,9 @@ Metrics like Sugars%, Milk Fat%, Total Solids%, and MSNF% will often be red/yell
 
 **Target PAC:** 20-30 for scoopable ice cream, 30-36 for sorbets
 
+### Flavor Drops
+- Chocolate, Strawberry, Milk Cream flavor drops: **MAX 2 drops per pint** (3 is too intense). Always state this limit explicitly in recipe ingredients.
+
 ### Hardening Factors (negative PAC)
 - Cocoa powder 21%: -160 (chocolate bases need extra FPD compensation)
 - Cocoa powder 11%: -130

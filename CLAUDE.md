@@ -37,9 +37,9 @@
 | Xanthan Gum (E415) | Manis | Thickener/stabilizer. Dose: 0.5-1.5g/pint |
 | CMC (E466, Tylose) | Manis | Stabilizer, prevents ice crystals. Dose: 0.6-2g/pint |
 | Guar Gum (E412) | Manis | Body/mouthfeel. Dose: 0.4-1.5g/pint |
-| Chocolate Flavor | Manis | Flavor drops |
-| Strawberry Flavor | Manis | Flavor drops |
-| Milk Cream Flavor | Manis | Flavor drops, caramel sub |
+| Chocolate Flavor | Manis | Flavor drops — **MAX 2 drops/pint** (3 is too intense) |
+| Strawberry Flavor | Manis | Flavor drops — **MAX 2 drops/pint** (3 is too intense) |
+| Milk Cream Flavor | Manis | Flavor drops, caramel sub — **MAX 2 drops/pint** (3 is too intense) |
 | Soy Lecithin Powder (E322) | Manis | Emulsifier, replaces GMS 1:1 by weight |
 | Erythritol (E968) | HSN | PAC=2.8, sweetness=75%, non-caloric. Safe ≤50g/sitting |
 | Xylitol (E967) | HSN | PAC=2.2, sweetness=100%. GI issues at ~20-30g |

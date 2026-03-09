@@ -131,6 +131,7 @@ Both ferment in the gut. Keep half-pint (340g) doses tolerable: **inulin ≤15g 
 - **SMP 20g+** (structural) → 🔴 buy it or skip
 
 ### Cocoa & Flavorings
+- **Flavor drops (chocolate, strawberry, milk cream):** MAX 2 drops per pint. 3 drops is too intense. Always state this limit explicitly in recipe ingredients.
 - **Black cocoa** → regular cocoa same weight + pinch baking soda 🟡 — lighter color, more bitter. Taste OK.
 - **Coffee extract** (6 drops) → 1g instant coffee in 2ml warm water 🟢
 - **Vanilla bean** (half bean, ~2g) → 6g vanilla extract (3x the weight) 🟡 — loses specks + depth. Buy beans for vanilla-forward recipes.
