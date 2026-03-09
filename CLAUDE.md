@@ -44,7 +44,7 @@
 
 | Ingredient | Source | Notes |
 |-----------|--------|-------|
-| Glycerin (VG, E422) | Manis | FPD, PAC=3.7, sweetness=60% sugar. Dose: 5-20g/pint |
+| Glycerin (VG, E422) | Manis | FPD, PAC=3.7, sweetness=60% sugar. Typical: 5-20g/pint. No GI concern — absorbed in small intestine, well-tolerated up to 35g |
 | Xanthan Gum (E415) | Manis | Thickener/stabilizer. ⚠️ **All gums combined ≤ 2g/pint** (incl. inside mixes) |
 | CMC (E466, Tylose) | Manis | Stabilizer, prevents ice crystals. ⚠️ Count toward 2g gum limit |
 | Guar Gum (E412) | Manis | Body/mouthfeel. ⚠️ Count toward 2g gum limit |
