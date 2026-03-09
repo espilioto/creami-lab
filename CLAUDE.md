@@ -7,12 +7,16 @@
 
 > **LOW-FAT, NO-SUGAR style.** Our recipes intentionally use 1.5% milk, no cream, no sugar. Scoopulator metrics (Fat%, Sugars%, Solids%, MSNF%) will be outside traditional ranges — that's by design. Don't "fix" those numbers. Judge recipes by real-world outcome: scoopability, texture, sweetness balance, and stability.
 
-> **⚠️ HARD LIMITS — NEVER EXCEED. CHECK EVERY RECIPE.**
+> **⚠️ HARD LIMITS — CHECK EVERY RECIPE.**
 > SS (Salty Stability) and ICSv2 (Ice Cream Stabilizer v2) are custom stabilizer blends — see compositions in `CREAMing.md`.
-> - **Total gums (CMC + guar + xanthan) ≤ 2g per pint.** Above this → stringy, cheese-pull texture. This includes gums inside stabilizer mixes (Salty Stability, ICSv2) — always count them toward the total. Yogurt, whey protein, and inulin provide body — gums are ONLY for ice crystal prevention.
+>
+> **🚨 GI SAFETY (gut health — top priority, NEVER exceed):**
 > - **Inulin ≤ 30g per pint (≤15g per half-pint).** GI distress (gas, bloating, cramps) above this. Counts all sources: standalone inulin + inulin inside mixes (15g SS = 11g inulin, 10g ICSv2 = 4.6g inulin).
 > - **Xylitol ≤ 30g per pint (≤15g per half-pint).** GI issues at higher doses. Stacks with inulin — both ferment in the gut. When both are present, keep EACH under its half-pint limit.
-> - **Erythritol ≤ 8% of total mix weight** (~54g in a 680g pint). Above this → crystallization risk. Xylitol or glycerin help prevent it.
+>
+> **⚙️ FUNCTIONAL (ice cream quality — strongly avoid exceeding):**
+> - **Total gums (CMC + guar + xanthan) ≤ 2g per pint.** Above this → stringy, cheese-pull texture. This includes gums inside stabilizer mixes (Salty Stability, ICSv2) — always count them toward the total. Yogurt, whey protein, and inulin provide body — gums are ONLY for ice crystal prevention.
+> - **Erythritol ≤ 8% of total mix weight** (~54g in a 680g pint). Above this → crystallization risk (not a GI concern — erythritol is absorbed in the small intestine). Xylitol or glycerin help prevent it.
 
 > **Acronyms:** Always explain ice cream science acronyms in parentheses on first use in each response. E.g. "PAC (anti-freezing power — how much an ingredient keeps ice cream soft/scoopable)", "POD (sweetening power — how sweet an ingredient is relative to sugar)", "MSNF (milk solids-non-fat — proteins, lactose, minerals in milk minus the fat and water)", "FPDF (freezing point depression factor — same concept as PAC)", "GI (glycemic index — how fast it spikes blood sugar)", "DE (dextrose equivalent — how broken-down a starch syrup is, higher = sweeter and more anti-freeze)", "HLB (hydrophilic-lipophilic balance — whether an emulsifier prefers water or fat, scale 0-20)".
 
@@ -48,12 +52,12 @@
 | Strawberry Flavor | Manis | Flavor drops — **MAX 2 drops/pint** (3 is too intense) |
 | Milk Cream Flavor | Manis | Flavor drops, caramel sub — **MAX 2 drops/pint** (3 is too intense) |
 | Soy Lecithin Powder (E322) | Manis | Emulsifier, replaces GMS 1:1 by weight |
-| Erythritol (E968) | HSN | PAC=2.8, sweetness=75%, non-caloric. Safe ≤50g/sitting |
-| Xylitol (E967) | HSN | PAC=2.2, sweetness=100%. GI issues at ~20-30g |
-| Inulin | HSN | Fiber/bulking, PAC=0.22, sweetness=8%. Adds body, replaces fat |
+| Erythritol (E968) | HSN | PAC=2.8, sweetness=75%, non-caloric. ⚠️ ≤8% of mix weight (~54g/pint) or crystallization risk |
+| Xylitol (E967) | HSN | PAC=2.2, sweetness=100%. ⚠️ ≤30g/pint GI limit (stacks with inulin) |
+| Inulin | HSN | Fiber/bulking, PAC=0.22, sweetness=8%. Adds body, replaces fat. ⚠️ ≤30g/pint GI limit (stacks with xylitol) |
 | Sucralose | HSN | 600x sweeter than sugar, zero GI, zero cal. Tiny amounts |
-| Whey Protein (unflavored) | HSN | **Default — use in all recipes unless stated otherwise.** WPC80. Per 100g: 408kcal, P82 F6.4 C5.8 S0.57. Contains sunflower lecithin (~0.8-1g/100g est.). Binds water, prevents ice crystals |
-| Whey Protein (unflavored) | Manis | EuriNutri 75 PL (WPC75). Lecithin-free alternative. Est. per 100g: ~390kcal, P≥75 F~6 C~9 S~0.15. From casein whey, not instantized |
+| Whey Protein — HSN WPC80 | HSN | Unflavored. Per 100g: 408kcal, P82 F6.4 C5.8 S0.57. Contains sunflower lecithin (~0.8-1g/100g est.). Binds water, prevents ice crystals. When a recipe calls for flavored protein (chocolate, vanilla, etc.), use this + cocoa powder / vanilla extract / flavor drops to match the flavor. |
+| ⚠️ IGNORE WHEN CRAFTING RECIPES ⚠️ Whey Protein — Manis WPC75 | Manis | EuriNutri 75 PL (WPC75). Lecithin-free. Est. per 100g: ~390kcal, P≥75 F~6 C~9 S~0.15. From casein whey, not instantized. |
 | Salt | Supermarket | Kitchen salt |
 | Cocoa powder | Supermarket | For chocolate bases |
 | Vanilla extract | Supermarket | Replaces vanilla bean powder in all repo recipes |

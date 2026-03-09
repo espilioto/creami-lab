@@ -113,11 +113,15 @@ Ultra-filtered, lactase-treated. Per 100g: **fat-free** → 33 kcal, 0g fat, 2.5
 - **380-430g 2%/high-protein** → 375-420g Marata 1.5% + 8-10g whey + 10g glycerin 🟡 — fat nearly matches (1.5 vs 1.9/100g). Protein gap smaller. Reduce sweetener by **~8g** (same lactose delta).
 - **Gap closer (recipe-dependent):** If recipe has no inulin/Salty Stability, add 5-10g inulin for body. ⚠️ **Total gums (CMC + guar + xanthan) must stay ≤ 2g/pint** — including gums inside mixes (15g SS = 1.7g gums, 10g ICSv2 = ~0.7g gums). Do NOT add extra gums on top of a mix unless the total stays under 2g. Above 2g → stringy, cheese-pull texture.
 
-### ⚠️ GI safety — inulin + xylitol stacking (CHECK EVERY RECIPE)
-Both ferment in the gut. **Check half-pint (340g) doses in EVERY recipe:**
+### 🚨 GI SAFETY — top priority, NEVER exceed (CHECK EVERY RECIPE)
+> GI safety limits protect your gut — they always trump functional limits, which only affect ice cream texture/quality.
+
+Both inulin and xylitol ferment in the gut. **Check half-pint (340g) doses in EVERY recipe:**
 - **Inulin ≤ 15g per half-pint (≤30g per pint).** Count ALL sources: standalone + inside mixes (15g SS = 11g inulin, 10g ICSv2 = 4.6g inulin). If over, reduce inulin first (swap body to whey protein).
 - **Xylitol ≤ 15g per half-pint (≤30g per pint).** Stacks with inulin — keep EACH under its limit.
-- **Erythritol ≤ 8% of total mix weight** (~54g in 680g pint) to avoid crystallization.
+
+### ⚙️ FUNCTIONAL — ice cream quality (strongly avoid exceeding)
+- **Erythritol ≤ 8% of total mix weight** (~54g in 680g pint) to avoid crystallization. Not a GI concern.
 
 ### Sweeteners
 - **Swerve** → SweEX same weight 🟢 — xylitol prevents erythritol crystallization (same role as Swerve's oligos). PAC ~2.56 vs ~2.70. Pinch sucralose if needed.
@@ -139,7 +143,7 @@ Both ferment in the gut. **Check half-pint (340g) doses in EVERY recipe:**
 - **Coffee extract** (6 drops) → 1g instant coffee in 2ml warm water 🟢
 - **Vanilla bean** (half bean, ~2g) → 6g vanilla extract (3x the weight) 🟡 — loses specks + depth. Buy beans for vanilla-forward recipes.
 
-### Thickeners — ⚠️ Total gums (CMC + guar + xanthan) ≤ 2g/pint
+### Thickeners — ⚙️ Total gums (CMC + guar + xanthan) ≤ 2g/pint (functional limit)
 - **Corn starch / Ultratex** → NEVER use corn starch (requires cooking to 90°C+). All recipes are no-cook. Swap to cold-acting alternatives: inulin for body, small amount of gums for ice crystal prevention 🟢
 - **Ultratex 10g** → 5-10g inulin + 0.5g xanthan 🟢 — cold-acting, no heat needed
 - **Always count gums inside mixes toward the 2g limit.** 15g Salty Stability = 1.7g gums. 10g ICSv2 = ~0.7g gums. Above 2g total → stringy, cheese-pull, gummy texture.
