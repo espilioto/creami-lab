@@ -51,9 +51,8 @@
 | Xylitol (E967) | HSN | PAC=2.2, sweetness=100%. GI issues at ~20-30g |
 | Inulin | HSN | Fiber/bulking, PAC=0.22, sweetness=8%. Adds body, replaces fat |
 | Sucralose | HSN | 600x sweeter than sugar, zero GI, zero cal. Tiny amounts |
-| Whey Protein (unflavored) | HSN | WPC80. Per 100g: 408kcal, P82 F6.4 C5.8 S0.57. Contains sunflower lecithin (~0.8-1g/100g est.). Binds water, prevents ice crystals |
+| Whey Protein (unflavored) | HSN | **Default.** WPC80. Per 100g: 408kcal, P82 F6.4 C5.8 S0.57. Contains sunflower lecithin (~0.8-1g/100g est.). Binds water, prevents ice crystals |
 | Whey Protein (unflavored) | Manis | EuriNutri 75 PL (WPC75). Est. per 100g: ~390kcal, P≥75 F~6 C~9 S~0.15. From casein whey, no lecithin (not instantized) |
-| Sugar | Supermarket | Regular table sugar |
 | Salt | Supermarket | Kitchen salt |
 | Cocoa powder | Supermarket | For chocolate bases |
 | Vanilla extract | Supermarket | Replaces vanilla bean powder in all repo recipes |
