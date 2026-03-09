@@ -63,11 +63,8 @@
 | Vanilla extract | Supermarket | Replaces vanilla bean powder in all repo recipes |
 | Marata 1.5% milk | Supermarket | 47 kcal/100ml. Fat 1.5, carbs 4.8, protein 3.5, water ~90%. Standard base |
 | Marata 2% strained yogurt | Supermarket | 66 kcal/100g. Fat 2, carbs 3.9, protein 8 |
-| Alpro unsweetened soy milk | Supermarket | ~33 kcal/100ml. Alternative base liquid |
 | Citric acid | Supermarket | — |
 | Cream of tartar | Supermarket | Meringue stabilizer |
-| Oreos | Supermarket | Mix-in |
-| Chocolate bars | Supermarket | Mix-in |
 
 ---
 
