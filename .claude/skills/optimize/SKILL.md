@@ -65,13 +65,18 @@ Metrics like Sugars%, Milk Fat%, Total Solids%, and MSNF% will often be red/yell
 - Cocoa powder 11%: -130
 - Vegetable fat: -90
 
-### Thickener synergy ratios
-- CMC : Guar : Xanthan = 4:3:1 (cold-acting, 0.3-0.5% of total mix)
-- Guar : Xanthan = 3:1 (cold gel)
+### ⚠️ HARD LIMIT: Total gums (CMC + guar + xanthan) ≤ 2g per pint
+- **This is a hard ceiling, not a target.** Above 2g → stringy, cheese-pull, gummy texture.
+- **Always count gums inside stabilizer mixes toward the total.** 15g Salty Stability = 1.7g gums. 10g ICSv2 = ~0.7g gums. Do NOT blindly add extra gums on top of a mix.
+- Preferred ratio when combining: CMC : Guar : Xanthan ≈ 4:3:1 (cold-acting)
+- Yogurt, whey protein, and inulin provide body. Gums are ONLY for ice crystal prevention — not for thickening or body. More gums ≠ better texture.
 - No GMS — use soy lecithin (1:1 by weight) as emulsifier alongside thickeners
 
-### GI safety — inulin + xylitol stacking
-Both inulin and xylitol ferment in the gut. Combined high doses cause gas/bloating. When designing recipes, check half-pint (340g) doses stay tolerable: **inulin ≤15g and xylitol ≤15g per half-pint.** If over, reduce inulin first (swap body to whey protein). Erythritol is mostly absorbed in the small intestine — minimal GI impact.
+### ⚠️ GI safety — inulin + xylitol stacking (CHECK EVERY RECIPE)
+Both inulin and xylitol ferment in the gut. Combined high doses cause gas, bloating, cramps. **Check half-pint (340g) doses in EVERY recipe:**
+- **Inulin ≤ 15g per half-pint (≤30g per pint).** Count ALL sources: standalone + inside mixes (15g SS = 11g inulin, 10g ICSv2 = 4.6g inulin). If over, reduce inulin first (swap body to whey protein).
+- **Xylitol ≤ 15g per half-pint (≤30g per pint).** Stacks with inulin — keep EACH under its limit when both are present.
+- **Erythritol ≤ 8% of total mix weight** (~54g in 680g pint) to avoid crystallization. Xylitol or glycerin help prevent it. Erythritol has minimal GI impact (absorbed in small intestine).
 
 ---
 

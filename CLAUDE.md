@@ -7,6 +7,12 @@
 
 > **LOW-FAT, NO-SUGAR style.** Our recipes intentionally use 1.5% milk, no cream, no sugar. Scoopulator metrics (Fat%, Sugars%, Solids%, MSNF%) will be outside traditional ranges — that's by design. Don't "fix" those numbers. Judge recipes by real-world outcome: scoopability, texture, sweetness balance, and stability.
 
+> **⚠️ HARD LIMITS — NEVER EXCEED. CHECK EVERY RECIPE.**
+> - **Total gums (CMC + guar + xanthan) ≤ 2g per pint.** Above this → stringy, cheese-pull texture. This includes gums inside stabilizer mixes (Salty Stability, ICSv2) — always count them toward the total. Yogurt, whey protein, and inulin provide body — gums are ONLY for ice crystal prevention.
+> - **Inulin ≤ 30g per pint (≤15g per half-pint).** GI distress (gas, bloating, cramps) above this. Counts all sources: standalone inulin + inulin inside mixes (15g SS = 11g inulin, 10g ICSv2 = 4.6g inulin).
+> - **Xylitol ≤ 30g per pint (≤15g per half-pint).** GI issues at higher doses. Stacks with inulin — both ferment in the gut. When both are present, keep EACH under its half-pint limit.
+> - **Erythritol ≤ 8% of total mix weight** (~54g in a 680g pint). Above this → crystallization risk. Xylitol or glycerin help prevent it.
+
 > **Acronyms:** Always explain ice cream science acronyms in parentheses on first use in each response. E.g. "PAC (anti-freezing power — how much an ingredient keeps ice cream soft/scoopable)", "POD (sweetening power — how sweet an ingredient is relative to sugar)", "MSNF (milk solids-non-fat — proteins, lactose, minerals in milk minus the fat and water)", "FPDF (freezing point depression factor — same concept as PAC)", "GI (glycemic index — how fast it spikes blood sugar)", "DE (dextrose equivalent — how broken-down a starch syrup is, higher = sweeter and more anti-freeze)", "HLB (hydrophilic-lipophilic balance — whether an emulsifier prefers water or fat, scale 0-20)".
 
 > For recipe optimization, Scoopulator validation, ingredient science, and target profiles → use `/optimize`
@@ -34,9 +40,9 @@
 | Ingredient | Source | Notes |
 |-----------|--------|-------|
 | Glycerin (VG, E422) | Manis | FPD, PAC=3.7, sweetness=60% sugar. Dose: 5-20g/pint |
-| Xanthan Gum (E415) | Manis | Thickener/stabilizer. Dose: 0.5-1.5g/pint |
-| CMC (E466, Tylose) | Manis | Stabilizer, prevents ice crystals. Dose: 0.6-2g/pint |
-| Guar Gum (E412) | Manis | Body/mouthfeel. Dose: 0.4-1.5g/pint |
+| Xanthan Gum (E415) | Manis | Thickener/stabilizer. ⚠️ **All gums combined ≤ 2g/pint** (incl. inside mixes) |
+| CMC (E466, Tylose) | Manis | Stabilizer, prevents ice crystals. ⚠️ Count toward 2g gum limit |
+| Guar Gum (E412) | Manis | Body/mouthfeel. ⚠️ Count toward 2g gum limit |
 | Chocolate Flavor | Manis | Flavor drops — **MAX 2 drops/pint** (3 is too intense) |
 | Strawberry Flavor | Manis | Flavor drops — **MAX 2 drops/pint** (3 is too intense) |
 | Milk Cream Flavor | Manis | Flavor drops, caramel sub — **MAX 2 drops/pint** (3 is too intense) |
