@@ -8300,48 +8300,6 @@ Paper-thin chocolate shards — the pre-made version of the chocolate ribbon hac
 
 ## Original
 
-### Strawberry FroYo (Sugar-Free)
-Tags: frozen-yogurt, strawberry, sugar-free, high-protein, flavor-drops, original
-
-Sugar-free strawberry frozen yogurt base using flavor drops + real frozen strawberries. Designed as a template — swap drops and fruit for other flavors.
-
-**Ingredients (~647g):**
-- **250g** Marata 2% strained yogurt
-- **150g** Marata 1.5% milk
-- **100g** frozen strawberries
-- **49g** inulin
-- **30g** whey protein (unflavored)
-- **27g** erythritol
-- **26g** xylitol
-- **8g** glycerin
-- **2g** vanilla extract
-- **3–4 drops** strawberry flavor
-- **0.5g** sucralose
-- **1.2g** CMC
-- **0.9g** guar gum
-- **0.5g** xanthan gum
-- **1.5g** soy lecithin
-- **0.5g** salt
-
-**Steps:**
-1. Blend milk, yogurt, erythritol, xylitol, glycerin, sucralose, vanilla, strawberry drops (~30 sec).
-2. Add dry mix (whey, inulin, CMC, guar, xanthan, lecithin, salt) and blend ~60 sec.
-3. Pour into pint. Add frozen strawberries, stir to distribute.
-4. Freeze 24h.
-5. Frozen Yogurt setting. Scrape test → Re-Spin if needed.
-
-**Notes:**
-- Xylitol at 26g — near upper comfort zone (GI issues at ~30g). If sensitive, shift 5g to erythritol.
-- Swap strawberry drops for chocolate/milk cream for other flavors (adjust or remove frozen fruit).
-- Low xanthan (0.5g) + total gums 2.6g to avoid chewy/cheese-pull texture.
-
-**Nutrition (per 100g):** 95 kcal | 1.5g fat | 11.7g carbs (13.7g sugars, 7g fiber) | 7.8g protein
-
-**Scoopulator:** [frozen-yogurt-regular](https://scoopulator.app/calc?ingredients=user-yogurt-straggisto-2-33939d:250,user-milk-fresh-marata-15-4d71c8:150,usdafndds-2709285:100,erythritol:27,xylitol:26,glycerin:8,inulin:49,user-hsn-whey-protein-concentrate-984009:30,usdafndds-2710263:0.5,pure-vanilla-extract:2,user-strawberry-food-flavor-9rLc4w:0.2,xanthan-gum:0.5,guar-gum:0.9,sodium-carboxymethyl-cellulose-cmc:1.2,usdabranded-soy-lecithin:1.5,usdaff-746775:0.5&target=frozen-yogurt-regular&type=frozen_yogurt) — Serv. -16.4°C 🟡 | Sweet 9.71% 🟡 | Solids 30.13% 🟢 | Sugars 12.16% 🟡 | Milk Fat 1.12% 🔴 | MSNF 4.03% 🔴 | Stab 0.4% 🟢 | Emul 0.23% 🟢
-*(Milk Fat/MSNF reds are structural — no cream in pantry, custom ingredient MSNF data gap.)*
-
----
-
 ### Vanilla Base — Salty Stability (Sugar-Free)
 Tags: ice-cream, vanilla, low-fat, sugar-free, no-cook, high-protein, salty-stability, original
 
