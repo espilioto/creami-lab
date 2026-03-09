@@ -8064,6 +8064,67 @@ Woodruff ("Waldmeister") — a German flavor used in Berliner Kindl, Maibowle, a
 
 ---
 
+## Stabilizer Mixes
+
+### ICS (Ice Cream Stabilizer) — Sweetened
+Tags: stabilizer, premix, sweetened, vegan
+Based on [ICSv2](https://jhermann.github.io/ice-creamery/I/Ice%20Cream%20Stabilizer%20%E2%80%A2%20ICSv2/). Unchanged from original — ICSv2 never included an emulsifier.
+
+**Changes from original:** None. ICSv2 was already emulsifier-free.
+
+**Batch (218g):**
+- **100g** erythritol
+- **100g** inulin
+- **10g** CMC
+- **3.5g** guar gum
+- **3.5g** salt
+- **1g** xanthan gum
+
+**Dose:** 30g per Deluxe pint (20g regular)
+
+**Per 30g dose → gums:** 1.38g CMC + 0.48g guar + 0.14g xanthan (ratio 10:3.5:1)
+**Per 30g dose → sweetener:** 13.8g erythritol + 13.8g inulin + 0.48g salt
+
+**Directions:**
+1. Weigh all into a jar with secure lid.
+2. Shake vigorously until uniform.
+3. Store airtight.
+
+**Usage:** Combine dose with any other dry ingredients. Drizzle into the vortex of a running immersion blender, or add to liquid and blend on full speed.
+
+---
+
+### Salty Stability — Unsweetened
+Tags: stabilizer, premix, unsweetened, vegan
+Based on [Salty Stability](https://jhermann.github.io/ice-creamery/S/Salty%20Stability/).
+
+**Changes from original:** Removed 18g GMS (glycerol monostearate, emulsifier). Replaced with 18g more inulin to keep batch at 150g and dose at 15g.
+
+**Why no GMS:** GMS works by destabilizing fat globule membranes during churning to build a partial coalescence network — the structure that gives high-fat ice cream its scoopable body. Our bases use 1.5% milk with no cream, so there are barely any fat globules for GMS to act on. Whey protein (20-30g/pint in most recipes) is surface-active and provides more than enough emulsification for this tiny fat load. The ~0.15-0.3g of sunflower lecithin naturally present in HSN whey protein per pint also contributes. Adding GMS to a low-fat base is wasted ingredient with no textural benefit.
+
+**Batch (150g):**
+- **128g** inulin
+- **9g** CMC
+- **6g** guar gum
+- **5g** salt
+- **2g** xanthan gum
+
+**Dose:** 15g per Deluxe pint (10g regular)
+
+**Per 15g dose → gums:** 0.9g CMC + 0.6g guar + 0.2g xanthan (ratio 4.5:3:1)
+**Per 15g dose → bulk:** 12.8g inulin + 0.5g salt
+
+**Directions:**
+1. Take a big bowl. Add gums + salt first, whisk together.
+2. Gradually add inulin in 3-4 portions, whisking after each.
+3. Store airtight.
+
+**Usage:** Same as ICS. For best gum hydration, let base rest in fridge a few hours or overnight after mixing.
+
+**Quick substitute (no premix):** 0.9g CMC + 0.6g guar + 0.2g xanthan + 0.5g salt — weigh individually on jeweler's scale.
+
+---
+
 ## Reddit / Le Interwebz
 
 ### [Chickpea Cookie Dough](https://www.reddit.com/r/ninjacreami/comments/1jedhuz/chickpea_cookiedough_creami_this_was_1010/)
