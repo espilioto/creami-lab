@@ -8393,7 +8393,7 @@ Milk-only vanilla base (no yogurt) built on Salty Stability philosophy: inulin f
 
 **Notes:**
 - SweEX ratio 27:17 (≈3:2) — prevents erythritol crystallization. Erythritol at 5.4% (under 8% threshold).
-- GI safety per half-pint: xylitol ~11.5g, inulin ~12.2g — both within tolerance.
+- GI safety: xylitol ~23g, inulin ~24.4g per pint — both under 30g limit.
 - Salt (0.5g) amplifies vanilla, suppresses erythritol cooling sensation.
 - Glycerin only 5g — high PAC (3.7) but low POD (60%), so minimized to keep serving temp in range.
 
@@ -8438,7 +8438,7 @@ Yogurt-heavy froyo with frozen strawberries as the star. 350g strained yogurt gi
 5. Process on **Frozen Yogurt** mode. Re-spin if needed.
 
 **Notes:**
-- Total inulin: 20g (9g standalone + 11g from SS). GI safety per half-pint: inulin ~10g, xylitol ~6g — both well within tolerance.
+- Total inulin: 20g (9g standalone + 11g from SS). GI safety: inulin 20g, xylitol ~12g per pint — both well under 30g limit.
 - Erythritol at 5.2% of mix (under 8% crystallization threshold). SweEX ratio 35:12 (≈3:1).
 - Salty Stability provides 1.7g total gums — intentionally light since yogurt + whey + inulin already give body.
 - Frozen strawberries add ~8.5g natural sugars — accounts for most of the Scoopulator Sugars% reading.

@@ -61,7 +61,7 @@ Inulin 110g, Soy Lecithin 18g (replaces GMS), CMC 9g, Guar 6g, Salt 5g, Xanthan 
 
 ### SweEX (Erythritol + Xylitol 3:2)
 - 60% Erythritol + 40% Xylitol
-- PAC = 2.56, POD ~85%, GI < 7
+- PAC = 2.56, POD ~85%, glycemic index < 7
 - Swap to allulose/dextrose: use 133% of SweEX amount
 - Swap to sugar: roughly same weight but different PAC/texture
 
@@ -116,9 +116,9 @@ Ultra-filtered, lactase-treated. Per 100g: **fat-free** → 33 kcal, 0g fat, 2.5
 ### 🚨 GI SAFETY — top priority, NEVER exceed (CHECK EVERY RECIPE)
 > GI safety limits protect your gut — they always trump functional limits, which only affect ice cream texture/quality.
 
-Both inulin and xylitol ferment in the gut. **Check half-pint (340g) doses in EVERY recipe:**
-- **Inulin ≤ 15g per half-pint (≤30g per pint).** Count ALL sources: standalone + inside mixes (15g SS = 11g inulin, 10g ICSv2 = 4.6g inulin). If over, reduce inulin first (swap body to whey protein).
-- **Xylitol ≤ 15g per half-pint (≤30g per pint).** Stacks with inulin — keep EACH under its limit.
+Both inulin and xylitol ferment in the gut. **Check per-pint doses in EVERY recipe:**
+- **Inulin ≤ 30g per pint.** Count ALL sources: standalone + inside mixes (15g SS = 11g inulin, 10g ICSv2 = 4.6g inulin). If over, reduce inulin first (swap body to whey protein).
+- **Xylitol ≤ 30g per pint.** Stacks with inulin — keep EACH under its own limit.
 
 ### ⚙️ FUNCTIONAL — ice cream quality (strongly avoid exceeding)
 - **Erythritol ≤ 8% of total mix weight** (~54g in 680g pint) to avoid crystallization. Not a GI concern.

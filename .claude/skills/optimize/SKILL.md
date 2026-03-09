@@ -10,7 +10,7 @@ allowed-tools: Read, Grep, Glob, Bash, WebFetch, Edit, Write
 
 Do NOT guess or rely on memory for ingredient science, PAC/POD values, thickener ratios, or nutrition data. Before proposing any recipe, modification, or ingredient advice:
 
-1. Read `ice-creamery-main/docs/info/ingredients.md` (PAC/POD/GI, hardening factors, sweetener/thickener/emulsifier science)
+1. Read `ice-creamery-main/docs/info/ingredients.md` (PAC/POD/glycemic-index, hardening factors, sweetener/thickener/emulsifier science)
 2. Read `ice-creamery-main/docs/info/nutrition.md` (exact nutritional values per 100g)
 3. Read `ice-creamery-main/docs/info/principles.md` (PAC targets, MSNF targets)
 4. Consult `ice-creamery-main/docs/info/glossary.md` if any term is unclear
@@ -68,9 +68,9 @@ Metrics like Sugars%, Milk Fat%, Total Solids%, and MSNF% will often be red/yell
 ### 🚨 GI SAFETY — top priority, NEVER exceed (CHECK EVERY RECIPE)
 > GI safety limits protect your gut — they always trump functional limits, which only affect ice cream texture/quality.
 
-Both inulin and xylitol ferment in the gut. Combined high doses cause gas, bloating, cramps. **Check half-pint (340g) doses in EVERY recipe:**
-- **Inulin ≤ 15g per half-pint (≤30g per pint).** Count ALL sources: standalone + inside mixes (15g SS = 11g inulin, 10g ICSv2 = 4.6g inulin). If over, reduce inulin first (swap body to whey protein).
-- **Xylitol ≤ 15g per half-pint (≤30g per pint).** Stacks with inulin — keep EACH under its limit when both are present.
+Both inulin and xylitol ferment in the gut. Combined high doses cause gas, bloating, cramps. **Check per-pint doses in EVERY recipe:**
+- **Inulin ≤ 30g per pint.** Count ALL sources: standalone + inside mixes (15g SS = 11g inulin, 10g ICSv2 = 4.6g inulin). If over, reduce inulin first (swap body to whey protein).
+- **Xylitol ≤ 30g per pint.** Stacks with inulin — keep EACH under its own limit when both are present.
 
 ### ⚙️ FUNCTIONAL — ice cream quality (strongly avoid exceeding)
 
