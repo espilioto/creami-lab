@@ -8366,20 +8366,24 @@ Tags: ice-cream, vanilla, low-fat, sugar-free, no-cook, high-protein, salty-stab
 
 Milk-only vanilla base (no yogurt) built on Salty Stability philosophy: inulin for body, soy lecithin for emulsification, CMC/guar/xanthan for stability, salt to enhance vanilla and suppress erythritol cooling. Glycerin kept minimal — erythritol+xylitol carry the FPD load while contributing sweetness.
 
-**Ingredients (~503g):**
+**Wet:**
 - **400g** Marata 1.5% milk
-- **27g** erythritol
-- **25g** whey protein (HSN WPC80)
-- **18g** inulin
-- **17g** xylitol
 - **5g** vanilla extract
 - **5g** glycerin
-- **2.2g** CMC
-- **2g** soy lecithin
-- **1.2g** guar gum
-- **0.5g** salt
-- **0.35g** xanthan gum
+
+**Dry:**
+- **27g** erythritol
+- **25g** whey protein (HSN WPC80)
+- **17g** xylitol
+- **7g** inulin
 - **0.2g** sucralose
+- Salty Stability (15g):
+  - **11.0g** inulin
+  - **1.8g** soy lecithin
+  - **0.9g** CMC
+  - **0.6g** guar gum
+  - **0.5g** salt
+  - **0.2g** xanthan gum
 
 **Steps:**
 1. Add milk, vanilla, glycerin to pint.
