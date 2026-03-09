@@ -8,6 +8,7 @@
 > **LOW-FAT, NO-SUGAR style.** Our recipes intentionally use 1.5% milk, no cream, no sugar. Scoopulator metrics (Fat%, Sugars%, Solids%, MSNF%) will be outside traditional ranges — that's by design. Don't "fix" those numbers. Judge recipes by real-world outcome: scoopability, texture, sweetness balance, and stability.
 
 > **⚠️ HARD LIMITS — NEVER EXCEED. CHECK EVERY RECIPE.**
+> SS (Salty Stability) and ICSv2 (Ice Cream Stabilizer v2) are custom stabilizer blends — see compositions in `CREAMing.md`.
 > - **Total gums (CMC + guar + xanthan) ≤ 2g per pint.** Above this → stringy, cheese-pull texture. This includes gums inside stabilizer mixes (Salty Stability, ICSv2) — always count them toward the total. Yogurt, whey protein, and inulin provide body — gums are ONLY for ice crystal prevention.
 > - **Inulin ≤ 30g per pint (≤15g per half-pint).** GI distress (gas, bloating, cramps) above this. Counts all sources: standalone inulin + inulin inside mixes (15g SS = 11g inulin, 10g ICSv2 = 4.6g inulin).
 > - **Xylitol ≤ 30g per pint (≤15g per half-pint).** GI issues at higher doses. Stacks with inulin — both ferment in the gut. When both are present, keep EACH under its half-pint limit.
