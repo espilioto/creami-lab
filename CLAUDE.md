@@ -65,6 +65,7 @@
 | Marata 2% strained yogurt | Supermarket | 66 kcal/100g. Fat 2, carbs 3.9, protein 8 |
 | Citric acid | Supermarket | — |
 | Cream of tartar | Supermarket | Meringue stabilizer |
+| Peanut butter (smooth) | Supermarket | Peanut 94%, pea protein 3%, rice protein 3%. Per 100g: 620kcal, F48.3 (sat 7.7), C18.3 (sugar 4.7), fiber 8.0, P32.0, S0.02. |
 
 ---
 
