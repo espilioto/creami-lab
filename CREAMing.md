@@ -8638,41 +8638,43 @@ Water-based "ganache" — no cream, no milk, no fat beyond cocoa. Glycerin keeps
 ---
 
 ### Caramel Swirl Sauce
-Tags: swirl, sauce, prep, low-calorie, caramel, dairy-free, sugar-free, original
+Tags: swirl, sauce, prep, low-calorie, caramel, dairy-free, original
 
-Fake caramel — xylitol actually caramelizes when heated (unlike erythritol), giving real browning and toffee notes. Milk Cream flavor drops sell the buttery illusion without any fat.
+Real caramelized sugar base — dry-caramelized for deep amber, true butterscotch, and complex bitter-sweet notes. Glycerin keeps it pliable at -18°C; sucralose rounds out the sweetness. One batch = 3 pints (~50g per pint, ~63 kcal per serving). Store leftovers in a jar in the fridge.
 
-**Ingredients (~146g batch):**
-- **90g** water
-- **25g** xylitol
-- **20g** glycerin
-- **10g** erythritol
-- **0.3g** xanthan gum
-- **0.5g** salt
+**Ingredients (~150g batch, 3 pints):**
+- **103g** water
+- **23g** sugar (caramelized)
+- **23g** glycerin
+- **0.35g** xanthan gum
+- **0.6g** salt
 - **2 drops** Milk Cream flavor
 - **0.1g** sucralose (tiny pinch)
 
 **Steps:**
-1. Whisk erythritol and xanthan together dry.
-2. Combine water and xylitol in a small pot, heat on medium-high.
-3. Once dissolved, simmer 3-5 min — xylitol browns slightly and develops a mild toffee note. Watch it, don't burn.
-4. Whisk in the erythritol/xanthan mix.
+1. Put 23g sugar in a dry small pot on medium heat. Don't stir — let it melt from the edges, then gently swirl the pot. Takes ~3-4 min to reach amber.
+2. Once deep amber, carefully pour in 103g water (it spatters — stand back, whisk immediately).
+3. Stir until caramel dissolves into the water (~30 sec).
+4. Sprinkle in xanthan gum while whisking (prevents clumps).
 5. Remove from heat, stir in glycerin, salt, sucralose, and Milk Cream flavor drops.
-6. Cool — thickens as it rests.
+6. Cool — thickens as it rests. Store in a jar.
 
-**Usage as swirl:** Same as Chocolate Swirl Sauce — drizzle into pint base, swirl with chopstick, freeze 24h.
+**Usage as swirl:** Use ~50g per pint. Pour ice cream base into pint (~80% full), drizzle sauce on top, use a chopstick/knife to swirl through. Freeze 24h, spin as normal.
 
 **Notes:**
-- Xylitol is the star — only pantry sweetener that actually caramelizes. PAC (anti-freezing power) 2.2 also helps freeze softness.
-- Combined xylitol (25g) + glycerin (20g) FPD (freezing point depression) keeps it pliable at -18°C.
-- Xylitol GI (gastrointestinal) limit: 25g in sauce is under 30g/pint cap, but if base also contains xylitol, count both.
-- Want darker color? Simmer xylitol longer, or add 1-2g cocoa powder for "salted caramel" vibe.
-- Want thicker? Bump xanthan to 0.5g or reduce water to 75g.
-- **Low-cal variant (~72 kcal/batch):** Drop glycerin, use 30g xylitol + 20g erythritol instead. Slightly firmer in freezer. Xylitol at 30g = right at GI limit, so base must be xylitol-free.
+- Texture is firmer than a sugar-free version — more fudgy ribbon than syrupy swirl. This is a feature for mix-in-style bites.
+- Want softer? Bump glycerin to 28-35g. Adds ~22-52 kcal/batch but recovers pliability.
+- Want thicker? Bump xanthan to 0.5g or reduce water to 85g.
+- Want darker color? Let the caramel go slightly past amber — just before smoking. Or add 1-2g cocoa powder for "salted caramel" vibe.
+- Zero xylitol = frees up the full 30g GI (gastrointestinal) budget for the base.
+- Zero erythritol = no crystallization concern in the sauce.
+- **Sugar-free fallback:** 29g xylitol + 11g erythritol + 23g glycerin instead of 23g sugar. Milder toffee, softer swirl. Watch xylitol GI budget if base also contains xylitol.
 
-**Nutrition (per batch ~146g):** ~140 kcal | 0g fat | 5.5g carbs | 0g protein
+**Nutrition (per batch ~150g):** ~190 kcal | 0g fat | 5.8g carbs | 0g protein
 
-**Nutrition (per 100g):** ~96 kcal | 0g fat | 3.8g carbs | 0g protein
+**Nutrition (per pint serving ~50g):** ~63 kcal | 0g fat | 1.9g carbs | 0g protein
+
+**Nutrition (per 100g):** ~127 kcal | 0g fat | 3.8g carbs | 0g protein
 
 ---
 
