@@ -8655,8 +8655,8 @@ Real caramelized sugar base — dry-caramelized for deep amber, true butterscotc
 1. Put 23g sugar in a dry small pot on medium heat. Don't stir — let it melt from the edges, then gently swirl the pot. Takes ~3-4 min to reach amber.
 2. Once deep amber, carefully pour in 103g water (it spatters — stand back, whisk immediately).
 3. Stir until caramel dissolves into the water (~30 sec).
-4. Sprinkle in xanthan gum while whisking (prevents clumps).
-5. Remove from heat, stir in glycerin, salt, sucralose, and Milk Cream flavor drops.
+4. Pre-mix xanthan with salt and sucralose in a small bowl (dry dispersant — prevents xanthan clumping on contact with water).
+5. Remove from heat, stir in glycerin and Milk Cream flavor drops, then sprinkle in the xanthan-salt-sucralose mix while whisking briskly (or use immersion blender for best results).
 6. Cool — thickens as it rests. Store in a jar.
 
 **Usage as swirl:** Use ~50g per pint. Pour ice cream base into pint (~80% full), drizzle sauce on top, use a chopstick/knife to swirl through. Freeze 24h, spin as normal.
