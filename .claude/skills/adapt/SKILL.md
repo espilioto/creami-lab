@@ -144,10 +144,20 @@ Both inulin and xylitol ferment in the gut. **Check per-pint doses in EVERY reci
 - **Vanilla bean** (half bean, ~2g) → 6g vanilla extract (3x the weight) 🟡 — loses specks + depth. Buy beans for vanilla-forward recipes.
 
 ### Thickeners — ⚙️ Total gums (CMC + guar + xanthan) ≤ 2g/pint (functional limit)
-- **Corn starch / Ultratex** → NEVER use corn starch (requires cooking to 90°C+). All recipes are no-cook. Swap to cold-acting alternatives: inulin for body, small amount of gums for ice crystal prevention 🟢
-- **Ultratex 10g** → 5-10g inulin + 0.5g xanthan 🟢 — cold-acting, no heat needed
+- **Corn starch** → NEVER use corn starch (requires cooking to 90°C+). All recipes are no-cook. Swap to cold-acting alternatives: inulin for body, small amount of gums for ice crystal prevention 🟢
+- **Ultratex / Waxy Maize Starch (E1442)** → cold-acting modified starch. We don't stock it. **10-15g Ultratex** → 8-12g inulin + 0.3g xanthan 🟡 — less thickening power but functional. Always check gum total after adding xanthan.
 - **Always count gums inside mixes toward the 2g limit.** 15g Salty Stability = 1.7g gums. 10g ICSv2 = ~0.7g gums. Above 2g total → stringy, cheese-pull, gummy texture.
 - Yogurt, whey protein, and inulin provide body. Gums are ONLY for ice crystal prevention.
+
+### Buttermilk
+- **500g buttermilk 1%** → 450g Marata 1.5% + 50g Marata 2% strained yogurt 🟡 — approximates tang + acidity. Or add 2g citric acid to plain milk.
+- Buttermilk adds ~4.7g carbs/100g (similar to Marata) so no sweetener adjustment needed.
+
+### Gum Arabic (E414)
+- **3g gum arabic** → skip or use 0.3g xanthan 🟡 — gum arabic is primarily for mouthfeel in sorbets. Count toward 2g gum total.
+
+### Sweetener Tablets
+- **10 tablets (~40g sugar equivalent)** → 8g erythritol + 0.05g sucralose 🟢 — matches sweetness. Adjust to taste.
 
 ### Emulsifiers
 - **GMS (E471)** → Soy Lecithin Powder same weight 🟢

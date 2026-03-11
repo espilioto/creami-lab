@@ -88,10 +88,11 @@
 | `rest/scoopulator_profiles_index.json` | Scoopify | Target profiles (scraped) — acceptable metric ranges per recipe type |
 
 **Reference docs** in `ice-creamery-main/docs/info/`:
-- `ingredients.md` — PAC/POD/glycemic-index tables, hardening factors, sweeteners/thickeners/emulsifiers/dairy-alts, blend ratios, cocoa, alcohol
+- `ingredients.md` — PAC/POD/glycemic-index tables, hardening factors, sweeteners/thickeners/emulsifiers/dairy-alts, blend ratios, cocoa, alcohol, tagatose, sucrose esters (E473)
 - `nutrition.md` — kcal/fat/carbs/protein/PAC/MSNF per 100g for 100+ ingredients
 - `tips+tricks.md` — scrape test, icy sides handling, workflow, essential tools
 - `polar-ice-creamery.md` — sugar science (sucrose vs dextrose vs erythritol), stabilizer principles
 - `principles.md` — PAC targets (20-30 ice cream, 30-36 sorbet), MSNF targets
 - `glossary.md` — PAC, POD, glycemic index, HLB, DE, MSNF, ABV definitions
+- `recipe-guide.md` — low-cal recipes by protein content, grouped by major ingredient (vanilla, chocolate, fruit, boozy)
 - `faq.md`, `web-resources.md`, `plating.md`
