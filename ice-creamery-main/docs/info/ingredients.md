@@ -69,17 +69,20 @@ using a hardening factor (HF; negative PAC):
 - Cocoa paste: -160
 - Hazelnut paste: -90
 
-**Solidification Point of Common Oils**
+**Solidification Point of Common Oils / Fats**
 
 | Type of Oil | °C |  °F |
 | :----------------- | -: | -: |
 | Avocado | -6 | 20 |
+| Cocoa¹ | 24 | 75 |
 | Coconut | 24 | 75 |
 | Olive (native) | 10 | 50 |
 | Olive (refined) | -6 | 20 |
 | Peanut | -1..3 | 30..37 |
 | Soybean | -18 | 0 |
 | Sunflower | -17 | 1 |
+
+> ¹ Cocoa butter typically solidifies below 24°C (75°F), but it has 6 crystal forms (I-VI) with melting points ranging from 17°C to 36°C. Form V (tempered) typically solidifies between 27°C and 34°C (80–93°F), just below body temperature.
 
 Exact temperatures can vary due to different grades of purity.
 
@@ -272,6 +275,20 @@ It is derived from sucrose through a chemical process.
 Sucralose is commonly known by the brand name *Splenda*.
 
 Like [stevia](#stevia-e960), when used in liquid form, it makes it simple to dial in the sweetness of a base without influencing its texture and PAC value.
+
+### Tagatose
+
+[Tagatose](https://en.wikipedia.org/wiki/Tagatose) is a rare, low-calorie, natural monosaccharide sugar (sweetener) that is about 90% as sweet as sucrose, but with only a third to half the calories (1.5–2.8 kcal/g). It is found in small amounts in dairy and some fruits, is non-cariogenic, and has a very low glycemic index, making it popular for diabetes-friendly foods.
+
+**Key Aspects of Tagatose**
+
+-   **Sweetener Properties:** It behaves like sugar in cooking, browning, and texture, making it an excellent sucrose substitute.
+-   **Low Calorie/Glycemic Index:** Due to limited absorption in the small intestine, it has a minimal impact on blood glucose and insulin levels.
+-   **Source:** While found in dairy and fruits, it is commercially produced by breaking down lactose into galactose, which is then converted into D-tagatose.
+-   **Safety & Status:** It is generally recognized as safe (GRAS) by the [FDA](https://pubmed.ncbi.nlm.nih.gov/12511110/) and approved by [FSANZ](https://www.foodstandards.gov.au/consumer/foodtech/tagatose); it is an approved novel food ingredient in the EU (since 2005) and Great Britain.
+-   **Digestive Considerations:** Although safe, excessive consumption may lead to digestive discomfort.
+
+Tagatose is frequently used in foods such as ice cream, chocolate, and chewing gum.
 
 ### Trehalose (E965)
 Trehalose is a disaccharide (composed of two glucose molecules),
@@ -702,6 +719,24 @@ Lecithin reduces the surface tension between fat and water, contributing to a sm
 In an egg-free ice cream, add from 0.15% to 0.5% of the total recipe weight (1.5–5 g/l).
 
 Soy lecithin is often extracted using chemical solvents, which makes it a UPF, and it might come from GMO sources.
+
+### Sucrose Esters of Fatty Acids (E473)
+
+This is used in ice cream primarily as an emulsifier and stabilizer
+to improve texture, mouthfeel, and shelf life.
+It is first dissolved in the watery part of a base and then mixed with fatty ingredients; E473 is considered cold‑soluble or at least cold‑dispersible. Mono‑esters (high HLB of 10–16) are more water‑soluble and can dissolve or disperse readily in cold water or cold milk.
+
+Key Uses of E473 in ice cream:
+
+- **Creates Creamy Texture:** It helps in emulsifying fats and water, ensuring a smooth and creamy texture.
+- **Controls Ice Crystal Formation:** It stabilizes the mixture, preventing the growth of large ice crystals, which results in a finer, smoother product.
+- **Improves Melt Resistance:** It enhances the structure of the ice cream, allowing it to hold its shape better and melt slower.
+- **Increases Overrun (Air Incorporation):** It helps in incorporating air, contributing to a lighter, more aerated, and stable structure.
+- **Enhances Low-Fat Alternatives:** It is often used to compensate for the loss of mouthfeel in reduced-fat ice creams.
+
+E473 is highly effective because it can be tailored to different, complex emulsion systems and is often used in combination with other emulsifiers for improved results.
+
+It is typically used at about 0.2–0.3% of the total mix, with an upper limit of 0.5%. Start at the low end as usual, especially when you combine it with E471 (Mono- and Diglycerides of Fatty Acids) or other emulsifiers. The acceptable daily intake (ADI) for E473 is 40mg/kg body weight per day.
 
 ## Dairy & Milk Alternatives
 ### Almond Milk & Butter

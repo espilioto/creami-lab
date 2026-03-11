@@ -55,6 +55,10 @@ use the Markdown format for the output.
 
     This section lists recipes that have been created within the last two months.
 
+*   **Recipe Guide**
+
+    Looking at the list of recipes from different angles, providing selections that conform with certain requirements and expectations.
+
 *   **Tips & Tricks**
 
     This section provides practical advice for using the Ninja Creami.

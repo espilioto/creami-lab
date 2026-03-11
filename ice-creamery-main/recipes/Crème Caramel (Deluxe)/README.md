@@ -5,16 +5,15 @@ excluded_steps:
 - ^$
 excluded_tags:
 - Allulose
+- Dairy
 - Vanilla
 tags:
-- Dairy
 - Draft
 - Erythritol
 - Hi-Protein
 - Low-Fat
 - Low-Sugar
 - Scoopable
-- Simple
 - Stevia
 - Sucralose
 - Xylitol
@@ -29,15 +28,12 @@ thickened dairy products instead of eggs and milk.
 
 Spin on *Light Ice Cream*, do a scrape-down, and finish with a mix-in or respin run.
 
-> <img width=220 alt="After 1st Spin" src="_1.jpg" class="zoomable" />
-> <img width=220 alt="After Mix-in" src="_2.jpg" class="zoomable" />
-> <img width=220 alt="Scooped" src="_3.jpg" class="zoomable" />
+> <img width=165 alt="After 1st Spin" src="Crème-Caramel_2026-02-23_1.jpg" class="zoomable" />
+> <img width=165 alt="With Mix-in" src="Crème-Caramel_2026-02-23_2.jpg" class="zoomable" />
+> <img width=165 alt="After Mix-in" src="Crème-Caramel_2026-02-23_3.jpg" class="zoomable" />
+> <img width=165 alt="Scooped" src="Crème-Caramel_2026-02-23_4.jpg" class="zoomable" />
 
-Rating: 😋 (untested)
-
-!!! info "Simple Recipe"
-
-    Read [About 'Simple' Recipes](/ice-creamery/info/tips%2Btricks/#about-simple-recipes)    regarding 'exotic' ingredients and their alternatives.
+Rating: 😋🍮🥛🍮🥛 (creamy, a bit too sweet, nice and strong caramel flavor)
 
 # INGREDIENTS
 
@@ -59,8 +55,8 @@ Rating: 😋 (untested)
 
 **Fill to MAX**
 
-  - _≈5 drops_ Flavor drops Caramel (sucralose) [IronMaxx] • to taste
-  - _≈3 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
+  - _≈3 drops_ Flavor drops Caramel (sucralose) [IronMaxx] • to taste
+  - _≈1 drops_ Flavor drops Vanilla (sucralose) [IronMaxx] • to taste
 
 **Mix-ins**
 
