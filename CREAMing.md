@@ -3200,6 +3200,50 @@ Tags: banana, toffee, vegan, dairy-free, high-protein, low-fat, scoopable
 
 ---
 
+### Berry Punch (Deluxe)
+Tags: sorbet, fruit, boozy, draft, vegan, dairy-free
+
+**Source:** ice-creamery — Berry Punch (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Berry%20Punch%20(Deluxe))
+
+**Ninja Creami Deluxe [24 oz]**
+
+Vibrant ruby-red sorbet spiked with spiced berry warmth. Bold & tangy flavor with clove-cinnamon notes. Vegan & dairy-free.
+
+**Wet:**
+- **300g** fruit juice blend (cherry+grape or apple+cherry+prune)
+- **170g** Bärgløgg 11% → 🟡 **170g** red wine (dry, ~12%) + **1g** cinnamon + **0.3g** ground cloves *(loses gløgg's specific spiced berry depth; wine adds more tannin)*
+- **170g** water (cold)
+
+**Dry:**
+- **20g** inulin
+- **15g** Ultratex (waxy maize starch E1442) → 🟡 **10g** inulin + **0.3g** xanthan gum *(less thickening power, slightly thinner body)*
+- **3g** gum arabic (E414) → 🟡 skip *(not available; xanthan above partially compensates)*
+- **1g** citric acid
+- **1g** xanthan gum
+- **10 sweetener tablets** → 🟢 **8g** erythritol + **0.05g** sucralose *(~40g sugar equivalent)*
+
+**Adjust sweetness:**
+- 1 drop strawberry flavor drops (MAX 2 drops/pint)
+
+**Steps:**
+1. Add wet ingredients to empty Creami tub.
+2. Mix dry ingredients separately.
+3. Pour into tub and QUICKLY immersion blend on full speed.
+4. Let blender run 1-2 min to hydrate thickeners.
+5. Add flavor drops, stir.
+6. Rest in fridge a few hours or overnight.
+7. Freeze 24h with lid on. Flatten any humps.
+8. Sorbet setting.
+9. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
+
+**Nutrition (per pint):** 455 kcal | 1.5g fat | 1.7g protein | 69g carbs
+
+**PAC:** 31
+
+⚠️ GI check: Inulin = 20g + 10g (Ultratex swap) = 30g (AT limit). Xylitol = 0g. Gums = 1g xanthan + 0.3g xanthan = 1.3g (under 2g). Erythritol = 8g (1.2% of ~680g).
+
+---
+
 ### Beso de Ángel
 Tags: cherry, coconut, mexican, scoopable, low-sugar
 
@@ -3495,8 +3539,8 @@ Tags: chocolate, coffee, dark-cocoa, scoopable, low-sugar
 - **10g** soy sauce
 
 **Dry:**
-- **27g** erythritol
-- **18g** xylitol
+- **25g** erythritol
+- **17g** xylitol
 - **15g** skim milk powder
 - **15g** whey + casein protein → 🟢 **15g** whey protein
 - Salty Stability (10g):
@@ -3511,7 +3555,7 @@ Tags: chocolate, coffee, dark-cocoa, scoopable, low-sugar
 - 1 pinch cayenne + nutmeg each (optional)
 
 **Fill to MAX:**
-- **~75g** soy milk (unsweetened)
+- **~78g** soy milk (unsweetened)
 - Flavor drops Vanilla (10 drops) → 🟡 **3g** vanilla extract
 
 **Mix-ins:**
@@ -3523,20 +3567,21 @@ Tags: chocolate, coffee, dark-cocoa, scoopable, low-sugar
 - **15g** cherry fruit spread (no added sugar)
 
 **Steps:**
-1. In a heat-proof bowl, combine premixed dry ingredients with a whisk.
-2. Pour half the hot water (100g) over cocoa to bloom it. Whisk to a smooth paste.
-3. Add remaining 100g hot water. Break chocolate into pieces and melt into the paste. Let cool slightly.
-4. Add wet ingredients and chocolate paste to pint. Blend with immersion blender on full speed, 1-2 min.
-5. Add remaining soy milk (~75g to MAX line) and vanilla extract. Stir.
-6. Rest in fridge a few hours or overnight.
-7. Freeze 24h with lid on. Flatten any humps.
-8. Sorbet setting.
-9. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
-10. Make a hole to the bottom. Add crushed cashews. Mix-In.
+1. Pour half the hot water (100g) over cocoa to bloom it. Whisk to a smooth paste.
+2. Add remaining 100g hot water. Break chocolate into pieces and melt into the paste. Let cool slightly.
+3. Add wet ingredients and chocolate paste to pint.
+4. Mix dry ingredients separately.
+5. Pour into tub and QUICKLY immersion blend on full speed, 1-2 min.
+6. Add remaining soy milk (~78g to MAX line) and vanilla extract. Stir.
+7. Rest in fridge a few hours or overnight.
+8. Freeze 24h with lid on. Flatten any humps.
+9. Sorbet setting.
+10. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
+11. Make a hole to the bottom. Add crushed cashews. Mix-In.
 
-**Nutrition (per pint, incl. cashews):** 862 kcal | 40g fat | 39g protein | 104g carbs
+**Nutrition (per pint, incl. cashews):** 860 kcal | 40g fat | 39g protein | 101g carbs
 
-**PAC:** 31
+**PAC:** 30
 
 ---
 
@@ -3583,17 +3628,18 @@ Tags: caramel, toffee, dates, scoopable, low-fat, low-sugar
 ---
 
 ### Cheesecake Light
-Tags: cheesecake, buttermilk, quark, high-protein, low-fat, low-sugar, light, scoopable
+Tags: cheesecake, buttermilk, quark, high-protein, low-fat, low-sugar, scoopable
 
 **Wet:**
-- **400g** buttermilk 1%
+- **375g** buttermilk 1%
 - **200g** Topfen/Quark 0.6% → 🟡 **200g** Greek strained yogurt 0-2% (tangier and thicker than quark, but functionally similar)
 - **15g** glycerin
 - **10g** brandy or vodka 40%
 
 **Dry:**
-- **21g** erythritol
-- **14g** xylitol
+- **24g** erythritol
+- **16g** xylitol
+- **20g** inulin
 - Salty Stability (15g):
   - **11.0g** inulin
   - **1.8g** soy lecithin
@@ -3619,15 +3665,16 @@ Tags: cheesecake, buttermilk, quark, high-protein, low-fat, low-sugar, light, sc
 1. Add wet ingredients and vanilla extract to pint.
 2. Combine dry ingredients separately, then pour into pint and blend on full speed, 1-2 min until thickeners hydrate.
 3. Stir.
-4. Freeze 24h with lid on. Flatten any humps.
-5. Lite Ice Cream setting.
-6. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
-7. Make a hole to the bottom. Add frozen fruit and raisins in layers. Mix-In.
-8. Serve with graham crackers or cookies on the side.
+4. Rest in fridge a few hours or overnight.
+5. Freeze 24h with lid on. Flatten any humps.
+6. Lite Ice Cream setting.
+7. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
+8. Make a hole to the bottom. Add frozen fruit and raisins in layers. Mix-In.
+9. Serve with graham crackers or cookies on the side.
 
-**Nutrition (per pint, base only):** 491 kcal | 4g fat | 46g protein | 87g carbs
+**Nutrition (per pint, base only):** 529 kcal | 4g fat | 45g protein | 111g carbs
 
-**PAC:** 30
+**PAC:** 32
 
 ---
 
@@ -3949,34 +3996,40 @@ Tags: coconut, rum, vegan, scoopable, low-sugar
 ---
 
 ### Coconut FroYo
-Tags: coconut, yogurt, frozen-yogurt, simple, scoopable, low-sugar
+Tags: coconut, yogurt, frozen-yogurt, scoopable, low-sugar
+
+Creamy, with subtle coconut flavor.
 
 **Wet:**
 - **400g** yogurt 4%
-- **55g** coconut milk powder → 🟡 **200g** canned coconut milk (replaces both coconut milk powder and soy milk)
-- **20g** glycerin
+- **150g** soy milk → 🟢 **150g** Marata 1.5% milk
+- **10g** brandy or vodka 40%
+- **10g** glycerin
 
 **Dry:**
+- **55g** coconut milk powder → 🔴 buy or use **200g** canned coconut milk (skip soy milk above if using canned)
 - **24g** erythritol
 - **16g** xylitol
+- **20g** inulin
 - **3g** GMS → 🟢 **3g** soy lecithin
+- **1g** CMC
 - **1g** salt
 
 **Adjust sweetness:**
 - Flavor drops Vanilla (3 drops) → 🟡 **2g** vanilla extract
 
 **Steps:**
-1. Microwave wet ingredients to ~60°C in the Creami pint.
+1. Add wet ingredients to pint.
 2. Combine dry ingredients separately, then pour into pint and blend with immersion blender on full speed, 1-2 min.
 3. Add vanilla extract. Stir.
 4. Let base age in fridge for a few hours or overnight.
 5. Freeze 24h with lid on. Flatten any humps.
-6. Frozen Yogurt setting.
-7. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
+6. Lite Ice Cream setting.
+7. Scrape down sides with butter knife, push top down with spoon. Mix-In or Re-Spin.
 
-**Nutrition (per pint):** 817 kcal | 48g fat | 24g protein | 103g carbs
+**Nutrition (per pint):** 853 kcal | 48g fat | 24g protein | 114g carbs
 
-**PAC:** 32
+**PAC:** 30
 
 ---
 
@@ -4100,7 +4153,9 @@ Tags: watermelon, fruit, sorbet, cream, scoopable
 ---
 
 ### Crème Caramel
-Tags: caramel, quark, high-protein, low-fat, low-sugar, simple, scoopable
+Tags: caramel, quark, high-protein, low-fat, low-sugar, scoopable
+
+Creamy, a bit too sweet, nice and strong caramel flavor.
 
 **Wet:**
 - **300g** soy milk (unsweetened)
@@ -4116,8 +4171,8 @@ Tags: caramel, quark, high-protein, low-fat, low-sugar, simple, scoopable
 - **1g** salt
 
 **Fill to MAX:**
-- Flavor drops Caramel (5 drops) → 🟡 Manis milk cream flavor (3-5 drops)
-- Flavor drops Vanilla (3 drops) → 🟡 **2g** vanilla extract
+- Flavor drops Caramel (3 drops) → 🟡 Manis milk cream flavor (2 drops, MAX 2/pint)
+- Flavor drops Vanilla (1 drop) → 🟡 **1g** vanilla extract
 
 **Mix-ins:**
 - **40g** medjool dates (pitted, chopped)
@@ -4130,7 +4185,7 @@ Tags: caramel, quark, high-protein, low-fat, low-sugar, simple, scoopable
 2. Add remaining wet ingredients and cooled corn starch mixture to pint.
 3. Combine remaining dry ingredients separately, then pour into pint and blend with immersion blender on full speed, 1-2 min until thickeners hydrate.
 4. Add vanilla extract and milk cream flavor. Stir.
-5. Let base age in fridge for a few hours or overnight.
+5. Rest in fridge a few hours or overnight.
 6. Freeze 24h with lid on. Flatten any humps.
 7. Lite Ice Cream setting.
 8. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
@@ -4452,20 +4507,21 @@ Tags: banana, vegan, dairy-free, low-fat, scoopable
 ---
 
 ### Epic Spoons of Nom
-Tags: multi-flavor, vegan-origin, high-protein, low-fat, low-sugar, scoopable, light
+Tags: multi-flavor, vegan-origin, high-protein, low-fat, low-sugar, scoopable, light, xylitol
 
 > Originally vegan — soy protein → whey swap removes vegan status.
 > Versatile base designed for a flavor powder accent. Use Manis flavors (chocolate, strawberry, milk cream) to create your own variation.
-> Alternative base: use 500g buttermilk instead of soy milk, and omit the sugar (trehalose replacement).
+> Alternative base: use 500g buttermilk instead of soy milk, and leave out 10g of the sweetener (use 30g SweEX).
 
 **Wet:**
 - **500g** soy milk (unsweetened)
-- **20g** glycerin
+- **15g** glycerin
 - **15g** brandy or vodka 40%
 
 **Dry:**
-- **25g** erythritol
-- **20g** trehalose → 🟡 **10g** sugar (trehalose POD=45%, sugar=100%; half weight — omit if using buttermilk base)
+- SweEX (40g):
+  - **24g** erythritol
+  - **16g** xylitol
 - Salty Stability (15g):
   - **11.0g** inulin
   - **1.8g** soy lecithin
@@ -4474,24 +4530,25 @@ Tags: multi-flavor, vegan-origin, high-protein, low-fat, low-sugar, scoopable, l
   - **0.5g** salt
   - **0.2g** xanthan gum
 - **20g** soy protein isolate → 🟡 **20g** whey protein (no longer vegan)
-- **8g** ESN Designer Flavor Powder → 🟡 **6g** inulin + Manis flavor of choice (3-5 drops) (~70% inulin with flavoring; use chocolate, strawberry, or milk cream)
+- **8g** ESN Designer Flavor Powder → 🟡 **6g** inulin + Manis flavor of choice (2 drops, MAX 2/pint) (~70% inulin with flavoring)
 - **2g** vanilla bean powder → 🟡 **3g** vanilla extract (add with wet)
 
 **Fill to MAX:**
-- **~95g** soy milk (unsweetened)
+- **~60g** soy milk (unsweetened)
 - Flavor drops Vanilla (1 drop) → 🟡 skip (covered by vanilla extract above)
 
 **Steps:**
 1. Add wet ingredients and vanilla extract to pint.
 2. Combine dry ingredients separately, then pour into pint and blend with immersion blender on full speed, 1-2 min until thickeners hydrate.
-3. Add remaining soy milk (~95g to MAX line). Stir.
-4. Freeze 24h with lid on. Flatten any humps.
-5. Sorbet setting.
-6. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
+3. Add remaining soy milk (~60g to MAX line). Stir.
+4. Rest in fridge a few hours or overnight.
+5. Freeze 24h with lid on. Flatten any humps.
+6. Frozen Yogurt setting.
+7. Scrape down sides with butter knife, push top down with spoon. Re-Spin or Mix-In.
 
-**Nutrition (per pint):** 521 kcal | 11g fat | 36g protein | 84g carbs
+**Nutrition (per pint):** 457 kcal | 10g fat | 35g protein | 76g carbs
 
-**PAC:** 31
+**PAC:** 32
 
 ---
 
@@ -4557,42 +4614,107 @@ Tags: caramel, peanut, swirl, mix-in
 ### FroSky
 Tags: skyr, fruit, high-protein, low-fat, low-sugar, scoopable, multi-flavor
 
+Unflavored skyr with fruit or fruit powder, packing around 50g protein into a tub without using protein powder.
+
 **Wet:**
-- **425g** skyr
-- **30g** cream cheese
-- **20g** glycerin
+- **440g** skyr → 🟡 **440g** Marata 2% strained yogurt *(less protein than skyr, slightly thicker)*
+- **25g** cream cheese
+- **15g** glycerin
 - **10g** brandy or vodka 40%
 - **125g** cherries (fresh or frozen)
 
 **Dry:**
-- **25g** xylitol
-- ICSv2 (20g):
-  - **9.2g** erythritol
-  - **9.2g** inulin
-  - **0.92g** CMC
-  - **0.32g** guar gum
-  - **0.32g** salt
-  - **0.09g** xanthan gum
+- SweEX (35g):
+  - **21g** erythritol
+  - **14g** xylitol
+- **15g** inulin
+- Salty Stability (10g):
+  - **7.3g** inulin
+  - **1.2g** soy lecithin
+  - **0.6g** CMC
+  - **0.4g** guar gum
+  - **0.3g** salt
+  - **0.13g** xanthan gum
 
-**Fill to MAX:**
-- **~65g** soy milk (unsweetened)
+**Adjust sweetness:**
 - Flavor drops Vanilla (3 drops) → 🟡 **2g** vanilla extract
 
 **Optional fruit choices (replace cherries):**
+- **125g** blueberries (60kcal, 11g sugar)
 - **125g** mango
 - **30g** fruit powder (strawberry, lingonberry, etc.) + extra liquid to MAX
 
 **Steps:**
-1. Add wet ingredients to pint.
-2. Combine dry ingredients separately, then pour into pint and blend with immersion blender on full speed, 1-2 min until thickeners hydrate.
-3. Add remaining soy milk (~65g to MAX line) and vanilla extract. Stir.
-4. Freeze 24h with lid on. Flatten any humps.
-5. Frozen Yogurt setting.
-6. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
+1. Give the cream cheese a short microwave blast (5-10 sec) to make it soft.
+2. Add wet ingredients to pint.
+3. Combine dry ingredients separately, then pour into pint and blend with immersion blender on full speed, 1-2 min until thickeners hydrate.
+4. Add vanilla extract. Stir.
+5. Rest in fridge a few hours or overnight.
+6. Freeze 24h with lid on. Flatten any humps.
+7. Frozen Yogurt setting.
+8. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
 
-**Nutrition (per pint):** 624 kcal | 9g fat | 50g protein | 99g carbs
+**Nutrition (per pint):** 598 kcal | 7g fat | 49g protein | 109g carbs
 
-**PAC:** 31
+**PAC:** 32
+
+---
+
+### Fruity FroYo (Deluxe)
+Tags: frozen-yogurt, fruit, hi-protein, low-fat, scoopable
+
+**Source:** ice-creamery — Fruity FroYo (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Fruity%20FroYo%20(Deluxe))
+
+**Ninja Creami Deluxe [24 oz]**
+
+Light, protein-enriched frozen yogurt from yogurt and fresh/frozen fruit. Gentle sweetness, smooth scoopable texture.
+
+**Wet:**
+- **500g** yogurt 3.5% → 🟡 **500g** Marata 2% strained yogurt *(thicker, less fat — may need extra milk to reach MAX)*
+- **100g** strawberries (fresh or frozen)
+- **15g** glycerin
+- **10g** brandy or vodka 40%
+
+**Dry:**
+- SweEX (35g):
+  - **21g** erythritol
+  - **14g** xylitol
+- **10g** skim milk powder
+- **10g** whey + casein protein → 🟢 **10g** whey protein
+- Salty Stability (10g):
+  - **7.3g** inulin
+  - **1.2g** soy lecithin
+  - **0.6g** CMC
+  - **0.4g** guar gum
+  - **0.3g** salt
+  - **0.13g** xanthan gum
+
+**Fill to MAX:**
+- Flavor drops Vanilla (4 drops) → 🟡 **2g** vanilla extract
+
+**Optional fruit swaps (replace the 100g strawberries):**
+- 100g blueberries (48kcal, 9g sugar)
+- 100g kiwi (52kcal, 9g sugar)
+- 100g cherries (61kcal, 10g sugar)
+- 100g mango (62kcal, 13g sugar)
+- 100g pineapple in juice (68kcal, 15g sugar)
+
+**Steps:**
+1. Add wet ingredients to empty Creami tub.
+2. Mix dry ingredients separately.
+3. Pour into tub and QUICKLY immersion blend on full speed.
+4. Let blender run 1-2 min to hydrate thickeners.
+5. Add vanilla extract. Stir.
+6. Rest in fridge a few hours or overnight.
+7. Freeze 24h with lid on. Flatten any humps.
+8. Lite Ice Cream setting.
+9. Scrape down sides with butter knife, push top down with spoon. Ice Cream for 2nd spin.
+
+**Nutrition (per pint):** 608 kcal | 19g fat | 36g protein | 94g carbs
+
+**PAC:** 32
+
+⚠️ GI check: Inulin = 7.3g (from SS). Xylitol = 14g. Gums = 0.6g CMC + 0.4g guar + 0.13g xanthan = 1.13g. Erythritol = 21g (3.0% of 690g). ALL SAFE.
 
 ---
 
@@ -5504,11 +5626,12 @@ Matcha ice cream with coconut and soy milk. Cooked/heated base. Process on Sorbe
 2. Combine matcha and other dry ingredients in a small bowl.
 3. Blend dry mix into the hot milk until frothy and smooth. Let steep and cool 5 minutes.
 4. Add glycerin and brandy. Pour into empty Creami tub.
-5. Add remaining soy milk and vanilla extract to MAX line. Adjust sweetness. Let fully cool in fridge.
-6. Freeze 24h with lid on. Flatten any humps.
-7. Sorbet setting, scrape down, then Re-Spin or Mix-In.
+5. Add remaining soy milk and vanilla extract to MAX line. Adjust sweetness.
+6. Rest in fridge until fully cooled (a few hours or overnight).
+7. Freeze 24h with lid on. Flatten any humps.
+8. Sorbet setting, scrape down, then Re-Spin or Mix-In.
 
-**Nutrition (per pint):** 757 kcal | 31g fat | 47g protein | 94g carbs
+**Nutrition (per pint):** 757 kcal | 31g fat | 47g protein | 94g carbs *(per half: 379 kcal)*
 
 **PAC:** 33
 
@@ -5552,12 +5675,12 @@ Pure milk-flavored ice cream. Spin on Ice Cream, scrape down, Re-Spin. Manually 
 - **10g** brandy or vodka 40% *(alternative: 8g additional glycerin for sober recipe)*
 
 **Dry:**
-- SweEX (30g):
-  - **18g** erythritol
-  - **12g** xylitol
-- **20g** Ultratex / Waxy Maize Starch → 🟡 **20g** corn starch (won't activate cold; make a slurry with 100ml of the milk, heat to 85°C+ until thickened, cool, then add — remaining cold milk = ~450ml)
-- **20g** whey + casein protein → 🟢 **20g** whey protein
-- **15g** skim milk powder (SMP)
+- SweEX (35g):
+  - **21g** erythritol
+  - **14g** xylitol
+- **15g** inulin
+- **15g** whey + casein protein → 🟢 **15g** whey protein
+- **10g** Ultratex / Waxy Maize Starch → 🟡 **8g** inulin + **0.3g** xanthan gum *(cold-acting swap; less thickening power)*
 - **1.5g** guar gum
 - **1g** salt
 
@@ -5569,18 +5692,17 @@ Pure milk-flavored ice cream. Spin on Ice Cream, scrape down, Re-Spin. Manually 
 - **45g** lemon crème wafers *(manually crumble and fold in with a chopstick)*
 
 **Steps:**
-1. Make a corn starch slurry: whisk 20g corn starch into 100ml of the milk. Heat gently to 85°C+ until thickened. Let cool.
-2. Add remaining ~450ml milk, glycerin, and brandy to empty Creami tub.
-3. Add cooled corn starch slurry.
-4. Combine remaining dry ingredients, pour into tub and blend with immersion blender on full speed, 1-2 min.
-5. Add cream and sucralose to MAX line. Stir.
-6. Freeze 24h with lid on. Flatten any humps.
-7. Ice Cream setting, scrape down, then Re-Spin.
-8. For mix-ins: crumble frozen lemon wafers and manually fold in with a chopstick.
+1. Add wet ingredients to empty Creami tub.
+2. Combine dry ingredients separately, then pour into tub and blend with immersion blender on full speed, 1-2 min until thickeners hydrate.
+3. Add cream and sucralose to MAX line. Stir.
+4. Rest in fridge a few hours or overnight.
+5. Freeze 24h with lid on. Flatten any humps.
+6. Ice Cream setting, scrape down, then Re-Spin.
+7. For mix-ins: crumble frozen lemon wafers and manually fold in with a chopstick.
 
-**Nutrition (per pint, without mix-ins):** 778 kcal | 30g fat | 41g protein | 101g carbs
+**Nutrition (per pint, without mix-ins):** 703 kcal | 30g fat | 32g protein | 103g carbs
 
-**PAC:** 31
+**PAC:** 32
 
 ---
 
@@ -6189,6 +6311,65 @@ Pistachio ice cream with cottage cheese. Heated base. Process on Lite Ice Cream.
 
 ---
 
+### Protein Choc (Deluxe)
+Tags: chocolate, hi-protein, low-sugar, scoopable
+
+**Source:** ice-creamery — Protein Choc (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Protein%20Choc%20(Deluxe))
+
+**Ninja Creami Deluxe [24 oz]**
+
+Chocolate ice cream, very high in protein. Boost chocolate with cocoa or dark chocolate mix-ins.
+
+**Prep (bloom cocoa — heat milk to >80°C):**
+- **150g** Marata 1.5% milk
+- **45g** cocoa powder
+- SweEX (45g):
+  - **27g** erythritol
+  - **18g** xylitol
+
+**Wet:**
+- **300g** Marata 1.5% milk
+- **20g** glycerin
+- **15g** brandy or vodka 40%
+
+**Dry:**
+- **50g** chocolate whey protein → 🟢 **50g** whey protein + **2 drops** chocolate flavor drops *(already has 45g cocoa for flavor)*
+- Salty Stability (15g):
+  - **11.0g** inulin
+  - **1.8g** soy lecithin
+  - **0.9g** CMC
+  - **0.6g** guar gum
+  - **0.5g** salt
+  - **0.2g** xanthan gum
+
+**Fill to MAX:**
+- **40ml** cream 32% → 🟡 **~40g** Marata 1.5% milk *(less rich; optional: keep cream for richer pint)*
+- Flavor drops Vanilla (6 drops) → 🟡 **3g** vanilla extract
+
+**Mix-ins:**
+- **35g** sugar-free milk chocolate, frozen & chopped
+
+**Steps:**
+1. Heat 150g milk to >80°C in microwave. Add cocoa and sweetener. Blend to smooth paste.
+2. Add bloomed cocoa paste and other wet ingredients to pint.
+3. Mix dry ingredients separately.
+4. Pour into tub and QUICKLY immersion blend on full speed.
+5. Let blender run 1-2 min to hydrate thickeners.
+6. Add remaining milk to MAX line and vanilla extract. Stir.
+7. Rest in fridge a few hours or overnight.
+8. Freeze 24h with lid on. Flatten any humps.
+9. Lite Ice Cream setting.
+10. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
+11. Make a hole to the bottom. Add chopped chocolate in layers. Mix-In.
+
+**Nutrition (per pint):** 823 kcal | 28g fat | 65g protein | 98g carbs
+
+**PAC:** 30
+
+⚠️ GI check: Inulin = 11.0g (from SS). Xylitol = 18g. Gums = 0.9g CMC + 0.6g guar + 0.2g xanthan = 1.7g. Erythritol = 27g (4.0% of 680g). ALL SAFE.
+
+---
+
 ### 83. Pumpkin Spice Gelato (Deluxe)
 
 **Source:** ice-creamery — Pumpkin Spice Gelato (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Pumpkin%20Spice%20Gelato%20(Deluxe))
@@ -6645,6 +6826,58 @@ Soda sorbet from 0-cal syrup. Works with any 0-sugar soda syrup — increase rec
 **Nutrition (per pint):** 269 kcal | 1g fat | 14g protein | 69g carbs
 
 **PAC:** 30
+
+---
+
+### Speyside Vanilla (Deluxe)
+Tags: vanilla, boozy, whisky, draft, low-sugar, scoopable
+
+**Source:** ice-creamery — Speyside Vanilla (Deluxe) · [README](https://github.com/jhermann/ice-creamery/tree/main/recipes/Speyside%20Vanilla%20(Deluxe))
+
+**Ninja Creami Deluxe [24 oz]**
+
+Based on "Buttermilk Vanilla" with Scotch whisky infusion. Creamy, boozy vanilla.
+
+**Wet:**
+- **500g** buttermilk 1% → 🟡 **450g** Marata 1.5% milk + **50g** Marata 2% strained yogurt *(approximates tang + acidity of buttermilk)*
+- **45g** Scotch whisky 40% (or any spirit)
+- **6g** vanilla extract
+
+**Dry:**
+- SweEX (15g):
+  - **9g** erythritol
+  - **6g** xylitol
+- **15g** whey + casein protein → 🟢 **15g** whey protein
+- **15g** inulin
+- **15g** Ultratex (waxy maize starch E1442) → 🟡 **10g** inulin + **0.3g** xanthan gum *(less thickening power)*
+- **3g** vanilla bean powder → 🟡 **6g** vanilla extract *(add with wet; loses specks + depth)*
+- **1g** salt
+- **8 sweetener tablets** → 🟢 **8g** erythritol + **0.05g** sucralose *(~32g sugar equivalent)*
+
+**Fill to MAX:**
+- **80ml** cream 32% → 🟡 **~80g** Marata 1.5% milk *(less rich; optional: keep cream for richer pint)*
+- Flavor drops Vanilla (6 drops) → 🟡 **3g** vanilla extract
+
+**Topping options:**
+- **15g** walnuts
+- **15g** pecan nuts
+
+**Steps:**
+1. Add wet ingredients (including 6g + 6g vanilla extract) to empty Creami tub.
+2. Mix dry ingredients separately.
+3. Pour into tub and QUICKLY immersion blend on full speed.
+4. Let blender run 1-2 min to hydrate thickeners.
+5. Add remaining milk and 3g vanilla extract to MAX line. Stir.
+6. Rest in fridge a few hours or overnight.
+7. Freeze 24h with lid on. Flatten any humps.
+8. Lite Ice Cream setting.
+9. Scrape down sides with butter knife, push top down with spoon. Re-Spin if not creamy enough.
+
+**Nutrition (per pint):** 714 kcal | 29g fat | 32g protein | 68g carbs
+
+**PAC:** 33
+
+⚠️ GI check: Inulin = 15g + 10g (Ultratex swap) = 25g (under 30g). Xylitol = 6g. Gums = 0.3g xanthan = 0.3g. Erythritol = 9g + 8g = 17g (2.5% of 695g). ALL SAFE.
 
 ---
 
@@ -7436,47 +7669,46 @@ Superior to store-bought vanilla extracts. Use grade B vanilla beans (preferably
 **Ninja Creami Deluxe [24 oz]**
 **~~Vegan~~ (whey swap)**
 
-Pure vanilla, no cream or cottage cheese, double protein. Low fat & sugar, high protein.
+Mostly milk, double the usual protein powder, and vanilla flavor. Low fat & sugar, high protein. You can also use dairy milk (~2% fat) and whey protein. Thick and creamy — 2nd spin likely not needed.
 
 **Wet:**
-- **500ml**  soy milk 1.6%
-- **20g** glycerin
-- **10g** brandy or vodka 40%
+- **525ml**  soy milk 1.6% → 🟢 **525g** Marata 1.5% milk
+- **15g** glycerin
+- **10g** brandy or vodka 40% *(alternative: 8g additional glycerin for sober recipe)*
 
 **Dry:**
 - **60g** soy protein isolate → 🟡 **60g** whey protein *(no longer vegan/dairy-free)*
-- SweEX (40g):
-  - **24g** erythritol
-  - **16g** xylitol
-- Salty Stability (15g):
-  - **11.0g** inulin
-  - **1.8g** soy lecithin
-  - **0.9g** CMC
-  - **0.6g** guar gum
-  - **0.5g** salt
-  - **0.2g** xanthan gum
+- SweEX (45g):
+  - **27g** erythritol
+  - **18g** xylitol
+- **10g** inulin
+- Salty Stability (10g):
+  - **7.3g** inulin
+  - **1.2g** soy lecithin
+  - **0.6g** CMC
+  - **0.4g** guar gum
+  - **0.3g** salt
+  - **0.13g** xanthan gum
 - **4g** vanilla bean powder → 🟡 **4g** vanilla extract *(add with wet)*
 
 **Fill to MAX:**
-- ~71ml to MAX line soy milk 1.6%
 - Flavor drops Vanilla (5 drops) → 🟡 **2g** vanilla extract
 
 **Mix-ins:**
 - **15g** dried sour cherries (pitted) *(chopped; +44 kcal, +9g sugar)*
 - **15g** freeze-dried strawberry slices *(crumbled; +45 kcal, +7g sugar)*
 
-**Topping options:** balsamic vinegar of Modena.
-
 **Steps:**
 1. Add wet ingredients (including 4g vanilla extract) to empty Creami tub.
 2. Mix dry ingredients together.
 3. Pour into tub and QUICKLY immersion blend on full speed.
 4. Let blender run 1-2 min to hydrate thickeners.
-5. Add soy milk and 2g vanilla extract to MAX line. Stir.
-6. Freeze 24h with lid on. Flatten any humps.
-7. Lite Ice Cream setting, then Mix-In with dried fruit.
+5. Add 2g vanilla extract. Stir.
+6. Rest in fridge a few hours or overnight.
+7. Freeze 24h with lid on. Flatten any humps.
+8. Lite Ice Cream setting, then Mix-In with dried fruit if desired.
 
-**Nutrition (per pint):** 598 kcal | 10g fat | 71g protein | 79g carbs
+**Nutrition (per pint):** 565 kcal | 9g fat | 51g protein | 93g carbs
 
 **PAC:** 31
 

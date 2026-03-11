@@ -1137,21 +1137,24 @@ Spin on "Light Ice Cream", scrape down, and run mix-in. Mix-ins are not counted 
 ## Frozen Yogurt
 
 ### Coconut FroYo (Deluxe)
-Tags: Draft, Emulsifier, Erythritol, Low-Sugar, Scoopable, Simple, Sucralose, Xylitol
+Tags: Draft, Emulsifier, Erythritol, Low-Sugar, Scoopable, Sucralose, Tylo Powder (CMC), Xylitol
 
-Tangy yogurt ice cream with coconut flavor. Process on FroYo, do a scrape-down, and MIX-IN or RESPIN.
+Tangy yogurt ice cream with coconut flavor. Process on Light Ice Cream, do a scrape-down, and MIX-IN or RESPIN.
 
 **Ingredients:**
 
 *Wet*
 - 400ml Yogurt mild 4% [REWE Bio] — 500g container; can be lower fat (2% or 'zero'), or buttermilk
 - 150ml Soy milk 1.6% (sugar-free) [Berief] — use any other preferred milk (~2% fat)
-- 20g Glycerin (E422, VG) [hd-line] — Sweetness = 60%; GI = 5; Density = 1.26 g/ml
+- 10g Glycerin (E422, VG) [hd-line] — Sweetness = 60%; GI = 5; Density = 1.26 g/ml
+- 10g Brandy or Vodka 40 vol% — alternative: 8g additional VG for sober recipe
 
 *Dry*
 - 55g Coconut Milk Powder 54% [Green Essence] — alternative: 200ml coconut milk 18-22%, and skip the soy milk
 - 40g SweEX (Erythritol + Xylitol 3:2) — alternative: 53g allulose or dextrose
+- 20g Inulin [Vit4ever] — Sweetness = 8%; GI ~= 0
 - 3g Glycerol Monostearate (E471) [Bulk] — alternative: lecithin, or 0.5g xanthan
+- 1g Carboxymethyl Cellulose (CMC / E466) [GoodBake]
 - 1g Salt
 
 *Adjust sweetness*
@@ -1167,52 +1170,100 @@ Tangy yogurt ice cream with coconut flavor. Process on FroYo, do a scrape-down, 
 7. Freeze for 24h with lid on, then spin as usual. Flatten any humps before that.
 8. Process with RE-SPIN mode when not creamy enough after the first spin.
 
-**Nutrition (per pint):** 415.4 kcal | 24.3g fat | 12.4g protein | 52.5g carbs
-**PAC:** 31.82
+**Nutrition (per pint):** 853.3 kcal | 47.9g fat | 24.3g protein | 113.5g carbs
+**PAC:** 30.07
 
 ---
 
 ### FroSky (Deluxe)
 Tags: Dairy, Erythritol, Fruit, Hi-Protein, Low-Fat, Low-Sugar, Multi-Flavor, Polysaccharide Gum, Scoopable, Sucralose, Tylo Powder (CMC), Xylitol
 
-Skyr with fruit or fruit powder. You can swap out the cherries for one of the "Optional" ingredients, and adapt the "Fill to MAX" accordingly. Processed on FroYo + re-spin, likely would have profited from another re-spin (minor ice crystals). Made with mangos, tangy & fresh.
+Unflavored skyr with fruit or fruit powder, packing around 50g protein into a tub while not using protein powder. You can swap out the cherries for one of the "Optional" ingredients, and adapt the "Fill to MAX" accordingly. Processed on FroYo + re-spin, likely would have profited from another re-spin (minor ice crystals). Made with mangos, tangy & fresh.
 
 **Ingredients:**
 
 *Wet*
-- 425ml Skyr [arla] — 82% water; 450g container
-- 30g Cream Cheese 23% [Exquisa]
-- 20g Glycerin (E422, VG) [hd-line] — Sweetness = 60%; GI = 5; Density = 1.26 g/ml
-- 10g Brandy or Vodka 40 vol%
+- 440ml Skyr [arla] — 82% water; 450g container
+- 25g Cream Cheese 23% [Exquisa]
+- 15g Glycerin (E422, VG) [hd-line] — Sweetness = 60%; GI = 5; Density = 1.26 g/ml
+- 10g Brandy or Vodka 40 vol% — alternative: 8g additional VG for sober recipe
 - 125g Cherries
 
 *Dry*
-- 20g ICSv2 [Erythritol / Inulin / CMC / Guar / XG / Salt]
-- 25g Xylitol (E967) — Sweetness = 100%; GI = 7
+- 35g SweEX (Erythritol + Xylitol 3:2)
+- 15g Inulin [Vit4ever]
+- 10g Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt] — not-as-good substitute: 1g guar, 0.3g xanthan, and 0.3g salt
 
-*Fill to MAX*
-- 65ml Soy milk 1.6% (sugar-free) [Berief]
+*Adjust sweetness*
 - ~3 drops Flavor drops Vanilla (sucralose) [IronMaxx] — to taste
 
 *Optional*
 - 125g Mango — fresh or frozen [78kcal, 16g sugar]
+- 125g Blueberries — fresh or frozen [60kcal, 11g sugar]
 - 30g Ube Yam Root powder [Fil Choice] — like vanilla+pistachio; add more liquid at the end [115kcal, 3g sugar]
 - 30g Lingonberry powder [Bio Leis] — add more liquid at the end [105kcal, 22g sugar]
 - 30g Strawberry powder [Supergarden] — add more liquid at the end [86kcal, 15g sugar]
 
 **Directions:**
-1. Add "wet" ingredients to empty Creami tub.
+1. Give the cream cheese a short microwave blast (5–10sec) to make it soft.
+2. Add "wet" ingredients to empty Creami tub.
+3. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
+4. Pour into the tub and QUICKLY use an immersion blender on full speed to homogenize everything.
+5. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
+6. Add remaining ingredients and stir with a spoon.
+7. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
+8. Process with RE-SPIN mode when not creamy enough after the first spin.
+
+**Nutrition (per pint):** 597.6 kcal | 7.0g fat | 49.2g protein | 108.6g carbs
+**PAC:** 31.68
+
+Note: 10g 'Salty Stability' is: 7.3g Inulin / 1.2g GMS (E471) / 0.6g CMC (E466) / 0.4g Guar gum (E412) / 0.33g Salt / 0.13g Xanthan gum (E415, XG).
+
+---
+
+### Fruity FroYo (Deluxe)
+Tags: Emulsifier, Erythritol, Fruit, Hi-Protein, Low-Fat, Polysaccharide Gum, Scoopable, Stevia, Sucralose, Tylo Powder (CMC), Xylitol
+
+Light, protein-enriched frozen yogurt from creamy 3.5% yogurt and fresh or frozen fruit. Gentle sweetness, balanced stabilizers, smooth scoopable texture. Spin on "Light Ice Cream", scrape down, and "Ice Cream".
+
+**Ingredients:**
+
+*Wet*
+- 500g Yogurt 3.5% [REWE]
+- 100g Strawberries — fresh or frozen [31kcal, 6g sugar]
+- 15g Glycerin (E422, VG) [hd-line] — POD = 60%; GI = 5
+- 10g Brandy or Vodka 40 vol% — alternative: 8g additional VG for sober recipe
+
+*Dry*
+- 35g SweEX (Erythritol + Xylitol 3:2) — alternative: 47g allulose or dextrose
+- 10g Skim milk powder 1:10 (SMP) [Vita2You]
+- 10g Whey + Casein protein (grass-fed) [Vilgain] — with stevia
+- 10g Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt] — not-as-good substitute: 1g guar, 0.3g xanthan, and 0.3g salt
+
+*Fill to MAX*
+- ≈4 drops Flavor drops Vanilla (sucralose) [IronMaxx] — to taste
+
+*Optional / Choices (swap for the 100g strawberries)*
+- 100g Blueberries — fresh or frozen [48kcal, 9g sugar]
+- 100g Kiwi — fresh [52kcal, 9g sugar]
+- 100g Cherries — fresh or frozen [61kcal, 10g sugar]
+- 100g Mango — fresh or frozen [62kcal, 13g sugar]
+- 100g Pineapple in juice [Del Monte] — canned [68kcal, 15g sugar]
+
+**Directions:**
+1. Add wet ingredients to empty Creami tub.
 2. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
 3. Pour into the tub and QUICKLY use an immersion blender on full speed to homogenize everything.
 4. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
 5. Add remaining ingredients (to the MAX line) and stir with a spoon.
-6. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
-7. Process with RE-SPIN mode when not creamy enough after the first spin.
+6. For better results, let the base age in the fridge (covered, lid on), for a few hours or over night.
+7. Freeze for 24h with lid on, then spin as usual. Flatten any humps before that.
+8. Process with RE-SPIN mode when not creamy enough after the first spin.
 
-**Nutrition (per pint):** 311.9 kcal | 4.4g fat | 24.9g protein | 49.7g carbs
-**PAC:** 30.83
+**Nutrition (per pint):** 608.3 kcal | 18.8g fat | 36.3g protein | 94.1g carbs
+**PAC:** 31.59
 
-Note: 20g Ice Cream Stabilizer (ICSv2) is: 9.2g Erythritol (E968) / 9.2g Inulin / 0.92g Tylose powder (E466, Tylo, CMC) / 0.32g Guar gum (E412) / 0.32g Salt / 0.09g Xanthan gum (E415, XG).
+Note: 10g 'Salty Stability' is: 7.3g Inulin / 1.2g GMS (E471) / 0.6g CMC (E466) / 0.4g Guar gum (E412) / 0.33g Salt / 0.13g Xanthan gum (E415, XG).
 
 ---
 
@@ -1557,6 +1608,53 @@ Vegan & Dairy-free. Recipe uses only almond milk and soy protein. Process on Lit
 
 **Nutrition (per pint):** 300.1 kcal | 9.0g fat | 12.3g protein | 59.3g carbs
 **PAC:** 31.73
+
+---
+
+### Protein Choc (Deluxe)
+Tags: Emulsifier, Erythritol, Hi-Protein, Low-Sugar, Polysaccharide Gum, Scoopable, Sucralose, Tylo Powder (CMC), Xylitol
+
+Chocolate ice cream, very high in protein. Boost chocolate by using chocolate milk, adding dark chocolate as mix-in or melting into bloomed cocoa. Spin on "Light Ice Cream", scrape down, and run a mix-in cycle.
+
+**Ingredients:**
+
+*Prep*
+- 150ml Soy milk 1.6% (sugar-free) [Berief] — alternative: any other preferred milk (~2% fat)
+- 45g Cocoa Powder Organic 11% [Sevenhills]
+- 45g SweEX (Erythritol + Xylitol 3:2) — alternative: 60g allulose or dextrose
+
+*Wet*
+- 300ml Soy milk 1.6% (sugar-free) [Berief] — alternative: any other preferred milk (~2% fat)
+- 20g Glycerin (E422, VG) [hd-line] — POD = 60%; GI = 5
+- 15g Brandy or Vodka 40 vol% — alternative: 12g additional VG for sober recipe
+
+*Dry*
+- 50g Whey protein Chocolate [MaxiNutrition]
+- 15g Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt] — not-as-good substitute: 1.5g guar, 0.5g xanthan, and 0.5g salt
+
+*Fill to MAX*
+- 40ml Cream 32% [REWE Beste Wahl]
+- ≈6 drops Flavor drops Vanilla (sucralose) [IronMaxx] — to taste
+
+*Mix-ins*
+- 35g Milk Choc. w/ Nougat [frankonia] — no extra sugar; frozen & chopped [177kcal, 3.5g sugar]
+
+**Directions:**
+1. Mix the cocoa and sweetener with milk heated in the microwave (to >80°C), blend to a smooth paste.
+2. Add the bloomed cocoa and the other wet ingredients to an empty Creami tub.
+3. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
+4. Pour into the tub and QUICKLY use an immersion blender on full speed to homogenize everything.
+5. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
+6. Add remaining ingredients (to the MAX line) and stir with a spoon.
+7. For better results, let the base age in the fridge (covered, lid on), for a few hours or over night.
+8. Freeze for 24h with lid on, then spin as usual. Flatten any humps before that.
+9. Process with RE-SPIN mode when not creamy enough after the first spin.
+10. Process with MIX-IN after adding mix-ins evenly. Add partial amounts into a hole going down to the bottom, fold the ice cream over, building pockets of mix-ins.
+
+**Nutrition (per pint):** 823.0 kcal | 27.9g fat | 64.6g protein | 98.1g carbs
+**PAC:** 30.03
+
+Note: 15g 'Salty Stability' is: 11.0g Inulin / 1.8g GMS (E471) / 0.9g CMC (E466) / 0.6g Guar gum (E412) / 0.5g Salt / 0.2g Xanthan gum (E415, XG).
 
 ---
 
@@ -2696,6 +2794,44 @@ Note: 10g Ice Cream Stabilizer (ICSv2) is: 4.6g Erythritol (E968) / 4.6g Inulin 
 
 ---
 
+### Berry Punch (Deluxe)
+Tags: Draft, Fruit, Light, Low-Fat, Low-Sugar, Polysaccharide Gum, Scoopable, Sucralose
+
+Vibrant ruby-red sorbet from a 'Red Juice' mix, spiked with Scandic Bärgløgg for spiced berry warmth. Bold & tangy flavor, with gløgg's clove-cinnamon notes. Vegan & Dairy-free. Spin on "Sorbet", scrape down, and re-mix.
+
+**Ingredients:**
+
+*Wet*
+- 300ml 'Red Juice' like Apple+Cherry+Prune [Aldi] — grape, cherry, or some fruit mix
+- 170g Scandic Bärgløgg 11 vol% [Katlenburger] — 1 bottle = 750ml
+- 170ml Water (cold)
+
+*Dry*
+- 20g Inulin [Vit4ever] — 2.9% of mix
+- 15g Waxy Maize Starch (E1442) [Ultratex] — 2.2% of mix
+- 3g Gum Arabic (Acacia, E414) [SaporePuro] — 0.4% of mix
+- 1g Citric Acid — 0.5–1g ≈ 15ml lemon juice
+- 1g Xanthan gum (E415, XG)
+- 10 pcs Sweetener Tablets [LightSüß] — 1 tablet ≃ 4g sugar
+
+*Adjust sweetness*
+- ≈1 drop Flavor drops Strawberry (sucralose) [IronMaxx] — to taste
+
+**Directions:**
+1. Add wet ingredients to empty Creami tub.
+2. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
+3. Pour into the tub and QUICKLY use an immersion blender on full speed to homogenize everything.
+4. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
+5. Add remaining ingredients and stir with a spoon.
+6. For better results, let the base age in the fridge (covered, lid on), for a few hours or over night.
+7. Freeze for 24h with lid on, then spin as usual. Flatten any humps before that.
+8. Process with RE-SPIN mode when not creamy enough after the first spin.
+
+**Nutrition (per pint):** 455.2 kcal | 1.5g fat | 1.7g protein | 68.7g carbs
+**PAC:** 30.63
+
+---
+
 ### Beso de Angel (Deluxe)
 Tags: Cooked Base, Emulsifier, Erythritol, Fruit, Low-Sugar, Polysaccharide Gum, Scoopable, Stevia, Sucralose, Tylo Powder (CMC), Xylitol
 
@@ -3002,7 +3138,7 @@ Note: 15g 'Salty Stability' is: 11.0g Inulin / 1.8g Glycerol Monostearate (GMS /
 ---
 
 ### Cacao Noir a/k/a Charcolate (Deluxe)
-Tags: Emulsifier, Erythritol, Low-Sugar, Polysaccharide Gum, Promising, Scoopable, Stevia, Sucralose, Tylo Powder (CMC), Xylitol
+Tags: Emulsifier, Erythritol, Low-Sugar, Polysaccharide Gum, Scoopable, Stevia, Sucralose, Tylo Powder (CMC), Xylitol
 
 Chocolate ice cream using both dark cocoa powder and dark chocolate, and a strong coffee note.
 
@@ -3022,7 +3158,7 @@ Spin on "Sorbet", scrape down, and mix-in. I used 15g of crushed cashews here, i
 - 10ml Soy sauce — 1/2 tbsp
 
 *Dry*
-- 45g SweEX (Erythritol + Xylitol 3:2) — POD = 85%; GI < 7
+- 42g SweEX (Erythritol + Xylitol 3:2) — POD ≈ 85%; GI < 7
 - 15g Skim milk powder 1:10 (SMP) [Vita2You]
 - 15g Whey + Casein protein (grass-fed) [Vilgain] — with stevia
 - 10g Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt] — not-as-good substitute: 1g guar, 0.3g xanthan, and 0.3g salt
@@ -3031,7 +3167,7 @@ Spin on "Sorbet", scrape down, and mix-in. I used 15g of crushed cashews here, i
 - 1 pinch Cayenne + Nutmeg — optional, for that hot vibe
 
 *Fill to MAX*
-- 75ml Soy milk 1.6% (sugar-free) [Berief] — alternative: any other preferred milk (~2% fat)
+- 78ml Soy milk 1.6% (sugar-free) [Berief] — alternative: any other preferred milk (~2% fat)
 - ~10 drops Flavor drops Vanilla (sucralose) [IronMaxx] — to taste
 
 *Mix-ins*
@@ -3043,12 +3179,12 @@ Spin on "Sorbet", scrape down, and mix-in. I used 15g of crushed cashews here, i
 - 15g Schwartau "Black Cherry" (Extra Zero) — fruit spread, no added sugar; add as a topping [9kcal, 1.1g sugar]
 
 **Directions:**
-1. In a medium-sized heat-proof bowl, mix all the 'dry' ingredients with a whisk.
-2. Pour half the hot water over the cocoa to bloom it, and whisk to combine to a smooth paste.
-3. Carefully integrate the other half of the water.
-4. Break the chocolate into pieces and melt them into the hot paste, then let it cool down a bit.
-5. Add "wet" ingredients and the chocolate paste to empty Creami tub (use a silicone spatula).
-6. Use an immersion blender on full speed to homogenize everything.
+1. Pour half the hot water over the cocoa to bloom it, and whisk to combine to a smooth paste.
+2. Carefully integrate the other half of the water.
+3. Break the chocolate into pieces and melt them into the hot paste, then let it cool down a bit.
+4. Add "wet" ingredients and the chocolate paste to empty Creami tub (use a silicone spatula).
+5. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
+6. Pour into the tub and QUICKLY use an immersion blender on full speed to homogenize everything.
 7. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
 8. Add remaining ingredients (to the MAX line) and stir with a spoon.
 9. For better results, let the base age in the fridge (covered, lid on), for a few hours or over night.
@@ -3056,8 +3192,8 @@ Spin on "Sorbet", scrape down, and mix-in. I used 15g of crushed cashews here, i
 11. Process with RE-SPIN mode when not creamy enough after the first spin.
 12. Process with MIX-IN after adding mix-ins evenly. For that, add partial amounts into a hole going down to the bottom, and fold the ice cream over, building pockets of mix-ins.
 
-**Nutrition (per pint):** 421.8 kcal | 19.6g fat | 19.2g protein | 51.0g carbs
-**PAC:** 31.29
+**Nutrition (per pint):** 420.6 kcal | 19.6g fat | 19.2g protein | 49.5g carbs
+**PAC:** 30.19
 
 Note: 10g 'Salty Stability' is: 7.3g Inulin / 1.2g Glycerol Monostearate (GMS / E471) / 0.6g Tylose powder (E466, Tylo, CMC) / 0.4g Guar gum (E412) / 0.33g Salt / 0.13g Xanthan gum (E415, XG).
 
@@ -3109,7 +3245,7 @@ Process on Light Ice Cream, with scrape-down, and a mix-in or respin run if need
 ---
 
 ### Cheesecake Light (Deluxe)
-Tags: Dairy, Emulsifier, Erythritol, Hi-Protein, Light, Low-Fat, Low-Sugar, Polysaccharide Gum, Scoopable, Stevia, Sucralose, Tylo Powder (CMC), Xylitol
+Tags: Dairy, Emulsifier, Erythritol, Hi-Protein, Low-Fat, Low-Sugar, Polysaccharide Gum, Scoopable, Stevia, Sucralose, Tylo Powder (CMC), Xylitol
 
 Inspired by German cheesecake, which is made with 'Quark' or 'Topfen' -- think of a cross between yogurt, cottage cheese and ricotta.
 
@@ -3122,13 +3258,14 @@ Serve with graham crackers or butter cookies to stand in for the pie crust.
 **Ingredients:**
 
 *Wet*
-- 400ml Buttermilk 1% [REWE]
+- 375ml Buttermilk 1% [REWE]
 - 200g Topfen / Quark 0.6% [Berchtesgadener] — 250g container; US alternative: low-fat cream cheese
 - 15g Glycerin (E422, VG) [hd-line] — POD = 60%; GI = 5; Density = 1.26 g/ml
 - 10g Brandy or Vodka 40 vol% — alternative: 8g (additional) VG for a sober recipe
 
 *Dry*
-- 35g SweEX (Erythritol + Xylitol 3:2) — alternative: 47g allulose or dextrose
+- 40g SweEX (Erythritol + Xylitol 3:2) — alternative: 53g allulose or dextrose
+- 20g Inulin [Vit4ever] — Sweetness = 8%; GI ~= 0
 - 15g Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt] — not-as-good substitute: 1.5g guar, 0.5g xanthan, and 0.5g salt
 - 10g Whey + Casein protein (grass-fed) [Vilgain] — with stevia
 - 2g Vanilla Bean Powder [InterVanilla]
@@ -3156,8 +3293,8 @@ Serve with graham crackers or butter cookies to stand in for the pie crust.
 7. Process with RE-SPIN mode when not creamy enough after the first spin.
 8. Process with MIX-IN after adding mix-ins evenly. For that, add partial amounts into a hole going down to the bottom, and fold the ice cream over, building pockets of mix-ins.
 
-**Nutrition (per pint):** 242.8 kcal | 2.1g fat | 22.7g protein | 43.1g carbs
-**PAC:** 30.16
+**Nutrition (per pint):** 529.4 kcal | 4.1g fat | 45.0g protein | 110.5g carbs
+**PAC:** 32.14
 
 Note: 15g 'Salty Stability' is: 11.0g Inulin / 1.8g Glycerol Monostearate (GMS / E471) / 0.9g Tylose powder (E466, Tylo, CMC) / 0.6g Guar gum (E412) / 0.5g Salt / 0.2g Xanthan gum (E415, XG).
 
@@ -3605,7 +3742,7 @@ Changes: Aug 25, 2025: Added emulsifier
 ---
 
 ### Creme Caramel (Deluxe)
-Tags: Dairy, Draft, Erythritol, Hi-Protein, Low-Fat, Low-Sugar, Scoopable, Simple, Stevia, Sucralose, Xylitol
+Tags: Draft, Erythritol, Hi-Protein, Low-Fat, Low-Sugar, Scoopable, Stevia, Sucralose, Xylitol
 
 Not the traditional recipe, but a lighter version using thickened dairy products instead of eggs and milk.
 
@@ -3626,8 +3763,8 @@ Spin on Light Ice Cream, do a scrape-down, and finish with a mix-in or respin ru
 - 1g Salt
 
 *Fill to MAX*
-- ~5 drops Flavor drops Caramel (sucralose) [IronMaxx] — to taste
-- ~3 drops Flavor drops Vanilla (sucralose) [IronMaxx] — to taste
+- ~3 drops Flavor drops Caramel (sucralose) [IronMaxx] — to taste
+- ~1 drops Flavor drops Vanilla (sucralose) [IronMaxx] — to taste
 
 *Mix-ins*
 - 40g Medjool dates (organic) [Seba Garden] — 1 date = 20g; pitted, possibly soaked, and chopped [111kcal, 26.4g sugar]
@@ -3646,7 +3783,7 @@ Spin on Light Ice Cream, do a scrape-down, and finish with a mix-in or respin ru
 8. Process with RE-SPIN mode when not creamy enough after the first spin.
 9. Process with MIX-IN after adding mix-ins evenly. For that, add partial amounts into a hole going down to the bottom, and fold the ice cream over, building pockets of mix-ins.
 
-**Nutrition (per pint):** 258.0 kcal | 3.1g fat | 18.9g protein | 53.3g carbs
+**Nutrition (per pint):** 512.9 kcal | 6.2g fat | 37.6g protein | 106.0g carbs
 **PAC:** 31.67
 
 ---
@@ -3800,7 +3937,7 @@ Spin on "Light Ice Cream", scrape down, and re-mix.
 ---
 
 ### Epic Spoons of Nom (Deluxe)
-Tags: Emulsifier, Erythritol, Experimental, Hi-Protein, Light, Low-Fat, Low-Sugar, Multi-Flavor, Polysaccharide Gum, Scoopable, Sucralose, Tylo Powder (CMC), Vegan
+Tags: Emulsifier, Erythritol, Hi-Protein, Light, Low-Fat, Low-Sugar, Multi-Flavor, Polysaccharide Gum, Scoopable, Sucralose, Tylo Powder (CMC), Vegan, Xylitol
 
 Scoop big. Nom bigger. Taste the ESN.
 
@@ -3808,7 +3945,7 @@ This is a recipe specifically for ESN's "Designer Flavor Powder" -- it is a low-
 
 Vegan & Dairy-free. Recipe is using only soy milk and protein.
 
-Spin on "Sorbet", scrape down, and respin or mix-in.
+Spin on "FroYo", scrape down, and respin or mix-in.
 
 You can also use 500ml buttermilk instead of soy milk, and leave out the trehalose.
 
@@ -3816,19 +3953,18 @@ You can also use 500ml buttermilk instead of soy milk, and leave out the trehalo
 
 *Wet*
 - 500ml Soy milk 1.6% (sugar-free) [Berief]
-- 20g Glycerin (E422, VG) [hd-line] — POD = 60%; GI = 5; Density = 1.26 g/ml
-- 15g Brandy or Vodka 40 vol%
+- 15g Glycerin (E422, VG) [hd-line] — POD = 60%; GI = 5; Density = 1.26 g/ml
+- 15g Brandy or Vodka 40 vol% — alternative: 12g additional VG for sober recipe
 
 *Dry*
-- 25g Erythritol (E968) — POD = 75%
-- 20g Trehalose [SaporePuro] — none if using buttermilk; POD = 45%; GI = 38
-- 15g Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt] — unsweetened "ICSv2"
+- 40g SweEX (Erythritol + Xylitol 3:2) — alternative: 53g allulose or dextrose
+- 15g Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt] — not-as-good substitute: 1.5g guar, 0.5g xanthan, and 0.5g salt
 - 20g Soy protein isolate (nature) [Powerstar] — 1kg bag, unsweetened, unflavored
 - 8g Designer Flavor Powder [ESN] — ~70% inulin
 - 2g Vanilla Bean Powder [InterVanilla]
 
 *Fill to MAX*
-- 95ml Soy milk 1.6% (sugar-free) [Berief]
+- 60ml Soy milk 1.6% (sugar-free) [Berief]
 - ~1 drops Flavor drops Vanilla (sucralose) [IronMaxx] — to taste
 
 **Directions:**
@@ -3840,8 +3976,8 @@ You can also use 500ml buttermilk instead of soy milk, and leave out the trehalo
 6. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
 7. Process with RE-SPIN mode when not creamy enough after the first spin.
 
-**Nutrition (per pint):** 260.3 kcal | 5.4g fat | 18.0g protein | 41.8g carbs
-**PAC:** 30.51
+**Nutrition (per pint):** 456.9 kcal | 10.2g fat | 34.9g protein | 75.6g carbs
+**PAC:** 31.62
 
 Note: 15g 'Salty Stability' is: 11.0g Inulin, 1.8g Glycerol Monostearate (GMS / E471), 0.9g Tylose powder (E466, Tylo, CMC), 0.6g Guar gum (E412), 0.5g Salt, 0.2g Xanthan gum (E415, XG).
 
@@ -4219,17 +4355,17 @@ Heated base with 12g matcha, one spin on Light Ice Cream.
 - 350ml Soy milk 1.6% (sugar-free) [Berief]
 - 100ml Coconut milk 22% [REWE Bio]
 - 15g Glycerin (E422, VG) [hd-line] — POD = 60%; GI = 5; Density = 1.26 g/ml
-- 15g Brandy or Vodka 40 vol%
+- 15g Brandy or Vodka 40 vol% — alternative: 12g additional VG for sober recipe
 
 *Dry*
 - 12g Matcha green tea powder (organic) [Mandoi] — 1tbsp = 6g; 1tsp = 2g
-- 40g SweEX (Erythritol + Xylitol 3:2) — POD ~ 90%; GI < 7
-- 10g Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt] — unsweetened "ICSv2"
+- 40g SweEX (Erythritol + Xylitol 3:2) — alternative: 53g allulose or dextrose
+- 10g Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt] — not-as-good substitute: 1g guar, 0.3g xanthan, and 0.3g salt
 - 25g Whey + Casein protein (grass-fed) [Vilgain] — with stevia
 - 25g Skim milk powder 1:10 (SMP) [Vita2You]
 
 *Fill to MAX*
-- 88ml Soy milk 1.6% (sugar-free) [Berief]
+- 88ml Soy milk 1.6% (sugar-free) [Berief] — alternative: any other preferred milk (~2% fat)
 - ~2 drops Flavor drops Vanilla (sucralose) [IronMaxx] — to taste
 
 **Directions:**
@@ -4249,7 +4385,7 @@ Note: 10g 'Salty Stability' is: 7.3g Inulin, 1.2g Glycerol Monostearate (GMS / E
 ---
 
 ### Milky Whey (Deluxe)
-Tags: Dairy, Erythritol, Favorite, Hi-Protein, Polysaccharide Gum, Scoopable, Stevia, Xylitol
+Tags: Dairy, Erythritol, Favorite, Low-Sugar, Polysaccharide Gum, Scoopable, Stevia, Xylitol
 
 "Milky Whey" is a playful nod to both dairy science and indulgence, an ice cream crafted with whole milk, cream, skim milk powder, and a balanced whey-casein blend.
 
@@ -4265,10 +4401,10 @@ Spin on "Ice Cream", scrape down, and respin. Manually mix in broken down wafers
 - 10g Brandy or Vodka 40 vol% — alternative: 8g (additional) VG for a sober recipe
 
 *Dry*
-- 30g SweEX (Erythritol + Xylitol 3:2) — alternative: 40g allulose or dextrose
-- 20g Waxy Maize Starch (E1442) [Ultratex] — dissolves easily; use 1-5%
-- 20g Whey + Casein protein (grass-fed) [Vilgain] — with stevia
-- 15g Skim milk powder 1:10 (SMP) [Vita2You]
+- 35g SweEX (Erythritol + Xylitol 3:2) — alternative: 40g allulose or dextrose
+- 15g Inulin [Vit4ever] — Sweetness = 8%; GI ~= 0
+- 10g Waxy Maize Starch (E1442) [Ultratex] — dissolves easily; use 1-5%
+- 15g Whey + Casein protein (grass-fed) [Vilgain] — with stevia
 - 1.5g Guar gum (E412)
 - 1g Salt
 
@@ -4288,8 +4424,8 @@ Spin on "Ice Cream", scrape down, and respin. Manually mix in broken down wafers
 6. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
 7. Process with RE-SPIN mode when not creamy enough after the first spin.
 
-**Nutrition (per pint):** 381.8 kcal | 14.7g fat | 20.3g protein | 49.6g carbs
-**PAC:** 31.15
+**Nutrition (per pint):** 702.6 kcal | 29.6g fat | 32.1g protein | 103.0g carbs
+**PAC:** 32.36
 
 ---
 
@@ -4832,6 +4968,50 @@ Process on SORBET.
 
 ---
 
+### Speyside Vanilla (Deluxe)
+Tags: Alcohol, Dairy, Draft, Erythritol, Hi-Protein, Low-Sugar, Scoopable, Stevia, Sucralose, Xylitol
+
+Based on "Buttermilk Vanilla", with an infusion of Scotch spirit. Process on Light Ice Cream, with scrape-down, and a mix-in or respin run if needed.
+
+**Ingredients:**
+
+*Wet*
+- 500ml Buttermilk 1% [REWE] — alternative: Milk zero fat / hi-protein ["Fairlife"]
+- 45g Speyside Scotch Whisky 40 vol% — for example "Glenlivet 12"
+- 6ml Vanilla Extract (w/ alcohol) [Native Vanilla]
+
+*Dry*
+- 15g SweEX (Erythritol + Xylitol 3:2) — alternative: 20g allulose or dextrose
+- 15g Whey + Casein protein (grass-fed) [Vilgain] — with stevia
+- 15g Inulin [Vit4ever] — Sweetness = 8%; GI ~= 0
+- 15g Waxy Maize Starch (E1442) [Ultratex] — alternative: E1422 or any modified starch
+- 3g Vanilla Bean Powder [InterVanilla]
+- 1g Salt
+- 8 pcs Sweetener Tablets [LightSüß] — 1 tablet ≃ 4g sugar
+
+*Fill to MAX*
+- 80ml Cream 32% [REWE Beste Wahl]
+- ≈6 drops Flavor drops Vanilla (sucralose) [IronMaxx] — to taste
+
+*Topping Options*
+- 15g Walnuts (organic) [Biojoy] — add as a mix-in or topping [101kcal, 1g sugar]
+- 15g Pecan nuts (organic) [Biojoy] — add as a mix-in or topping [108kcal, 0.6g sugar]
+
+**Directions:**
+1. Add wet ingredients to empty Creami tub.
+2. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
+3. Pour into the tub and QUICKLY use an immersion blender on full speed to homogenize everything.
+4. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
+5. Add remaining ingredients (to the MAX line) and stir with a spoon.
+6. For better results, let the base age in the fridge (covered, lid on), for a few hours or over night.
+7. Freeze for 24h with lid on, then spin as usual. Flatten any humps before that.
+8. Process with RE-SPIN mode when not creamy enough after the first spin.
+
+**Nutrition (per pint):** 713.6 kcal | 28.8g fat | 31.6g protein | 67.9g carbs
+**PAC:** 32.74
+
+---
+
 ### Starry Night (Deluxe)
 Tags: Cooked Base, Emulsifier, Erythritol, Hi-Protein, Low-Sugar, Polysaccharide Gum, Stevia, Sucralose, Tylo Powder (CMC), Xylitol
 
@@ -5179,50 +5359,47 @@ Process on Sorbet, hold it shortly under running water after that. Then a scrape
 ### Vanilla Protein (Deluxe)
 Tags: Dairy-Free, Emulsifier, Erythritol, Hi-Protein, Low-Fat, Low-Sugar, Polysaccharide Gum, Promising, Scoopable, Sucralose, Tylo Powder (CMC), Vanilla, Vegan, Xylitol
 
-This is my usual base, but pure vanilla, no cream or cottage cheese, and double the protein powder. Low fat & sugar, and high protein.
+This is mostly milk, double the usual protein powder, and vanilla flavor. Low fat & sugar, and high protein. You can of course also use dairy milk (~2% fat) and whey protein.
 
 Vegan & Dairy-free. Recipe is using only soy milk + protein.
 
-Process on Lite Ice Cream.
+Process on Lite Ice Cream, and a 2nd spin is likely not needed.
 
 **Ingredients:**
 
 *Wet*
-- 500ml Soy milk 1.6% (sugar-free) [Berief]
-- 20g Glycerin (E422, VG) [hd-line] — Sweetness = 60%; GI = 5; Density = 1.26 g/ml
-- 10g Brandy or Vodka 40 vol%
+- 525ml Soy milk 1.6% (sugar-free) [Berief] — alternative: any other preferred milk (~2% fat)
+- 15g Glycerin (E422, VG) [hd-line] — Sweetness = 60%; GI = 5; Density = 1.26 g/ml
+- 10g Brandy or Vodka 40 vol% — alternative: 8g additional VG for sober recipe
 
 *Dry*
 - 60g Soy protein isolate (nature) [Powerstar] — 1kg bag, unsweetened, unflavored
-- 40g SweEX (Erythritol + Xylitol 3:2) — POD ~ 90%; GI < 7
-- 15g Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt] — unsweetened "ICSv2"
+- 45g SweEX (Erythritol + Xylitol 3:2) — POD ~ 85%; GI < 7
+- 10g Inulin [Vit4ever] — Sweetness = 8%; GI ~= 0
+- 10g Salty Stability [Inulin / GMS / CMC / Guar / XG / Salt] — not-as-good substitute: 1g guar, 0.3g xanthan, and 0.3g salt
 - 4g Vanilla Bean Powder [InterVanilla]
 
-*Fill to MAX*
-- 71ml Soy milk 1.6% (sugar-free) [Berief]
+*Adjust sweetness*
 - ~5 drops Flavor drops Vanilla (sucralose) [IronMaxx] — to taste
 
 *Mix-ins*
 - 15g Cherries, Sour (dried, pitted) [Biojoy] — add chopped as a mix-in [44kcal, 9g sugar]
 - 15g Strawberry slices freeze-dried [EWL] — add crumbled as a mix-in [45kcal, 7g sugar]
 
-*Topping Options*
-- 10ml Aceto balsamico di Modena [Due Vittorie] — add as a topping [32kcal, 7.8g sugar]
-
 **Directions:**
 1. Add "wet" ingredients to empty Creami tub.
 2. Weigh and mix dry ingredients, easiest by adding to a jar with a secure lid and shaking vigorously.
 3. Pour into the tub and QUICKLY use an immersion blender on full speed to homogenize everything.
 4. Let blender run until thickeners are properly hydrated, up to 1-2 min. Or blend again after waiting that time.
-5. Add remaining ingredients (to the MAX line) and stir with a spoon.
+5. Add remaining ingredients and stir with a spoon.
 6. Put on the lid, freeze for 24h, then spin as usual. Flatten any humps before that.
 7. Process with RE-SPIN mode when not creamy enough after the first spin.
 8. Process with MIX-IN after adding mix-ins evenly. For that, add partial amounts into a hole going down to the bottom, and fold the ice cream over, building pockets of mix-ins.
 
-**Nutrition (per pint):** 299.0 kcal | 5.1g fat | 35.5g protein | 39.7g carbs
-**PAC:** 30.76
+**Nutrition (per pint):** 565.4 kcal | 9.0g fat | 50.9g protein | 93.1g carbs
+**PAC:** 30.61
 
-Note: 15g 'Salty Stability' is: 11.0g Inulin, 1.8g Glycerol Monostearate (GMS / E471), 0.9g Tylose powder (E466, Tylo, CMC), 0.6g Guar gum (E412), 0.5g Salt, 0.2g Xanthan gum (E415, XG).
+Note: 10g 'Salty Stability' is: 7.3g Inulin, 1.2g Glycerol Monostearate (GMS / E471), 0.6g Tylose powder (E466, Tylo, CMC), 0.4g Guar gum (E412), 0.33g Salt, 0.13g Xanthan gum (E415, XG).
 
 ---
 
