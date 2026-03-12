@@ -8739,15 +8739,15 @@ Yogurt-heavy froyo with frozen strawberries as the star. 350g strained yogurt gi
 - **35g** erythritol
 - **20g** whey protein (HSN WPC80)
 - **12g** xylitol
-- **9g** inulin
+- **13g** inulin
 - **0.2g** sucralose
-- Salty Stability (15g):
-  - **11.0g** inulin
-  - **1.8g** soy lecithin
-  - **0.9g** CMC
-  - **0.6g** guar gum
-  - **0.5g** salt
-  - **0.2g** xanthan gum
+- Salty Stability (10g):
+  - **7.3g** inulin
+  - **1.2g** soy lecithin
+  - **0.6g** CMC
+  - **0.4g** guar gum
+  - **0.3g** salt
+  - **0.13g** xanthan gum
 
 **Steps:**
 1. Blend yogurt + milk + frozen strawberries until smooth.
@@ -8757,14 +8757,14 @@ Yogurt-heavy froyo with frozen strawberries as the star. 350g strained yogurt gi
 5. Process on **Frozen Yogurt** mode. Re-spin if needed.
 
 **Notes:**
-- Total inulin: 20g (9g standalone + 11g from SS). GI safety: inulin 20g, xylitol ~12g per pint — both well under 30g limit.
+- Total inulin: 20.3g (13g standalone + 7.3g from SS). GI safety: inulin ~20g, xylitol ~12g per pint — both well under 30g limit.
 - Erythritol at 5.2% of mix (under 8% crystallization threshold). SweEX ratio 35:12 (≈3:1).
-- Salty Stability provides 1.7g total gums — intentionally light since yogurt + whey + inulin already give body.
+- Salty Stability reduced from 15g→10g to fix stretchy texture. 1.13g total gums — yogurt + whey + inulin provide body, gums are just for ice crystal prevention.
 - Frozen strawberries add ~8.5g natural sugars — accounts for most of the Scoopulator Sugars% reading.
 
 **Nutrition (per 100g):** 80 kcal | 1.5g fat | 7.6g carbs (12.8g sugars, 3.1g fiber) | 7g protein
 
-**Scoopulator:** [frozen-yogurt-regular](https://scoopulator.app/calc?ingredients=user-yogurt-straggisto-2-33939d:350,usdafndds-2709285:150,user-milk-fresh-marata-15-4d71c8:71,erythritol:35,xylitol:12,glycerin:13,inulin:20,user-hsn-whey-protein-concentrate-984009:20,usdabranded-soy-lecithin:1.8,xanthan-gum:0.2,guar-gum:0.6,sodium-carboxymethyl-cellulose-cmc:0.9,usdafndds-2710263:0.2,user-strawberry-food-flavor-9rLc4w:2&target=frozen-yogurt-regular&type=frozen_yogurt) — Serv. -13.1°C 🟢 | Sweet 8.19% 🔴 | Solids 24.06% 🟡 | Sugars 10.8% 🔴 | Milk Fat 1.19% 🔴 | MSNF 4.63% 🔴 | Stab 0.25% 🔴 | Emul 0.27% 🟢
+**Scoopulator:** [frozen-yogurt-regular](https://scoopulator.app/calc?ingredients=user-yogurt-straggisto-2-33939d:350,usdafndds-2709285:150,user-milk-fresh-marata-15-4d71c8:71,erythritol:35,xylitol:12,glycerin:13,inulin:20.3,user-hsn-whey-protein-concentrate-984009:20,usdabranded-soy-lecithin:1.2,xanthan-gum:0.13,guar-gum:0.4,sodium-carboxymethyl-cellulose-cmc:0.6,usdafndds-2710263:0.2,user-strawberry-food-flavor-9rLc4w:2&target=frozen-yogurt-regular&type=frozen_yogurt) — Serv. -13.2°C 🟢 | Sweet 8.2% 🔴 | Solids 23.99% 🔴 | Sugars 10.82% 🔴 | Milk Fat 1.19% 🔴 | MSNF 4.64% 🔴 | Stab 0.17% 🔴 | Emul 0.18% 🟢
 *(Sweetness/Sugars reds are structural for sugar-free. Fat/MSNF reds are inherent to low-fat yogurt base. Stab red is expected — yogurt + whey + inulin provide body, gums are just for ice crystal prevention.)*
 
 ---
