@@ -66,6 +66,7 @@
 | Citric acid | Supermarket | — |
 | Cream of tartar | Supermarket | Meringue stabilizer |
 | Peanut butter (smooth) | Supermarket | Peanut 94%, pea protein 3%, rice protein 3%. Per 100g: 620kcal, F48.3 (sat 7.7), C18.3 (sugar 4.7), fiber 8.0, P32.0, S0.02. |
+| 🛒 MCC — Microcrystalline Cellulose (E460i) | Manis (not yet ordered) | Zero-cal insoluble fiber. Fat mimetic, ice crystal inhibitor, bulking agent. PAC=0, POD=0. **Not fermented in gut** (~5-7% vs inulin's ~100%) — no GI concern. 3-10g/pint. Needs shear to disperse (immersion blender). Works best combined with CMC. See `rest/mcc_reference.md` for full research. |
 
 ---
 
@@ -87,6 +88,7 @@
 | `rest/manis_products.html` | Manis | Store product page (reference) |
 | `rest/yt-dlp_win/yt-dlp.exe` | — | YouTube downloader tool (see `/yt` skill) |
 | `rest/scoopulator_profiles_index.json` | Scoopify | Target profiles (scraped) — acceptable metric ranges per recipe type |
+| `rest/mcc_reference.md` | Research (2026-03) | MCC (E460i) safety, dosage, ice cream use, regulatory status — sourced research |
 
 **Reference docs** in `ice-creamery-main/docs/info/`:
 - `ingredients.md` — PAC/POD/glycemic-index tables, hardening factors, sweeteners/thickeners/emulsifiers/dairy-alts, blend ratios, cocoa, alcohol, tagatose, sucrose esters (E473)
