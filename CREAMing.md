@@ -8768,3 +8768,65 @@ Yogurt-heavy froyo with frozen strawberries as the star. 350g strained yogurt gi
 *(Sweetness/Sugars reds are structural for sugar-free. Fat/MSNF reds are inherent to low-fat yogurt base. Stab red is expected — yogurt + whey + inulin provide body, gums are just for ice crystal prevention.)*
 
 ---
+
+### Strawberry Cheesecake with Biscuit Base Chunks (Sugar-Free)
+Tags: ice-cream, cheesecake, strawberry, biscuit, low-fat, sugar-free, no-cook, high-protein, salty-stability, original
+
+Cream cheese + strained yogurt cheesecake base with crushed Gullon sugar-free digestives for crust texture and a xanthan-thickened strawberry sauce swirl. Biscuit goes in two ways: crumbled into the base (softens into cheesecake-crust feel) and frozen chunks as mix-in (crunchy contrast). ARLA Light cream cheese keeps calories down while providing real cheesecake tang.
+
+**Base — Wet:**
+- **273g** Marata 1.5% milk
+- **150g** Marata 2% strained yogurt
+- **135g** ARLA Light cream cheese
+- **10g** glycerin
+- **2g** vanilla extract
+
+**Base — Dry:**
+- **35g** erythritol
+- **35g** whey protein (HSN WPC80)
+- **10g** xylitol
+- **0.3g** sucralose
+- Salty Stability (10g):
+  - **7.3g** inulin
+  - **1.2g** soy lecithin
+  - **0.6g** CMC
+  - **0.4g** guar gum
+  - **0.3g** salt
+  - **0.13g** xanthan gum
+- **15g** Gullon Zero Digestive, crushed into small crumbs
+
+**Strawberry Sauce (prepare separately):**
+- **100g** frozen strawberries, thawed
+- **10g** erythritol
+- **0.2g** xanthan gum
+- Squeeze of lemon juice
+
+**Mix-in (after spinning):**
+- **20g** Gullon Zero Digestive, broken into pea-to-chickpea-sized chunks, pre-frozen
+
+**Steps:**
+1. **Make the strawberry sauce:** Thaw frozen strawberries in a bowl (microwave 60s or leave in fridge overnight). Mash with a fork or blend briefly — keep some chunks for texture. Stir in erythritol and lemon juice. Sprinkle xanthan gum while stirring vigorously (or use immersion blender 5s) to avoid clumps. Refrigerate — it will thicken in 10-15 min into a syrupy consistency. Set aside.
+2. **Make the base:** Add milk, yogurt, cream cheese, glycerin, and vanilla to pint.
+3. Combine dry ingredients in a bowl: erythritol, xylitol, sucralose, whey protein, Salty Stability components. Mix well.
+4. Add dry mix to pint. Immersion-blend ~30s, then 60-90s more until smooth and cream cheese is fully incorporated.
+5. Stir in the 15g crushed Gullon crumbs with a spoon — do not blend (you want pieces).
+6. Freeze 24h with lid on. Flatten any hump before freezing.
+7. Process on **Lite Ice Cream**. Scrape down sides with butter knife, push top down with spoon. **Re-Spin** if needed.
+8. Break 20g frozen Gullon chunks into a hole going down to the bottom, fold ice cream over. Run **Mix-In** cycle.
+9. **Swirl in the strawberry sauce:** spoon sauce on top and use a butter knife to swirl it into the top 2-3 cm. Do not over-mix — visible ribbons are the goal.
+
+**Notes:**
+- Total erythritol: 45g (35g base + 10g sauce) = 5.6% of mix weight — well under 8% crystallization threshold. Xylitol helps prevent crystallization.
+- GI safety: inulin 7.3g (from SS only), xylitol 10g — both very conservative. Combined fermentable load ~17g.
+- Total gums: 1.33g (SS 1.13g + sauce xanthan 0.2g) — well under 2g limit.
+- Strawberry sauce xanthan gives "cooked-down" syrupy body without the calories of sugar reduction.
+- Gullon Zero Digestive: 430 kcal/100g, 16g fat, 68g carbs, <0.5g sugar, 6.2g protein per 100g.
+- ARLA Light cream cheese: 190 kcal/100g, 16g fat, 3.3g carbs, 7.8g protein per 100g.
+- Scoopulator uses USDA "cream cheese, light" which is higher-cal than ARLA Light — real-world kcal is ~112/100g vs Scoopulator's 130.
+
+**Nutrition (per 100g, real-world with ARLA Light):** ~112 kcal | 6.4g fat | 7.8g carbs (12.1g sugars, 1.2g fiber) | 8.3g protein
+
+**Scoopulator:** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-15-4d71c8:273,user-yogurt-straggisto-2-33939d:150,usdafndds-2705762:135,user-hsn-whey-protein-concentrate-984009:35,glycerin:10,erythritol:45,xylitol:10,inulin:7.3,usdabranded-soy-lecithin:1.2,sodium-carboxymethyl-cellulose-cmc:0.6,guar-gum:0.4,xanthan-gum:0.33,usdaff-746775:0.3,pure-vanilla-extract:2,usdafndds-2707988:35,usdafndds-2709285:100,usdafndds-2710263:0.3&target=low-fat-ice-cream) — Serv. -14°C 🟢 | Sweet 6.8% 🔴 | Solids 30.9% 🟢 | Sugars 10.6% 🔴 | Milk Fat 4.7% 🟢 | MSNF 5.6% 🔴 | Stab 0.17% 🔴 | Emul 0.15% 🟢
+*(Sweetness/Sugars reds are structural for sugar-free. MSNF red is inherent to cream cheese + yogurt base without SMP. Stab red is expected — whey + inulin + yogurt + cream cheese provide body, gums are just for ice crystal prevention.)*
+
+---
