@@ -3125,3 +3125,4 @@ HSN whey protein concentrate:user-hsn-whey-protein-concentrate-984009
 Milk Cream Food Flavor:user-milk-cream-food-flavor-a1ynPB
 Strawberry Food Flavor:user-strawberry-food-flavor-9rLc4w
 Chocolate Food Flavor:user-chocolate-food-flavor-PX5DeH
+Cream cheese light (ARLA):user-cream-cheese-light-arla-0cNm2a
