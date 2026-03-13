@@ -8683,7 +8683,7 @@ Real caramelized sugar base — dry-caramelized for deep amber, true butterscotc
 ### Vanilla Base — Salty Stability (Sugar-Free)
 Tags: ice-cream, vanilla, low-fat, sugar-free, no-cook, high-protein, salty-stability, original
 
-Milk-only vanilla base (no yogurt) built on Salty Stability philosophy: inulin for body, soy lecithin for emulsification, CMC/guar/xanthan for stability, salt to enhance vanilla and suppress erythritol cooling. Glycerin kept minimal — erythritol+xylitol carry the FPD load while contributing sweetness.
+Milk-only vanilla base (no yogurt) built on Salty Stability philosophy: whey protein for body, soy lecithin for emulsification, CMC/guar/xanthan for stability, salt to enhance vanilla and suppress erythritol cooling. Glycerin provides FPD and body alongside erythritol+xylitol.
 
 **Wet:**
 - **400g** Marata 1.5% milk
@@ -8692,33 +8692,33 @@ Milk-only vanilla base (no yogurt) built on Salty Stability philosophy: inulin f
 
 **Dry:**
 - **27g** erythritol
-- **25g** whey protein (HSN WPC80)
+- **50g** whey protein (HSN WPC80)
 - **17g** xylitol
-- **7g** inulin
 - **0.2g** sucralose
-- Salty Stability (15g):
-  - **11.0g** inulin
-  - **1.8g** soy lecithin
-  - **0.9g** CMC
-  - **0.6g** guar gum
-  - **0.5g** salt
-  - **0.2g** xanthan gum
+- Salty Stability (10g):
+  - **7.3g** inulin
+  - **1.2g** soy lecithin
+  - **0.6g** CMC
+  - **0.4g** guar gum
+  - **0.3g** salt
+  - **0.13g** xanthan gum
 
 **Steps:**
 1. Add milk, vanilla, glycerin to pint.
-2. Combine dry ingredients in a bowl: erythritol, xylitol, sucralose, inulin, whey protein, soy lecithin, CMC, guar, xanthan, salt. Mix well.
+2. Combine dry ingredients in a bowl: erythritol, xylitol, sucralose, whey protein, soy lecithin, CMC, guar, xanthan, salt. Mix well.
 3. Add dry mix to pint. Immersion-blend ~30 sec, then 90 sec more until smooth and slightly thickened.
 4. Freeze 24h. Process on **Lite Ice Cream**. Re-spin if needed.
 
 **Notes:**
-- SweEX ratio 27:17 (≈3:2) — prevents erythritol crystallization. Erythritol at 5.4% (under 8% threshold).
-- GI safety: xylitol ~23g, inulin ~24.4g per pint — both under 30g limit.
-- Salt (0.5g) amplifies vanilla, suppresses erythritol cooling sensation.
-- Glycerin only 5g — high PAC (3.7) but low POD (60%), so minimized to keep serving temp in range.
+- SweEX ratio 27:17 (≈3:2) — prevents erythritol crystallization. Erythritol at 5.5% (under 8% threshold).
+- GI safety: xylitol 17g, inulin 7.3g per pint — combined fermentable load ~24g, much gentler than v1 (was 35g).
+- Salt (0.3g) amplifies vanilla, suppresses erythritol cooling sensation.
+- Standalone inulin removed — 50g whey protein provides body, solids, and water-binding. SS reduced 15g→10g (gums 1.7g→1.13g) to fix stretchy texture.
+- Glycerin kept at 5g (same as v1) — whey solids handle body, glycerin just for mild FPD.
 
-**Nutrition (per 100g):** 84 kcal | 1.7g fat | 7.6g carbs (14.1g sugars, 3.1g fiber) | 6.9g protein
+**Nutrition (per 100g):** 96 kcal | 1.9g fat | 5.7g carbs (14g sugars, 1.2g fiber) | 10.7g protein
 
-**Scoopulator:** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-15-4d71c8:400,inulin:18,usdabranded-soy-lecithin:2,sodium-carboxymethyl-cellulose-cmc:2.2,guar-gum:1.2,usdaff-746775:0.5,xanthan-gum:0.35,erythritol:27,xylitol:17,glycerin:5,user-hsn-whey-protein-concentrate-984009:25,pure-vanilla-extract:5,usdafndds-2710263:0.2&target=low-fat-ice-cream) — Serv. -15.8°C 🟢 | Sweet 8.05% 🔴 | Solids 27.35% 🟡 | Sugars 14.14% 🔴 | Milk Fat 1.19% 🔴 | MSNF 2.94% 🔴 | Stab 0.74% 🟢 | Emul 0.4% 🟢
+**Scoopulator:** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-15-4d71c8:400,inulin:7.3,usdabranded-soy-lecithin:1.2,sodium-carboxymethyl-cellulose-cmc:0.6,guar-gum:0.4,usdaff-746775:0.3,xanthan-gum:0.13,erythritol:27,xylitol:17,glycerin:5,user-hsn-whey-protein-concentrate-984009:50,pure-vanilla-extract:5,usdafndds-2710263:0.2&target=low-fat-ice-cream) — Serv. -14.9°C 🟢 | Sweet 7.68% 🔴 | Solids 28.92% 🟢 | Sugars 13.97% 🔴 | Milk Fat 1.17% 🔴 | MSNF 2.88% 🔴 | Stab 0.22% 🔴 | Emul 0.23% 🟢
 *(Sweetness/Sugars reds are structural for sugar-free. Milk Fat/MSNF reds are inherent to milk-only base with no cream or SMP.)*
 
 ---
