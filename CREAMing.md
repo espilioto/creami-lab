@@ -8795,8 +8795,8 @@ Cream cheese + strained yogurt cheesecake base with crushed Gullon sugar-free di
   - **0.13g** xanthan gum
 - **15g** Gullon Zero Digestive, crushed into small crumbs
 
-**Strawberry Sauce (prepare separately):**
-- **100g** frozen strawberries, thawed
+**Strawberry Sauce (prepare separately — see standalone recipe below):**
+- **100g** frozen strawberries
 - **10g** erythritol
 - **0.2g** xanthan gum
 - Squeeze of lemon juice
@@ -8805,7 +8805,7 @@ Cream cheese + strained yogurt cheesecake base with crushed Gullon sugar-free di
 - **20g** Gullon Zero Digestive, broken into pea-to-chickpea-sized chunks, pre-frozen
 
 **Steps:**
-1. **Make the strawberry sauce:** Thaw frozen strawberries in a bowl (microwave 60s or leave in fridge overnight). Mash with a fork or blend briefly — keep some chunks for texture. Stir in erythritol and lemon juice. Sprinkle xanthan gum while stirring vigorously (or use immersion blender 5s) to avoid clumps. Refrigerate — it will thicken in 10-15 min into a syrupy consistency. Set aside.
+1. **Make the strawberry sauce:** Grate frozen strawberries on the coarse side of a box grater into a bowl (hold the last nub with a kitchen towel). Stir in erythritol and lemon juice. Sprinkle xanthan gum while stirring vigorously to avoid clumps. Let sit 10-15 min — it thickens into a syrupy consistency as the shreds thaw and release juice. Refrigerate until needed.
 2. **Make the base:** Add milk, yogurt, cream cheese, glycerin, and vanilla to pint.
 3. Combine dry ingredients in a bowl: erythritol, xylitol, sucralose, whey protein, Salty Stability components. Mix well.
 4. Add dry mix to pint. Immersion-blend ~30s, then 60-90s more until smooth and cream cheese is fully incorporated.
@@ -8828,5 +8828,35 @@ Cream cheese + strained yogurt cheesecake base with crushed Gullon sugar-free di
 
 **Scoopulator:** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-15-4d71c8:273,user-yogurt-straggisto-2-33939d:150,usdafndds-2705762:135,user-hsn-whey-protein-concentrate-984009:35,glycerin:10,erythritol:45,xylitol:10,inulin:7.3,usdabranded-soy-lecithin:1.2,sodium-carboxymethyl-cellulose-cmc:0.6,guar-gum:0.4,xanthan-gum:0.33,usdaff-746775:0.3,pure-vanilla-extract:2,usdafndds-2707988:35,usdafndds-2709285:100,usdafndds-2710263:0.3&target=low-fat-ice-cream) — Serv. -14°C 🟢 | Sweet 6.8% 🔴 | Solids 30.9% 🟢 | Sugars 10.6% 🔴 | Milk Fat 4.7% 🟢 | MSNF 5.6% 🔴 | Stab 0.17% 🔴 | Emul 0.15% 🟢
 *(Sweetness/Sugars reds are structural for sugar-free. MSNF red is inherent to cream cheese + yogurt base without SMP. Stab red is expected — whey + inulin + yogurt + cream cheese provide body, gums are just for ice crystal prevention.)*
+
+---
+
+### Sugar-Free Strawberry Sauce (Swirl/Topping)
+Tags: sauce, strawberry, sugar-free, topping, swirl, component, original
+
+Zero-cook strawberry sauce thickened with xanthan gum instead of sugar reduction. Gives the clingy, syrupy body of a cooked-down sauce at a fraction of the calories. Works as a swirl in any pint, a topping, or a mix-in sauce. Scale up or down — the ratio is what matters.
+
+**Ingredients:**
+- **100g** frozen strawberries
+- **10g** erythritol
+- **0.2g** xanthan gum
+- Squeeze of lemon juice (or pinch citric acid)
+
+**Steps:**
+1. Grate frozen strawberries on the coarse side of a box grater into a bowl. Hold the last nub with a kitchen towel to protect your fingers.
+2. Stir in erythritol and lemon juice until dissolved.
+3. Sprinkle xanthan gum over the surface while stirring vigorously to avoid clumps. A small whisk works best.
+4. Let sit 10-15 min at room temperature. The shreds thaw, release juice, and the xanthan thickens everything into a syrupy consistency.
+5. Refrigerate until needed. Keeps 3-4 days in the fridge.
+
+**Notes:**
+- Xanthan ratio is ~0.2% of total weight — enough for syrupy body without sliminess. Do not exceed 0.3g or it gets gloopy.
+- Works with any frozen fruit: raspberries, blueberries, mango, peach. Raspberries benefit from straining seeds after grating.
+- The 0.2g xanthan counts toward the 2g/pint gum limit when used as a swirl inside a pint.
+- **Nutrition (entire batch):** ~35 kcal | 0g fat | ~9g carbs | 0.7g protein
+
+**As a swirl:** Spoon on top of spun ice cream and use a butter knife to drag ribbons into the top 2-3 cm. Do not over-mix — visible streaks are the goal.
+
+**As a mix-in:** Pour into a hole going down to the bottom and fold ice cream over before running the Mix-In cycle.
 
 ---
