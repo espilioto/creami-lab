@@ -8805,7 +8805,7 @@ Cream cheese + strained yogurt cheesecake base with crushed Gullon sugar-free di
 - **20g** Gullon Zero Digestive, broken into pea-to-chickpea-sized chunks, pre-frozen
 
 **Steps:**
-1. **Make the strawberry sauce:** Grate frozen strawberries on the coarse side of a box grater into a bowl (hold the last nub with a kitchen towel). Stir in erythritol and lemon juice. Sprinkle xanthan gum while stirring vigorously to avoid clumps. Let sit 10-15 min — it thickens into a syrupy consistency as the shreds thaw and release juice. Refrigerate until needed.
+1. **Make the strawberry sauce:** Grate frozen strawberries on the coarse side of a box grater into a bowl (hold the last nub with a kitchen towel). Pre-mix the erythritol and xanthan gum together in a small bowl, then stir into the grated strawberries along with lemon juice. Let sit 10-15 min — it thickens into a syrupy consistency as the shreds thaw and release juice. Refrigerate until needed.
 2. **Make the base:** Add milk, yogurt, cream cheese, glycerin, and vanilla to pint.
 3. Combine dry ingredients in a bowl: erythritol, xylitol, sucralose, whey protein, Salty Stability components. Mix well.
 4. Add dry mix to pint. Immersion-blend ~30s, then 60-90s more until smooth and cream cheese is fully incorporated.
@@ -8844,8 +8844,8 @@ Zero-cook strawberry sauce thickened with xanthan gum instead of sugar reduction
 
 **Steps:**
 1. Grate frozen strawberries on the coarse side of a box grater into a bowl. Hold the last nub with a kitchen towel to protect your fingers.
-2. Stir in erythritol and lemon juice until dissolved.
-3. Sprinkle xanthan gum over the surface while stirring vigorously to avoid clumps. A small whisk works best.
+2. Pre-mix erythritol and xanthan gum together in a small bowl — this prevents xanthan clumps by spacing the particles out in the erythritol.
+3. Stir the erythritol-xanthan mix into the grated strawberries along with lemon juice.
 4. Let sit 10-15 min at room temperature. The shreds thaw, release juice, and the xanthan thickens everything into a syrupy consistency.
 5. Refrigerate until needed. Keeps 3-4 days in the fridge.
 
