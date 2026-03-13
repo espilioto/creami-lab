@@ -66,6 +66,7 @@
 | Citric acid | Supermarket | — |
 | Cream of tartar | Supermarket | Meringue stabilizer |
 | Peanut butter (smooth) | Supermarket | Peanut 94%, pea protein 3%, rice protein 3%. Per 100g: 620kcal, F48.3 (sat 7.7), C18.3 (sugar 4.7), fiber 8.0, P32.0, S0.02. |
+| ADORO Light cream cheese | Supermarket | Per 100g: 148kcal, F11 (sat 7.1), C3.2 (sugar 3.2), P9.2, S0.68. Water ~75%, solids 25%, MSNF ~14.1%. Scoopulator: `user-cream-cheese-light-adoro-HgwT7k` |
 | 🛒 MCC — Microcrystalline Cellulose (E460i) | Manis (not yet ordered) | Zero-cal insoluble fiber. Fat mimetic, ice crystal inhibitor, bulking agent. PAC=0, POD=0. **Not fermented in gut** (~5-7% vs inulin's ~100%) — no GI concern. 3-10g/pint. Needs shear to disperse (immersion blender). Works best combined with CMC. See `rest/mcc_reference.md` for full research. |
 
 ---

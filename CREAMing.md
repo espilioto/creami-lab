@@ -8775,7 +8775,7 @@ Tags: ice-cream, cheesecake, strawberry, low-fat, sugar-free, no-cook, high-prot
 **Base — Wet:**
 - **273g** Marata 1.5% milk
 - **150g** Marata 2% strained yogurt
-- **135g** ARLA Light cream cheese
+- **135g** ADORO Light cream cheese
 - **10g** glycerin
 - **2g** vanilla extract
 
@@ -8814,12 +8814,12 @@ Tags: ice-cream, cheesecake, strawberry, low-fat, sugar-free, no-cook, high-prot
 - Base weight ~660g before extras. Extras (35g biscuit + sauce) add after spin, keeping pint under 24oz capacity.
 
 **Nutrition (per 100g):**
-- **Base (660g):** 110 kcal | 4.8g fat (3g sat) | 5g carbs (12.3g sugars, 1g fiber) | 9.2g protein
+- **Base (660g):** 101 kcal | 3.8g fat (2.4g sat) | 5g carbs (12.3g sugars, 1g fiber) | 9.5g protein
 - **Biscuits (35g @ 430 kcal/100g):** ~150 kcal total
 - **Strawberry sauce (~110g):** ~35 kcal total
-- **Whole pint (~805g):** ~911 kcal → **~113 kcal/100g**
+- **Whole pint (~805g):** ~854 kcal → **~106 kcal/100g**
 
-**Scoopulator (base only):** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-15-4d71c8:273,user-yogurt-straggisto-2-33939d:150,user-cream-cheese-light-arla-0cNm2a:135,glycerin:10,pure-vanilla-extract:2,erythritol:35,user-hsn-whey-protein-concentrate-984009:35,xylitol:10,usdafndds-2710263:0.3,inulin:7.3,usdabranded-soy-lecithin:1.2,sodium-carboxymethyl-cellulose-cmc:0.6,guar-gum:0.4,usdaff-746775:0.3,xanthan-gum:0.13&target=low-fat-ice-cream) — Serv. -14.2°C 🟢 | Sweet 6.43% 🔴 | Solids 27.29% 🟡 | Sugars 10.74% 🔴 | Milk Fat 4.35% 🟢 | MSNF 5.85% 🔴 | Stab 0.17% 🔴 | Emul 0.18% 🟢
+**Scoopulator (base only):** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-15-4d71c8:273,user-yogurt-straggisto-2-33939d:150,user-cream-cheese-light-adoro-HgwT7k:135,glycerin:10,pure-vanilla-extract:2,erythritol:35,user-hsn-whey-protein-concentrate-984009:35,xylitol:10,usdafndds-2710263:0.3,inulin:7.3,usdabranded-soy-lecithin:1.2,sodium-carboxymethyl-cellulose-cmc:0.6,guar-gum:0.4,usdaff-746775:0.3,xanthan-gum:0.13&target=low-fat-ice-cream) — Serv. -14.2°C 🟢 | Sweet 6.43% 🔴 | Solids 27.29% 🟡 | Sugars 10.74% 🔴 | Milk Fat 4.35% 🟢 | MSNF 5.85% 🔴 | Stab 0.17% 🔴 | Emul 0.18% 🟢
 *(Sweetness/Sugars reds are structural for sugar-free. MSNF red is inherent to cream cheese base (high fat, low MSNF). Stab red is expected — yogurt + whey + cream cheese provide body, gums are just for ice crystal prevention.)*
 
 ---
