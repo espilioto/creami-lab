@@ -8683,7 +8683,7 @@ Real caramelized sugar base — dry-caramelized for deep amber, true butterscotc
 ### Vanilla Base — Salty Stability (Sugar-Free)
 Tags: ice-cream, vanilla, low-fat, sugar-free, no-cook, high-protein, salty-stability, original
 
-Milk-only vanilla base (no yogurt) built on Salty Stability philosophy: whey protein for body, soy lecithin for emulsification, CMC/guar/xanthan for stability, salt to enhance vanilla and suppress erythritol cooling. Glycerin provides FPD and body alongside erythritol+xylitol.
+Milk-only vanilla base (no yogurt) built on Salty Stability philosophy: whey protein for body, soy lecithin for emulsification, CMC/guar/xanthan for stability, salt to enhance vanilla and suppress erythritol cooling. Glycerin provides FPD and body alongside erythritol+xylitol. MCC adds fat-mimetic mouthfeel and ice crystal prevention without GI load.
 
 **Wet:**
 - **400g** Marata 1.5% milk
@@ -8694,6 +8694,7 @@ Milk-only vanilla base (no yogurt) built on Salty Stability philosophy: whey pro
 - **27g** erythritol
 - **50g** whey protein (HSN WPC80)
 - **17g** xylitol
+- **5g** MCC (microcrystalline cellulose)
 - **0.2g** sucralose
 - Salty Stability (10g):
   - **7.3g** inulin
@@ -8705,20 +8706,21 @@ Milk-only vanilla base (no yogurt) built on Salty Stability philosophy: whey pro
 
 **Steps:**
 1. Add milk, vanilla, glycerin to pint.
-2. Combine dry ingredients in a bowl: erythritol, xylitol, sucralose, whey protein, soy lecithin, CMC, guar, xanthan, salt. Mix well.
-3. Add dry mix to pint. Immersion-blend ~30 sec, then 90 sec more until smooth and slightly thickened.
+2. Combine dry ingredients in a bowl: erythritol, xylitol, sucralose, whey protein, MCC, soy lecithin, CMC, guar, xanthan, salt. Mix well.
+3. Add dry mix to pint. Immersion-blend ~2 min until MCC is fully dispersed and mix is smooth and slightly thickened.
 4. Freeze 24h. Process on **Lite Ice Cream**. Re-spin if needed.
 
 **Notes:**
 - SweEX ratio 27:17 (≈3:2) — prevents erythritol crystallization. Erythritol at 5.5% (under 8% threshold).
 - GI safety: xylitol 17g, inulin 7.3g per pint — combined fermentable load ~24g, much gentler than v1 (was 35g).
 - Salt (0.3g) amplifies vanilla, suppresses erythritol cooling sensation.
+- MCC (5g, ~1% of mix) provides fat-mimetic body and ice crystal inhibition. Works synergistically with the 0.6g CMC in SS. Insoluble — not modeled by Scoopulator.
 - Standalone inulin removed — 50g whey protein provides body, solids, and water-binding. SS reduced 15g→10g (gums 1.7g→1.13g) to fix stretchy texture.
 - Glycerin kept at 5g (same as v1) — whey solids handle body, glycerin just for mild FPD.
 
-**Nutrition (per 100g):** 96 kcal | 1.9g fat | 5.7g carbs (14g sugars, 1.2g fiber) | 10.7g protein
+**Nutrition (per 100g):** 95 kcal | 1.9g fat | 5.7g carbs (13.8g sugars, 1.2g fiber) | 10.6g protein
 
-**Scoopulator:** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-15-4d71c8:400,inulin:7.3,usdabranded-soy-lecithin:1.2,sodium-carboxymethyl-cellulose-cmc:0.6,guar-gum:0.4,usdaff-746775:0.3,xanthan-gum:0.13,erythritol:27,xylitol:17,glycerin:5,user-hsn-whey-protein-concentrate-984009:50,pure-vanilla-extract:5,usdafndds-2710263:0.2&target=low-fat-ice-cream) — Serv. -14.9°C 🟢 | Sweet 7.68% 🔴 | Solids 28.92% 🟢 | Sugars 13.97% 🔴 | Milk Fat 1.17% 🔴 | MSNF 2.88% 🔴 | Stab 0.22% 🔴 | Emul 0.23% 🟢
+**Scoopulator:** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-15-4d71c8:400,inulin:7.3,usdabranded-soy-lecithin:1.2,sodium-carboxymethyl-cellulose-cmc:0.6,guar-gum:0.4,usdaff-746775:0.3,xanthan-gum:0.13,erythritol:27,xylitol:17,glycerin:5,user-hsn-whey-protein-concentrate-984009:50,pure-vanilla-extract:5,usdafndds-2710263:0.2,user-microcrystalline-cellulose-mcc-myujQ3:5&target=low-fat-ice-cream) — Serv. -14.7°C 🟢 | Sweet 7.61% 🔴 | Solids 28.64% 🟢 | Sugars 13.84% 🔴 | Milk Fat 1.16% 🔴 | MSNF 2.85% 🔴 | Stab 0.22% 🔴 | Emul 0.23% 🟢
 *(Sweetness/Sugars reds are structural for sugar-free. Milk Fat/MSNF reds are inherent to milk-only base with no cream or SMP.)*
 
 ---
