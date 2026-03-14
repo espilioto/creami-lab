@@ -1,6 +1,6 @@
 # Microcrystalline Cellulose (MCC / E460i) — Ingredient Reference
 
-> Researched 2026-03-13. All claims sourced from regulatory bodies, peer-reviewed papers, or manufacturer data.
+> Researched 2026-03-13, updated 2026-03-14. All claims sourced from regulatory bodies, peer-reviewed papers, or manufacturer/industry data.
 
 ---
 
@@ -97,6 +97,47 @@ MCC (listed as "cellulose gel") is standard in commercial low-cal/reduced-fat ic
 - **As fat replacer:** 0.2-1.0%, typically 0.4-0.9%
 - **In a 680g Creami pint:** 1% = 6.8g. Practical range: **3-10g per pint.**
 
+### Technical Properties
+
+- **Thixotropic with CMC/XG:** MCC + CMC (or xanthan gum) systems are thixotropic — they flow under shear stress but recover structure at rest. This is ideal for Creami: the spin cycle breaks the mixture down for processing, then it re-sets during freezing.
+  Source: [MT Royal](https://mtroyal.com.tr/en/stabilizer-microcrystalline-cellulose-e460/), [Wang et al. 2023](https://doi.org/10.1016/j.lwt.2023.114966)
+- **Thermal & pH stability:** MCC maintains performance across a wide temperature and pH range. Survives pasteurization and UHT processing, functions reliably in acidic systems (e.g. yogurt-based mixes).
+  Source: [MT Royal](https://mtroyal.com.tr/en/stabilizer-microcrystalline-cellulose-e460/)
+- **Raises melting point:** MCC adsorbs at the foam interface and significantly increases melting temperature of whipped cream foam. MCC samples required more energy (higher enthalpy, 9.69 ± 0.57 J/g vs control) to destroy foam structure, meaning better resistance to temperature changes.
+  Source: [Wang et al. 2023](https://doi.org/10.1016/j.lwt.2023.114966)
+- **Gel formation:** MCC forms gels when hydrated with water, contributing body and structure beyond simple bulking.
+  Source: [Acta Biotechnology](https://www.actabiotechnology.com/cellulose-gel-460i-stabilizer-thickener-mcc/)
+- **Grade variation matters:** Particle size, moisture content, bulk density, and surface chemistry vary by MCC grade. Application-specific testing is essential — different grades perform differently.
+  Source: [MT Royal](https://mtroyal.com.tr/en/stabilizer-microcrystalline-cellulose-e460/)
+
+### MCC + Xanthan Gum Synergy (Research Findings)
+
+Key findings from Wang et al. 2023 — "Synergistic effects of MCC and xanthan gum on the stability of milk fat-based UHT whipping cream" (LWT, DOI: 10.1016/j.lwt.2023.114966):
+
+**MCC alone is insufficient as an emulsion stabilizer.** It causes particle instability, precipitates to the bottom over time, and reduces firmness below control levels. However, combined with XG, it becomes highly effective.
+
+**Synergistic benefits of MCC + XG:**
+1. **Smaller particle sizes** than either stabilizer alone — compound stabilizer more effective than single.
+2. **Long-term stability:** Optimal MCC+XG ratio (Sample B) remained stable for 6 months at 4°C with no oiling-off — the only sample to do so.
+3. **Zeta potential maintained:** MCC+XG combo maintained high electrostatic repulsion over 6 months, preventing fat droplet aggregation.
+4. **MCC fixes XG's downsides:** MCC prevented XG-induced liquid protein adhesion and excessive fat globule aggregation, promoting uniform distribution of protein and fat around air bubbles.
+5. **XG fixes MCC's downsides:** XG's gel network wraps MCC particles, preventing them from precipitating. XG's viscosity enhances MCC's adhesion to fat droplets.
+6. **Improved thermal behavior:** MCC significantly raised foam melting point (T_M1: 12.49°C vs 11.62°C control). MCC+XG combo (Sample A) had highest end-melting temp (37.46°C).
+7. **Foam stability:** MCC alone didn't improve foam stability vs control, but MCC+XG samples A and B were significantly more stable than all others.
+
+**Texture data (Table 2):**
+
+| Sample | Firmness (N) | Cohesiveness | Consistency (N) |
+|--------|:------------:|:------------:|:---------------:|
+| Control (NC) | 129.88 | 3.71 | 29.15 |
+| MCC only | 121.44 | 3.55 | 28.50 |
+| XG only | 179.72 | 5.66 | 38.02 |
+| MCC+XG (A) | 240.29 | 4.31 | 41.23 |
+| MCC+XG (B) | 259.90 | 5.22 | 45.02 |
+| MCC+XG (C) | 204.73 | 5.41 | 39.32 |
+
+**Relevance to our Creami recipes:** MCC alone reduces firmness (softer texture) — this is actually desirable for scoopability. The synergy with xanthan gum is directly applicable since we already use xanthan in our stabilizer blends (SS, ICSv2). The shear-thickening behavior at high MCC concentration ("particle clusters") is worth noting for Creami processing — the spin cycle provides high shear.
+
 ### Colloidal vs. Plain MCC
 **Important:** For ice cream, colloidal MCC (co-processed with CMC or a gum) works much better than plain powder. Plain MCC doesn't hydrate/disperse well in cold systems.
 
@@ -104,7 +145,7 @@ Commercial colloidal MCC products: Avicel (FMC/DuPont), MICROCEL (Roquette).
 
 **Workaround for plain MCC (what we'd use):**
 - Combine plain MCC powder with a small amount of CMC (already in our pantry via Salty Stability).
-- Blend thoroughly with immersion blender — MCC needs shear to disperse.
+- Blend thoroughly with immersion blender — MCC needs shear to disperse. The thixotropic MCC+CMC interaction works in our favor here.
 - The Creami spin cycle provides additional shear during processing.
 
 ---
