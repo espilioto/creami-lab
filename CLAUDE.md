@@ -85,7 +85,7 @@
 | `raw_recipes/e4cm/` | E4CM | 12 VTT + 13 description files from YouTube |
 | `rest/NC500Series_IB_MP.txt` | Ninja | NC500 owner's manual (full text) |
 | `rest/scoopulator_ingredients_index.txt` | Scoopify | Ingredient slug lookup for Scoopulator API |
-| `rest/spin_settings.srt` | wh_ben | Spin settings reference (subtitle) |
+| `rest/deluxe_spin_modes_fixed.jpg` | espilioto | NC501 Deluxe spin modes — verified Hz, timing, and Top/Bottom/Full minutes |
 | `rest/manis_products.html` | Manis | Store product page (reference) |
 | `rest/yt-dlp_win/yt-dlp.exe` | — | YouTube downloader tool (see `/yt` skill) |
 | `rest/scoopulator_profiles_index.json` | Scoopify | Target profiles (scraped) — acceptable metric ranges per recipe type |

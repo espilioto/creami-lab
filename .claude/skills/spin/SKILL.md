@@ -14,17 +14,41 @@ description: Ninja Creami processing advice — spin mode selection, scrape test
 - Scrape test before every spin to decide if counter time is needed
 
 ## Processing Mode Details
+> Source: `rest/deluxe_spin_modes_fixed.jpg` (NC501 Deluxe verified data)
 
-| Mode | Down [s] | Down [rpm] | Up [s] | Up [rpm] | Use for |
-|------|----------|------------|--------|----------|---------|
-| Ice Cream | 60 | 1200 | 35 | 450 | Rich dairy/dairy-alt bases |
-| Lite Ice Cream | 105 | 1790 | 40 | 1790 | Low sugar/fat, keto, paleo |
-| Sorbet | 105 | 1790 | 35 | 450 | Fruit-based, high water+sugar |
-| Gelato | 60 | 1200 | 35 | 450 | Custard/Italian-style bases |
-| Milkshake | 60 | 1790 | 5 | 450 | Ice cream + milk + mix-ins |
-| Mix-in | 30 | 450 | 35 | 450 | Fold in cookies/nuts/fruit |
-| Re-Spin | 30 | 1200 | 35 | 1200 | Smooth crumbly/powdery results |
-| Frozen Yogurt (Deluxe) | 150 | 1790 | 150 | 1790 | Yogurt into frozen treat, safest mode |
+### Scoopable Modes
+
+| Mode | Down [s] | Down [Hz] | Up [s] | Up [Hz] | Total [s] | Full [min] | Top [min] | Bottom [min] |
+|------|----------|-----------|--------|---------|-----------|------------|-----------|--------------|
+| Ice Cream | 75 | 226 | 45 | 205 | 120 | 2 | — | — |
+| Lite Ice Cream | 170 | 334 | 40 | 334 | 210 | 4 | 2 | 2 |
+| Sorbet | 170 | 334 | 40 | 260 | 210 | 4 | 3 | 2 |
+| Gelato | 75 | 226 | 45 | 205 | 120 | 2 | — | — |
+| Frozen Yogurt | 170 | 334 | 100 | 334 | 270 | 5 | 3 | 5 |
+
+### Drinkable Modes
+
+| Mode | Down [s] | Down [Hz] | Up [s] | Up [Hz] | Total [s] | Full [min] | Top [min] | Bottom [min] |
+|------|----------|-----------|--------|---------|-----------|------------|-----------|--------------|
+| Frappé | 170 | 334 | 100 | 334 | 270 | 5 | — | — |
+| Frozen Drink | 170 | 334 | 100 | 334 | 270 | 5 | — | — |
+| Slushi | 170 | 334 | 100 | 334 | 270 | 5 | — | — |
+| Milkshake | 75 | 334 | 45 | 205 | 120 | 2 | — | — |
+
+### Utility Modes
+
+| Mode | Down [s] | Down [Hz] | Up [s] | Up [Hz] | Total [s] |
+|------|----------|-----------|--------|---------|-----------|
+| Mix-In | 60 | 180 | 60 | 180 | 120 |
+| Re-Spin | 60 | 226 | 60 | 226 | 120 |
+
+### Same Settings
+- **Ice Cream = Gelato** (identical)
+- **Frozen Yogurt = Frappé = Frozen Drink = Slushi** (identical)
+
+### Almost The Same
+- **Ice Cream ≈ Milkshake** — same timing, but Milkshake has 334 Hz downstroke vs 226
+- **Lite Ice Cream ≈ Sorbet** — same timing, but Lite has 334 Hz upstroke vs 260
 
 ## Preparation
 - Use immersion blender (NOT milk frother) to hydrate gums and suspend cocoa
@@ -41,7 +65,7 @@ description: Ninja Creami processing advice — spin mode selection, scrape test
 - **Soft** (spoon sinks easily) → Ice Cream + Mix-In, NO thawing, NO higher setting
 - **Questionably soft** → Ice Cream + Mix-In (accept soft serve), or refreeze longer
 
-**Default 1st spin = Sorbet.** More aggressive downstroke but gentler upstroke than Lite Ice Cream. Lite's upstroke can over-process into soft serve. Frozen Yogurt mode induces the most heat (5 min total) — safest of all but makes softest result. Use the scrape-test-recommended setting regardless of what the mix actually is. Lower settings can actually draw MORE power on hard pints = burnout risk.
+**Default 1st spin = Sorbet.** Same downstroke as Lite Ice Cream (170s @ 334 Hz) but gentler upstroke (260 Hz vs 334 Hz). Lite's full-power upstroke can over-process into soft serve. Frozen Yogurt mode runs longest (270s / 4:30 total) — safest of all but makes softest result. Use the scrape-test-recommended setting regardless of what the mix actually is. Lower settings can actually draw MORE power on hard pints = burnout risk.
 
 **Spin combos by desired texture:**
 - Hard ice cream (ideal): Sorbet → Mix-In (2 spins)
