@@ -8767,6 +8767,50 @@ Yogurt-heavy froyo with frozen strawberries as the star. 350g strained yogurt gi
 **Nutrition (per 100g):** 78 kcal | 1.5g fat | 6.6g carbs (12.8g sugars, 2.1g fiber) | 7.1g protein
 
 **Scoopulator:** [frozen-yogurt-regular](https://scoopulator.app/calc?ingredients=user-yogurt-straggisto-2-33939d:350,usdafndds-2709285:150,user-milk-fresh-marata-15-4d71c8:79,erythritol:35,xylitol:12,glycerin:13,inulin:12.3,user-hsn-whey-protein-concentrate-984009:20,usdabranded-soy-lecithin:1.2,xanthan-gum:0.13,guar-gum:0.4,sodium-carboxymethyl-cellulose-cmc:0.6,usdafndds-2710263:0.2,user-strawberry-food-flavor-9rLc4w:2&target=frozen-yogurt-regular&type=frozen_yogurt) — Serv. -12.6°C 🟢 | Sweet 8.08% 🔴 | Solids 22.93% 🔴 | Sugars 10.79% 🔴 | Milk Fat 1.21% 🔴 | MSNF 4.68% 🔴 | Stab 0.17% 🔴 | Emul 0.18% 🟢
+
+---
+
+### Strawberry Sorbet (Sugar-Free)
+Tags: sorbet, strawberry, sugar-free, no-cook, no-dairy, low-cal, original
+
+Water-based strawberry sorbet using fresh strawberries. No dairy, no guar (acid-sensitive — strawberries + citric acid sit at ~pH 3). Xanthan gum handles stabilization (stable pH 2-12) with MCC for fat-mimetic body and ice crystal prevention (MCC+XG synergy). Erythritol+xylitol+glycerin split across three sweeteners for balanced PAC and taste.
+
+**Wet:**
+- **322g** water
+- **250g** strawberries, raw
+- **12g** glycerin
+- **2 drops** strawberry flavor
+
+**Dry:**
+- **40g** erythritol
+- **28g** xylitol
+- **15g** inulin
+- **10g** MCC (microcrystalline cellulose)
+- **1.5g** xanthan gum
+- **1g** citric acid
+- **0.5g** salt
+
+**Steps:**
+1. Blend strawberries with water using immersion blender until smooth.
+2. Add erythritol, xylitol, glycerin — blend to dissolve.
+3. Add inulin, MCC, xanthan, citric acid, salt — blend well (~2 min, MCC needs shear to disperse).
+4. Add 2 drops strawberry flavor, stir.
+5. Rest in fridge 2-4h (xanthan hydration + flavor melding).
+6. Pour into Creami pint, freeze 24h.
+7. Process on **Sorbet** (FULL). Scrape test — if still icy, push down with spoon and run Mix-In (empty) as 2nd pass.
+
+**Notes:**
+- No guar gum — guar loses viscosity at low pH. Xanthan is acid-stable (pH 2-12) and synergistic with MCC.
+- Erythritol at 5.9% of mix (under 8% crystallization threshold). Xylitol (28g) helps prevent erythritol crystallization.
+- GI safety: inulin 15g, xylitol 28g — both well under 30g caps. Combined fermentation load ~43g — manageable.
+- FPDF 37.2 — high for sorbet (target 30-36), stays scoopable straight from freezer for days.
+- Total gums: 1.5g xanthan only (no CMC, no guar). Well under 2g limit.
+- MCC (10g, ~1.5% of mix) provides body and ice crystal inhibition without GI load — not fermented in gut.
+
+**Nutrition (per 100g):** 36 kcal | 0.1g fat | 5g carbs (13.7g sugars, 4g fiber) | 0.2g protein
+
+**Scoopulator:** [sorbet](https://scoopulator.app/calc?ingredients=usdafndds-2709283:250,erythritol:40,xylitol:28,glycerin:12,inulin:15,user-microcrystalline-cellulose-mcc-myujQ3:10,xanthan-gum:1.5,user-citric-acid-7aeef0:1,usdafndds-2710707:322,usdaff-746775:0.5&target=sorbet&type=sorbet) — Serv. -13.7°C 🟢 | Sweet 11% 🟢 | Solids 19.3% 🔴 | Sugars 13.7% 🔴 | Milk Fat 0% 🟢 | MSNF 0% 🟢 | Stab 0.22% 🔴 | Emul 0% 🔴
+*(Solids/Sugars/Emul reds are structural for sugar-free water-based sorbet — no real sugar or fat to hit targets.)*
 *(Sweetness/Sugars reds are structural for sugar-free. Fat/MSNF reds are inherent to low-fat yogurt base. Stab red is expected — yogurt + whey + inulin provide body, gums are just for ice crystal prevention.)*
 
 ---
