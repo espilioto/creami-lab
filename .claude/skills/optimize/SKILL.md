@@ -8,13 +8,13 @@ allowed-tools: Read, Grep, Glob, Bash, WebFetch, Edit, Write
 
 ## MANDATORY: Read Before Proposing
 
-Do NOT guess or rely on memory for ingredient science, PAC/POD values, thickener ratios, or nutrition data. Before proposing any recipe, modification, or ingredient advice:
+Do NOT guess or rely on memory for ingredient science, PAC/POD values, thickener ratios, stabilizer blends, or nutrition data. Before proposing any recipe, modification, or ingredient advice:
 
 1. Read `ice-creamery-main/docs/info/ingredients.md` (PAC/POD/glycemic-index, hardening factors, sweetener/thickener/emulsifier science)
 2. Read `ice-creamery-main/docs/info/nutrition.md` (exact nutritional values per 100g)
 3. Read `ice-creamery-main/docs/info/principles.md` (PAC targets, MSNF targets)
-4. Consult `ice-creamery-main/docs/info/glossary.md` if any term is unclear
-5. Consult **specific sections** of `rest/polar_theory.md` when deeper context is needed (see Polar Theory Lookup Guide below).
+4. Read `ice-creamery-main/docs/info/glossary.md` (PAC, POD, MSNF, HLB, DE definitions — don't assume you know these)
+5. Read the relevant sections of `rest/polar_theory.md` per the Polar Theory Lookup Guide below. **Every recipe touches at least sweeteners and stabilizers — read those sections.** If the recipe involves chocolate, zero-fat, high-protein, or dairy techniques, read those sections too. Do not skip this step — the embedded quick rules below cover the key numbers but the full sections have mechanisms, warnings, and edge cases you will miss otherwise.
 6. **Check ingredients against CLAUDE.md §2 PANTRY.** Every ingredient you use MUST exist in the pantry table OR be clearly present in the source recipe you're adapting. Do NOT invent new ingredients to chase better Scoopulator metrics. If a metric is red because of pantry constraints (e.g. low Sugars% in sugar-free recipes), accept it — that's the nature of the ingredient set.
 7. THEN design the recipe, THEN validate with Scoopulator, THEN present to user.
 
@@ -120,19 +120,24 @@ Both inulin and xylitol ferment in the gut. Combined high doses cause gas, bloat
 
 ## Polar Theory Lookup Guide
 
-> `rest/polar_theory.md` is the full reference (~600 lines). Read **only the section you need**, not the whole file.
+> `rest/polar_theory.md` contains the full science reference (~600 lines). Read the sections that apply to the recipe — do NOT skip this to save time.
 
-| Scenario | Read lines | Section |
-|----------|-----------|---------|
-| Sweetener choice / sugar-free formulation | 9-92 | Sugars & Sweeteners |
-| Stabilizer selection, dosage, or blending | 94-280 | Stabilizers (full) |
-| Stabilizer quick numbers only | 126-234 | Individual Stabilizers |
-| Stabilizer blend ratios | 235-267 | Stabilizer Combinations |
-| Creami-specific balancing | 282-342 | Recipe Balancing |
-| Zero-fat or high-protein formulation | 345-390 | Zero-Fat & High-Protein |
-| Chocolate / cocoa powder selection | 393-438 | Chocolate & Cocoa |
-| Cream techniques (evaporation, blending) | 441-501 | Dairy Techniques |
-| Quick reference tables (all key numbers) | 560-605 | Quick Reference Tables |
+**ALWAYS read for every recipe:**
+
+| Section | Lines | Why |
+|---------|-------|-----|
+| Sugars & Sweeteners | 9-92 | Every recipe uses sweeteners. PAC/POD values, erythritol recrystallization mechanism, dextrose advantages, usage limits |
+| Stabilizers | 94-280 | Every recipe uses stabilizers. Dosages, hydration temps, synergy pairs, cold vs hot process, dispersion rules, what happens when you overshoot |
+| Recipe Balancing | 282-342 | Creami-specific ranges, why freezing point > sugar%, solids targets, MSNF floor |
+
+**Read when the recipe involves:**
+
+| Scenario | Lines | Section |
+|----------|-------|---------|
+| Chocolate or cocoa powder | 393-438 | Chocolate & Cocoa — hardening, cocoa selection, powder vs physical chocolate |
+| Zero-fat or high-protein | 345-390 | Zero-Fat & High-Protein — lost solids problem, maltodextrin, overrun ranges |
+| Cream manipulation or dairy questions | 441-501 | Dairy Techniques — evaporation formula, custom milk/cream, cream additives |
+| Quick number lookup (mid-optimization) | 560-605 | Quick Reference Tables — all key numbers in one place |
 
 ---
 

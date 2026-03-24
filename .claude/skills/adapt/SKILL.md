@@ -16,7 +16,7 @@ allowed-tools: Read, Grep, Glob, Write, Edit, WebFetch
    No shorthand — expand blends to components.
 3. **Only swap what's unavailable.** If it's at the supermarket (almond milk, cocoa, Oreos, cream cheese, fruit, etc.), don't list a swap.
 4. **Steps as numbered lists.** Never compress steps into a single line.
-5. **No hot water rinse.** Process straight from freezer → scrape down sides with butter knife → push top down with spoon → Re-Spin or Mix-In. Follow ice-creamery repo guidance over YouTubers when in doubt.
+5. **No hot water rinse.** Process straight from freezer → scrape down sides with butter knife → push top down with spoon → Re-Spin or Mix-In. When in doubt on ingredient science, read `rest/polar_theory.md` (see `/optimize` skill's Polar Theory Lookup Guide for line ranges) and `ice-creamery-main/docs/info/ingredients.md` — don't guess.
 6. **All units in grams and °C.** Convert cups/tbsp/tsp/oz/ml/°F. For tiny amounts use `0.05g/pinch` format.
 7. **Include every recipe** — even ones needing zero swaps get full write-ups.
 8. **No source tags.** Don't mark where ingredients come from ([HSN], [Manis], etc.) — just list them.
