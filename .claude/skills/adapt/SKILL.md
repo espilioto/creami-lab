@@ -105,6 +105,7 @@ pinch salt                         →  pinch salt
 ## Detailed Swap Logic
 
 > Only consult when a recipe uses an ingredient not covered by the base patterns above.
+> For stabilizer science (blend ratios, synergies, dosages) and sweetener behavior (erythritol recrystallization, dextrose FPD), consult `rest/polar_theory.md`.
 
 ### Fairlife Milk
 Ultra-filtered, lactase-treated. Per 100g: **fat-free** → 33 kcal, 0g fat, 2.5g carbs (lactose), 5.4g protein; **2%** → 50 kcal, 1.9g fat, 2.5g carbs, 5.4g protein. Compare Marata 1.5%: 47 kcal, 1.5g fat, 4.8g carbs, 3.5g protein. Key deltas per 400g dose: Fairlife has +7.6g protein, −9.2g lactose, −6g fat vs Marata.

@@ -14,8 +14,14 @@ Do NOT guess or rely on memory for ingredient science, PAC/POD values, thickener
 2. Read `ice-creamery-main/docs/info/nutrition.md` (exact nutritional values per 100g)
 3. Read `ice-creamery-main/docs/info/principles.md` (PAC targets, MSNF targets)
 4. Consult `ice-creamery-main/docs/info/glossary.md` if any term is unclear
-5. **Check ingredients against CLAUDE.md §2 PANTRY.** Every ingredient you use MUST exist in the pantry table OR be clearly present in the source recipe you're adapting. Do NOT invent new ingredients to chase better Scoopulator metrics. If a metric is red because of pantry constraints (e.g. low Sugars% in sugar-free recipes), accept it — that's the nature of the ingredient set.
-6. THEN design the recipe, THEN validate with Scoopulator, THEN present to user.
+5. Consult `rest/polar_theory.md` when the recipe involves:
+   - **Stabilizer blends** — commercial ratios (4:2:1 LBG:Guar:Carrageenan), synergistic pairings, dosage by type, hot vs cold process
+   - **Creami-specific balancing** — target ranges (fat 5-22%, solids 30s-40s%, water 40s-60s%), dextrose advantage (won't re-harden after spinning), cold-process stabilizer preference
+   - **Sweetener science** — erythritol recrystallization detail, dextrose PAC ~190 (2x sucrose), sugar-free formulation challenges
+   - **Cocoa/chocolate** — cocoa powder fat% vs color vs flavor, physical chocolate vs cocoa powder differences, hardening compensation
+   - **Cream/dairy techniques** — high-fat cream via evaporation (formula), custom milk/cream blending
+6. **Check ingredients against CLAUDE.md §2 PANTRY.** Every ingredient you use MUST exist in the pantry table OR be clearly present in the source recipe you're adapting. Do NOT invent new ingredients to chase better Scoopulator metrics. If a metric is red because of pantry constraints (e.g. low Sugars% in sugar-free recipes), accept it — that's the nature of the ingredient set.
+7. THEN design the recipe, THEN validate with Scoopulator, THEN present to user.
 
 ### Recipe types and ingredient rules
 - **Adapted recipes** (going into CREAMing.md): ONLY pantry ingredients. No exceptions.

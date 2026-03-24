@@ -84,6 +84,8 @@
 | `ice-creamery-main/` | jhermann | GitHub repo clone — raw source (unmodified) |
 | `raw_recipes/fpf/` | Eli | 109 VTT + 113 description files from YouTube |
 | `raw_recipes/e4cm/` | E4CM | 12 VTT + 13 description files from YouTube |
+| `raw_recipes/polar/` | Polar Ice Creamery (Nick) | 171 recipe videos — description + VTT + comments JSON |
+| `raw_recipes/polar_theory/` | Polar Ice Creamery (Nick) | 38 theory/education videos — description + VTT + comments JSON |
 | `rest/NC500Series_IB_MP.txt` | Ninja | NC500 owner's manual (full text) |
 | `rest/scoopulator_ingredients_index.txt` | Scoopify | Ingredient slug lookup for Scoopulator API |
 | `rest/deluxe_spin_modes_fixed.jpg` | espilioto | NC501 Deluxe spin modes — verified Hz, timing, and Top/Bottom/Full minutes |
@@ -91,12 +93,13 @@
 | `rest/yt-dlp_win/yt-dlp.exe` | — | YouTube downloader tool (see `/yt` skill) |
 | `rest/scoopulator_profiles_index.json` | Scoopify | Target profiles (scraped) — acceptable metric ranges per recipe type |
 | `rest/mcc_reference.md` | Research (2026-03) | MCC (E460i) safety, dosage, ice cream use, regulatory status — sourced research |
+| `rest/polar_theory.md` | Polar Ice Creamery (Nick) | Compiled theory reference — stabilizer blends/ratios, sugar science, Creami balancing, cocoa/chocolate, cream hacks, equipment. Supersedes `ice-creamery-main/docs/info/polar-ice-creamery.md` (same source, more comprehensive) |
 
 **Reference docs** in `ice-creamery-main/docs/info/`:
 - `ingredients.md` — PAC/POD/glycemic-index tables, hardening factors, sweeteners/thickeners/emulsifiers/dairy-alts, blend ratios, cocoa, alcohol, tagatose, sucrose esters (E473)
 - `nutrition.md` — kcal/fat/carbs/protein/PAC/MSNF per 100g for 100+ ingredients
 - `tips+tricks.md` — scrape test, icy sides handling, workflow, essential tools
-- `polar-ice-creamery.md` — sugar science (sucrose vs dextrose vs erythritol), stabilizer principles
+- `polar-ice-creamery.md` — sugar science, stabilizer principles (superseded by `rest/polar_theory.md` — use that instead)
 - `principles.md` — PAC targets (20-30 ice cream, 30-36 sorbet), MSNF targets
 - `glossary.md` — PAC, POD, glycemic index, HLB, DE, MSNF, ABV definitions
 - `recipe-guide.md` — low-cal recipes by protein content, grouped by major ingredient (vanilla, chocolate, fruit, boozy)
