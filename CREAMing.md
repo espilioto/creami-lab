@@ -8815,8 +8815,7 @@ Water-based strawberry sorbet using fresh strawberries. No dairy, no guar (acid-
 
 ---
 
-### Strawberry Cheesecake base
-Tags: ice-cream, cheesecake, strawberry, low-fat, sugar-free, no-cook, high-protein, salty-stability, original
+### Cheesecake base
 
 **Base — Wet:**
 - **273g** Marata 1.5% milk
