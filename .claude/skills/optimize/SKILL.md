@@ -15,8 +15,9 @@ Do NOT guess or rely on memory for ingredient science, PAC/POD values, thickener
 3. Read `ice-creamery-main/docs/info/principles.md` (PAC targets, MSNF targets)
 4. Read `ice-creamery-main/docs/info/glossary.md` (PAC, POD, MSNF, HLB, DE definitions — don't assume you know these)
 5. Read the relevant sections of `rest/polar_theory.md` per the Polar Theory Lookup Guide below. **Every recipe touches at least sweeteners and stabilizers — read those sections.** If the recipe involves chocolate, zero-fat, high-protein, or dairy techniques, read those sections too. Do not skip this step — the embedded quick rules below cover the key numbers but the full sections have mechanisms, warnings, and edge cases you will miss otherwise.
-6. **Check ingredients against CLAUDE.md §2 PANTRY.** Every ingredient you use MUST exist in the pantry table OR be clearly present in the source recipe you're adapting. Do NOT invent new ingredients to chase better Scoopulator metrics. If a metric is red because of pantry constraints (e.g. low Sugars% in sugar-free recipes), accept it — that's the nature of the ingredient set.
-7. THEN design the recipe, THEN validate with Scoopulator, THEN present to user.
+6. Read the matching category in `rest/polar_archetypes.md` — find the flavor category (Chocolate, Fruit, Nut, Coffee, Caramel, Cookies, Vanilla, Boozy, Keto, Sorbet, Cheesecake) and read its Traditional Baseline, Key Ratios, Technique, and Translation sections. Also read the Technique Library section for any relevant processes (cocoa blooming, fruit prep, swirl making, etc.). These give you the proven ratios and quality benchmarks that our sugar-free/low-fat version should aim to match.
+7. **Check ingredients against CLAUDE.md §2 PANTRY.** Every ingredient you use MUST exist in the pantry table OR be clearly present in the source recipe you're adapting. Do NOT invent new ingredients to chase better Scoopulator metrics. If a metric is red because of pantry constraints (e.g. low Sugars% in sugar-free recipes), accept it — that's the nature of the ingredient set.
+8. THEN design the recipe, THEN validate with Scoopulator, THEN present to user.
 
 ### Recipe types and ingredient rules
 - **Adapted recipes** (going into CREAMing.md): ONLY pantry ingredients. No exceptions.

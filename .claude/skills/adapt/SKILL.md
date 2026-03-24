@@ -123,6 +123,12 @@ pinch salt                         →  pinch salt
 
 ---
 
+## Archetype Reference
+
+> When adapting a recipe, read its flavor category in `rest/polar_archetypes.md` for traditional baselines, key ratios, techniques, and translation rules. Also check the Technique Library section for ingredient-agnostic processes (cocoa blooming, fruit prep, swirl making, nut paste method, stracciatella, etc.).
+
+---
+
 ## Detailed Swap Logic
 
 > Only consult when a recipe uses an ingredient not covered by the base patterns above.

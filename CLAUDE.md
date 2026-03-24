@@ -94,6 +94,7 @@
 | `rest/scoopulator_profiles_index.json` | Scoopify | Target profiles (scraped) — acceptable metric ranges per recipe type |
 | `rest/mcc_reference.md` | Research (2026-03) | MCC (E460i) safety, dosage, ice cream use, regulatory status — sourced research |
 | `rest/polar_theory.md` | Polar Ice Creamery (Nick) | Compiled theory reference — stabilizer blends/ratios, sugar science, Creami balancing, cocoa/chocolate, cream hacks, equipment. Supersedes `ice-creamery-main/docs/info/polar-ice-creamery.md` (same source, more comprehensive) |
+| `rest/polar_archetypes.md` | Polar Ice Creamery (Nick) | Recipe archetypes by flavor category — traditional baselines, key ratios, techniques, proven combos, and translation rules to our sugar-free/low-fat style. Categories: Chocolate, Fruit, Nut, Coffee, Caramel, Cookies, Vanilla, Boozy, Keto, Sorbet, Cheesecake. Plus ingredient-agnostic Technique Library |
 
 **Reference docs** in `ice-creamery-main/docs/info/`:
 - `ingredients.md` — PAC/POD/glycemic-index tables, hardening factors, sweeteners/thickeners/emulsifiers/dairy-alts, blend ratios, cocoa, alcohol, tagatose, sucrose esters (E473)
