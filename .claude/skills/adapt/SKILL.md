@@ -117,8 +117,9 @@ Ultra-filtered, lactase-treated. Per 100g: **fat-free** → 33 kcal, 0g fat, 2.5
 > GI safety limits protect your gut — they always trump functional limits, which only affect ice cream texture/quality.
 
 Both inulin and xylitol ferment in the gut. **Check per-pint doses in EVERY recipe:**
-- **Inulin ≤ 30g per pint.** Count ALL sources: standalone + inside mixes (15g SS = 11g inulin, 10g ICSv2 = 4.6g inulin). If over, reduce inulin first (swap body to whey protein).
-- **Xylitol ≤ 30g per pint.** Stacks with inulin — keep EACH under its own limit.
+- **Inulin ≤ 30g per pint.** Count ALL sources: standalone + inside mixes (15g SS = 11g inulin, 10g ICSv2 = 4.6g inulin). If over, reduce inulin first (swap body to whey protein or MCC).
+- **Xylitol ≤ 30g per pint.** Both ferment in the gut — stacks with inulin.
+- **Combined fermentable load (inulin + xylitol) ≤ 45g per pint.** Even if each is under its own limit, high combined doses cause GI distress. When one is high, keep the other low. Use MCC or whey protein for body instead of maxing inulin.
 
 ### ⚙️ FUNCTIONAL — ice cream quality (strongly avoid exceeding)
 - **Erythritol ≤ 8% of total mix weight** (~54g in 680g pint) to avoid crystallization. Not a GI concern.

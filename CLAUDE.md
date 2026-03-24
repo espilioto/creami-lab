@@ -12,7 +12,8 @@
 >
 > **🚨 GI SAFETY (gastrointestinal — gut health — top priority, NEVER exceed):**
 > - **Inulin ≤ 30g per pint.** GI distress (gas, bloating, cramps) above this. Counts all sources: standalone inulin + inulin inside mixes (15g SS = 11g inulin, 10g ICSv2 = 4.6g inulin).
-> - **Xylitol ≤ 30g per pint.** GI issues at higher doses. Stacks with inulin — both ferment in the gut. When both are present, keep EACH under its own limit.
+> - **Xylitol ≤ 30g per pint.** GI issues at higher doses. Both ferment in the gut — stacks with inulin.
+> - **Combined fermentable load (inulin + xylitol) ≤ 45g per pint.** Even if each is under its own limit, high combined doses cause GI distress. When one is high, keep the other low. Use MCC or whey protein for body instead of maxing inulin.
 >
 > **⚙️ FUNCTIONAL (ice cream quality — strongly avoid exceeding):**
 > - **Total gums (CMC + guar + xanthan) ≤ 2g per pint.** Above this → stringy, cheese-pull texture. This includes gums inside stabilizer mixes (Salty Stability, ICSv2) — always count them toward the total. Yogurt, whey protein, and inulin provide body — gums are ONLY for ice crystal prevention.
