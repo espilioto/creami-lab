@@ -102,10 +102,30 @@ pinch salt                         →  pinch salt
 
 ---
 
+## Polar Theory Quick Rules (apply during swaps)
+
+> Full reference: `rest/polar_theory.md`. Read specific sections when deeper context needed (see `/optimize` skill's Polar Theory Lookup Guide for line ranges).
+
+**Sweetener swaps:**
+- Dextrose PAC=190 (2x sucrose), POD=70. Won't re-harden after Creami spin. Start 75/25 sucrose/dextrose
+- Erythritol PAC=290-320. Recrystallizes after ~30min frozen. Max 1/3 of sugar weight. Never 1:1 substitute
+- More sugar = duller flavor. Different sweeteners affect FPD at different rates per gram
+
+**Stabilizer swaps:**
+- Cold-process (Creami): xanthan (0.1%), guar (0.1-0.3%). Hot-process: LBG (80-85C), carrageenan, CMC (75C+, 20min)
+- Commercial blend: LBG:Guar:Lambda Carrageenan = 4:2:1. With emulsifier: Lecithin:LBG:Guar:Lambda = 4:4:2:1
+- Low-fat → needs gel (kappa/iota carrageenan). High-fat → NO gel
+- 0.5g over = gummy disaster. Mix into dry solids first, never directly into liquid
+
+**Chocolate:**
+- Cocoa hardening needs extra FPD (dextrose). Black cocoa needs cooking — avoid in cold-process
+- Drinking chocolate ≠ cocoa powder
+
+---
+
 ## Detailed Swap Logic
 
 > Only consult when a recipe uses an ingredient not covered by the base patterns above.
-> For stabilizer science (blend ratios, synergies, dosages) and sweetener behavior (erythritol recrystallization, dextrose FPD), consult `rest/polar_theory.md`.
 
 ### Fairlife Milk
 Ultra-filtered, lactase-treated. Per 100g: **fat-free** → 33 kcal, 0g fat, 2.5g carbs (lactose), 5.4g protein; **2%** → 50 kcal, 1.9g fat, 2.5g carbs, 5.4g protein. Compare Marata 1.5%: 47 kcal, 1.5g fat, 4.8g carbs, 3.5g protein. Key deltas per 400g dose: Fairlife has +7.6g protein, −9.2g lactose, −6g fat vs Marata.

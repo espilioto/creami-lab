@@ -14,12 +14,7 @@ Do NOT guess or rely on memory for ingredient science, PAC/POD values, thickener
 2. Read `ice-creamery-main/docs/info/nutrition.md` (exact nutritional values per 100g)
 3. Read `ice-creamery-main/docs/info/principles.md` (PAC targets, MSNF targets)
 4. Consult `ice-creamery-main/docs/info/glossary.md` if any term is unclear
-5. Consult `rest/polar_theory.md` when the recipe involves:
-   - **Stabilizer blends** — commercial ratios (4:2:1 LBG:Guar:Carrageenan), synergistic pairings, dosage by type, hot vs cold process
-   - **Creami-specific balancing** — target ranges (fat 5-22%, solids 30s-40s%, water 40s-60s%), dextrose advantage (won't re-harden after spinning), cold-process stabilizer preference
-   - **Sweetener science** — erythritol recrystallization detail, dextrose PAC ~190 (2x sucrose), sugar-free formulation challenges
-   - **Cocoa/chocolate** — cocoa powder fat% vs color vs flavor, physical chocolate vs cocoa powder differences, hardening compensation
-   - **Cream/dairy techniques** — high-fat cream via evaporation (formula), custom milk/cream blending
+5. Consult **specific sections** of `rest/polar_theory.md` when deeper context is needed (see Polar Theory Lookup Guide below).
 6. **Check ingredients against CLAUDE.md §2 PANTRY.** Every ingredient you use MUST exist in the pantry table OR be clearly present in the source recipe you're adapting. Do NOT invent new ingredients to chase better Scoopulator metrics. If a metric is red because of pantry constraints (e.g. low Sugars% in sugar-free recipes), accept it — that's the nature of the ingredient set.
 7. THEN design the recipe, THEN validate with Scoopulator, THEN present to user.
 
@@ -89,6 +84,55 @@ Both inulin and xylitol ferment in the gut. Combined high doses cause gas, bloat
 - No GMS — use soy lecithin (1:1 by weight) as emulsifier alongside thickeners
 
 **Erythritol ≤ 8% of total mix weight** (~54g in 680g pint) to avoid crystallization. Not a GI concern (absorbed in small intestine). Xylitol or glycerin help prevent it.
+
+### Sweetener Science (from Polar Theory — always apply)
+- **Dextrose:** PAC=190 (2x sucrose), POD=70. Use for Creami scoopability — won't re-harden after spinning (sucrose-only goes rock hard at -13C). Starting ratio: 75% sucrose / 25% dextrose, up to 50% dextrose. Great for chocolate bases (counteracts hardening)
+- **Erythritol:** PAC=290-320 (3x sucrose), POD=65-75. **Recrystallizes after ~30 min frozen** → sandy/gritty. Max 1/3 of what sugar weight would be. 1:1 substitution = won't freeze at all. Creates ultra-cold mouthfeel. Must combine with other sweeteners
+- **Sucrose baseline:** PAC=100, POD=100. American ice cream 13-20% sugar, gelato 15-23%. More sugar = duller flavor
+
+### Stabilizer Science (from Polar Theory — always apply)
+- **Cold-process preferred for Creami** (no cooking): xanthan (start 0.1%), guar (0.1-0.3%). Both hydrate cold
+- **Hot-process** (need 80-85C): LBG (0.1-0.3%), carrageenan (start 0.1%), CMC (0.2-0.5%, needs 20+ min), tara gum (0.1%+, 75-85C)
+- **Commercial blend: LBG:Guar:Lambda Carrageenan = 4:2:1.** With emulsifier: Lecithin:LBG:Guar:Lambda = 4:4:2:1
+- **Synergy pairs:** Guar+LBG (crystal reduction), LBG+Xanthan (gel), LBG+Kappa carrageenan (gel), CMC+Guar (gel), Gelatin+Xanthan (freeze vs melt states)
+- **Low-fat → needs gel** (kappa/iota carrageenan mimics fat mouthfeel). **High-fat → NO gel** (over-thickens, won't churn)
+- **Precision is critical:** 0.5g over = gummy/slimy disaster. Use micro scales, never teaspoons
+- **Dispersion:** ALWAYS mix stabilizer into dry solids first, then add to liquid. Clumps in liquid never dissolve
+- **Xanthan warning:** add at cool stage, NOT while hot on hob → over-thickens → slimy
+
+### Chocolate Formulation (from Polar Theory — apply for chocolate/cocoa recipes)
+- Cocoa powder and physical chocolate produce **very different results** even at matched fat/sugar/solids
+- Cocoa powder hardening factor requires extra FPD compensation — use dextrose
+- Fat% does NOT determine milk vs dark flavor — roasting process and alkalization matter more
+- Black cocoa (12-13% fat) tastes bad unless heavily cooked — avoid in cold-process
+- Drinking chocolate ≠ cocoa powder (mostly sugar, impossible to balance)
+- Luxury brands most likely use cocoa powder or cocoa+chocolate combos, not just physical chocolate
+
+### Creami Recipe Balancing Ranges (from Polar Theory)
+- Fat: 5-22% all work. Fat doesn't dramatically change freezing point
+- Sugar: 12% is very low (lacks solids, FPD too low). Gelato up to 22%
+- MSNF: down to 5%. Essential for smooth mouthfeel. Without milk proteins → inulin or MCC
+- Total solids: late 30s to early-mid 40s%
+- Water: late 40s to early 60s%
+- **Freezing point is THE most important metric** — more important than sugar%. Different sweeteners affect FPD at different rates per gram
+
+---
+
+## Polar Theory Lookup Guide
+
+> `rest/polar_theory.md` is the full reference (~600 lines). Read **only the section you need**, not the whole file.
+
+| Scenario | Read lines | Section |
+|----------|-----------|---------|
+| Sweetener choice / sugar-free formulation | 9-92 | Sugars & Sweeteners |
+| Stabilizer selection, dosage, or blending | 94-280 | Stabilizers (full) |
+| Stabilizer quick numbers only | 126-234 | Individual Stabilizers |
+| Stabilizer blend ratios | 235-267 | Stabilizer Combinations |
+| Creami-specific balancing | 282-342 | Recipe Balancing |
+| Zero-fat or high-protein formulation | 345-390 | Zero-Fat & High-Protein |
+| Chocolate / cocoa powder selection | 393-438 | Chocolate & Cocoa |
+| Cream techniques (evaporation, blending) | 441-501 | Dairy Techniques |
+| Quick reference tables (all key numbers) | 560-605 | Quick Reference Tables |
 
 ---
 
