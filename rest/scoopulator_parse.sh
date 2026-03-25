@@ -10,10 +10,42 @@ if [ -z "$URL" ]; then
 fi
 
 curl -s "$URL" | python -c "
-import sys
+import sys, re
+from urllib.parse import urlparse, parse_qs
 from bs4 import BeautifulSoup
 
-soup = BeautifulSoup(sys.stdin.read(), 'html.parser')
+URL = '''$URL'''
+html = sys.stdin.read()
+soup = BeautifulSoup(html, 'html.parser')
+
+# ── INGREDIENT COUNT VALIDATION ──
+# Count input ingredients from URL
+qs = parse_qs(urlparse(URL).query)
+input_ingredients = [p.split(':')[0] for p in qs.get('ingredients', [''])[0].split(',') if ':' in p]
+input_count = len(input_ingredients)
+
+# Count output ingredients on page (span.truncate inside li elements)
+output_names = []
+for li in soup.select('li'):
+    span = li.select_one('span.truncate')
+    if span:
+        name = span.get_text(strip=True)
+        if name not in output_names:
+            output_names.append(name)
+output_count = len(output_names)
+
+if input_count != output_count:
+    print(f'\u26a0\ufe0f  SLUG MISMATCH: sent {input_count} ingredients, page shows {output_count}')
+    page_lower = [n.lower() for n in output_names]
+    # Show which slugs likely failed — strip user- prefix and hash suffix for matching
+    for slug in input_ingredients:
+        s = re.sub(r'^(user|usdafndds|usdaff|usdabranded)-', '', slug)
+        s = re.sub(r'-[a-zA-Z0-9]{6}$', '', s)  # strip hash suffix
+        slug_words = set(s.replace('-', ' ').lower().split())
+        matched = any(slug_words & set(re.split(r'[\s,%.]+', n)) for n in page_lower)
+        if not matched:
+            print(f'   \u274c  bad slug: {slug}')
+    print()
 
 STATUS = {
     'card-critical': '\U0001f534',
