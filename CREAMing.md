@@ -8696,7 +8696,7 @@ Milk-only vanilla base (no yogurt) built on Salty Stability philosophy: whey pro
 - **50g** whey protein (HSN WPC80)
 - **17g** xylitol
 - **5g** MCC (microcrystalline cellulose)
-- **0.2g** sucralose
+- **0.1g** sucralose
 - Salty Stability (10g):
   - **7.3g** inulin
   - **1.2g** soy lecithin
@@ -8708,8 +8708,9 @@ Milk-only vanilla base (no yogurt) built on Salty Stability philosophy: whey pro
 **Steps:**
 1. Add milk, vanilla, glycerin to pint.
 2. Combine dry ingredients in a bowl: erythritol, xylitol, sucralose, whey protein, MCC, soy lecithin, CMC, guar, xanthan, salt. Mix well.
-3. Add dry mix to pint. Immersion-blend ~2 min until MCC is fully dispersed and mix is smooth and slightly thickened.
-4. Freeze 24h. Process on **Lite Ice Cream**. Re-spin if needed.
+3. Add dry mix to pint. Stir vigorously by hand until dissolved, then immersion-blend 15-20 sec to disperse MCC. Avoid extended blending — whey protein traps air.
+4. Refrigerate 1-2h, then stir again to pop air bubbles and redistribute MCC (it settles). Freeze 24h.
+5. Process on **Lite Ice Cream**. Re-spin if needed.
 
 **Notes:**
 - SweEX ratio 27:17 (≈3:2) — prevents erythritol crystallization. Erythritol at 5.5% (under 8% threshold).
@@ -8721,7 +8722,7 @@ Milk-only vanilla base (no yogurt) built on Salty Stability philosophy: whey pro
 
 **Nutrition (per 100g):** 95 kcal | 1.9g fat | 5.7g carbs (13.8g sugars, 1.2g fiber) | 10.6g protein
 
-**Scoopulator:** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-15-4d71c8:400,inulin:7.3,usdabranded-soy-lecithin:1.2,sodium-carboxymethyl-cellulose-cmc:0.6,guar-gum:0.4,usdaff-746775:0.3,xanthan-gum:0.13,erythritol:27,xylitol:17,glycerin:5,user-hsn-whey-protein-concentrate-984009:50,pure-vanilla-extract:5,usdafndds-2710263:0.2,user-microcrystalline-cellulose-mcc-myujQ3:5&target=low-fat-ice-cream) — Serv. -14.7°C 🟢 | Sweet 7.61% 🔴 | Solids 28.64% 🟢 | Sugars 13.84% 🔴 | Milk Fat 1.16% 🔴 | MSNF 2.85% 🔴 | Stab 0.22% 🔴 | Emul 0.23% 🟢
+**Scoopulator:** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-15-4d71c8:400,inulin:7.3,usdabranded-soy-lecithin:1.2,sodium-carboxymethyl-cellulose-cmc:0.6,guar-gum:0.4,usdaff-746775:0.3,xanthan-gum:0.13,erythritol:27,xylitol:17,glycerin:5,user-hsn-whey-protein-concentrate-984009:50,pure-vanilla-extract:5,usdafndds-2710263:0.1,user-microcrystalline-cellulose-mcc-myujQ3:5&target=low-fat-ice-cream) — Serv. -14.7°C 🟢 | Sweet 7.61% 🔴 | Solids 28.64% 🟢 | Sugars 13.84% 🔴 | Milk Fat 1.16% 🔴 | MSNF 2.85% 🔴 | Stab 0.22% 🔴 | Emul 0.23% 🟢
 *(Sweetness/Sugars reds are structural for sugar-free. Milk Fat/MSNF reds are inherent to milk-only base with no cream or SMP.)*
 
 ---
