@@ -55,6 +55,7 @@ Tags: sorbet, strawberry, dairy-free, low-calorie, 3-ingredient
 - **300g** fresh strawberries (rinsed, tops removed)
 - **130g** water
 - **20g** erythritol
+- **0.1g** sucralose
 - **0.5g** salt
 
 **Steps:**
