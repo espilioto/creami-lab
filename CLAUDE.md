@@ -81,6 +81,7 @@
 | `icecreamery_recipes.md` | ice-creamery repo (jhermann) | 121 recipes, 7 categories (original ingredients) |
 | `fpf_recipes.md` | FitnessProductFinder (Eli) | 39 B&J dupes + 18 DQ Blizzards + 11 tips (original ingredients) |
 | `e4cm_recipes.md` | Exercise4CheatMeals (E4CM) | 24 recipes + 47 tips (original ingredients) |
+| `polar_recipes.md` | Polar Ice Creamery (Nick) | 171 compiled recipes (original ingredients) |
 | `ice-creamery-main/` | jhermann | GitHub repo clone — raw source (unmodified) |
 | `raw_recipes/fpf/` | Eli | 109 VTT + 113 description files from YouTube |
 | `raw_recipes/e4cm/` | E4CM | 12 VTT + 13 description files from YouTube |
