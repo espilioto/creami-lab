@@ -8874,29 +8874,34 @@ Water-based strawberry sorbet using fresh strawberries. No dairy, no guar (acid-
 ### Sugar-Free Strawberry Sauce (Swirl/Topping)
 Tags: sauce, strawberry, sugar-free, topping, swirl, component, original
 
-Zero-cook strawberry sauce thickened with xanthan gum instead of sugar reduction. Gives the clingy, syrupy body of a cooked-down sauce at a fraction of the calories. Works as a swirl in any pint, a topping, or a mix-in sauce. Scale up or down — the ratio is what matters.
+Cooked-down strawberry sauce — Polar's method. Simmering removes excess water (strawberries are ~91% water), activates natural pectin for jammy body, and concentrates flavor. Xylitol + glycerin provide FPD (freezing point depression — keeps the swirl soft/scoopable at -18C instead of freezing into an icy stripe). Works as a swirl in any pint, a topping, or a mix-in sauce. Yields ~150g.
 
 **Ingredients:**
-- **100g** frozen strawberries
-- **10g** erythritol
-- **0.2g** xanthan gum
-- Squeeze of lemon juice (or pinch citric acid)
+- **200g** frozen strawberries
+- **10g** xylitol — sweetness + FPD
+- **10g** glycerin — FPD + keeps swirl soft at freezer temp
+- **10g** erythritol — sweetness (added off-heat to avoid crystallization)
+- Pinch of **citric acid** (or squeeze of lemon)
+- Pinch of **salt** — rounds out sweetness
 
 **Steps:**
-1. Grate frozen strawberries on the coarse side of a box grater into a bowl. Hold the last nub with a kitchen towel to protect your fingers.
-2. Pre-mix erythritol and xanthan gum together in a small bowl — this prevents xanthan clumps by spacing the particles out in the erythritol.
-3. Stir the erythritol-xanthan mix into the grated strawberries along with lemon juice.
-4. Let sit 10-15 min at room temperature. The shreds thaw, release juice, and the xanthan thickens everything into a syrupy consistency.
-5. Refrigerate until needed. Keeps 3-4 days in the fridge.
+1. Frozen strawberries in a skillet or small pot over **medium heat**. Skillet is faster — more surface area means quicker evaporation.
+2. As they thaw and release juice, **crush with a fork or spatula** into a chunky pulp.
+3. Stir in xylitol to dissolve.
+4. **Simmer 10-15 min**, stirring occasionally, until reduced by roughly half and visibly thick/jammy. It should coat a spoon and not run off immediately.
+5. **Remove from heat.** Stir in glycerin, erythritol, citric acid, and salt while the sauce is still hot (erythritol dissolves in the residual heat but won't concentrate further).
+6. Cool to room temperature, then refrigerate. Keeps 5-7 days in the fridge.
 
 **Notes:**
-- Xanthan ratio is ~0.2% of total weight — enough for syrupy body without sliminess. Do not exceed 0.3g or it gets gloopy.
-- Works with any frozen fruit: raspberries, blueberries, mango, peach. Raspberries benefit from straining seeds after grating.
-- The 0.2g xanthan counts toward the 2g/pint gum limit when used as a swirl inside a pint.
-- **Nutrition (entire batch):** ~35 kcal | 0g fat | ~9g carbs | 0.7g protein
+- **No xanthan needed** — the cook-down + natural pectin provides body. If you prefer an even thicker sauce, add 0.2g xanthan at step 5 (counts toward the 2g/pint gum limit).
+- Works with any frozen fruit: raspberries, blueberries, mango, peach. Raspberries benefit from straining seeds after cooking.
+- **Don't skip the glycerin** — without it (or xylitol), the swirl freezes rock-hard at -18C and you get icy ribbons instead of soft streaks.
+- **Yield:** ~150g (200g fruit minus ~80g water lost, plus 30g dry ingredients).
+- **Nutrition (entire batch, ~150g):** ~131 kcal | F 0.6g | C 25g (sugar 10g, sugar alcohols 13g) | P 1.4g
+- **Nutrition per 100g:** ~87 kcal | F 0.4g | C 17g | P 0.9g
 
-**As a swirl:** Spoon on top of spun ice cream and use a butter knife to drag ribbons into the top 2-3 cm. Do not over-mix — visible streaks are the goal.
+**As a swirl:** Cool completely. Spoon on top of spun ice cream and use a butter knife to drag ribbons into the top 2-3 cm. Do not over-mix — visible streaks are the goal.
 
-**As a mix-in:** Pour into a hole going down to the bottom and fold ice cream over before running the Mix-In cycle.
+**As a mix-in:** Cool completely. Pour into a hole going down to the bottom and fold ice cream over before running the Mix-In cycle.
 
 ---
