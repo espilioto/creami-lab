@@ -8698,11 +8698,10 @@ Milk-only vanilla base (no yogurt) built on Salty Stability philosophy: whey pro
 - **5g** MCC (microcrystalline cellulose)
 - **0.1g** sucralose
 - Salty Stability (10g):
-  - **7.3g** inulin
-  - **1.2g** soy lecithin
-  - **0.6g** CMC
-  - **0.4g** guar gum
-  - **0.3g** salt
+  - **8.53g** inulin
+  - **0.60g** CMC
+  - **0.40g** guar gum
+  - **0.33g** salt
   - **0.13g** xanthan gum
 
 **Steps:**
@@ -8746,11 +8745,10 @@ Yogurt-heavy froyo with frozen strawberries as the star. 350g strained yogurt gi
 - **5g** inulin
 - **0.2g** sucralose
 - Salty Stability (10g):
-  - **7.3g** inulin
-  - **1.2g** soy lecithin
-  - **0.6g** CMC
-  - **0.4g** guar gum
-  - **0.3g** salt
+  - **8.53g** inulin
+  - **0.60g** CMC
+  - **0.40g** guar gum
+  - **0.33g** salt
   - **0.13g** xanthan gum
 
 **Steps:**
@@ -8832,11 +8830,10 @@ Water-based strawberry sorbet using fresh strawberries. No dairy, no guar (acid-
 - **10g** xylitol
 - **0.3g** sucralose
 - Salty Stability (10g):
-  - **7.3g** inulin
-  - **1.2g** soy lecithin
-  - **0.6g** CMC
-  - **0.4g** guar gum
-  - **0.3g** salt
+  - **8.53g** inulin
+  - **0.60g** CMC
+  - **0.40g** guar gum
+  - **0.33g** salt
   - **0.13g** xanthan gum
 
 **Extras (not in Scoopulator — added after spin):**
