@@ -3116,14 +3116,15 @@ Zucchini, pickled:usdafndds-2710104
 Zwieback toast:usdafndds-2707705
 
 ===================================================== my custom ingredients below
-Citric acid:user-citric-acid-7aeef0
-Yogurt marata straggisto 2%:user-yogurt-straggisto-2-33939d
-Milk, fresh, marata 1.5%:user-milk-fresh-marata-15-4d71c8
-Yogurt marata peach 1.7%:user-yogurt-marata-peach-17-90edee
-Yogurt marata strawberry 1.7%:user-yogurt-marata-strawberry-17-3ab50b
-HSN whey protein concentrate:user-hsn-whey-protein-concentrate-984009
-Milk Cream Food Flavor:user-milk-cream-food-flavor-a1ynPB
-Strawberry Food Flavor:user-strawberry-food-flavor-9rLc4w
 Chocolate Food Flavor:user-chocolate-food-flavor-PX5DeH
+Citric acid:user-citric-acid-7aeef0
 Cream cheese light (ADORO):user-cream-cheese-light-adoro-HgwT7k
+HSN whey protein concentrate:user-hsn-whey-protein-concentrate-984009
 Microcrystalline cellulose (MCC):user-microcrystalline-cellulose-mcc-myujQ3
+Milk Cream Food Flavor:user-milk-cream-food-flavor-a1ynPB
+Milk, fresh, marata 1.5%:user-milk-fresh-marata-15-4d71c8
+Milk, fresh, marata 3.5%:user-milk-fresh-marata-35-L1Bll6
+Strawberry Food Flavor:user-strawberry-food-flavor-9rLc4w
+Yogurt marata peach 1.7%:user-yogurt-marata-peach-17-90edee
+Yogurt marata straggisto 2%:user-yogurt-straggisto-2-33939d
+Yogurt marata strawberry 1.7%:user-yogurt-marata-strawberry-17-3ab50b
