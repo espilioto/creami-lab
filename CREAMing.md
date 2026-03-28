@@ -8861,10 +8861,10 @@ Water-based strawberry sorbet using fresh strawberries. No dairy, no guar (acid-
 - Base weight ~660g before extras. Extras (35g biscuit + sauce) add after spin, keeping pint under 24oz capacity.
 
 **Nutrition (per 100g):**
-- **Base (660g):** 101 kcal | 3.8g fat (2.4g sat) | 5g carbs (12.3g sugars, 1g fiber) | 9.5g protein
+- **Base (660g):** ~100 kcal | 3.8g fat | 3.8g carbs (sugars), 6.8g sugar alcohols, 1.1g fiber | 9.5g protein
 - **Biscuits (35g @ 430 kcal/100g):** ~150 kcal total
-- **Strawberry sauce (~110g):** ~35 kcal total
-- **Whole pint (~805g):** ~854 kcal → **~106 kcal/100g**
+- **Strawberry sauce (~75g):** ~66 kcal total
+- **Whole pint (~770g):** ~874 kcal → **~113 kcal/100g**
 
 **Scoopulator (base only):** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-15-4d71c8:273,user-yogurt-straggisto-2-33939d:150,user-cream-cheese-light-adoro-HgwT7k:135,glycerin:10,pure-vanilla-extract:2,erythritol:35,user-hsn-whey-protein-concentrate-984009:35,xylitol:10,usdafndds-2710263:0.3,inulin:7.3,usdabranded-soy-lecithin:1.2,sodium-carboxymethyl-cellulose-cmc:0.6,guar-gum:0.4,usdaff-746775:0.3,xanthan-gum:0.13&target=low-fat-ice-cream) — Serv. -14.2°C 🟢 | Sweet 6.43% 🔴 | Solids 27.29% 🟡 | Sugars 10.74% 🔴 | Milk Fat 4.35% 🟢 | MSNF 5.85% 🔴 | Stab 0.17% 🔴 | Emul 0.18% 🟢
 *(Sweetness/Sugars reds are structural for sugar-free. MSNF red is inherent to cream cheese base (high fat, low MSNF). Stab red is expected — yogurt + whey + cream cheese provide body, gums are just for ice crystal prevention.)*
@@ -8874,7 +8874,7 @@ Water-based strawberry sorbet using fresh strawberries. No dairy, no guar (acid-
 ### Sugar-Free Strawberry Sauce (Swirl/Topping)
 Tags: sauce, strawberry, sugar-free, topping, swirl, component, original
 
-Cooked-down strawberry sauce — Polar's method. Simmering removes excess water (strawberries are ~91% water), activates natural pectin for jammy body, and concentrates flavor. Xylitol + glycerin provide FPD (freezing point depression — keeps the swirl soft/scoopable at -18C instead of freezing into an icy stripe). Works as a swirl in any pint, a topping, or a mix-in sauce. Yields ~150g.
+Cooked-down strawberry sauce — Polar's method. Simmering removes excess water (strawberries are ~91% water), activates natural pectin for jammy body, and concentrates flavor. Xylitol + glycerin provide FPD (freezing point depression — keeps the swirl soft/scoopable at -18C instead of freezing into an icy stripe). Works as a swirl in any pint, a topping, or a mix-in sauce. Yields ~75g.
 
 **Ingredients:**
 - **100g** frozen strawberries
@@ -8897,8 +8897,8 @@ Cooked-down strawberry sauce — Polar's method. Simmering removes excess water 
 - Works with any frozen fruit: raspberries, blueberries, mango, peach. Raspberries benefit from straining seeds after cooking.
 - **Don't skip the glycerin** — without it (or xylitol), the swirl freezes rock-hard at -18C and you get icy ribbons instead of soft streaks.
 - **Yield:** ~75g (100g fruit minus ~40g water lost, plus 15g dry ingredients).
-- **Nutrition (entire batch, ~75g):** ~66 kcal | F 0.3g | C 13g (sugar 5g, sugar alcohols 7g) | P 0.7g
-- **Nutrition per 100g:** ~88 kcal | F 0.4g | C 17g | P 0.9g
+- **Nutrition (entire batch, ~75g):** ~66 kcal | F 0.3g | C 17.7g (sugars 4.9g, sugar alcohols 10g) | P 0.7g
+- **Nutrition per 100g:** ~88 kcal | F 0.4g | C 23.6g | P 0.9g
 
 **As a swirl:** Cool completely. Spoon on top of spun ice cream and use a butter knife to drag ribbons into the top 2-3 cm. Do not over-mix — visible streaks are the goal.
 
