@@ -8877,10 +8877,10 @@ Tags: sauce, strawberry, sugar-free, topping, swirl, component, original
 Cooked-down strawberry sauce — Polar's method. Simmering removes excess water (strawberries are ~91% water), activates natural pectin for jammy body, and concentrates flavor. Xylitol + glycerin provide FPD (freezing point depression — keeps the swirl soft/scoopable at -18C instead of freezing into an icy stripe). Works as a swirl in any pint, a topping, or a mix-in sauce. Yields ~150g.
 
 **Ingredients:**
-- **200g** frozen strawberries
-- **10g** xylitol — sweetness + FPD
-- **10g** glycerin — FPD + keeps swirl soft at freezer temp
-- **10g** erythritol — sweetness (added off-heat to avoid crystallization)
+- **100g** frozen strawberries
+- **5g** xylitol — sweetness + FPD
+- **5g** glycerin — FPD + keeps swirl soft at freezer temp
+- **5g** erythritol — sweetness (added off-heat to avoid crystallization)
 - Pinch of **citric acid** (or squeeze of lemon)
 - Pinch of **salt** — rounds out sweetness
 
@@ -8896,9 +8896,9 @@ Cooked-down strawberry sauce — Polar's method. Simmering removes excess water 
 - **No xanthan needed** — the cook-down + natural pectin provides body. If you prefer an even thicker sauce, add 0.2g xanthan at step 5 (counts toward the 2g/pint gum limit).
 - Works with any frozen fruit: raspberries, blueberries, mango, peach. Raspberries benefit from straining seeds after cooking.
 - **Don't skip the glycerin** — without it (or xylitol), the swirl freezes rock-hard at -18C and you get icy ribbons instead of soft streaks.
-- **Yield:** ~150g (200g fruit minus ~80g water lost, plus 30g dry ingredients).
-- **Nutrition (entire batch, ~150g):** ~131 kcal | F 0.6g | C 25g (sugar 10g, sugar alcohols 13g) | P 1.4g
-- **Nutrition per 100g:** ~87 kcal | F 0.4g | C 17g | P 0.9g
+- **Yield:** ~75g (100g fruit minus ~40g water lost, plus 15g dry ingredients).
+- **Nutrition (entire batch, ~75g):** ~66 kcal | F 0.3g | C 13g (sugar 5g, sugar alcohols 7g) | P 0.7g
+- **Nutrition per 100g:** ~88 kcal | F 0.4g | C 17g | P 0.9g
 
 **As a swirl:** Cool completely. Spoon on top of spun ice cream and use a butter knife to drag ribbons into the top 2-3 cm. Do not over-mix — visible streaks are the goal.
 
