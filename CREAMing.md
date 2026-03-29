@@ -8841,6 +8841,8 @@ Water-based strawberry sorbet using fresh strawberries. No dairy, no guar (acid-
 - **20g** Gullon Zero Digestive, broken into pea-to-chickpea-sized chunks, pre-frozen (mix-in after spin)
 - **Strawberry Sauce** (swirled after spin — see standalone recipe below)
 
+**Cost:** ~€5.23/kg — ~€4.03/pint (base €3.47 + sauce €0.56; excludes vanilla 2g — price TBD)
+
 **Steps:**
 1. **Make the base:** Add milk, yogurt, cream cheese, glycerin, and vanilla to pint.
 2. Combine dry ingredients in a bowl: erythritol, xylitol, sucralose, whey protein, Salty Stability components. Mix well.
