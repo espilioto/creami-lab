@@ -8790,6 +8790,8 @@ Water-based strawberry sorbet using fresh strawberries. No dairy, no guar (acid-
 - **1g** citric acid
 - **0.5g** salt
 
+**Cost:** ~€3.65/kg — ~€2.48/pint
+
 **Steps:**
 1. Blend strawberries with water using immersion blender until smooth.
 2. Add erythritol, xylitol, glycerin — blend to dissolve.
@@ -8882,6 +8884,8 @@ Cooked-down strawberry sauce — Polar's method. Simmering removes excess water 
 - **5g** erythritol — sweetness (added off-heat to avoid crystallization)
 - Pinch of **citric acid** (or squeeze of lemon)
 - Pinch of **salt** — rounds out sweetness
+
+**Cost:** ~€7.47/kg — ~€0.56/batch (~75g yield)
 
 **Steps:**
 1. Frozen strawberries in a skillet or small pot over **medium heat**. Skillet is faster — more surface area means quicker evaporation.
