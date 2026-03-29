@@ -21,6 +21,7 @@ allowed-tools: Read, Grep, Glob, Write, Edit, WebFetch
 7. **Include every recipe** — even ones needing zero swaps get full write-ups.
 8. **No source tags.** Don't mark where ingredients come from ([HSN], [Manis], etc.) — just list them.
 9. **🟡 drawback comments** describe impact on the *ice cream*, not the ingredient (e.g. "slightly richer pint" not "higher fat milk").
+10. **Cost line.** After all ingredients and before Steps, add: `**Cost:** ~€X.XX/kg — ~€X.XX/pint` — computed from CLAUDE.md §2 PANTRY `€/kg` column. €/kg = pint_cost ÷ (total_grams ÷ 1000). If some ingredients have TBD pricing, append `(excludes: ingredient Xg — price TBD)`.
 
 ---
 

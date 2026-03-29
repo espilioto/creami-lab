@@ -55,6 +55,23 @@ Metrics like Sugars%, Milk Fat%, Total Solids%, and MSNF% will often be red/yell
 
 ---
 
+## Cost Per Pint
+
+After Scoopulator validation, compute the pint cost from the `€/kg` column in CLAUDE.md §2 PANTRY.
+
+**Formula:** `Cost = Σ (ingredient_grams × €_per_kg / 1000)`
+
+**Rules:**
+1. Use the `€/kg` value from the pantry table for each ingredient.
+2. For ingredients with `TBD` or `—` pricing, exclude from the total and list them separately.
+3. Compute `€/kg = pint_cost / (total_grams / 1000)` alongside the pint cost.
+4. Show the cost after the Scoopulator summary line. Format:
+   - All priced: `**Cost:** ~€X.XX/kg — ~€X.XX/pint`
+   - Some unpriced: `**Cost:** ~€X.XX/kg — ~€X.XX/pint (excludes: vanilla extract 5g, peanut butter 30g — prices TBD)`
+5. Round to 2 decimal places.
+
+---
+
 ## Ingredient Reference (Key Numbers)
 
 **Target PAC:** 20-30 for scoopable ice cream, 30-36 for sorbets

@@ -43,32 +43,35 @@
 
 ## 2. PANTRY — WHAT I HAVE
 
-| Ingredient | Source | Notes |
-|-----------|--------|-------|
-| Glycerin (VG, E422) | Manis | FPD, PAC=3.7, sweetness=60% sugar. Typical: 5-20g/pint. No GI concern — absorbed in small intestine, well-tolerated up to 35g |
-| Xanthan Gum (E415) | Manis | Thickener/stabilizer. ⚠️ **All gums combined ≤ 2g/pint** (incl. inside mixes) |
-| CMC (E466, Tylose) | Manis | Stabilizer, prevents ice crystals. ⚠️ Count toward 2g gum limit |
-| Guar Gum (E412) | Manis | Body/mouthfeel. ⚠️ Count toward 2g gum limit |
-| Chocolate Flavor | Manis | Flavor drops — **MAX 2 drops/pint** (3 is too intense) |
-| Strawberry Flavor | Manis | Flavor drops — **MAX 2 drops/pint** (3 is too intense) |
-| Milk Cream Flavor | Manis | Flavor drops, caramel sub — **MAX 2 drops/pint** (3 is too intense) |
-| Soy Lecithin Powder (E322) | Manis | Emulsifier, replaces GMS 1:1 by weight |
-| Erythritol (E968) | HSN | PAC=2.8, sweetness=75%, non-caloric. ⚠️ ≤8% of mix weight (~54g/pint) or crystallization risk |
-| Xylitol (E967) | HSN | PAC=2.2, sweetness=100%. ⚠️ ≤30g/pint GI limit (stacks with inulin) |
-| Inulin | HSN | Fiber/bulking, PAC=0.22, sweetness=8%. Adds body, replaces fat. ⚠️ ≤30g/pint GI limit (stacks with xylitol) |
-| Sucralose | HSN | 600x sweeter than sugar, zero glycemic index, zero cal. Tiny amounts |
-| Whey Protein — HSN WPC80 | HSN | Unflavored. Per 100g: 408kcal, P82 F6.4 C5.8 S0.57. Contains sunflower lecithin (~0.8-1g/100g est.). Binds water, prevents ice crystals. When a recipe calls for flavored protein (chocolate, vanilla, etc.), use this + cocoa powder / vanilla extract / flavor drops to match the flavor. |
-| ⚠️ IGNORE WHEN CRAFTING RECIPES ⚠️ Whey Protein — Manis WPC75 | Manis | EuriNutri 75 PL (WPC75). Lecithin-free. Est. per 100g: ~390kcal, P≥75 F~6 C~9 S~0.15. From casein whey, not instantized. |
-| Salt | Supermarket | Kitchen salt |
-| Cocoa powder | Supermarket | For chocolate bases |
-| Vanilla extract | Supermarket | Replaces vanilla bean powder in all repo recipes |
-| Marata 1.5% milk | Supermarket | 47 kcal/100ml. Fat 1.5, carbs 4.8, protein 3.5, water ~90%. Standard base |
-| Marata 2% strained yogurt | Supermarket | 66 kcal/100g. Fat 2, carbs 3.9, protein 8 |
-| Citric acid | Supermarket | — |
-| Cream of tartar | Supermarket | Meringue stabilizer |
-| Peanut butter (smooth) | Supermarket | Peanut 94%, pea protein 3%, rice protein 3%. Per 100g: 620kcal, F48.3 (sat 7.7), C18.3 (sugar 4.7), fiber 8.0, P32.0, S0.02. |
-| ADORO Light cream cheese | Supermarket | Per 100g: 148kcal, F11 (sat 7.1), C3.2 (sugar 3.2), P9.2, S0.68. Water ~75%, solids 25%, MSNF ~14.1%. Scoopulator: `user-cream-cheese-light-adoro-HgwT7k` |
-| MCC — Microcrystalline Cellulose (E460i) | Manis | Zero-cal insoluble fiber **stabilizer**. Fat mimetic, ice crystal inhibitor, bulking agent. PAC=0, POD=0. **Not fermented in gut** (~5-7% vs inulin's ~100%) — no GI concern. 3-10g/pint. Needs shear to disperse (immersion blender). **Synergistic with xanthan gum** — MCC+XG together >> either alone (research-backed). MCC alone softens texture (lower firmness — good for scoopability); XG prevents MCC from settling. Works best combined with CMC or XG. **Scoopulator:** custom ingredient `Microcrystalline cellulose (MCC)`, Stabilizer=100%, FPDF=0, Sweetness=0, Cal=0. See `rest/mcc_reference.md` for full research. |
+| Ingredient | Source | €/kg | Notes |
+|-----------|--------|------|-------|
+| Glycerin (VG, E422) | Manis | 4.00 | FPD, PAC=3.7, sweetness=60% sugar. Typical: 5-20g/pint. No GI concern — absorbed in small intestine, well-tolerated up to 35g |
+| Xanthan Gum (E415) | Manis | 12.00 | Thickener/stabilizer. ⚠️ **All gums combined ≤ 2g/pint** (incl. inside mixes) |
+| CMC (E466, Tylose) | Manis | 18.00 | Stabilizer, prevents ice crystals. ⚠️ Count toward 2g gum limit |
+| Guar Gum (E412) | Manis | 12.00 | Body/mouthfeel. ⚠️ Count toward 2g gum limit |
+| Chocolate Flavor | Manis | 83.33 | Flavor drops — **MAX 2 drops/pint** (3 is too intense). €5/60ml |
+| Strawberry Flavor | Manis | 83.33 | Flavor drops — **MAX 2 drops/pint** (3 is too intense). €5/60ml |
+| Milk Cream Flavor | Manis | 83.33 | Flavor drops, caramel sub — **MAX 2 drops/pint** (3 is too intense). €5/60ml |
+| Soy Lecithin Powder (E322) | Manis | 18.00 | Emulsifier, replaces GMS 1:1 by weight |
+| Erythritol (E968) | HSN | 13.02 | PAC=2.8, sweetness=75%, non-caloric. ⚠️ ≤8% of mix weight (~54g/pint) or crystallization risk |
+| Xylitol (E967) | HSN | 14.32 | PAC=2.2, sweetness=100%. ⚠️ ≤30g/pint GI limit (stacks with inulin) |
+| Inulin | HSN | 19.05 | Fiber/bulking, PAC=0.22, sweetness=8%. Adds body, replaces fat. ⚠️ ≤30g/pint GI limit (stacks with xylitol) |
+| Sucralose | HSN | 153.00 | 600x sweeter than sugar, zero glycemic index, zero cal. Tiny amounts (€22.95/150g) |
+| Whey Protein — HSN WPC80 | HSN | 21.28 | Unflavored. Per 100g: 408kcal, P82 F6.4 C5.8 S0.57. Contains sunflower lecithin (~0.8-1g/100g est.). Binds water, prevents ice crystals. When a recipe calls for flavored protein (chocolate, vanilla, etc.), use this + cocoa powder / vanilla extract / flavor drops to match the flavor. |
+| ⚠️ IGNORE WHEN CRAFTING RECIPES ⚠️ Whey Protein — Manis WPC75 | Manis | — | EuriNutri 75 PL (WPC75). Lecithin-free. Est. per 100g: ~390kcal, P≥75 F~6 C~9 S~0.15. From casein whey, not instantized. |
+| Salt | Supermarket | — | Kitchen salt (negligible cost) |
+| Cocoa powder | Supermarket | 17.20 | For chocolate bases. Bonora brand, €2.15/125g |
+| Vanilla extract | Supermarket | TBD | Replaces vanilla bean powder in all repo recipes |
+| Marata 1.5% milk | Supermarket | 1.05 | 47 kcal/100ml. Fat 1.5, carbs 4.8, protein 3.5, water ~90%. Standard base. €1.05/L |
+| Marata 2% strained yogurt | Supermarket | 2.70 | 66 kcal/100g. Fat 2, carbs 3.9, protein 8 |
+| Citric acid | Supermarket | — | — |
+| Cream of tartar | Supermarket | — | Meringue stabilizer |
+| Peanut butter (smooth) | Supermarket | TBD | Peanut 94%, pea protein 3%, rice protein 3%. Per 100g: 620kcal, F48.3 (sat 7.7), C18.3 (sugar 4.7), fiber 8.0, P32.0, S0.02. |
+| Royal Light cream cheese | Supermarket | 7.45 | Per 100g: ~134kcal, similar macros to ADORO Light. €1.49/200g. |
+| Coconut milk (Oriental Express) | Supermarket | 5.13 | Vegan, gluten-free. €2.05/400ml |
+| Frozen strawberries | Supermarket | 4.00 | Avg price. For sorbets, sauces, swirls |
+| Gullon Zero Digestive | Supermarket | 4.50 | Vegan, sugar-free. €1.80/400g. Mix-in biscuit |
+| MCC — Microcrystalline Cellulose (E460i) | Manis | 12.00 | Zero-cal insoluble fiber **stabilizer**. Fat mimetic, ice crystal inhibitor, bulking agent. PAC=0, POD=0. **Not fermented in gut** (~5-7% vs inulin's ~100%) — no GI concern. 3-10g/pint. Needs shear to disperse (immersion blender). **Synergistic with xanthan gum** — MCC+XG together >> either alone (research-backed). MCC alone softens texture (lower firmness — good for scoopability); XG prevents MCC from settling. Works best combined with CMC or XG. **Scoopulator:** custom ingredient `Microcrystalline cellulose (MCC)`, Stabilizer=100%, FPDF=0, Sweetness=0, Cal=0. See `rest/mcc_reference.md` for full research. |
 
 ---
 
