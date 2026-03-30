@@ -3118,7 +3118,8 @@ Zwieback toast:usdafndds-2707705
 ===================================================== my custom ingredients below
 Chocolate Food Flavor:user-chocolate-food-flavor-PX5DeH
 Citric acid:user-citric-acid-7aeef0
-Cream cheese light (ADORO):user-cream-cheese-light-adoro-HgwT7k
+Cononut milk (ORIENTAL EXPRESS):user-cononut-milk-oriental-express-uaaX5B
+Cream cheese light (ADORO):user-cream-cheese-light-adoro-Hg wT7k
 HSN whey protein concentrate:user-hsn-whey-protein-concentrate-984009
 Microcrystalline cellulose (MCC):user-microcrystalline-cellulose-mcc-myujQ3
 Milk Cream Food Flavor:user-milk-cream-food-flavor-a1ynPB
