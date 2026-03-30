@@ -8915,23 +8915,23 @@ Tags: ice-cream, coconut, low-fat, sugar-free, no-cook, salty-stability, origina
 Coconut-forward ice cream using Oriental Express canned coconut milk (18% fat) as the flavor base. Half a can (200g) gives strong coconut flavor while keeping kcal around 111/100g — the rest is 1.5% milk. Whey protein and MCC provide body and ice crystal prevention; inulin adds solids. No soy lecithin — whey protein's natural sunflower lecithin (~0.2g) handles the modest emulsification need.
 
 **Wet:**
-- **340g** Marata 1.5% milk
-- **200g** coconut milk (Oriental Express, 18% fat) — half a 400ml can
-- **10g** glycerin
+- **340g** Marata 1.5% milk — €0.36
+- **200g** coconut milk (Oriental Express, 18% fat) — half a 400ml can — €1.03
+- **10g** glycerin — €0.04
 
 **Dry:**
-- **35g** erythritol
-- **23g** xylitol
-- **22g** whey protein (HSN WPC80)
-- **11.47g** inulin
-- **8g** MCC (microcrystalline cellulose)
-- **0.15g** sucralose
-- Salty Stability (10g):
-  - **8.53g** inulin
-  - **0.60g** CMC
-  - **0.40g** guar gum
-  - **0.33g** salt
-  - **0.13g** xanthan gum
+- **35g** erythritol — €0.46
+- **23g** xylitol — €0.33
+- **22g** whey protein (HSN WPC80) — €0.47
+- **11.47g** inulin — €0.22
+- **8g** MCC (microcrystalline cellulose) — €0.10
+- **0.15g** sucralose — €0.02
+- Salty Stability (10g) — €0.19:
+  - **8.53g** inulin — €0.16
+  - **0.60g** CMC — €0.01
+  - **0.40g** guar gum — €0.00
+  - **0.33g** salt — —
+  - **0.13g** xanthan gum — €0.00
 
 **Steps:**
 1. Add milk, coconut milk, and glycerin to pint.
