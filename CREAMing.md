@@ -8908,3 +8908,49 @@ Cooked-down strawberry sauce — Polar's method. Simmering removes excess water 
 **As a mix-in:** Cool completely. Pour into a hole going down to the bottom and fold ice cream over before running the Mix-In cycle.
 
 ---
+
+### Coconut Ice Cream (Sugar-Free)
+Tags: ice-cream, coconut, low-fat, sugar-free, no-cook, salty-stability, original
+
+Coconut-forward ice cream using Oriental Express canned coconut milk (18% fat) as the flavor base. Half a can (200g) gives strong coconut flavor while keeping kcal around 111/100g — the rest is 1.5% milk. Whey protein and MCC provide body and ice crystal prevention; inulin adds solids. No soy lecithin — whey protein's natural sunflower lecithin (~0.2g) handles the modest emulsification need.
+
+**Wet:**
+- **340g** Marata 1.5% milk
+- **200g** coconut milk (Oriental Express, 18% fat) — half a 400ml can
+- **10g** glycerin
+
+**Dry:**
+- **35g** erythritol
+- **23g** xylitol
+- **22g** whey protein (HSN WPC80)
+- **11.47g** inulin
+- **8g** MCC (microcrystalline cellulose)
+- **0.15g** sucralose
+- Salty Stability (10g):
+  - **8.53g** inulin
+  - **0.60g** CMC
+  - **0.40g** guar gum
+  - **0.33g** salt
+  - **0.13g** xanthan gum
+
+**Steps:**
+1. Add milk, coconut milk, and glycerin to pint.
+2. Combine dry ingredients in a bowl: erythritol, xylitol, sucralose, whey protein, inulin, MCC, Salty Stability. Mix well.
+3. Add dry mix to pint. Stir vigorously by hand, then immersion-blend 15-20 sec to disperse MCC. Avoid extended blending — whey protein traps air.
+4. Refrigerate 1-2h, stir again to pop air bubbles and redistribute MCC (it settles). Freeze 24h.
+5. Process on **Lite Ice Cream**. Re-spin if needed.
+
+**Notes:**
+- Half a can of coconut milk — use the other half for a second pint or freeze in an ice cube tray for later.
+- SweEX ratio 35:23 (≈3:2) — xylitol prevents erythritol crystallization. Erythritol at 5.3% of mix (under 8% threshold).
+- GI safety: inulin 20g + xylitol 23g = 43g combined fermentable — under 45g limit.
+- Total gums: 0.9g CMC + 0.6g guar + 0.2g xanthan = 1.7g (under 2g limit). Coconut milk also contains guar gum (unlisted amount).
+- Glycerin at 10g — just for mild FPD (PAC (anti-freezing power) 3.7). Whey + inulin + MCC handle body.
+- No soy lecithin added. Coconut fat load is moderate (~36g) and whey protein is surface-active enough.
+
+**Cost:** ~€4.91/kg — ~€3.25/pint
+
+**Scoopulator:** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-coconut-milk-oriental-express-x3zpyE:200,user-milk-fresh-marata-15-4d71c8:340,erythritol:35,xylitol:23,glycerin:10,inulin:20,user-hsn-whey-protein-concentrate-984009:22,user-microcrystalline-cellulose-mcc-myujQ3:8,sodium-carboxymethyl-cellulose-cmc:0.9,guar-gum:0.6,xanthan-gum:0.2,usdaff-746775:0.5,usdafndds-2710263:0.15&target=low-fat-ice-cream) — Serv. -14.4°C 🟢 | Sweet 8.58% 🔴 | Sugars 11.05% 🔴 | Solids 27.18% 🟡 | Stab 0.33% 🔴 | Emul 0% 🔴 | 111 kcal/100g
+*(Sugars red is structural — no sugar. Stab red — low-fat profile expects 0.7-0.9% but we get body from whey+inulin+MCC, not gums. Emul red — no standalone emulsifier; whey protein provides natural emulsification.)*
+
+---
