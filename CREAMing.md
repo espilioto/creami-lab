@@ -8948,9 +8948,34 @@ Coconut-forward ice cream using Oriental Express canned coconut milk (18% fat) a
 - Glycerin at 10g — just for mild FPD (PAC (anti-freezing power) 3.7). Whey + inulin + MCC handle body.
 - No soy lecithin added. Coconut fat load is moderate (~36g) and whey protein is surface-active enough.
 
+**Optional mix-in:** Chocolate stracciatella drizzle — see Chocolate-Oil Drizzle recipe below.
+
 **Cost:** ~€4.91/kg — ~€3.25/pint
 
 **Scoopulator:** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-coconut-milk-oriental-express-x3zpyE:200,user-milk-fresh-marata-15-4d71c8:340,erythritol:35,xylitol:23,glycerin:10,inulin:20,user-hsn-whey-protein-concentrate-984009:22,user-microcrystalline-cellulose-mcc-myujQ3:8,sodium-carboxymethyl-cellulose-cmc:0.9,guar-gum:0.6,xanthan-gum:0.2,usdaff-746775:0.5,usdafndds-2710263:0.15&target=low-fat-ice-cream) — Serv. -14.4°C 🟢 | Sweet 8.58% 🔴 | Sugars 11.05% 🔴 | Solids 27.18% 🟡 | Stab 0.33% 🔴 | Emul 0% 🔴 | 111 kcal/100g
 *(Sugars red is structural — no sugar. Stab red — low-fat profile expects 0.7-0.9% but we get body from whey+inulin+MCC, not gums. Emul red — no standalone emulsifier; whey protein provides natural emulsification.)*
+
+---
+
+### Chocolate-Oil Drizzle (Stracciatella)
+Tags: mix-in, chocolate, stracciatella, component
+
+Light chocolate drizzle for stracciatella-style flakes in any pint. Oil keeps the chocolate softer/chewier at -18°C instead of shattering into hard shards. Drizzle after spinning — the Mix-In blade breaks it into thin flakes distributed throughout.
+
+**Ingredients:**
+- **20g** dark chocolate, chopped
+- **5g** neutral oil (sunflower, or coconut milk from an open can)
+
+**Steps:**
+1. Melt chocolate and oil together in microwave — 15 sec bursts, stir between each until smooth.
+2. Let cool slightly (still pourable but not hot).
+3. After spinning the base, dig a hole down the center. Drizzle the chocolate in thin streams.
+4. Fold ice cream over the drizzle, then run **Mix-In** cycle.
+
+**Notes:**
+- More oil = softer pieces at freezer temp. Less oil = harder snap. 5g is a good starting point.
+- For a crackle top instead: pour over the surface after spinning, return to freezer immediately. Skip Mix-In.
+- ~120 kcal for the batch (~20 kcal per 100g of a 680g pint).
+- Works with any base — coconut, vanilla, cheesecake, etc.
 
 ---
