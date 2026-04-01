@@ -1,8 +1,8 @@
 # CREAMing — Recipes created for me by me 🔥💪
 
 - [Stabilizer Mixes](#stabilizer-mixes)
-- [Original](#original)
 - [TESTING — Mix-In Components](#testing--mix-in-components)
+- [Original](#original)
 
 ## Stabilizer Mixes
 
@@ -62,6 +62,240 @@ Based on [Salty Stability](https://jhermann.github.io/ice-creamery/S/Salty%20Sta
 **Usage:** Same as ICS. For best gum hydration, let base rest in fridge a few hours or overnight after mixing.
 
 **Quick substitute (no premix):** 0.9g CMC + 0.6g guar + 0.2g xanthan + 0.5g salt — weigh individually on jeweler's scale.
+
+---
+
+## TESTING — Mix-In Components
+
+### Protein Brownie Cubes
+Tags: mix-in, prep, low-calorie, high-protein, chocolate, crunch, chewy
+
+Low-cal brownie cubes for mix-ins. One batch makes ~9 pints worth. Two textures from one batch: chewy center cubes + crunchy re-baked edge cubes.
+
+**Ingredients (1 batch, ~272g finished):**
+- **50g** whey protein (unflavored)
+- **35g** cocoa powder
+- **80g** erythritol (or SweEX)
+- **1** egg (~50g)
+- **15g** corn starch
+- **85g** water
+- **1g** salt
+- **1g** baking powder
+- **0.05g**/pinch sucralose
+
+**Steps:**
+1. Preheat oven to 170°C.
+2. Bloom cocoa: combine cocoa with 40g hot water, stir to a smooth paste. Set aside.
+3. Mix remaining dry ingredients in a bowl: whey, erythritol, corn starch, salt, baking powder.
+4. Beat egg with remaining 45g water and sucralose.
+5. Combine cocoa paste + egg mixture into dry ingredients. Mix until smooth batter (immersion blender works).
+6. Pour into a lined/greased small pan (~10x15cm for ~1.8cm thickness).
+7. Bake 170°C for 16-18 min. Underbake slightly — toothpick should come out with moist crumbs, not clean.
+8. Cool completely. Cut into ~1cm cubes.
+9. Separate center cubes (chewy) from edge cubes.
+10. For crunchy cubes: spread edge cubes on a tray, bake again at 150°C for 10-12 min until dry and crisp.
+11. Freeze all cubes in single layer on parchment-lined plate, then bag for storage.
+
+**Usage:** ~30g per pint (mix of chewy + crunchy). Create 1.5cm hole in pint, add cubes, run Mix-In program.
+
+**Notes:**
+- Chewy cubes (center pieces) stay dense and fudgy through Mix-In.
+- Crunchy cubes (re-baked edges) hold up like biscotti through Mix-In.
+- Use ~15g chewy + ~15g crunchy per pint for both textures.
+- For a ~100 kcal/100g base, adding 30g brownie cubes keeps total at ~104 kcal/100g.
+- Cocoa fat % doesn't meaningfully change total calories (11% and 21% cocoa are within 2 kcal/100g of each other).
+- **Storage:** freeze cubes flat on parchment first (1-2h), then transfer to a zip-lock bag with air squeezed out. Keeps 2-3 months. After 3 months erythritol can develop a gritty surface — still safe, just less pleasant. Pull and use directly, no thawing needed.
+
+**Nutrition (per batch ~272g):** 445 kcal | 11.2g fat | 25.5g net carbs | 56.2g protein
+
+**Nutrition (per 100g):** 164 kcal | 4.1g fat | 9.4g net carbs | 20.7g protein
+
+**Nutrition (per 30g pint serving):** 49 kcal | 1.2g fat | 2.8g net carbs | 6.2g protein
+
+---
+
+### Meringue Crisps
+Tags: mix-in, prep, low-calorie, crunch, almost-zero-cal
+
+Pure crunch, almost zero calories. Shatters into ice cream during Mix-In. Choose sweet or sweet-salty.
+
+**Ingredients (1 batch, ~4 pints):**
+- **2** egg whites (~66g)
+- **60g** sweet / 50g sweet-salty (adjust down to make room for salt) SweEX
+- **1.5g**/pinch cream of tartar (stabilizes foam)
+- **3g** *sweet-salty only:* salt
+
+**Ingredients (double batch — makes both, ~8 pints):**
+- **4** egg whites (~132g)
+- **110g** SweEX (66g erythritol + 44g xylitol)
+- **3g** cream of tartar
+- **3g** salt (for the salty half only)
+
+**Steps:**
+1. Preheat oven to 100°C. Line tray(s) with parchment.
+2. Whip egg whites with cream of tartar until foamy (~1 min).
+3. Add SweEX gradually while whipping to stiff, glossy peaks (~3-4 min total).
+4. *Double batch:* split meringue roughly in half into a second bowl.
+5. *Sweet-salty (or salty half):* fold in 3g salt gently with a spatula — don't deflate the foam. A few visible salt streaks are fine.
+6. Spoon or pipe small blobs (~2cm) onto tray(s). Keep sweet and salty on separate trays if doing both.
+7. Bake 100°C for 90 min (swap shelf positions halfway if doing two trays).
+8. Turn oven off, leave meringues inside with door cracked for 1h to fully dry.
+9. Cool, then snap/break into pieces. Bag and freeze. Label bags if doing both.
+
+**Usage:** ~15g per pint (meringue is very airy — 15g by weight fills a 1/4 cup easily). Create 1.5cm hole, add pieces, run Mix-In program. Sweet-salty works best in chocolate, caramel, peanut butter, or vanilla bases.
+
+**Notes:**
+- Must be bone-dry before storing or they go sticky. Tap the bottom — should sound hollow.
+- Erythritol meringue is more fragile than sugar meringue. Handle gently before freezing.
+- **Storage:** zip-lock bag, air squeezed out, frozen. Keeps 2-3 months. Can also store at room temp in an airtight container for 1-2 weeks if fully dried.
+- Variation: fold in 5g cocoa powder after stiff peaks for chocolate meringue (adds ~18 kcal to batch).
+
+**Nutrition — sweet (per 100g):** 51 kcal | 0.1g fat | 0.7g net carbs | 10.9g protein
+
+**Nutrition — sweet-salty (per 100g):** 41 kcal | 0.1g fat | 0.6g net carbs | 10.4g protein
+
+---
+
+### Frozen Yogurt Bark
+Tags: mix-in, prep, low-calorie, crunch-to-chewy, tangy
+
+Snappy crunch from the freezer that softens to chewy in the ice cream. Adds a tangy flavor layer.
+
+**Ingredients (1 batch, ~170g finished, ~5 pints):**
+- **150g** Marata 2% strained yogurt
+- **20g** erythritol
+- **0.05g**/pinch sucralose
+- optional: flavor drops (chocolate, strawberry, or milk cream) or 5g cocoa powder swirled through
+
+**Steps:**
+1. Mix yogurt with erythritol and sucralose until dissolved.
+2. Spread 2-3mm thin on a parchment-lined tray or plate.
+3. Optional: swirl in cocoa paste or drizzle flavor drops with a toothpick for marbled effect.
+4. Freeze solid (2-3h).
+5. Snap into shards (~1-2cm pieces). Bag and freeze.
+
+**Usage:** ~30g per pint. Create 1.5cm hole, add shards, run Mix-In program.
+
+**Notes:**
+- Shards are crunchy/snappy when first mixed in, then soften to chewy as they temper in the ice cream. Best eaten within 10 min of Mix-In.
+- For more crunch that lasts, spread thinner (1-2mm).
+- **Storage:** zip-lock bag, air squeezed out, frozen. Keeps 1-2 months. After that, surface gets icy/grainy from freezer burn.
+
+**Nutrition (per batch ~170g):** 99 kcal | 3g fat | 5.9g carbs | 12g protein
+
+**Nutrition (per 100g):** 58 kcal | 1.8g fat | 3.5g carbs | 7.1g protein
+
+**Nutrition (per 30g pint serving):** 18 kcal | 0.5g fat | 1g carbs | 2.1g protein
+
+---
+
+### Chocolate Shell Shards
+Tags: mix-in, prep, low-calorie, crunch, chocolate
+
+Paper-thin chocolate shards — the pre-made version of the chocolate ribbon hack. Controlled portions, stays crispy through Mix-In.
+
+**Ingredients (1 batch, ~18g finished, ~2 pints):**
+- **15g** dark chocolate (70%+)
+- **3g** coconut oil
+
+**Steps:**
+1. Melt chocolate and coconut oil together (microwave 20 sec intervals, stir between, or double boiler).
+2. Pour onto a parchment-lined plate or tray.
+3. Spread paper-thin with the back of a spoon or offset spatula (~1mm thick).
+4. Freeze until solid (30-60 min).
+5. Snap into small shards (~1-2cm). Bag and freeze.
+
+**Usage:** ~9g per pint (half batch). Create 1.5cm hole, add shards, run Mix-In program.
+
+**Notes:**
+- Coconut oil lowers the melting point and makes the chocolate snap cleanly when frozen instead of shattering to dust.
+- Thinner = crispier. Go as thin as you can spread.
+- Works with any chocolate — 85% for less sugar, milk chocolate for sweeter. Calories stay similar regardless.
+- **Storage:** zip-lock bag, air squeezed out, frozen. Keeps 3+ months (chocolate is shelf-stable, coconut oil prevents bloom).
+
+**Nutrition (per batch ~18g):** 112 kcal | 9.1g fat | 5.1g carbs | 1.4g protein
+
+**Nutrition (per 100g):** 622 kcal | 50.6g fat | 28.3g carbs | 7.8g protein
+
+**Nutrition (per 9g pint serving):** 56 kcal | 4.6g fat | 2.6g carbs | 0.7g protein
+
+---
+
+### Chocolate Swirl Sauce
+Tags: swirl, sauce, prep, low-calorie, chocolate, dairy-free, sugar-free, original
+
+Water-based "ganache" — no cream, no milk, no fat beyond cocoa. Glycerin keeps it soft at -18°C so it works as a frozen swirl. One batch enough for 1-2 pints.
+
+**Ingredients (~151g batch):**
+- **100g** water
+- **15g** cocoa powder
+- **20g** glycerin
+- **15g** erythritol
+- **0.3g** xanthan gum
+- **0.5g** salt
+- **0.1g** sucralose (tiny pinch)
+
+**Steps:**
+1. Whisk cocoa, erythritol, and xanthan together dry (prevents xanthan clumps).
+2. Heat water in a small pot until simmering.
+3. Whisk in the dry mix, stir until smooth (~1 min).
+4. Remove from heat, stir in glycerin, salt, and sucralose.
+5. Cool to room temp — thickens as it cools.
+
+**Usage as swirl:** Pour ice cream base into pint (~80% full), drizzle sauce on top, use a chopstick/knife to swirl through. Freeze 24h, spin as normal.
+
+**Notes:**
+- Glycerin at ~13% concentration keeps the swirl syrupy at -18°C (PAC 3.7).
+- Want softer in freezer? Bump glycerin to 25-30g. Want firmer? Drop to 15g.
+- Want thicker before freezing? Increase xanthan to 0.5g for paste-like consistency.
+- Chocolate flavor drops (1-2) can intensify further if cocoa alone isn't enough.
+- Xanthan here is for the sauce itself — 0.3g is negligible toward the pint's 2g gum limit.
+- **Low-cal variant (no glycerin, ~35 kcal/batch):** Replace 20g glycerin with +10g erythritol and +5g xylitol. Slightly firmer at -18°C but nearly zero calories. Watch xylitol GI (gastrointestinal) budget if base also contains xylitol.
+
+**Nutrition (per batch ~151g):** ~115 kcal | 1.5g fat | 6.9g carbs | 2.1g protein
+
+**Nutrition (per 100g):** ~76 kcal | 1.0g fat | 4.6g carbs | 1.4g protein
+
+---
+
+### Caramel Swirl Sauce
+Tags: swirl, sauce, prep, low-calorie, caramel, dairy-free, original
+
+Real caramelized sugar base — dry-caramelized for deep amber, true butterscotch, and complex bitter-sweet notes. Glycerin keeps it pliable at -18°C; sucralose rounds out the sweetness. One batch = 3 pints (~50g per pint, ~63 kcal per serving). Store leftovers in a jar in the fridge.
+
+**Ingredients (~150g batch, 3 pints):**
+- **103g** water
+- **23g** sugar (caramelized)
+- **23g** glycerin
+- **0.35g** xanthan gum
+- **0.6g** salt
+- **2 drops** Milk Cream flavor
+- **0.1g** sucralose (tiny pinch)
+
+**Steps:**
+1. Put 23g sugar in a dry small pot on medium heat. Don't stir — let it melt from the edges, then gently swirl the pot. Takes ~3-4 min to reach amber.
+2. Once deep amber, carefully pour in 103g water (it spatters — stand back, whisk immediately).
+3. Stir until caramel dissolves into the water (~30 sec).
+4. Pre-mix xanthan with salt and sucralose in a small bowl (dry dispersant — prevents xanthan clumping on contact with water).
+5. Remove from heat, stir in glycerin and Milk Cream flavor drops, then sprinkle in the xanthan-salt-sucralose mix while whisking briskly (or use immersion blender for best results).
+6. Cool — thickens as it rests. Store in a jar.
+
+**Usage as swirl:** Use ~50g per pint. Pour ice cream base into pint (~80% full), drizzle sauce on top, use a chopstick/knife to swirl through. Freeze 24h, spin as normal.
+
+**Notes:**
+- Texture is firmer than a sugar-free version — more fudgy ribbon than syrupy swirl. This is a feature for mix-in-style bites.
+- Want softer? Bump glycerin to 28-35g. Adds ~22-52 kcal/batch but recovers pliability.
+- Want thicker? Bump xanthan to 0.5g or reduce water to 85g.
+- Want darker color? Let the caramel go slightly past amber — just before smoking. Or add 1-2g cocoa powder for "salted caramel" vibe.
+- Zero xylitol = frees up the full 30g GI (gastrointestinal) budget for the base.
+- Zero erythritol = no crystallization concern in the sauce.
+- **Sugar-free fallback:** 29g xylitol + 11g erythritol + 23g glycerin instead of 23g sugar. Milder toffee, softer swirl. Watch xylitol GI budget if base also contains xylitol.
+
+**Nutrition (per batch ~150g):** ~190 kcal | 0g fat | 5.8g carbs | 0g protein
+
+**Nutrition (per pint serving ~50g):** ~63 kcal | 0g fat | 1.9g carbs | 0g protein
+
+**Nutrition (per 100g):** ~127 kcal | 0g fat | 3.8g carbs | 0g protein
 
 ---
 
@@ -425,239 +659,5 @@ Combine in a small bowl, muddle with a spoon, cover, rest 2-4h at room temp.
 
 **Scoopulator:** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-35-L1Bll6:468,user-yogurt-straggisto-2-33939d:75,erythritol:35,xylitol:15,glycerin:15,inulin:13.53,user-hsn-whey-protein-concentrate-984009:30,sodium-carboxymethyl-cellulose-cmc:0.6,guar-gum:0.4,xanthan-gum:0.13,usdafndds-2710263:0.2,usdaff-746775:0.33,user-microcrystalline-cellulose-mcc-myujQ3:5,usdafndds-2709181:15,lemon-zest:8,user-citric-acid-7aeef0:1&target=low-fat-ice-cream) — Serv. -15.0°C 🟢 | Sweet 7.37% 🔴 | Solids 28.15% 🟢 | Sugars 10.01% 🔴 | Milk Fat 2.62% 🟢 | MSNF 7.16% 🔴 | Stab 0.17% 🔴 | Emul 0% 🔴
 *(Sweetness/Sugars reds are structural for sugar-free. MSNF red is inherent to milk+hint-of-yogurt base with no SMP. Emulsifier red — Scoopulator can't see whey's built-in sunflower lecithin.)*
-
----
-
-## TESTING — Mix-In Components
-
-### Protein Brownie Cubes
-Tags: mix-in, prep, low-calorie, high-protein, chocolate, crunch, chewy
-
-Low-cal brownie cubes for mix-ins. One batch makes ~9 pints worth. Two textures from one batch: chewy center cubes + crunchy re-baked edge cubes.
-
-**Ingredients (1 batch, ~272g finished):**
-- **50g** whey protein (unflavored)
-- **35g** cocoa powder
-- **80g** erythritol (or SweEX)
-- **1** egg (~50g)
-- **15g** corn starch
-- **85g** water
-- **1g** salt
-- **1g** baking powder
-- **0.05g**/pinch sucralose
-
-**Steps:**
-1. Preheat oven to 170°C.
-2. Bloom cocoa: combine cocoa with 40g hot water, stir to a smooth paste. Set aside.
-3. Mix remaining dry ingredients in a bowl: whey, erythritol, corn starch, salt, baking powder.
-4. Beat egg with remaining 45g water and sucralose.
-5. Combine cocoa paste + egg mixture into dry ingredients. Mix until smooth batter (immersion blender works).
-6. Pour into a lined/greased small pan (~10x15cm for ~1.8cm thickness).
-7. Bake 170°C for 16-18 min. Underbake slightly — toothpick should come out with moist crumbs, not clean.
-8. Cool completely. Cut into ~1cm cubes.
-9. Separate center cubes (chewy) from edge cubes.
-10. For crunchy cubes: spread edge cubes on a tray, bake again at 150°C for 10-12 min until dry and crisp.
-11. Freeze all cubes in single layer on parchment-lined plate, then bag for storage.
-
-**Usage:** ~30g per pint (mix of chewy + crunchy). Create 1.5cm hole in pint, add cubes, run Mix-In program.
-
-**Notes:**
-- Chewy cubes (center pieces) stay dense and fudgy through Mix-In.
-- Crunchy cubes (re-baked edges) hold up like biscotti through Mix-In.
-- Use ~15g chewy + ~15g crunchy per pint for both textures.
-- For a ~100 kcal/100g base, adding 30g brownie cubes keeps total at ~104 kcal/100g.
-- Cocoa fat % doesn't meaningfully change total calories (11% and 21% cocoa are within 2 kcal/100g of each other).
-- **Storage:** freeze cubes flat on parchment first (1-2h), then transfer to a zip-lock bag with air squeezed out. Keeps 2-3 months. After 3 months erythritol can develop a gritty surface — still safe, just less pleasant. Pull and use directly, no thawing needed.
-
-**Nutrition (per batch ~272g):** 445 kcal | 11.2g fat | 25.5g net carbs | 56.2g protein
-
-**Nutrition (per 100g):** 164 kcal | 4.1g fat | 9.4g net carbs | 20.7g protein
-
-**Nutrition (per 30g pint serving):** 49 kcal | 1.2g fat | 2.8g net carbs | 6.2g protein
-
----
-
-### Meringue Crisps
-Tags: mix-in, prep, low-calorie, crunch, almost-zero-cal
-
-Pure crunch, almost zero calories. Shatters into ice cream during Mix-In. Choose sweet or sweet-salty.
-
-**Ingredients (1 batch, ~4 pints):**
-- **2** egg whites (~66g)
-- **60g** sweet / 50g sweet-salty (adjust down to make room for salt) SweEX
-- **1.5g**/pinch cream of tartar (stabilizes foam)
-- **3g** *sweet-salty only:* salt
-
-**Ingredients (double batch — makes both, ~8 pints):**
-- **4** egg whites (~132g)
-- **110g** SweEX (66g erythritol + 44g xylitol)
-- **3g** cream of tartar
-- **3g** salt (for the salty half only)
-
-**Steps:**
-1. Preheat oven to 100°C. Line tray(s) with parchment.
-2. Whip egg whites with cream of tartar until foamy (~1 min).
-3. Add SweEX gradually while whipping to stiff, glossy peaks (~3-4 min total).
-4. *Double batch:* split meringue roughly in half into a second bowl.
-5. *Sweet-salty (or salty half):* fold in 3g salt gently with a spatula — don't deflate the foam. A few visible salt streaks are fine.
-6. Spoon or pipe small blobs (~2cm) onto tray(s). Keep sweet and salty on separate trays if doing both.
-7. Bake 100°C for 90 min (swap shelf positions halfway if doing two trays).
-8. Turn oven off, leave meringues inside with door cracked for 1h to fully dry.
-9. Cool, then snap/break into pieces. Bag and freeze. Label bags if doing both.
-
-**Usage:** ~15g per pint (meringue is very airy — 15g by weight fills a 1/4 cup easily). Create 1.5cm hole, add pieces, run Mix-In program. Sweet-salty works best in chocolate, caramel, peanut butter, or vanilla bases.
-
-**Notes:**
-- Must be bone-dry before storing or they go sticky. Tap the bottom — should sound hollow.
-- Erythritol meringue is more fragile than sugar meringue. Handle gently before freezing.
-- **Storage:** zip-lock bag, air squeezed out, frozen. Keeps 2-3 months. Can also store at room temp in an airtight container for 1-2 weeks if fully dried.
-- Variation: fold in 5g cocoa powder after stiff peaks for chocolate meringue (adds ~18 kcal to batch).
-
-**Nutrition — sweet (per 100g):** 51 kcal | 0.1g fat | 0.7g net carbs | 10.9g protein
-
-**Nutrition — sweet-salty (per 100g):** 41 kcal | 0.1g fat | 0.6g net carbs | 10.4g protein
-
----
-
-### Frozen Yogurt Bark
-Tags: mix-in, prep, low-calorie, crunch-to-chewy, tangy
-
-Snappy crunch from the freezer that softens to chewy in the ice cream. Adds a tangy flavor layer.
-
-**Ingredients (1 batch, ~170g finished, ~5 pints):**
-- **150g** Marata 2% strained yogurt
-- **20g** erythritol
-- **0.05g**/pinch sucralose
-- optional: flavor drops (chocolate, strawberry, or milk cream) or 5g cocoa powder swirled through
-
-**Steps:**
-1. Mix yogurt with erythritol and sucralose until dissolved.
-2. Spread 2-3mm thin on a parchment-lined tray or plate.
-3. Optional: swirl in cocoa paste or drizzle flavor drops with a toothpick for marbled effect.
-4. Freeze solid (2-3h).
-5. Snap into shards (~1-2cm pieces). Bag and freeze.
-
-**Usage:** ~30g per pint. Create 1.5cm hole, add shards, run Mix-In program.
-
-**Notes:**
-- Shards are crunchy/snappy when first mixed in, then soften to chewy as they temper in the ice cream. Best eaten within 10 min of Mix-In.
-- For more crunch that lasts, spread thinner (1-2mm).
-- **Storage:** zip-lock bag, air squeezed out, frozen. Keeps 1-2 months. After that, surface gets icy/grainy from freezer burn.
-
-**Nutrition (per batch ~170g):** 99 kcal | 3g fat | 5.9g carbs | 12g protein
-
-**Nutrition (per 100g):** 58 kcal | 1.8g fat | 3.5g carbs | 7.1g protein
-
-**Nutrition (per 30g pint serving):** 18 kcal | 0.5g fat | 1g carbs | 2.1g protein
-
----
-
-### Chocolate Shell Shards
-Tags: mix-in, prep, low-calorie, crunch, chocolate
-
-Paper-thin chocolate shards — the pre-made version of the chocolate ribbon hack. Controlled portions, stays crispy through Mix-In.
-
-**Ingredients (1 batch, ~18g finished, ~2 pints):**
-- **15g** dark chocolate (70%+)
-- **3g** coconut oil
-
-**Steps:**
-1. Melt chocolate and coconut oil together (microwave 20 sec intervals, stir between, or double boiler).
-2. Pour onto a parchment-lined plate or tray.
-3. Spread paper-thin with the back of a spoon or offset spatula (~1mm thick).
-4. Freeze until solid (30-60 min).
-5. Snap into small shards (~1-2cm). Bag and freeze.
-
-**Usage:** ~9g per pint (half batch). Create 1.5cm hole, add shards, run Mix-In program.
-
-**Notes:**
-- Coconut oil lowers the melting point and makes the chocolate snap cleanly when frozen instead of shattering to dust.
-- Thinner = crispier. Go as thin as you can spread.
-- Works with any chocolate — 85% for less sugar, milk chocolate for sweeter. Calories stay similar regardless.
-- **Storage:** zip-lock bag, air squeezed out, frozen. Keeps 3+ months (chocolate is shelf-stable, coconut oil prevents bloom).
-
-**Nutrition (per batch ~18g):** 112 kcal | 9.1g fat | 5.1g carbs | 1.4g protein
-
-**Nutrition (per 100g):** 622 kcal | 50.6g fat | 28.3g carbs | 7.8g protein
-
-**Nutrition (per 9g pint serving):** 56 kcal | 4.6g fat | 2.6g carbs | 0.7g protein
-
----
-
-### Chocolate Swirl Sauce
-Tags: swirl, sauce, prep, low-calorie, chocolate, dairy-free, sugar-free, original
-
-Water-based "ganache" — no cream, no milk, no fat beyond cocoa. Glycerin keeps it soft at -18°C so it works as a frozen swirl. One batch enough for 1-2 pints.
-
-**Ingredients (~151g batch):**
-- **100g** water
-- **15g** cocoa powder
-- **20g** glycerin
-- **15g** erythritol
-- **0.3g** xanthan gum
-- **0.5g** salt
-- **0.1g** sucralose (tiny pinch)
-
-**Steps:**
-1. Whisk cocoa, erythritol, and xanthan together dry (prevents xanthan clumps).
-2. Heat water in a small pot until simmering.
-3. Whisk in the dry mix, stir until smooth (~1 min).
-4. Remove from heat, stir in glycerin, salt, and sucralose.
-5. Cool to room temp — thickens as it cools.
-
-**Usage as swirl:** Pour ice cream base into pint (~80% full), drizzle sauce on top, use a chopstick/knife to swirl through. Freeze 24h, spin as normal.
-
-**Notes:**
-- Glycerin at ~13% concentration keeps the swirl syrupy at -18°C (PAC 3.7).
-- Want softer in freezer? Bump glycerin to 25-30g. Want firmer? Drop to 15g.
-- Want thicker before freezing? Increase xanthan to 0.5g for paste-like consistency.
-- Chocolate flavor drops (1-2) can intensify further if cocoa alone isn't enough.
-- Xanthan here is for the sauce itself — 0.3g is negligible toward the pint's 2g gum limit.
-- **Low-cal variant (no glycerin, ~35 kcal/batch):** Replace 20g glycerin with +10g erythritol and +5g xylitol. Slightly firmer at -18°C but nearly zero calories. Watch xylitol GI (gastrointestinal) budget if base also contains xylitol.
-
-**Nutrition (per batch ~151g):** ~115 kcal | 1.5g fat | 6.9g carbs | 2.1g protein
-
-**Nutrition (per 100g):** ~76 kcal | 1.0g fat | 4.6g carbs | 1.4g protein
-
----
-
-### Caramel Swirl Sauce
-Tags: swirl, sauce, prep, low-calorie, caramel, dairy-free, original
-
-Real caramelized sugar base — dry-caramelized for deep amber, true butterscotch, and complex bitter-sweet notes. Glycerin keeps it pliable at -18°C; sucralose rounds out the sweetness. One batch = 3 pints (~50g per pint, ~63 kcal per serving). Store leftovers in a jar in the fridge.
-
-**Ingredients (~150g batch, 3 pints):**
-- **103g** water
-- **23g** sugar (caramelized)
-- **23g** glycerin
-- **0.35g** xanthan gum
-- **0.6g** salt
-- **2 drops** Milk Cream flavor
-- **0.1g** sucralose (tiny pinch)
-
-**Steps:**
-1. Put 23g sugar in a dry small pot on medium heat. Don't stir — let it melt from the edges, then gently swirl the pot. Takes ~3-4 min to reach amber.
-2. Once deep amber, carefully pour in 103g water (it spatters — stand back, whisk immediately).
-3. Stir until caramel dissolves into the water (~30 sec).
-4. Pre-mix xanthan with salt and sucralose in a small bowl (dry dispersant — prevents xanthan clumping on contact with water).
-5. Remove from heat, stir in glycerin and Milk Cream flavor drops, then sprinkle in the xanthan-salt-sucralose mix while whisking briskly (or use immersion blender for best results).
-6. Cool — thickens as it rests. Store in a jar.
-
-**Usage as swirl:** Use ~50g per pint. Pour ice cream base into pint (~80% full), drizzle sauce on top, use a chopstick/knife to swirl through. Freeze 24h, spin as normal.
-
-**Notes:**
-- Texture is firmer than a sugar-free version — more fudgy ribbon than syrupy swirl. This is a feature for mix-in-style bites.
-- Want softer? Bump glycerin to 28-35g. Adds ~22-52 kcal/batch but recovers pliability.
-- Want thicker? Bump xanthan to 0.5g or reduce water to 85g.
-- Want darker color? Let the caramel go slightly past amber — just before smoking. Or add 1-2g cocoa powder for "salted caramel" vibe.
-- Zero xylitol = frees up the full 30g GI (gastrointestinal) budget for the base.
-- Zero erythritol = no crystallization concern in the sauce.
-- **Sugar-free fallback:** 29g xylitol + 11g erythritol + 23g glycerin instead of 23g sugar. Milder toffee, softer swirl. Watch xylitol GI budget if base also contains xylitol.
-
-**Nutrition (per batch ~150g):** ~190 kcal | 0g fat | 5.8g carbs | 0g protein
-
-**Nutrition (per pint serving ~50g):** ~63 kcal | 0g fat | 1.9g carbs | 0g protein
-
-**Nutrition (per 100g):** ~127 kcal | 0g fat | 3.8g carbs | 0g protein
 
 ---
