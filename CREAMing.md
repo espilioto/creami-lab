@@ -668,6 +668,66 @@ Coconut-forward ice cream using Oriental Express canned coconut milk (18% fat) a
 
 ---
 
+#### Καραμελωμένο Γάλα — Caramelized Milk (Sugar-Free)
+Tags: ice-cream, caramel, caramelized-milk, maillard, sugar-free, high-protein, salty-stability, original
+
+Inspired by the Greek τάρτα με καραμελωμένο γάλα — a set custard tart of slowly Maillard-browned milk, torched brûlée-style at service, on a thin biscuit base. The soul of this recipe is **real caramelized milk**: 3.5% whole milk simmered low-and-slow until golden and toasty. NOT dulce de leche — no condensed milk, no added sugar during caramelization. The milk's own lactose and casein proteins provide the Maillard reaction. Crushed Gullon biscuits recreate the tart base as a mix-in.
+
+**Prep — Caramelize the milk (day before):**
+1. **Weigh the empty pan** and write it down. Pour in **700g** Marata 3.5% whole milk. Use a wide saucepan (more surface = faster evaporation).
+2. Bring to a gentle simmer over **low-medium heat**. Stir frequently, scraping the bottom.
+3. Cook **40-50 minutes**, checking weight every 10 min (every 5 min after 30 min — color changes fast at the end). Target: **pan + 546g** (~22% loss).
+   - ~630g remaining: barely any color, just slightly reduced
+   - ~595g: pale gold, nutty smell developing
+   - **~546g: golden-amber, toasty aroma, noticeably thicker — STOP HERE**
+   - ~525g and below: too dark, heading toward dulce de leche territory
+4. **Cool completely** — refrigerate overnight for deepest flavor.
+
+**Wet:**
+- **700g → ~546g** caramelized 3.5% whole milk (cooled) — €0.77
+- **15g** glycerin — €0.06
+- **2 drops** Milk Cream flavor — €0.01
+
+**Dry:**
+- **20g** whey protein (HSN WPC80) — €0.43
+- **30g** erythritol — €0.39
+- **20g** xylitol — €0.29
+- **10g** MCC (microcrystalline cellulose) — €0.12
+- **0.2g** sucralose — €0.03
+- Salty Stability (15g) — €0.28:
+  - **12.8g** inulin — €0.24
+  - **0.9g** CMC — €0.02
+  - **0.6g** guar gum — €0.01
+  - **0.5g** salt — —
+  - **0.2g** xanthan gum — €0.00
+
+**Mix-in (after spinning):**
+- **~30g** crushed Gullon Zero Digestive biscuits — €0.14
+
+**Steps:**
+1. Warm the caramelized milk slightly (microwave 20-30sec). Add glycerin and Milk Cream drops. Stir.
+2. Combine all dry ingredients in a bowl: erythritol, xylitol, sucralose, whey protein, MCC, inulin, CMC, guar, xanthan, salt. Mix well.
+3. Add dry mix to pint. Stir vigorously, then immersion-blend 15-20 sec to disperse MCC. Avoid extended blending — whey protein traps air.
+4. Refrigerate 1-2h, stir to pop air bubbles and redistribute MCC. Freeze 24h.
+5. Process on **Lite Ice Cream**. Scrape test — re-spin if needed.
+6. Crush Gullon biscuits into small pieces (~0.5cm). Fold in by hand after spinning for chunky texture, or use Mix-In cycle for finer distribution.
+
+**Notes:**
+- The caramelization step is the entire flavor — don't rush it. Wide pan = more surface area = faster browning. Stirring prevents scorching.
+- Starting with 3.5% whole milk instead of 1.5% gives significantly better Maillard browning (more fat carries flavor compounds) and pushes solids into the green zone.
+- SweEX ratio 30:20 (3:2) — xylitol prevents erythritol crystallization. Erythritol at 4.5% of mix (well under 8% threshold).
+- Real-world sweetness is higher than Scoopulator shows — 0.2g sucralose adds ~120g sugar-equivalent sweetness that the calculator underweights.
+- GI safety: inulin 12.8g (SS only) + xylitol 20g = 32.8g combined fermentable — well under 45g limit.
+- Total gums: 0.9g CMC + 0.6g guar + 0.2g xanthan = 1.7g (under 2g limit).
+- The 22% evaporation concentrates milk solids, protein, and fat — actual MSNF is ~9% (decent) despite what unconcentrated numbers would suggest.
+
+**Cost:** ~€4.09/kg — ~€2.58/pint (base) + ~€0.14 mix-in = ~€2.72 total
+
+**Scoopulator:** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-35-L1Bll6:700,glycerin:15,user-hsn-whey-protein-concentrate-984009:20,erythritol:30,xylitol:20,inulin:12.8,user-microcrystalline-cellulose-mcc-myujQ3:10,usdafndds-2710263:0.2,sodium-carboxymethyl-cellulose-cmc:0.9,guar-gum:0.6,usdaff-746775:0.5,xanthan-gum:0.2,user-milk-cream-food-flavor-a1ynPB:0.2&target=low-fat-ice-cream&evp=0.22) — 🔥 Evap 22% | Serv. -13.6°C 🟢 | Sweet 6.29% 🔴 | Sugars 10.65% 🔴 | Solids 30.75% 🟢 | Fat 4.08% ⚪ | Milk Fat 3.88% 🟢 | MSNF 9.41% 🔴 | Stab 0.27% 🔴 | Emul 0% 🔴 | 105 kcal/100g
+*(Sweetness/Sugars reds are structural for sugar-free — sucralose intensity not captured. Solids yellow-high is positive (concentrated milk). Stab/Emul red — body from whey+MCC+inulin, emulsification from whey's natural lecithin.)*
+
+---
+
 ### Sauces
 
 #### Sugar-Free Strawberry Sauce (Swirl/Topping)
