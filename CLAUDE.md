@@ -63,12 +63,13 @@
 | Cocoa powder | Supermarket | 17.20 | For chocolate bases. Bonora brand, €2.15/125g |
 | Vanilla extract | Supermarket | TBD | Replaces vanilla bean powder in all repo recipes |
 | Marata 1.5% milk | Supermarket | 1.05 | 47 kcal/100ml. Fat 1.5, carbs 4.8, protein 3.5, water ~90%. Standard base. €1.05/L |
+| Marata 3.5% whole milk | Supermarket | 1.10 | Per 100ml: 65kcal, F3.6 (sat 2.1), C4.8 (sugar 4.8), P3.4, S0.13. High-pasteurized, homogenized, 35-day shelf. Scoopulator: `user-milk-fresh-marata-35-L1Bll6` |
 | Marata 2% strained yogurt | Supermarket | 2.70 | 66 kcal/100g. Fat 2, carbs 3.9, protein 8 |
 | Citric acid | Supermarket | — | — |
 | Cream of tartar | Supermarket | — | Meringue stabilizer |
 | Peanut butter (smooth) | Supermarket | TBD | Peanut 94%, pea protein 3%, rice protein 3%. Per 100g: 620kcal, F48.3 (sat 7.7), C18.3 (sugar 4.7), fiber 8.0, P32.0, S0.02. |
 | Royal Light cream cheese | Supermarket | 7.45 | Per 100g: ~134kcal, similar macros to ADORO Light. €1.49/200g. |
-| Coconut milk (Oriental Express) | Supermarket | 5.13 | Vegan, gluten-free. €2.05/400ml |
+| Coconut milk (Oriental Express) | Supermarket | 5.13 | Per 100ml: 174kcal, F18 (sat 15), C2.9 (sugar 1.0), P0, S0.04. Contains guar gum + E435 (polysorbate 60). Vegan, gluten-free. €2.05/400ml. Scoopulator: `user-coconut-milk-oriental-express-x3zpyE` |
 | Frozen strawberries | Supermarket | 4.00 | Avg price. For sorbets, sauces, swirls |
 | Gullon Zero Digestive | Supermarket | 4.50 | Vegan, sugar-free. €1.80/400g. Mix-in biscuit |
 | MCC — Microcrystalline Cellulose (E460i) | Manis | 12.00 | Zero-cal insoluble fiber **stabilizer**. Fat mimetic, ice crystal inhibitor, bulking agent. PAC=0, POD=0. **Not fermented in gut** (~5-7% vs inulin's ~100%) — no GI concern. 3-10g/pint. Needs shear to disperse (immersion blender). **Synergistic with xanthan gum** — MCC+XG together >> either alone (research-backed). MCC alone softens texture (lower firmness — good for scoopability); XG prevents MCC from settling. Works best combined with CMC or XG. **Scoopulator:** custom ingredient `Microcrystalline cellulose (MCC)`, Stabilizer=100%, FPDF=0, Sweetness=0, Cal=0. See `rest/mcc_reference.md` for full research. |
