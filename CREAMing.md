@@ -497,6 +497,67 @@ Water-based strawberry sorbet using fresh strawberries. No dairy, no guar (acid-
 
 ---
 
+#### Leftover Cream Cheese Caramel Cheesecake
+Tags: ice-cream, caramel, cheesecake, sugar-free, no-cook, high-protein, salty-stability, mcc, whole-milk, original
+
+Dulce de leche–cheesecake mashup — cream cheese tang meets caramel richness. 60g cream cheese as a supporting accent (not the star), milk cream flavor drops standing in for caramel per Polar archetype translation. 3.5% whole milk for body and fat (avoids the watery sensation of 1.5%), MCC + inulin for solids. Digestive biscuit mix-in for "graham crust" crunch, caramel swirl on top.
+
+**Base — Wet:**
+- **300g** Marata 3.5% whole milk
+- **170g** Marata 2% strained yogurt
+- **60g** Royal Light cream cheese
+- **12g** glycerin
+- **2g** vanilla extract
+- **2 drops** milk cream flavor (caramel sub — MAX 2 drops)
+
+**Base — Dry:**
+- **30g** erythritol
+- **35g** whey protein (HSN WPC80)
+- **12g** xylitol
+- **9.47g** inulin (standalone — 18g total with SS)
+- **10g** MCC (microcrystalline cellulose)
+- **0.3g** sucralose
+- Salty Stability (10g):
+  - **8.53g** inulin
+  - **0.60g** CMC
+  - **0.40g** guar gum
+  - **0.33g** salt
+  - **0.13g** xanthan gum
+
+**Extras (not in Scoopulator — added after spin):**
+- **25g** Gullon Zero Digestive, broken into pea-to-chickpea-sized chunks, pre-frozen (mix-in after spin)
+- **~50g** Caramel Swirl Sauce (swirled after spin — see standalone recipe below)
+
+**Cost:** ~€4.79/kg — ~€3.12/pint base (excludes vanilla 2g — price TBD). With extras: ~€3.33/pint.
+
+**Steps:**
+1. **Make the base:** Add milk, yogurt, cream cheese, glycerin, vanilla, and milk cream flavor drops to pint.
+2. Combine dry ingredients in a bowl: erythritol, xylitol, sucralose, standalone inulin, MCC, whey protein, Salty Stability components. Mix well.
+3. Add dry mix to pint. Immersion-blend ~30s, then 60-90s more until smooth and cream cheese is fully incorporated. MCC needs shear to disperse properly — don't skip the blending.
+4. Freeze 24h with lid on. Flatten any hump before freezing.
+5. Process on **Lite Ice Cream**. Scrape down sides with butter knife, push top down with spoon. **Re-Spin** if needed.
+6. Dig a hole down through the center, pack in 25g frozen Gullon chunks, fold ice cream over. Run **Mix-In** cycle.
+7. **Swirl in caramel sauce:** spoon ~50g sauce on top and drag a butter knife through the top 2-3 cm. Visible ribbons — don't over-mix.
+
+**Notes:**
+- Total inulin: 18g (8.53 from SS + 9.47 standalone). GI safety: inulin 18g, xylitol 12g, combined fermentable 30g — all under limits.
+- Erythritol at 4.6% of base (under 8% crystallization threshold). SweEX ratio 30:12 (2.5:1).
+- Total gums: 1.13g (0.6 CMC + 0.4 guar + 0.13 xanthan from SS) — well under 2g limit. Yogurt + whey + cream cheese + inulin + MCC provide body.
+- MCC + xanthan are synergistic — MCC softens texture (good for scoopability), xanthan prevents MCC settling. Immersion blender step is essential for MCC dispersion.
+- 3.5% whole milk vs 1.5%: adds ~1% total fat for richer mouthfeel, +4 kcal/100g. Inulin reduced (25→18g) and MCC increased (8→10g) to offset calories (MCC is zero-cal vs inulin ~1.5 kcal/g).
+- Base weight ~651g. Extras (25g biscuit + 50g sauce) keep pint under 24oz capacity.
+
+**Nutrition (per 100g):**
+- **Base (651g):** ~101 kcal | 3.5g fat | 6.5g carbs (sugars 10.2g incl. sugar alcohols), 3.9g fiber | 8.8g protein
+- **Biscuits (25g @ 430 kcal/100g):** ~108 kcal total
+- **Caramel sauce (~50g @ 127 kcal/100g):** ~63 kcal total
+- **Whole pint (~726g):** ~828 kcal → **~114 kcal/100g**
+
+**Scoopulator (base only):** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-35-L1Bll6:300,user-yogurt-straggisto-2-33939d:170,user-cream-cheese-light-adoro-HgwT7k:60,glycerin:12,pure-vanilla-extract:2,erythritol:30,user-hsn-whey-protein-concentrate-984009:35,xylitol:12,usdafndds-2710263:0.3,inulin:18,user-microcrystalline-cellulose-mcc-myujQ3:10,sodium-carboxymethyl-cellulose-cmc:0.6,guar-gum:0.4,usdaff-746775:0.33,xanthan-gum:0.13&target=low-fat-ice-cream) — Serv. -15°C 🟢 | Sweet 6.71% 🔴 | Solids 29.77% 🟢 | Sugars 8.86% 🔴 | Fat 3.49% ⚪ | Milk Fat 3.15% 🟢 | MSNF 8.37% 🔴 | Stab 0.17% 🔴 | Emul 0% 🔴
+*(Sweetness/Sugars reds are structural for sugar-free. MSNF red is inherent to low-fat base. Stab/Emul reds expected — yogurt + whey + cream cheese + inulin + MCC provide body, gums are just for ice crystal prevention.)*
+
+---
+
 #### Lemon Ice Cream — Salty Stability (Sugar-Free)
 Tags: ice-cream, lemon, citrus, sugar-free, no-cook, high-protein, salty-stability, oleosaccharum, original
 
