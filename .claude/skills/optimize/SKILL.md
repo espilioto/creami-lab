@@ -27,6 +27,9 @@ Do NOT guess or rely on memory for ingredient science, PAC/POD values, thickener
 ### No-cook only
 **All recipes are cold-process (no-cook).** NEVER use corn starch — it requires cooking to 90°C+ to gelatinize. Use cold-acting stabilizers instead: xanthan, guar, CMC, inulin, whey protein. These provide body and thickening without heat.
 
+### Default stabilizer: Salty Stability (SS)
+**Always use the Salty Stability (SS) pre-mixed blend** for dairy-based recipes (ice cream, froyo, gelato). Do NOT list individual gums/salt separately — use SS at 10g or 15g dose (see `/adapt` skill for blend composition and per-dose breakdowns). The only exception is **sorbets** or recipes where the gum/salt ratios must differ significantly from SS composition (e.g. acid-sensitive recipes that can't use guar).
+
 ## Our Recipe Style: Low-Fat, No-Sugar
 
 We primarily make **low-fat, no-sugar** recipes (1.5% milk base, sugar-free sweeteners). This means many Scoopulator metrics will inherently read outside "normal" ranges — that's expected and fine. **Do not chase green numbers by adding fat or sugar we don't use.** Instead, evaluate recipes by what actually matters for the finished product:
