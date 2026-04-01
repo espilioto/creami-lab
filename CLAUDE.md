@@ -81,7 +81,8 @@
 | File | Source | Contents |
 |------|--------|---------|
 | `CLAUDE.md` | — | THIS FILE — master context and reference |
-| `CREAMing.md` | — | Adapted recipes with Greek ingredient swaps. Main (recipe) file. The reason we are doing this |
+| `CREAMing.md` | — | Original recipes + testing section. The main file we actually use |
+| `Adapted.md` | — | Adapted external recipes (E4CM, FPF, DQ Blizzards, ice-creamery, Stabilizer Mixes, Reddit) — moved out of CREAMing.md |
 | `icecreamery_recipes.md` | ice-creamery repo (jhermann) | 121 recipes, 7 categories (original ingredients) |
 | `fpf_recipes.md` | FitnessProductFinder (Eli) | 39 B&J dupes + 18 DQ Blizzards + 11 tips (original ingredients) |
 | `e4cm_recipes.md` | Exercise4CheatMeals (E4CM) | 24 recipes + 47 tips (original ingredients) |
