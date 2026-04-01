@@ -52,13 +52,13 @@
 | Chocolate Flavor | Manis | 83.33 | Flavor drops — **MAX 2 drops/pint** (3 is too intense). €5/60ml |
 | Strawberry Flavor | Manis | 83.33 | Flavor drops — **MAX 2 drops/pint** (3 is too intense). €5/60ml |
 | Milk Cream Flavor | Manis | 83.33 | Flavor drops, caramel sub — **MAX 2 drops/pint** (3 is too intense). €5/60ml |
-| Soy Lecithin Powder (E322) | Manis | 18.00 | Emulsifier, replaces GMS 1:1 by weight |
 | Erythritol (E968) | HSN | 13.02 | PAC=2.8, sweetness=75%, non-caloric. ⚠️ ≤8% of mix weight (~54g/pint) or crystallization risk |
 | Xylitol (E967) | HSN | 14.32 | PAC=2.2, sweetness=100%. ⚠️ ≤30g/pint GI limit (stacks with inulin) |
 | Inulin | HSN | 19.05 | Fiber/bulking, PAC=0.22, sweetness=8%. Adds body, replaces fat. ⚠️ ≤30g/pint GI limit (stacks with xylitol) |
 | Sucralose | HSN | 153.00 | 600x sweeter than sugar, zero glycemic index, zero cal. Tiny amounts (€22.95/150g) |
 | Whey Protein — HSN WPC80 | HSN | 21.28 | Unflavored. Per 100g: 408kcal, P82 F6.4 C5.8 S0.57. Contains sunflower lecithin (~0.8-1g/100g est.). Binds water, prevents ice crystals. When a recipe calls for flavored protein (chocolate, vanilla, etc.), use this + cocoa powder / vanilla extract / flavor drops to match the flavor. |
 | ⚠️ IGNORE WHEN CRAFTING RECIPES ⚠️ Whey Protein — Manis WPC75 | Manis | — | EuriNutri 75 PL (WPC75). Lecithin-free. Est. per 100g: ~390kcal, P≥75 F~6 C~9 S~0.15. From casein whey, not instantized. |
+| ⚠️ IGNORE WHEN CRAFTING RECIPES ⚠️ Soy Lecithin Powder (E322) | Manis | 18.00 | Emulsifier, replaces GMS 1:1 by weight |
 | Salt | Supermarket | — | Kitchen salt (negligible cost) |
 | Cocoa powder | Supermarket | 17.20 | For chocolate bases. Bonora brand, €2.15/125g |
 | Vanilla extract | Supermarket | TBD | Replaces vanilla bean powder in all repo recipes |
