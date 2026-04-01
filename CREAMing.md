@@ -8979,3 +8979,65 @@ Light chocolate drizzle for stracciatella-style flakes in any pint. Oil keeps th
 - Works with any base — coconut, vanilla, cheesecake, etc.
 
 ---
+
+### Lemon Ice Cream — Salty Stability (Sugar-Free)
+Tags: ice-cream, lemon, citrus, sugar-free, no-cook, high-protein, salty-stability, oleosaccharum, original
+
+Bright lemon ice cream using a sugar-free oleosaccharum technique: lemon zest macerated in glycerin to extract essential oils (glycerin is an excellent solvent for citrus oils, same principle as traditional zest+sugar oleosaccharum). 3.5% milk + a hint of yogurt (11%, well below tang threshold) for solids and fat. Citric acid provides tartness without the curdling risk of large amounts of juice. Whey protein for body, SS for stabilization.
+
+**Glycerin-Lemon Oleosaccharum (make first):**
+- **8g** lemon zest (about 2 lemons, microplaned — zest before juicing)
+- **15g** glycerin
+
+Combine in a small bowl, muddle with a spoon, cover, rest 2-4h at room temp.
+
+**Wet:**
+- **468g** Marata 3.5% milk
+- **75g** Marata 2% strained yogurt
+- **15g** lemon juice (from the zested lemons)
+- Glycerin-lemon oleosaccharum (all of it, zest included)
+
+**Dry:**
+- **35g** erythritol
+- **30g** whey protein (HSN WPC80)
+- **15g** xylitol
+- **5g** inulin
+- **5g** MCC (microcrystalline cellulose)
+- **1g** citric acid
+- **0.2g** sucralose
+- Salty Stability (10g):
+  - **8.53g** inulin
+  - **0.60g** CMC
+  - **0.40g** guar gum
+  - **0.33g** salt
+  - **0.13g** xanthan gum
+
+**Steps:**
+1. **Oleosaccharum:** Microplane 2 lemons (zest only, no white pith). Combine zest with 15g glycerin in a small bowl, muddle, cover. Rest 2-4h at room temp. Juice the lemons, reserve 15g juice.
+2. Add milk, yogurt, lemon juice to pint.
+3. Combine all dry ingredients in a bowl (erythritol, xylitol, whey, inulin, MCC, citric acid, sucralose, SS). Mix well.
+4. Add dry mix to pint. Stir vigorously, then immersion-blend 15-20 sec to disperse MCC and whey. Avoid extended blending — whey traps air.
+5. Add the oleosaccharum (glycerin + all zest). Stir to combine — don't blend further (acid + shear can curdle).
+6. Refrigerate 2-4h (flavor development + gum hydration). Stir once halfway to redistribute MCC.
+7. Freeze 24h.
+8. Process on **Lite Ice Cream**. Re-spin if needed.
+
+**Notes:**
+- Glycerin oleosaccharum is the star technique — glycerin draws essential oils from the zest far more effectively than just tossing zest into cold milk. Traditional oleosaccharum uses sugar; erythritol is too non-hygroscopic for this, but glycerin (a known solvent for essential oils, used in herbal tinctures) works beautifully. The 15g glycerin also contributes PAC (anti-freezing power — how much an ingredient keeps ice cream soft/scoopable) and mild sweetness (~60% of sugar).
+- Lemon zest stays in the base — the Creami blade processes it. Fine microplaned zest disappears into the texture.
+- Citric acid (1g) provides the tart "lemon punch" without curdling risk from excess juice. 15g juice adds freshness. For more tartness, bump citric acid to 1.5g. For more lemon intensity, zest a 3rd lemon into the oleosaccharum.
+- Yogurt at 11% of base — well below the ~20-25% threshold where tang becomes noticeable. Provides solids and protein without competing with lemon.
+- SweEX ratio 35:15 (~2.3:1) — xylitol prevents erythritol crystallization. Erythritol at 5.1% (under 8% threshold).
+- GI safety: inulin 13.53g (5g standalone + 8.53g from SS), xylitol 15g — combined fermentable load ~28.5g, well under 45g limit.
+- Total gums: 1.13g (0.60g CMC + 0.40g guar + 0.13g xanthan from SS) — well under 2g limit.
+- Salt (0.33g from SS) suppresses erythritol cooling and enhances lemon perception.
+- Emulsification from whey protein's built-in sunflower lecithin (~0.24-0.3g from 30g WPC80) — sufficient for 2.9% total fat base.
+
+**Cost:** ~€3.21/kg — ~€2.19/pint (excludes: vanilla extract, lemon zest 8g, lemon juice 15g, citric acid 1g — price TBD)
+
+**Nutrition (per 100g):** 88 kcal | 2.9g fat | 6.0g carbs (10.4g sugars, 2.4g fiber) | 6.7g protein
+
+**Scoopulator:** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-35-L1Bll6:468,user-yogurt-straggisto-2-33939d:75,erythritol:35,xylitol:15,glycerin:15,inulin:13.53,user-hsn-whey-protein-concentrate-984009:30,sodium-carboxymethyl-cellulose-cmc:0.6,guar-gum:0.4,xanthan-gum:0.13,usdafndds-2710263:0.2,usdaff-746775:0.33,user-microcrystalline-cellulose-mcc-myujQ3:5,usdafndds-2709181:15,lemon-zest:8,user-citric-acid-7aeef0:1&target=low-fat-ice-cream) — Serv. -15.0°C 🟢 | Sweet 7.37% 🔴 | Solids 28.15% 🟢 | Sugars 10.01% 🔴 | Milk Fat 2.62% 🟢 | MSNF 7.16% 🔴 | Stab 0.17% 🔴 | Emul 0% 🔴
+*(Sweetness/Sugars reds are structural for sugar-free. MSNF red is inherent to milk+hint-of-yogurt base with no SMP. Emulsifier red — Scoopulator can't see whey's built-in sunflower lecithin.)*
+
+---
