@@ -3,6 +3,9 @@
 - [Stabilizer Mixes](#stabilizer-mixes)
 - [TESTING — Mix-In Components](#testing--mix-in-components)
 - [Original](#original)
+  - [Ice Cream](#ice-cream)
+  - [Sauces](#sauces)
+  - [Mix-ins](#mix-ins)
 
 ## Stabilizer Mixes
 
@@ -301,7 +304,9 @@ Real caramelized sugar base — dry-caramelized for deep amber, true butterscotc
 
 ## Original
 
-### Vanilla Base — Salty Stability (Sugar-Free)
+### Ice Cream
+
+#### Vanilla Base — Salty Stability (Sugar-Free)
 Tags: ice-cream, vanilla, low-fat, sugar-free, no-cook, high-protein, salty-stability, original
 
 Milk-only vanilla base (no yogurt) built on Salty Stability philosophy: whey protein for body, soy lecithin for emulsification, CMC/guar/xanthan for stability, salt to enhance vanilla and suppress erythritol cooling. Glycerin provides FPD and body alongside erythritol+xylitol. MCC adds fat-mimetic mouthfeel and ice crystal prevention without GI load.
@@ -346,7 +351,7 @@ Milk-only vanilla base (no yogurt) built on Salty Stability philosophy: whey pro
 
 ---
 
-### Strawberry Frozen Yogurt — Salty Stability (Sugar-Free)
+#### Strawberry Frozen Yogurt — Salty Stability (Sugar-Free)
 Tags: frozen-yogurt, strawberry, low-fat, sugar-free, no-cook, high-protein, salty-stability, original
 
 Yogurt-heavy froyo with frozen strawberries as the star. 350g strained yogurt gives natural tang and body; 150g frozen strawberries bring color and fruit flavor. Salty Stability handles stabilization and emulsification. Light on gums — the yogurt + whey + inulin already provide most of the body.
@@ -390,7 +395,7 @@ Yogurt-heavy froyo with frozen strawberries as the star. 350g strained yogurt gi
 
 ---
 
-### Strawberry Sorbet (Sugar-Free)
+#### Strawberry Sorbet (Sugar-Free)
 Tags: sorbet, strawberry, sugar-free, no-cook, no-dairy, low-cal, original
 
 Water-based strawberry sorbet using fresh strawberries. No dairy, no guar (acid-sensitive — strawberries + citric acid sit at ~pH 3). Xanthan gum handles stabilization (stable pH 2-12) with MCC for fat-mimetic body and ice crystal prevention (MCC+XG synergy). Erythritol+xylitol+glycerin split across three sweeteners for balanced PAC and taste.
@@ -437,7 +442,7 @@ Water-based strawberry sorbet using fresh strawberries. No dairy, no guar (acid-
 
 ---
 
-### Cheesecake base
+#### Cheesecake base
 
 **Base — Wet:**
 - **273g** Marata 1.5% milk
@@ -492,115 +497,7 @@ Water-based strawberry sorbet using fresh strawberries. No dairy, no guar (acid-
 
 ---
 
-### Sugar-Free Strawberry Sauce (Swirl/Topping)
-Tags: sauce, strawberry, sugar-free, topping, swirl, component, original
-
-Cooked-down strawberry sauce — Polar's method. Simmering removes excess water (strawberries are ~91% water), activates natural pectin for jammy body, and concentrates flavor. Xylitol + glycerin provide FPD (freezing point depression — keeps the swirl soft/scoopable at -18C instead of freezing into an icy stripe). Works as a swirl in any pint, a topping, or a mix-in sauce. Yields ~75g.
-
-**Ingredients:**
-- **100g** frozen strawberries
-- **5g** xylitol — sweetness + FPD
-- **5g** glycerin — FPD + keeps swirl soft at freezer temp
-- **5g** erythritol — sweetness (added off-heat to avoid crystallization)
-- Pinch of **citric acid** (or squeeze of lemon)
-- Pinch of **salt** — rounds out sweetness
-
-**Cost:** ~€7.47/kg — ~€0.56/batch (~75g yield)
-
-**Steps:**
-1. Frozen strawberries in a skillet or small pot over **medium heat**. Skillet is faster — more surface area means quicker evaporation.
-2. As they thaw and release juice, **crush with a fork or spatula** into a chunky pulp.
-3. Stir in xylitol to dissolve.
-4. **Simmer 10-15 min**, stirring occasionally, until reduced by roughly half and visibly thick/jammy. It should coat a spoon and not run off immediately.
-5. **Remove from heat.** Stir in glycerin, erythritol, citric acid, and salt while the sauce is still hot (erythritol dissolves in the residual heat but won't concentrate further).
-6. Cool to room temperature, then refrigerate. Keeps 5-7 days in the fridge.
-
-**Notes:**
-- **No xanthan needed** — the cook-down + natural pectin provides body. If you prefer an even thicker sauce, add 0.2g xanthan at step 5 (counts toward the 2g/pint gum limit).
-- Works with any frozen fruit: raspberries, blueberries, mango, peach. Raspberries benefit from straining seeds after cooking.
-- **Don't skip the glycerin** — without it (or xylitol), the swirl freezes rock-hard at -18C and you get icy ribbons instead of soft streaks.
-- **Yield:** ~75g (100g fruit minus ~40g water lost, plus 15g dry ingredients).
-- **Nutrition (entire batch, ~75g):** ~66 kcal | F 0.3g | C 17.7g (sugars 4.9g, sugar alcohols 10g) | P 0.7g
-- **Nutrition per 100g:** ~88 kcal | F 0.4g | C 23.6g | P 0.9g
-
-**As a swirl:** Cool completely. Spoon on top of spun ice cream and use a butter knife to drag ribbons into the top 2-3 cm. Do not over-mix — visible streaks are the goal.
-
-**As a mix-in:** Cool completely. Pour into a hole going down to the bottom and fold ice cream over before running the Mix-In cycle.
-
----
-
-### Coconut Ice Cream (Sugar-Free)
-Tags: ice-cream, coconut, low-fat, sugar-free, no-cook, salty-stability, original
-
-Coconut-forward ice cream using Oriental Express canned coconut milk (18% fat) as the flavor base. Half a can (200g) gives strong coconut flavor while keeping kcal around 111/100g — the rest is 1.5% milk. Whey protein and MCC provide body and ice crystal prevention; inulin adds solids. No soy lecithin — whey protein's natural sunflower lecithin (~0.2g) handles the modest emulsification need.
-
-**Wet:**
-- **340g** Marata 1.5% milk — €0.36
-- **200g** coconut milk (Oriental Express, 18% fat) — half a 400ml can — €1.03
-- **10g** glycerin — €0.04
-
-**Dry:**
-- **35g** erythritol — €0.46
-- **23g** xylitol — €0.33
-- **22g** whey protein (HSN WPC80) — €0.47
-- **11.47g** inulin — €0.22
-- **8g** MCC (microcrystalline cellulose) — €0.10
-- **0.15g** sucralose — €0.02
-- Salty Stability (10g) — €0.19:
-  - **8.53g** inulin — €0.16
-  - **0.60g** CMC — €0.01
-  - **0.40g** guar gum — €0.00
-  - **0.33g** salt — —
-  - **0.13g** xanthan gum — €0.00
-
-**Steps:**
-1. Add milk, coconut milk, and glycerin to pint.
-2. Combine dry ingredients in a bowl: erythritol, xylitol, sucralose, whey protein, inulin, MCC, Salty Stability. Mix well.
-3. Add dry mix to pint. Stir vigorously by hand, then immersion-blend 15-20 sec to disperse MCC. Avoid extended blending — whey protein traps air.
-4. Refrigerate 1-2h, stir again to pop air bubbles and redistribute MCC (it settles). Freeze 24h.
-5. Process on **Lite Ice Cream**. Re-spin if needed.
-
-**Notes:**
-- Half a can of coconut milk — use the other half for a second pint or freeze in an ice cube tray for later.
-- SweEX ratio 35:23 (≈3:2) — xylitol prevents erythritol crystallization. Erythritol at 5.3% of mix (under 8% threshold).
-- GI safety: inulin 20g + xylitol 23g = 43g combined fermentable — under 45g limit.
-- Total gums: 0.9g CMC + 0.6g guar + 0.2g xanthan = 1.7g (under 2g limit). Coconut milk also contains guar gum (unlisted amount).
-- Glycerin at 10g — just for mild FPD (PAC (anti-freezing power) 3.7). Whey + inulin + MCC handle body.
-- No soy lecithin added. Coconut fat load is moderate (~36g) and whey protein is surface-active enough.
-
-**Optional mix-in:** Chocolate stracciatella drizzle — see Chocolate-Oil Drizzle recipe below.
-
-**Cost:** ~€4.91/kg — ~€3.25/pint
-
-**Scoopulator:** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-coconut-milk-oriental-express-x3zpyE:200,user-milk-fresh-marata-15-4d71c8:340,erythritol:35,xylitol:23,glycerin:10,inulin:20,user-hsn-whey-protein-concentrate-984009:22,user-microcrystalline-cellulose-mcc-myujQ3:8,sodium-carboxymethyl-cellulose-cmc:0.9,guar-gum:0.6,xanthan-gum:0.2,usdaff-746775:0.5,usdafndds-2710263:0.15&target=low-fat-ice-cream) — Serv. -14.4°C 🟢 | Sweet 8.58% 🔴 | Sugars 11.05% 🔴 | Solids 27.18% 🟡 | Stab 0.33% 🔴 | Emul 0% 🔴 | 111 kcal/100g
-*(Sugars red is structural — no sugar. Stab red — low-fat profile expects 0.7-0.9% but we get body from whey+inulin+MCC, not gums. Emul red — no standalone emulsifier; whey protein provides natural emulsification.)*
-
----
-
-### Chocolate-Oil Drizzle (Stracciatella)
-Tags: mix-in, chocolate, stracciatella, component
-
-Light chocolate drizzle for stracciatella-style flakes in any pint. Oil keeps the chocolate softer/chewier at -18°C instead of shattering into hard shards. Drizzle after spinning — the Mix-In blade breaks it into thin flakes distributed throughout.
-
-**Ingredients:**
-- **20g** dark chocolate, chopped
-- **5g** neutral oil (sunflower, or coconut milk from an open can)
-
-**Steps:**
-1. Melt chocolate and oil together in microwave — 15 sec bursts, stir between each until smooth.
-2. Let cool slightly (still pourable but not hot).
-3. After spinning the base, dig a hole down the center. Drizzle the chocolate in thin streams.
-4. Fold ice cream over the drizzle, then run **Mix-In** cycle.
-
-**Notes:**
-- More oil = softer pieces at freezer temp. Less oil = harder snap. 5g is a good starting point.
-- For a crackle top instead: pour over the surface after spinning, return to freezer immediately. Skip Mix-In.
-- ~120 kcal for the batch (~20 kcal per 100g of a 680g pint).
-- Works with any base — coconut, vanilla, cheesecake, etc.
-
----
-
-### Lemon Ice Cream — Salty Stability (Sugar-Free)
+#### Lemon Ice Cream — Salty Stability (Sugar-Free)
 Tags: ice-cream, lemon, citrus, sugar-free, no-cook, high-protein, salty-stability, oleosaccharum, original
 
 Bright lemon ice cream using a sugar-free oleosaccharum technique: lemon zest macerated in glycerin to extract essential oils (glycerin is an excellent solvent for citrus oils, same principle as traditional zest+sugar oleosaccharum). 3.5% milk + a hint of yogurt (11%, well below tang threshold) for solids and fat. Citric acid provides tartness without the curdling risk of large amounts of juice. Whey protein for body, SS for stabilization.
@@ -659,5 +556,117 @@ Combine in a small bowl, muddle with a spoon, cover, rest 2-4h at room temp.
 
 **Scoopulator:** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-35-L1Bll6:468,user-yogurt-straggisto-2-33939d:75,erythritol:35,xylitol:15,glycerin:15,inulin:13.53,user-hsn-whey-protein-concentrate-984009:30,sodium-carboxymethyl-cellulose-cmc:0.6,guar-gum:0.4,xanthan-gum:0.13,usdafndds-2710263:0.2,usdaff-746775:0.33,user-microcrystalline-cellulose-mcc-myujQ3:5,usdafndds-2709181:15,lemon-zest:8,user-citric-acid-7aeef0:1&target=low-fat-ice-cream) — Serv. -15.0°C 🟢 | Sweet 7.37% 🔴 | Solids 28.15% 🟢 | Sugars 10.01% 🔴 | Milk Fat 2.62% 🟢 | MSNF 7.16% 🔴 | Stab 0.17% 🔴 | Emul 0% 🔴
 *(Sweetness/Sugars reds are structural for sugar-free. MSNF red is inherent to milk+hint-of-yogurt base with no SMP. Emulsifier red — Scoopulator can't see whey's built-in sunflower lecithin.)*
+
+---
+
+#### Coconut Ice Cream (Sugar-Free)
+Tags: ice-cream, coconut, low-fat, sugar-free, no-cook, salty-stability, original
+
+Coconut-forward ice cream using Oriental Express canned coconut milk (18% fat) as the flavor base. Half a can (200g) gives strong coconut flavor while keeping kcal around 111/100g — the rest is 1.5% milk. Whey protein and MCC provide body and ice crystal prevention; inulin adds solids. No soy lecithin — whey protein's natural sunflower lecithin (~0.2g) handles the modest emulsification need.
+
+**Wet:**
+- **340g** Marata 1.5% milk — €0.36
+- **200g** coconut milk (Oriental Express, 18% fat) — half a 400ml can — €1.03
+- **10g** glycerin — €0.04
+
+**Dry:**
+- **35g** erythritol — €0.46
+- **23g** xylitol — €0.33
+- **22g** whey protein (HSN WPC80) — €0.47
+- **11.47g** inulin — €0.22
+- **8g** MCC (microcrystalline cellulose) — €0.10
+- **0.15g** sucralose — €0.02
+- Salty Stability (10g) — €0.19:
+  - **8.53g** inulin — €0.16
+  - **0.60g** CMC — €0.01
+  - **0.40g** guar gum — €0.00
+  - **0.33g** salt — —
+  - **0.13g** xanthan gum — €0.00
+
+**Steps:**
+1. Add milk, coconut milk, and glycerin to pint.
+2. Combine dry ingredients in a bowl: erythritol, xylitol, sucralose, whey protein, inulin, MCC, Salty Stability. Mix well.
+3. Add dry mix to pint. Stir vigorously by hand, then immersion-blend 15-20 sec to disperse MCC. Avoid extended blending — whey protein traps air.
+4. Refrigerate 1-2h, stir again to pop air bubbles and redistribute MCC (it settles). Freeze 24h.
+5. Process on **Lite Ice Cream**. Re-spin if needed.
+
+**Notes:**
+- Half a can of coconut milk — use the other half for a second pint or freeze in an ice cube tray for later.
+- SweEX ratio 35:23 (≈3:2) — xylitol prevents erythritol crystallization. Erythritol at 5.3% of mix (under 8% threshold).
+- GI safety: inulin 20g + xylitol 23g = 43g combined fermentable — under 45g limit.
+- Total gums: 0.9g CMC + 0.6g guar + 0.2g xanthan = 1.7g (under 2g limit). Coconut milk also contains guar gum (unlisted amount).
+- Glycerin at 10g — just for mild FPD (PAC (anti-freezing power) 3.7). Whey + inulin + MCC handle body.
+- No soy lecithin added. Coconut fat load is moderate (~36g) and whey protein is surface-active enough.
+
+**Optional mix-in:** Chocolate stracciatella drizzle — see Chocolate-Oil Drizzle recipe below.
+
+**Cost:** ~€4.91/kg — ~€3.25/pint
+
+**Scoopulator:** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-coconut-milk-oriental-express-x3zpyE:200,user-milk-fresh-marata-15-4d71c8:340,erythritol:35,xylitol:23,glycerin:10,inulin:20,user-hsn-whey-protein-concentrate-984009:22,user-microcrystalline-cellulose-mcc-myujQ3:8,sodium-carboxymethyl-cellulose-cmc:0.9,guar-gum:0.6,xanthan-gum:0.2,usdaff-746775:0.5,usdafndds-2710263:0.15&target=low-fat-ice-cream) — Serv. -14.4°C 🟢 | Sweet 8.58% 🔴 | Sugars 11.05% 🔴 | Solids 27.18% 🟡 | Stab 0.33% 🔴 | Emul 0% 🔴 | 111 kcal/100g
+*(Sugars red is structural — no sugar. Stab red — low-fat profile expects 0.7-0.9% but we get body from whey+inulin+MCC, not gums. Emul red — no standalone emulsifier; whey protein provides natural emulsification.)*
+
+---
+
+### Sauces
+
+#### Sugar-Free Strawberry Sauce (Swirl/Topping)
+Tags: sauce, strawberry, sugar-free, topping, swirl, component, original
+
+Cooked-down strawberry sauce — Polar's method. Simmering removes excess water (strawberries are ~91% water), activates natural pectin for jammy body, and concentrates flavor. Xylitol + glycerin provide FPD (freezing point depression — keeps the swirl soft/scoopable at -18C instead of freezing into an icy stripe). Works as a swirl in any pint, a topping, or a mix-in sauce. Yields ~75g.
+
+**Ingredients:**
+- **100g** frozen strawberries
+- **5g** xylitol — sweetness + FPD
+- **5g** glycerin — FPD + keeps swirl soft at freezer temp
+- **5g** erythritol — sweetness (added off-heat to avoid crystallization)
+- Pinch of **citric acid** (or squeeze of lemon)
+- Pinch of **salt** — rounds out sweetness
+
+**Cost:** ~€7.47/kg — ~€0.56/batch (~75g yield)
+
+**Steps:**
+1. Frozen strawberries in a skillet or small pot over **medium heat**. Skillet is faster — more surface area means quicker evaporation.
+2. As they thaw and release juice, **crush with a fork or spatula** into a chunky pulp.
+3. Stir in xylitol to dissolve.
+4. **Simmer 10-15 min**, stirring occasionally, until reduced by roughly half and visibly thick/jammy. It should coat a spoon and not run off immediately.
+5. **Remove from heat.** Stir in glycerin, erythritol, citric acid, and salt while the sauce is still hot (erythritol dissolves in the residual heat but won't concentrate further).
+6. Cool to room temperature, then refrigerate. Keeps 5-7 days in the fridge.
+
+**Notes:**
+- **No xanthan needed** — the cook-down + natural pectin provides body. If you prefer an even thicker sauce, add 0.2g xanthan at step 5 (counts toward the 2g/pint gum limit).
+- Works with any frozen fruit: raspberries, blueberries, mango, peach. Raspberries benefit from straining seeds after cooking.
+- **Don't skip the glycerin** — without it (or xylitol), the swirl freezes rock-hard at -18C and you get icy ribbons instead of soft streaks.
+- **Yield:** ~75g (100g fruit minus ~40g water lost, plus 15g dry ingredients).
+- **Nutrition (entire batch, ~75g):** ~66 kcal | F 0.3g | C 17.7g (sugars 4.9g, sugar alcohols 10g) | P 0.7g
+- **Nutrition per 100g:** ~88 kcal | F 0.4g | C 23.6g | P 0.9g
+
+**As a swirl:** Cool completely. Spoon on top of spun ice cream and use a butter knife to drag ribbons into the top 2-3 cm. Do not over-mix — visible streaks are the goal.
+
+**As a mix-in:** Cool completely. Pour into a hole going down to the bottom and fold ice cream over before running the Mix-In cycle.
+
+---
+
+### Mix-ins
+
+#### Chocolate-Oil Drizzle (Stracciatella)
+Tags: mix-in, chocolate, stracciatella, component
+
+Light chocolate drizzle for stracciatella-style flakes in any pint. Oil keeps the chocolate softer/chewier at -18°C instead of shattering into hard shards. Drizzle after spinning — the Mix-In blade breaks it into thin flakes distributed throughout.
+
+**Ingredients:**
+- **20g** dark chocolate, chopped
+- **5g** neutral oil (sunflower, or coconut milk from an open can)
+
+**Steps:**
+1. Melt chocolate and oil together in microwave — 15 sec bursts, stir between each until smooth.
+2. Let cool slightly (still pourable but not hot).
+3. After spinning the base, dig a hole down the center. Drizzle the chocolate in thin streams.
+4. Fold ice cream over the drizzle, then run **Mix-In** cycle.
+
+**Notes:**
+- More oil = softer pieces at freezer temp. Less oil = harder snap. 5g is a good starting point.
+- For a crackle top instead: pour over the surface after spinning, return to freezer immediately. Skip Mix-In.
+- ~120 kcal for the batch (~20 kcal per 100g of a 680g pint).
+- Works with any base — coconut, vanilla, cheesecake, etc.
 
 ---
