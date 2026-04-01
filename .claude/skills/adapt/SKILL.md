@@ -36,16 +36,15 @@ allowed-tools: Read, Grep, Glob, Write, Edit, WebFetch
 ## Blend Compositions
 
 ### Salty Stability (150g total)
-Inulin 110g, Soy Lecithin 18g (replaces GMS), CMC 9g, Guar 6g, Salt 5g, Xanthan 2g
+Inulin 128g, CMC 9g, Guar 6g, Salt 5g, Xanthan 2g. **No soy lecithin** — lecithin is a separate pantry ingredient, not part of SS.
 
 | Ingredient | Ratio | Per 15g dose | Per 10g dose | Per 5g dose |
 |-----------|-------|-------------|-------------|------------|
-| Inulin | 73.3% | 11.0g | 7.3g | 3.7g |
-| Soy Lecithin | 12.0% | 1.8g | 1.2g | 0.6g |
+| Inulin | 85.3% | 12.8g | 8.53g | 4.27g |
 | CMC | 6.0% | 0.9g | 0.6g | 0.3g |
 | Guar Gum | 4.0% | 0.6g | 0.4g | 0.2g |
-| Salt | 3.3% | 0.5g | 0.3g | 0.2g |
-| Xanthan Gum | 1.3% | 0.2g | 0.1g | 0.07g |
+| Salt | 3.3% | 0.5g | 0.33g | 0.17g |
+| Xanthan Gum | 1.3% | 0.2g | 0.13g | 0.07g |
 
 **3-ingredient fallback** (per 15g dose): 1.5g guar + 0.5g xanthan + 0.5g salt
 
