@@ -1,5 +1,12 @@
 # CREAMing — Recipes Adapted for me 🌻
 
+- [E4CM](#e4cm)
+- [FPF](#fpf)
+  - [DQ Blizzard Dupes](#dq-blizzard-dupes)
+- [ice-creamery](#ice-creamery)
+- [Stabilizer Mixes](#stabilizer-mixes)
+- [Reddit / Le Interwebz](#reddit--le-interwebz)
+
 ## [E4CM](https://www.youtube.com/@Exercise4CheatMeals)
 
 ### [Watermelon Sorbet](https://youtu.be/MUU71EH9URw)
