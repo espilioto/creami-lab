@@ -23,6 +23,7 @@
 
 > For recipe optimization, Scoopulator validation, ingredient science, and target profiles → use `/optimize`
 > **Scoopulator parsing:** ALWAYS use `PYTHONIOENCODING=utf-8 bash rest/scoopulator_parse.sh "<URL>"` — never WebFetch (it can't read CSS status classes)
+> **Scoopulator evaporation:** For recipes that reduce/cook a liquid (e.g. caramelizing milk), append `&evp=FRACTION` to the URL (e.g. `&evp=0.22` for 22% water loss). Enter the **original pre-reduction weight** — Scoopulator concentrates solids and removes only water.
 > For recipe adaptation rules, ingredient swaps, blend compositions, and CREAMing.md formatting → use `/adapt`
 > For extracting recipes from Reddit posts (body + comments, pantry check, unit conversion) → use `/reddit`
 

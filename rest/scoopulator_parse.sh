@@ -34,6 +34,15 @@ for li in soup.select('li'):
             output_names.append(name)
 output_count = len(output_names)
 
+# ── EVAPORATION ──
+evp = qs.get('evp', [None])[0]
+if evp:
+    try:
+        evp_pct = float(evp) * 100
+        print(f'\U0001f525 Evaporation: {evp_pct:.0f}%')
+    except ValueError:
+        pass
+
 if input_count != output_count:
     print(f'\u26a0\ufe0f  SLUG MISMATCH: sent {input_count} ingredients, page shows {output_count}')
     page_lower = [n.lower() for n in output_names]
