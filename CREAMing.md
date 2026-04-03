@@ -675,13 +675,14 @@ Inspired by the Greek τάρτα με καραμελωμένο γάλα — a se
 
 **Prep — Caramelize the milk (day before):**
 1. **Weigh the empty pan** and write it down. Pour in **700g** Marata 3.5% whole milk. Use a wide saucepan (more surface = faster evaporation).
-2. Bring to a gentle simmer over **low-medium heat**. Stir frequently, scraping the bottom.
-3. Cook **40-50 minutes**, checking weight every 10 min (every 5 min after 30 min — color changes fast at the end). Target: **pan + 546g** (~22% loss).
+2. Bring to a gentle simmer over **medium heat** — you need **small, steady bubbles**. Too low (no bubbles) = the milk just dehydrates without browning.
+3. **Stir every 30-60 seconds**, not constantly — let a thin film form on the bottom, then scrape it back in. That film is where the Maillard browning happens. Constant stirring prevents it. Stir more frequently once color starts developing to prevent scorching.
+4. Cook **40-50 minutes**, checking weight every 10 min (every 5 min after 30 min — color changes fast at the end). Target: **pan + 546g** (~22% loss). **Watch for color, not just weight** — color change is the real indicator.
    - ~630g remaining: barely any color, just slightly reduced
    - ~595g: pale gold, nutty smell developing
    - **~546g: golden-amber, toasty aroma, noticeably thicker — STOP HERE**
    - ~525g and below: too dark, heading toward dulce de leche territory
-4. **Cool completely** — refrigerate overnight for deepest flavor.
+5. **Cool completely** — refrigerate overnight for deepest flavor.
 
 **Wet:**
 - **700g → ~546g** caramelized 3.5% whole milk (cooled) — €0.77
