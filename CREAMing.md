@@ -768,6 +768,59 @@ Cooked-down strawberry sauce — Polar's method. Simmering removes excess water 
 
 ---
 
+#### Sugar-Free Lemon Swirl (Swirl/Topping)
+Tags: sauce, lemon, citrus, sugar-free, topping, swirl, component, oleosaccharum, original
+
+Bright lemon curd-style swirl — no eggs, no butter, no sugar. Uses the glycerin-oleosaccharum technique from the Lemon Ice Cream recipe to extract maximum citrus oil from the zest. Xanthan provides the body that lemon juice lacks (no natural pectin like strawberry). Glycerin + xylitol keep it soft and scoopable at -18°C. One batch = ~2 pints (~55g per pint). Pairs perfectly with Vanilla Base, Lemon Ice Cream, or any mild/creamy flavor.
+
+**Glycerin-Lemon Oleosaccharum (make first):**
+- **6g** lemon zest (about 1.5 lemons, microplaned — zest before juicing)
+- **15g** glycerin
+
+Combine in a small bowl, muddle with a spoon, cover, rest 30 min–2h at room temp.
+
+**Ingredients (~110g batch, 2 pints):**
+- **60g** water
+- **30g** lemon juice (from the zested lemons)
+- **10g** erythritol
+- **5g** xylitol — sweetness + FPD (freezing point depression — keeps the swirl soft at -18°C)
+- **0.3g** xanthan gum — body (lemon has no pectin, needs a thickener)
+- **0.5g** citric acid — tartness boost
+- **0.3g** salt
+- **0.1g** sucralose (tiny pinch)
+- Glycerin-lemon oleosaccharum (all of it, zest included)
+
+**Cost:** ~€1.93/kg — ~€0.21/batch (~110g yield, excludes lemons)
+
+**Steps:**
+1. **Oleosaccharum:** Microplane 1.5 lemons (zest only, no white pith). Combine zest with 15g glycerin, muddle, cover. Rest 30 min–2h. Juice the lemons, reserve 30g juice.
+2. Pre-mix erythritol, xylitol, and xanthan dry in a small bowl (prevents xanthan clumping).
+3. Combine water and lemon juice in a small pot, bring to a simmer over medium heat.
+4. Whisk in the dry mix, stir constantly until dissolved and slightly thickened (~2 min).
+5. Remove from heat. Stir in the oleosaccharum (glycerin + all zest), citric acid, salt, and sucralose.
+6. Cool to room temperature — thickens further as it rests. Refrigerate. Keeps 5-7 days.
+
+**Notes:**
+- **Oleosaccharum is the key** — glycerin extracts essential oils from the zest far better than just tossing zest into liquid. 30 min is enough for a sauce (vs 2-4h for ice cream base where you want subtler infusion). The zest stays in the sauce — adds visible lemon flecks and bursts of flavor.
+- **Xanthan is necessary** — unlike strawberry sauce (which gets body from natural pectin + cook-down), lemon juice is thin liquid with no pectin. 0.3g gives a pourable-but-clingy consistency. For thicker paste, bump to 0.5g.
+- Want more tart? Bump citric acid to 1g. Want brighter? Add zest of one more lemon to the oleosaccharum.
+- Want softer in freezer? Bump glycerin to 20g. Want firmer? Drop to 10g.
+- Xanthan (0.3g) is negligible toward the pint's 2g gum limit.
+- **No erythritol crystallization risk** — 10g in ~110g sauce = ~9%, but dissolved in hot liquid with xylitol present.
+- GI (gastrointestinal) budget: 5g xylitol per pint — leaves plenty of room for the base.
+- **Yield:** ~110g (minimal evaporation — only brief simmer, not a long reduction like strawberry).
+- **Nutrition (entire batch, ~110g):** ~79 kcal | F 0.2g | C 7.5g (sugars 1.2g, sugar alcohols 15g) | P 0.3g
+- **Nutrition per 100g:** ~72 kcal | F 0.2g | C 6.8g | P 0.3g
+- **Nutrition per pint serving (~55g):** ~40 kcal | F 0.1g | C 3.8g | P 0.2g
+
+**As a swirl:** Cool completely. Spoon ~55g on top of spun ice cream and use a butter knife to drag ribbons into the top 2-3 cm. Do not over-mix — visible yellow streaks are the goal.
+
+**As a mix-in:** Cool completely. Pour into a hole going down to the bottom and fold ice cream over before running the Mix-In cycle.
+
+**As a topping:** Drizzle over spun ice cream in the bowl. The bright citrus cuts through rich/sweet bases beautifully.
+
+---
+
 ### Mix-ins
 
 #### Chocolate-Oil Drizzle (Stracciatella)
