@@ -7350,3 +7350,43 @@ _Chocolate topping (for the toffee):_
 - Cream was added specifically to try to get a creamier result, though Nick noted it's not his usual approach.
 
 ---
+
+### [Making the BEST Lemon Sorbet at home — Food Science](https://www.youtube.com/watch?v=U3s9T38bC0o)
+
+Precision-balanced lemon sorbet using an oleo saccharum technique for maximum citrus oil extraction. Uses xanthan gum (not guar — guar fails in acidic bases). Batch recipe (~1750g, enough for ~2.5 Creami pints).
+
+**Ingredients:**
+
+- **1098.5g** water
+- **436.1g** sugar
+- **74.9g** lemon juice (fresh, ~2 large lemons)
+- **71.3g** glucose syrup (or light corn syrup)
+- **43.6g** erythritol
+- **20g** lemon zest (~2 large lemons)
+- **5.7g** xanthan gum
+- **1.5–2g** citric acid
+
+**Steps:**
+
+1. Zest 2 large lemons with a microplane, avoiding the white pith (bitter).
+2. *(Optional — oleo saccharum)* Mix zest with some of the sugar in a small container. Leave 30 min+ (or overnight/up to a week) to extract citrus oils via osmosis.
+3. Combine erythritol, citric acid, and xanthan gum. Whisk dry powders together to prevent xanthan clumps.
+4. Add the dry mix to the water in a pan. Whisk together.
+5. Add the remaining sugar. Heat to ~50°C (syrup phase) — dissolves sugars and activates xanthan. Do not overheat.
+6. Stir in the glucose syrup until dissolved.
+7. Add the lemon juice and the oleo saccharum (zest + sugar).
+8. Stir until thick and semi-viscous (like an ice cream base).
+9. *(Optional)* Strain to remove zest, or leave it in for visual effect — won't affect texture. Xanthan viscosity keeps zest suspended.
+10. Pour ~680g into a Ninja Creami pint. Freeze 24 hours (can go straight to freezer since base wasn't superheated).
+11. Spin on Sorbet setting.
+
+**Notes:**
+
+- **No guar gum** — guar does not work in acidic bases. Xanthan is the correct stabilizer for sorbets.
+- Glucose syrup and light corn syrup are interchangeable.
+- The method matters more than exact ingredients for sorbet — creating the semi-viscous syrup phase is the critical step.
+- Nick suggests leaving the base overnight before freezing to let flavors build.
+- Pairs well with torched Swiss meringue on top.
+- Also tested in a traditional churn machine in the same video.
+
+---
