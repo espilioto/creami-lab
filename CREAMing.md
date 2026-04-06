@@ -336,14 +336,6 @@ Milk-only vanilla base (no yogurt) built on Salty Stability philosophy: whey pro
 4. Refrigerate 1-2h, then stir again to pop air bubbles and redistribute MCC (it settles). Freeze 24h.
 5. Process on **Lite Ice Cream**. Re-spin if needed.
 
-**Notes:**
-- SweEX ratio 27:17 (≈3:2) — prevents erythritol crystallization. Erythritol at 5.5% (under 8% threshold).
-- GI safety: xylitol 17g, inulin 7.3g per pint — combined fermentable load ~24g, much gentler than v1 (was 35g).
-- Salt (0.3g) amplifies vanilla, suppresses erythritol cooling sensation.
-- MCC (5g, ~1% of mix) provides fat-mimetic body and ice crystal inhibition. Works synergistically with the 0.6g CMC in SS. Insoluble — not modeled by Scoopulator.
-- Standalone inulin removed — 50g whey protein provides body, solids, and water-binding. SS reduced 15g→10g (gums 1.7g→1.13g) to fix stretchy texture.
-- Glycerin kept at 5g (same as v1) — whey solids handle body, glycerin just for mild FPD.
-
 **Nutrition (per 100g):** 95 kcal | 1.9g fat | 5.7g carbs (13.8g sugars, 1.2g fiber) | 10.6g protein
 
 **Scoopulator:** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-15-4d71c8:400,inulin:7.3,usdabranded-soy-lecithin:1.2,sodium-carboxymethyl-cellulose-cmc:0.6,guar-gum:0.4,usdaff-746775:0.3,xanthan-gum:0.13,erythritol:27,xylitol:17,glycerin:5,user-hsn-whey-protein-concentrate-984009:50,pure-vanilla-extract:5,usdafndds-2710263:0.1,user-microcrystalline-cellulose-mcc-myujQ3:5&target=low-fat-ice-cream) — Serv. -14.7°C 🟢 | Sweet 7.61% 🔴 | Solids 28.64% 🟢 | Sugars 13.84% 🔴 | Milk Fat 1.16% 🔴 | MSNF 2.85% 🔴 | Stab 0.22% 🔴 | Emul 0.23% 🟢
@@ -382,12 +374,6 @@ Yogurt-heavy froyo with frozen strawberries as the star. 350g strained yogurt gi
 3. Add glycerin and strawberry flavor — blend 15s more.
 4. Pour into Creami pint, freeze 24h.
 5. Process on **Frozen Yogurt** mode. Re-spin if needed.
-
-**Notes:**
-- Total inulin: 12.3g (5g standalone + 7.3g from SS). GI safety: inulin 12.3g, xylitol 12g per pint — both well under 30g limits. Combined fermentation load ~24g.
-- Erythritol at 5.2% of mix (under 8% crystallization threshold). SweEX ratio 35:12 (≈3:1).
-- Salty Stability reduced from 15g→10g to fix stretchy texture. 1.13g total gums — yogurt + whey + inulin provide body, gums are just for ice crystal prevention.
-- Frozen strawberries add ~8.5g natural sugars — accounts for most of the Scoopulator Sugars% reading.
 
 **Nutrition (per 100g):** 78 kcal | 1.5g fat | 6.6g carbs (12.8g sugars, 2.1g fiber) | 7.1g protein
 
@@ -428,11 +414,6 @@ Water-based strawberry sorbet using fresh strawberries. No dairy, no guar (acid-
 
 **Notes:**
 - No guar gum — guar loses viscosity at low pH. Xanthan is acid-stable (pH 2-12) and synergistic with MCC.
-- Erythritol at 5.9% of mix (under 8% crystallization threshold). Xylitol (28g) helps prevent erythritol crystallization.
-- GI safety: inulin 15g, xylitol 28g — both well under 30g caps. Combined fermentation load ~43g — manageable.
-- FPDF 37.2 — high for sorbet (target 30-36), stays scoopable straight from freezer for days.
-- Total gums: 1.5g xanthan only (no CMC, no guar). Well under 2g limit.
-- MCC (10g, ~1.5% of mix) provides body and ice crystal inhibition without GI load — not fermented in gut.
 
 **Nutrition (per 100g):** 36 kcal | 0.1g fat | 5g carbs (13.7g sugars, 4g fiber) | 0.2g protein
 
@@ -479,12 +460,6 @@ Water-based strawberry sorbet using fresh strawberries. No dairy, no guar (acid-
 6. Process on **Lite Ice Cream**. Scrape down sides with butter knife, push top down with spoon. **Re-Spin** if needed.
 7. Break 20g frozen Gullon chunks into a hole going down to the bottom, fold ice cream over. Run **Mix-In** cycle.
 8. **Swirl in the strawberry sauce:** spoon sauce on top and use a butter knife to swirl it into the top 2-3 cm. Do not over-mix — visible ribbons are the goal.
-
-**Notes:**
-- Total inulin: 7.3g (all from SS). GI safety: inulin 7.3g, xylitol 10g per pint — both well under 30g limits.
-- Erythritol at 5.3% of base (under 8% crystallization threshold). SweEX ratio 35:10 (3.5:1).
-- Total gums: 1.13g (0.6 CMC + 0.4 guar + 0.13 xanthan from SS) — well under 2g limit. Yogurt + whey + cream cheese provide body.
-- Base weight ~660g before extras. Extras (35g biscuit + sauce) add after spin, keeping pint under 24oz capacity.
 
 **Nutrition (per 100g):**
 - **Base (660g):** ~100 kcal | 3.8g fat | 3.8g carbs (sugars), 6.8g sugar alcohols, 1.1g fiber | 9.5g protein
@@ -539,14 +514,6 @@ Dulce de leche–cheesecake mashup — cream cheese tang meets caramel richness.
 6. Dig a hole down through the center, pack in 25g frozen Gullon chunks, fold ice cream over. Run **Mix-In** cycle.
 7. **Swirl in caramel sauce:** spoon ~50g sauce on top and drag a butter knife through the top 2-3 cm. Visible ribbons — don't over-mix.
 
-**Notes:**
-- Total inulin: 18g (8.53 from SS + 9.47 standalone). GI safety: inulin 18g, xylitol 12g, combined fermentable 30g — all under limits.
-- Erythritol at 4.6% of base (under 8% crystallization threshold). SweEX ratio 30:12 (2.5:1).
-- Total gums: 1.13g (0.6 CMC + 0.4 guar + 0.13 xanthan from SS) — well under 2g limit. Yogurt + whey + cream cheese + inulin + MCC provide body.
-- MCC + xanthan are synergistic — MCC softens texture (good for scoopability), xanthan prevents MCC settling. Immersion blender step is essential for MCC dispersion.
-- 3.5% whole milk vs 1.5%: adds ~1% total fat for richer mouthfeel, +4 kcal/100g. Inulin reduced (25→18g) and MCC increased (8→10g) to offset calories (MCC is zero-cal vs inulin ~1.5 kcal/g).
-- Base weight ~651g. Extras (25g biscuit + 50g sauce) keep pint under 24oz capacity.
-
 **Nutrition (per 100g):**
 - **Base (651g):** ~101 kcal | 3.5g fat | 6.5g carbs (sugars 10.2g incl. sugar alcohols), 3.9g fiber | 8.8g protein
 - **Biscuits (25g @ 430 kcal/100g):** ~108 kcal total
@@ -600,17 +567,6 @@ Combine in a small bowl, muddle with a spoon, cover, rest 2-4h at room temp.
 7. Freeze 24h.
 8. Process on **Lite Ice Cream**. Re-spin if needed.
 
-**Notes:**
-- Glycerin oleosaccharum is the star technique — glycerin draws essential oils from the zest far more effectively than just tossing zest into cold milk. Traditional oleosaccharum uses sugar; erythritol is too non-hygroscopic for this, but glycerin (a known solvent for essential oils, used in herbal tinctures) works beautifully. The 15g glycerin also contributes PAC (anti-freezing power — how much an ingredient keeps ice cream soft/scoopable) and mild sweetness (~60% of sugar).
-- Lemon zest stays in the base — the Creami blade processes it. Fine microplaned zest disappears into the texture.
-- Citric acid (1g) provides the tart "lemon punch" without curdling risk from excess juice. 15g juice adds freshness. For more tartness, bump citric acid to 1.5g. For more lemon intensity, zest a 3rd lemon into the oleosaccharum.
-- Yogurt at 11% of base — well below the ~20-25% threshold where tang becomes noticeable. Provides solids and protein without competing with lemon.
-- SweEX ratio 35:15 (~2.3:1) — xylitol prevents erythritol crystallization. Erythritol at 5.1% (under 8% threshold).
-- GI safety: inulin 13.53g (5g standalone + 8.53g from SS), xylitol 15g — combined fermentable load ~28.5g, well under 45g limit.
-- Total gums: 1.13g (0.60g CMC + 0.40g guar + 0.13g xanthan from SS) — well under 2g limit.
-- Salt (0.33g from SS) suppresses erythritol cooling and enhances lemon perception.
-- Emulsification from whey protein's built-in sunflower lecithin (~0.24-0.3g from 30g WPC80) — sufficient for 2.9% total fat base.
-
 **Cost:** ~€3.21/kg — ~€2.19/pint (excludes: vanilla extract, lemon zest 8g, lemon juice 15g, citric acid 1g — price TBD)
 
 **Nutrition (per 100g):** 88 kcal | 2.9g fat | 6.0g carbs (10.4g sugars, 2.4g fiber) | 6.7g protein
@@ -650,14 +606,6 @@ Coconut-forward ice cream using Oriental Express canned coconut milk (18% fat) a
 3. Add dry mix to pint. Stir vigorously by hand, then immersion-blend 15-20 sec to disperse MCC. Avoid extended blending — whey protein traps air.
 4. Refrigerate 1-2h, stir again to pop air bubbles and redistribute MCC (it settles). Freeze 24h.
 5. Process on **Lite Ice Cream**. Re-spin if needed.
-
-**Notes:**
-- Half a can of coconut milk — use the other half for a second pint or freeze in an ice cube tray for later.
-- SweEX ratio 35:23 (≈3:2) — xylitol prevents erythritol crystallization. Erythritol at 5.3% of mix (under 8% threshold).
-- GI safety: inulin 20g + xylitol 23g = 43g combined fermentable — under 45g limit.
-- Total gums: 0.9g CMC + 0.6g guar + 0.2g xanthan = 1.7g (under 2g limit). Coconut milk also contains guar gum (unlisted amount).
-- Glycerin at 10g — just for mild FPD (PAC (anti-freezing power) 3.7). Whey + inulin + MCC handle body.
-- No soy lecithin added. Coconut fat load is moderate (~36g) and whey protein is surface-active enough.
 
 **Optional mix-in:** Chocolate stracciatella drizzle — see Chocolate-Oil Drizzle recipe below.
 
@@ -713,15 +661,6 @@ Inspired by the Greek τάρτα με καραμελωμένο γάλα — a se
 5. Process on **Lite Ice Cream**. Scrape test — re-spin if needed.
 6. Crush Gullon biscuits into small pieces (~0.5cm). Fold in by hand after spinning for chunky texture, or use Mix-In cycle for finer distribution.
 
-**Notes:**
-- The caramelization step is the entire flavor — don't rush it. Wide pan = more surface area = faster browning. Stirring prevents scorching.
-- Starting with 3.5% whole milk instead of 1.5% gives significantly better Maillard browning (more fat carries flavor compounds) and pushes solids into the green zone.
-- SweEX ratio 30:20 (3:2) — xylitol prevents erythritol crystallization. Erythritol at 4.5% of mix (well under 8% threshold).
-- Real-world sweetness is higher than Scoopulator shows — 0.2g sucralose adds ~120g sugar-equivalent sweetness that the calculator underweights.
-- GI safety: inulin 12.8g (SS only) + xylitol 20g = 32.8g combined fermentable — well under 45g limit.
-- Total gums: 0.9g CMC + 0.6g guar + 0.2g xanthan = 1.7g (under 2g limit).
-- The 22% evaporation concentrates milk solids, protein, and fat — actual MSNF is ~9% (decent) despite what unconcentrated numbers would suggest.
-
 **Cost:** ~€4.09/kg — ~€2.58/pint (base) + ~€0.14 mix-in = ~€2.72 total
 
 **Scoopulator:** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-35-L1Bll6:700,glycerin:15,user-hsn-whey-protein-concentrate-984009:20,erythritol:30,xylitol:20,inulin:12.8,user-microcrystalline-cellulose-mcc-myujQ3:10,usdafndds-2710263:0.2,sodium-carboxymethyl-cellulose-cmc:0.9,guar-gum:0.6,usdaff-746775:0.5,xanthan-gum:0.2,user-milk-cream-food-flavor-a1ynPB:0.2&target=low-fat-ice-cream&evp=0.22) — 🔥 Evap 22% | Serv. -13.6°C 🟢 | Sweet 6.29% 🔴 | Sugars 10.65% 🔴 | Solids 30.75% 🟢 | Fat 4.08% ⚪ | Milk Fat 3.88% 🟢 | MSNF 9.41% 🔴 | Stab 0.27% 🔴 | Emul 0% 🔴 | 105 kcal/100g
@@ -755,10 +694,6 @@ Cooked-down strawberry sauce — Polar's method. Simmering removes excess water 
 6. Cool to room temperature, then refrigerate. Keeps 5-7 days in the fridge.
 
 **Notes:**
-- **No xanthan needed** — the cook-down + natural pectin provides body. If you prefer an even thicker sauce, add 0.2g xanthan at step 5 (counts toward the 2g/pint gum limit).
-- Works with any frozen fruit: raspberries, blueberries, mango, peach. Raspberries benefit from straining seeds after cooking.
-- **Don't skip the glycerin** — without it (or xylitol), the swirl freezes rock-hard at -18C and you get icy ribbons instead of soft streaks.
-- **Yield:** ~75g (100g fruit minus ~40g water lost, plus 15g dry ingredients).
 - **Nutrition (entire batch, ~75g):** ~66 kcal | F 0.3g | C 17.7g (sugars 4.9g, sugar alcohols 10g) | P 0.7g
 - **Nutrition per 100g:** ~88 kcal | F 0.4g | C 23.6g | P 0.9g
 
@@ -801,14 +736,6 @@ Combine in a small bowl, muddle with a spoon, cover, rest 30 min–2h at room te
 6. Cool to room temperature — thickens further as it rests. Refrigerate. Keeps 5-7 days.
 
 **Notes:**
-- **Oleosaccharum is the key** — glycerin extracts essential oils from the zest far better than just tossing zest into liquid. 30 min is enough for a sauce (vs 2-4h for ice cream base where you want subtler infusion). The zest stays in the sauce — adds visible lemon flecks and bursts of flavor.
-- **Xanthan is necessary** — unlike strawberry sauce (which gets body from natural pectin + cook-down), lemon juice is thin liquid with no pectin. 0.3g gives a pourable-but-clingy consistency. For thicker paste, bump to 0.5g.
-- Want more tart? Bump citric acid to 1g. Want brighter? Add zest of one more lemon to the oleosaccharum.
-- Want softer in freezer? Bump glycerin to 20g. Want firmer? Drop to 10g.
-- Xanthan (0.3g) is negligible toward the pint's 2g gum limit.
-- **No erythritol crystallization risk** — 10g in ~110g sauce = ~9%, but dissolved in hot liquid with xylitol present.
-- GI (gastrointestinal) budget: 5g xylitol per pint — leaves plenty of room for the base.
-- **Yield:** ~110g (minimal evaporation — only brief simmer, not a long reduction like strawberry).
 - **Nutrition (entire batch, ~110g):** ~79 kcal | F 0.2g | C 7.5g (sugars 1.2g, sugar alcohols 15g) | P 0.3g
 - **Nutrition per 100g:** ~72 kcal | F 0.2g | C 6.8g | P 0.3g
 - **Nutrition per pint serving (~55g):** ~40 kcal | F 0.1g | C 3.8g | P 0.2g
