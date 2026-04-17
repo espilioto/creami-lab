@@ -381,6 +381,56 @@ Yogurt-heavy froyo with frozen strawberries as the star. 350g strained yogurt gi
 
 ---
 
+#### Orange Frozen Yogurt — Salty Stability (Sugar-Free)
+Tags: frozen-yogurt, orange, citrus, low-fat, sugar-free, no-cook, high-protein, salty-stability, oleosaccharum, original
+
+Bright orange froyo using the glycerin-oleosaccharum technique (same as Lemon Ice Cream) — orange zest muddled in glycerin extracts the essential oils we can't get from juice alone, since we have no orange flavor drops. 350g strained yogurt carries the tang; 3.5% whole milk adds body and fat that 1.5% milk can't. Fresh OJ + a pinch of citric acid brighten the citrus (oranges are flatter than lemons). SS handles stabilization.
+
+**Glycerin-Orange Oleosaccharum (make first):**
+- **10g** orange zest (about 1 large orange, microplaned — zest before juicing)
+- **15g** glycerin
+
+Combine in a small bowl, muddle with a spoon, cover, rest 2-4h at room temp.
+
+**Wet:**
+- **350g** Marata 2% strained yogurt
+- **170g** Marata 3.5% whole milk
+- **60g** fresh orange juice (from the zested orange)
+- Glycerin-orange oleosaccharum (all of it, zest included)
+
+**Dry:**
+- **35g** erythritol
+- **22g** whey protein (HSN WPC80)
+- **15g** xylitol
+- **5g** inulin
+- **0.5g** citric acid
+- **0.3g** sucralose
+- Salty Stability (10g):
+  - **8.53g** inulin
+  - **0.60g** CMC
+  - **0.40g** guar gum
+  - **0.33g** salt
+  - **0.13g** xanthan gum
+
+**Steps:**
+1. **Oleosaccharum:** Microplane 1 large orange (zest only, no white pith). Combine zest with 15g glycerin in a small bowl, muddle, cover. Rest 2-4h at room temp. Juice the orange, reserve 60g juice.
+2. Add yogurt, milk, and orange juice to a mixing bowl or tall jar.
+3. Combine all dry ingredients in a separate bowl: erythritol, xylitol, whey, standalone inulin, citric acid, sucralose, Salty Stability components. Mix well.
+4. Add dry mix to wet. Immersion-blend 20-30s until smooth — whey protein can trap air, so don't over-blend.
+5. Add the oleosaccharum (glycerin + all zest). Stir to combine — don't blend further (acid + shear can curdle).
+6. Refrigerate 2-4h (flavor development + gum hydration). Stir once halfway.
+7. Pour into Creami pint, freeze 24h.
+8. Process on **Frozen Yogurt** mode. Re-spin if needed.
+
+**Cost:** ~€3.85/kg — ~€2.67/pint (excludes oranges — price TBD)
+
+**Nutrition (per 100g):** 85 kcal | 2.1g fat | 12.3g carbs (3g sugars, 1.7g fiber, 7.4g sugar alcohols) | 7.5g protein
+
+**Scoopulator:** [frozen-yogurt-regular](https://scoopulator.app/calc?ingredients=user-yogurt-straggisto-2-33939d:350,user-milk-fresh-marata-35-L1Bll6:170,usdafndds-2709187:60,glycerin:15,lemon-zest:10,erythritol:35,user-hsn-whey-protein-concentrate-984009:22,xylitol:15,inulin:13.53,sodium-carboxymethyl-cellulose-cmc:0.6,guar-gum:0.4,usdaff-746775:0.33,xanthan-gum:0.13,user-citric-acid-7aeef0:0.5,usdafndds-2710263:0.3&target=frozen-yogurt-regular&type=frozen_yogurt) — Serv. -15°C 🟢 | Sweet 8.31% 🔴 | Solids 27.34% 🟡 | Fat 2.1% ⚪ | Milk Fat 1.87% 🔴 | MSNF 8.2% 🟡 | Stab 0.16% 🔴 | Emul 0% 🔴
+*(Sweetness red is structural for sugar-free — sucralose intensity not captured. Milk Fat red — yogurt+milk base without cream. Stab/Emul red — body from yogurt+whey+inulin, emulsification from whey's natural sunflower lecithin. Orange zest uses `lemon-zest` slug as closest proxy — Scoopulator has no orange zest entry.)*
+
+---
+
 #### Strawberry Sorbet (Sugar-Free)
 Tags: sorbet, strawberry, sugar-free, no-cook, no-dairy, low-cal, original
 
