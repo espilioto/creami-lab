@@ -1,11 +1,46 @@
 # CREAMing — Recipes created for me by me 🔥💪
 
-- [Stabilizer Mixes](#stabilizer-mixes)
-- [TESTING — Mix-In Components](#testing--mix-in-components)
-- [Original](#original)
-  - [Ice Cream](#ice-cream)
-  - [Sauces](#sauces)
-  - [Mix-ins](#mix-ins)
+<details>
+<summary><b>Stabilizer Mixes</b></summary>
+
+- [ICS — Sweetened](#ics-ice-cream-stabilizer--sweetened)
+- [Salty Stability — Unsweetened](#salty-stability--unsweetened)
+
+</details>
+
+<details>
+<summary><b>TESTING — Mix-In Components</b></summary>
+
+- [Protein Brownie Cubes](#protein-brownie-cubes)
+- [Meringue Crisps](#meringue-crisps)
+- [Frozen Yogurt Bark](#frozen-yogurt-bark)
+- [Chocolate Shell Shards](#chocolate-shell-shards)
+- [Chocolate Swirl Sauce](#chocolate-swirl-sauce)
+- [Caramel Swirl Sauce](#caramel-swirl-sauce)
+
+</details>
+
+<details>
+<summary><b>Original</b></summary>
+
+- [Ice Cream](#ice-cream)
+  - [Vanilla Base](#vanilla-base--salty-stability-sugar-free)
+  - [Froyo Base](#froyo-base--salty-stability-sugar-free)
+  - [Strawberry Froyo](#strawberry-frozen-yogurt--salty-stability-sugar-free)
+  - [Orange Froyo](#orange-frozen-yogurt--salty-stability-sugar-free)
+  - [Strawberry Sorbet](#strawberry-sorbet-sugar-free)
+  - [Cheesecake](#cheesecake-base)
+  - [Caramel Cheesecake](#leftover-cream-cheese-caramel-cheesecake)
+  - [Lemon](#lemon-ice-cream--salty-stability-sugar-free)
+  - [Coconut](#coconut-ice-cream-sugar-free)
+  - [Καραμελωμένο Γάλα](#καραμελωμένο-γάλα--caramelized-milk-sugar-free)
+- [Sauces](#sauces)
+  - [Strawberry Sauce](#sugar-free-strawberry-sauce-swirltopping)
+  - [Lemon Swirl](#sugar-free-lemon-swirl-swirltopping)
+- [Mix-ins](#mix-ins)
+  - [Chocolate-Oil Drizzle](#chocolate-oil-drizzle-stracciatella)
+
+</details>
 
 ## Stabilizer Mixes
 
