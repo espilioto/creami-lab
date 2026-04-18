@@ -343,6 +343,55 @@ Milk-only vanilla base (no yogurt) built on Salty Stability philosophy: whey pro
 
 ---
 
+#### Froyo Base — Salty Stability (Sugar-Free)
+Tags: frozen-yogurt, base, neutral, low-fat, sugar-free, no-cook, high-protein, salty-stability, original
+
+Neutral yogurt-forward base — canvas for swirls, fruit compotes, mix-ins, or drop flavors. 400g strained yogurt carries the tang and body; 170g 3.5% whole milk keeps it creamy (1.5% gives a watery sensation in froyo). Tiny vanilla pour just rounds off the yogurt edge — keep it at 3g so it doesn't compete with whatever flavor you layer on top. Sweetness kept conservative (0.2g sucralose) so add-ins won't push the final pint over.
+
+**Wet:**
+- **400g** Marata 2% strained yogurt
+- **170g** Marata 3.5% whole milk
+- **10g** glycerin
+- **3g** vanilla extract
+
+**Dry:**
+- **35g** erythritol
+- **22g** whey protein (HSN WPC80)
+- **15g** xylitol
+- **5g** inulin
+- **0.2g** sucralose
+- Salty Stability (10g):
+  - **8.53g** inulin
+  - **0.60g** CMC
+  - **0.40g** guar gum
+  - **0.33g** salt
+  - **0.13g** xanthan gum
+
+**Steps:**
+1. Add yogurt, milk, glycerin, and vanilla to a mixing bowl or tall jar.
+2. Combine dry ingredients in a separate bowl: erythritol, xylitol, whey, standalone inulin, sucralose, Salty Stability components. Mix well.
+3. Add dry mix to wet. Immersion-blend 20-30s until smooth — whey protein can trap air, so don't over-blend.
+4. Refrigerate 2-4h for gum hydration. Stir once halfway.
+5. Pour into Creami pint (or fold in pre-prepped swirls/chunks — see notes). Freeze 24h.
+6. Process on **Frozen Yogurt** mode. Re-spin if needed.
+
+**Customizing the base:**
+- **Flavor drops** (chocolate, strawberry, milk cream): add 2 drops (MAX) before freezing.
+- **Fruit chunks:** macerate fruit in ~10% its weight of glycerin for 30-60min first, then fold in before freezing. Prevents icy bits.
+- **Fruit swirls:** use the cooked-compote sauce pattern (see Sugar-Free Strawberry Sauce).
+- **Richer variant:** swap 2% yogurt for 10% strained yogurt for a thicker, higher-fat mouthfeel (+~45 kcal/100g).
+- **Citrus:** use the glycerin-oleosaccharum technique from Lemon/Orange recipes.
+- **Mix-ins** (biscuits, brownie cubes, meringue): add after spin via Mix-In cycle.
+
+**Cost:** ~€4.10/kg — ~€2.75/pint (excludes 3g vanilla — price TBD)
+
+**Nutrition (per 100g):** 87 kcal | 2.3g fat | 14.6g carbs (2.7g sugars, 1.8g fiber, 10g sugar alcohols) | 8.3g protein
+
+**Scoopulator:** [frozen-yogurt-regular](https://scoopulator.app/calc?ingredients=user-yogurt-straggisto-2-33939d:400,user-milk-fresh-marata-35-L1Bll6:170,glycerin:10,pure-vanilla-extract:3,erythritol:35,user-hsn-whey-protein-concentrate-984009:22,xylitol:15,inulin:13.53,sodium-carboxymethyl-cellulose-cmc:0.6,guar-gum:0.4,usdaff-746775:0.33,xanthan-gum:0.13,usdafndds-2710263:0.2&target=frozen-yogurt-regular&type=frozen_yogurt) — Serv. -14.4°C 🟢 | Sweet 7.39% 🔴 | Solids 25.96% 🟡 | Fat 2.29% ⚪ | Milk Fat 2.08% 🔴 | MSNF 9.38% 🟢 | Stab 0.17% 🔴 | Emul 0% 🔴
+*(Sweetness red is structural for sugar-free — sucralose intensity not captured. Milk Fat red — yogurt+milk base without cream. Stab/Emul red — body from yogurt+whey+inulin, emulsification from whey's natural sunflower lecithin.)*
+
+---
+
 #### Strawberry Frozen Yogurt — Salty Stability (Sugar-Free)
 Tags: frozen-yogurt, strawberry, low-fat, sugar-free, no-cook, high-protein, salty-stability, original
 
