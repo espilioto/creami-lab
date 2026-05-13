@@ -25,6 +25,7 @@
 
 - [Ice Cream](#ice-cream)
   - [Vanilla Base](#vanilla-base--salty-stability-sugar-free)
+  - [Vanilla Cottage Base](#vanilla-cottage-base--salty-stability-sugar-free)
   - [Froyo Base](#froyo-base--salty-stability-sugar-free)
   - [Strawberry Froyo](#strawberry-frozen-yogurt--salty-stability-sugar-free)
   - [Orange Froyo](#orange-frozen-yogurt--salty-stability-sugar-free)
@@ -375,6 +376,51 @@ Milk-only vanilla base (no yogurt) built on Salty Stability philosophy: whey pro
 
 **Scoopulator:** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-15-4d71c8:400,inulin:7.3,usdabranded-soy-lecithin:1.2,sodium-carboxymethyl-cellulose-cmc:0.6,guar-gum:0.4,usdaff-746775:0.3,xanthan-gum:0.13,erythritol:27,xylitol:17,glycerin:5,user-hsn-whey-protein-concentrate-984009:50,pure-vanilla-extract:5,usdafndds-2710263:0.1,user-microcrystalline-cellulose-mcc-myujQ3:5&target=low-fat-ice-cream) — Serv. -14.7°C 🟢 | Sweet 7.61% 🔴 | Solids 28.64% 🟢 | Sugars 13.84% 🔴 | Milk Fat 1.16% 🔴 | MSNF 2.85% 🔴 | Stab 0.22% 🔴 | Emul 0.23% 🟢
 *(Sweetness/Sugars reds are structural for sugar-free. Milk Fat/MSNF reds are inherent to milk-only base with no cream or SMP.)*
+
+---
+
+#### Vanilla Cottage Base — Salty Stability (Sugar-Free)
+Tags: ice-cream, vanilla, low-fat, sugar-free, no-cook, high-protein, cottage-cheese, salty-stability, original
+
+Vanilla base built on cottage cheese + 3.5% whole milk instead of the milk-only formula. The cottage cheese provides concentrated MSNF (milk solids-non-fat — proteins, lactose, minerals) plus 3.6% fat from real dairy, bridging the gap that low-fat milk leaves on the Scoopulator solids/milk-fat targets. Zero yogurt — the cheese is rennet-curdled with light culture (pH ~4.6-5.2), reads as milky-savory rather than tangy, so the vanilla stays clean. Strong vanilla extract (5g) plus glycerin's rounded body mask the casein finish. SS at the full 15g Deluxe dose for proper gum/inulin coverage.
+
+**Wet:**
+- **100g** Adoro cottage cheese (200g/cup — uses half)
+- **450g** Marata 3.5% whole milk
+- **5g** vanilla extract
+- **5g** glycerin
+
+**Dry:**
+- **30g** erythritol
+- **50g** whey protein (HSN WPC80)
+- **15g** xylitol
+- **8g** MCC (microcrystalline cellulose)
+- **0.1g** sucralose
+- Salty Stability (15g):
+  - **12.8g** inulin
+  - **0.9g** CMC
+  - **0.6g** guar gum
+  - **0.5g** salt
+  - **0.2g** xanthan gum
+
+**Steps:**
+1. **Pre-blend cottage cheese (make-or-break step).** In the pint or a tall jar, combine 100g cottage cheese with ~150g of the milk. Immersion-blend 30-60s until completely smooth — no visible curds, slurry should look like thin yogurt. Adoro is large-curd and will NOT fully break down if added mid-blend with everything else.
+2. Add remaining 300g milk, vanilla, glycerin.
+3. Combine dry ingredients in a separate bowl: erythritol, xylitol, whey, MCC, sucralose, Salty Stability components. Mix well.
+4. Add dry mix to wet. Stir vigorously by hand until dissolved, then immersion-blend 15-20 sec to disperse MCC. Avoid extended blending — whey protein traps air.
+5. Refrigerate 2-4h (overnight better) for gum hydration. Stir once mid-rest to redistribute MCC (it settles).
+6. Freeze 24h.
+7. Process on **Lite Ice Cream**. Re-spin if needed.
+
+**Notes:**
+- Salt comes in heavier than the milk-only base (~0.19% total, ~75mg sodium/100g) thanks to cottage cheese's 0.8g salt/100g. Still within normal ice cream range — enhances vanilla expression and suppresses erythritol cooling.
+- Cottage cheese amount (100g) chosen to keep salt in flavor-enhancement zone. Going to 150g pushes total salt past 0.25% — starts reading as savory rather than enhancing.
+- Big upgrade over the milk-only Vanilla Base on milk fat (1.16 → 2.85% 🟢) and MSNF (2.85 → 8.43%) — closest you can get to traditional ice cream metrics without SMP or cream.
+
+**Nutrition (per 100g):** 102 kcal | 3.3g fat (2.3g sat) | 13.3g carbs (1.1g sugars, 2.8g fiber) | 10.1g protein
+
+**Scoopulator:** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-35-L1Bll6:450,user-cottage-cheese-adoro-ENYtZ8:100,pure-vanilla-extract:5,glycerin:5,erythritol:30,user-hsn-whey-protein-concentrate-984009:50,xylitol:15,user-microcrystalline-cellulose-mcc-myujQ3:8,usdafndds-2710263:0.1,inulin:12.8,sodium-carboxymethyl-cellulose-cmc:0.9,guar-gum:0.6,usdaff-746775:0.5,xanthan-gum:0.2&target=low-fat-ice-cream) — Serv. -13.7°C 🟢 | Sweet 14.66% 🟢 | Solids 29.43% 🟢 | Milk Fat 2.85% 🟢 | MSNF 8.43% 🔴 | Stab 0.25% 🔴 | Emul 0% 🔴
+*(MSNF red — no SMP/condensed milk available. Stab red — conservative gum total (1.7g) to avoid stringy texture. Emul red — no soy lecithin per preference; whey's native sunflower lecithin handles low-fat emulsification.)*
 
 ---
 
