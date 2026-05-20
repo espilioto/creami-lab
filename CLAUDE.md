@@ -61,12 +61,13 @@
 | ⚠️ IGNORE WHEN CRAFTING RECIPES ⚠️ Whey Protein — Manis WPC75 | Manis | — | EuriNutri 75 PL (WPC75). Lecithin-free. Est. per 100g: ~390kcal, P≥75 F~6 C~9 S~0.15. From casein whey, not instantized. |
 | ⚠️ IGNORE WHEN CRAFTING RECIPES ⚠️ Soy Lecithin Powder (E322) | Manis | 18.00 | Emulsifier, replaces GMS 1:1 by weight |
 | Salt | Supermarket | — | Kitchen salt (negligible cost) |
-| Cocoa powder | Supermarket | 17.20 | For chocolate bases. Bonora brand, €2.15/125g |
+| Cocoa powder (Bonora) | Supermarket | 17.20 | Per 100g: 405kcal, F20 (sat 13), C19 (sugar <0.5), fiber 31, P23, S0.22. Dutch-processed (alkalized — potassium hydroxide/carbonate). €2.15/125g. |
 | Vanilla extract | Supermarket | TBD | Replaces vanilla bean powder in all repo recipes |
 | Marata 1.5% milk | Supermarket | 1.05 | 47 kcal/100ml. Fat 1.5, carbs 4.8, protein 3.5, water ~90%. Standard base. €1.05/L |
 | Marata 3.5% whole milk | Supermarket | 1.10 | Per 100ml: 65kcal, F3.6 (sat 2.1), C4.8 (sugar 4.8), P3.4, S0.13. High-pasteurized, homogenized, 35-day shelf. Scoopulator: `user-milk-fresh-marata-35-L1Bll6` |
 | Marata 2% strained yogurt | Supermarket | 2.70 | 66 kcal/100g. Fat 2, carbs 3.9, protein 8 |
 | Marata 10% strained yogurt | Supermarket | 2.60 | Per 100g: 128kcal, F10 (sat 7), C3.7 (sugar 3.7), P5.7, S0.15. Full-fat Greek-style. Scoopulator: `user-yogurt-marata-straggisto-10-gFvu2s` |
+| Adoro cottage cheese | Supermarket | 9.50 | Per 100g: ~95kcal, F3.6 (sat 2.3), C3.5 (sugar 3.5), P11, S0.8. Large-curd. €1.90/200g. Scoopulator: `user-cottage-cheese-adoro-ENYtZ8` |
 | Citric acid | Supermarket | 11.00 | — |
 | Cream of tartar | Supermarket | — | Meringue stabilizer |
 | Peanut butter (smooth) | Supermarket | TBD | Peanut 94%, pea protein 3%, rice protein 3%. Per 100g: 620kcal, F48.3 (sat 7.7), C18.3 (sugar 4.7), fiber 8.0, P32.0, S0.02. |
