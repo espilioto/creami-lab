@@ -26,6 +26,7 @@
 - [Ice Cream](#ice-cream)
   - [Vanilla Base](#vanilla-base--salty-stability-sugar-free)
   - [Vanilla Cottage Base](#vanilla-cottage-base--salty-stability-sugar-free)
+  - [Chocolate Cottage Base](#chocolate-cottage-base--salty-stability-sugar-free)
   - [Froyo Base](#froyo-base--salty-stability-sugar-free)
   - [Strawberry Froyo](#strawberry-frozen-yogurt--salty-stability-sugar-free)
   - [Orange Froyo](#orange-frozen-yogurt--salty-stability-sugar-free)
@@ -421,6 +422,63 @@ Vanilla base built on cottage cheese + 3.5% whole milk instead of the milk-only 
 
 **Scoopulator:** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-35-L1Bll6:450,user-cottage-cheese-adoro-ENYtZ8:100,pure-vanilla-extract:5,glycerin:5,erythritol:30,user-hsn-whey-protein-concentrate-984009:50,xylitol:15,user-microcrystalline-cellulose-mcc-myujQ3:8,usdafndds-2710263:0.1,inulin:12.8,sodium-carboxymethyl-cellulose-cmc:0.9,guar-gum:0.6,usdaff-746775:0.5,xanthan-gum:0.2&target=low-fat-ice-cream) — Serv. -13.7°C 🟢 | Sweet 14.66% 🟢 | Solids 29.43% 🟢 | Milk Fat 2.85% 🟢 | MSNF 8.43% 🔴 | Stab 0.25% 🔴 | Emul 0% 🔴
 *(MSNF red — no SMP/condensed milk available. Stab red — conservative gum total (1.7g) to avoid stringy texture. Emul red — no soy lecithin per preference; whey's native sunflower lecithin handles low-fat emulsification.)*
+
+---
+
+#### Chocolate Cottage Base — Salty Stability (Sugar-Free)
+Tags: ice-cream, chocolate, dark-chocolate, fudgy, low-fat, sugar-free, no-cook, high-protein, cottage-cheese, salty-stability, original
+
+Dark-chocolate, fudge-leaning variant of the Vanilla Cottage Base. Same cottage cheese + 3.5% whole milk scaffold for MSNF (milk solids-non-fat — proteins, lactose, minerals) and real milk fat. **40g bloomed cocoa** for deep dark-chocolate intensity (Polar archetypes: 25g = milk, 50g = intense dark — 40g is the fudgy sweet spot). SS dose intentionally reduced to **10g** (instead of the usual 15g Deluxe dose) to free up gum headroom for the extra cocoa solids — total gums sit at 1.13g, well below the 2g cheese-pull threshold, giving a denser/chewier "fudge" matrix instead of a structured "ice cream" set. Cocoa freezes harder than any other flavor, so xylitol is bumped to 22g and glycerin to 10g for extra FPD (freezing point depression — how much an ingredient keeps the pint scoopable) and fudge-style moisture retention. Sucralose pushed to 0.2g to punch past cocoa's bitter compounds without piling on more erythritol (which would risk crystallization). Cottage cheese's faint savory note disappears completely under 40g cocoa.
+
+**Wet:**
+- **100g** Adoro cottage cheese (200g/cup — uses half)
+- **410g** Marata 3.5% whole milk
+- **10g** glycerin
+- **2g** vanilla extract (round-out, not a flavor — keeps it small so it doesn't compete with cocoa)
+
+**Dry:**
+- **40g** cocoa powder (Bonora)
+- **30g** erythritol
+- **50g** whey protein (HSN WPC80)
+- **22g** xylitol
+- **8g** MCC (microcrystalline cellulose)
+- **0.2g** sucralose
+- Salty Stability (10g — reduced dose):
+  - **8.53g** inulin
+  - **0.6g** CMC
+  - **0.4g** guar gum
+  - **0.33g** salt
+  - **0.13g** xanthan gum
+
+**Steps:**
+1. **Pre-blend cottage cheese (make-or-break step).** In the pint or a tall jar, combine 100g cottage cheese with ~150g of the milk. Immersion-blend 30-60s until completely smooth — no visible curds, slurry should look like thin yogurt. Adoro is large-curd and will NOT fully break down if added mid-blend with everything else.
+2. **Bloom the cocoa.** Microwave the remaining ~260g milk to 50-55°C (warm to the touch, not hot). Whisk in the 40g cocoa powder until fully dispersed and smooth — no dry lumps. With 40g cocoa this needs real whisking; gritty cocoa = sandy ice cream. Cold-blended cocoa also tastes dull and one-dimensional.
+3. Pour the bloomed cocoa-milk into the cottage cheese slurry. Add glycerin and vanilla.
+4. Combine dry ingredients in a separate bowl: erythritol, xylitol, whey, MCC, sucralose, Salty Stability components. Mix well.
+5. Add dry mix to wet. Stir vigorously by hand until dissolved, then immersion-blend 15-20 sec to disperse MCC. Avoid extended blending — whey protein traps air and cocoa foams.
+6. Refrigerate 2-4h (overnight better) for gum hydration and to let any retained heat from blooming dissipate. Stir once mid-rest to redistribute MCC (it settles).
+7. Freeze 24h.
+8. Process on **Lite Ice Cream**. Re-spin is almost always worth it on chocolate at this cocoa load — first churn leaves cocoa-dense ribbons, second pass homogenizes and brings out the fudge texture.
+
+**GI safety (gastrointestinal — gut tolerance):**
+- Inulin: 8.53g (from SS) — well under 30g limit
+- Xylitol: 22g — under 30g limit
+- Combined fermentable load: 30.53g — under 45g limit
+- Total gums: 1.13g — well under 2g functional limit (the headroom the reduced SS bought us)
+- Erythritol: 4.4% of mix weight — well under 8% crystallization threshold
+
+**Notes:**
+- **Why SS was halved.** 40g cocoa already brings a lot of fine particulate structure to the matrix. Cocoa solids act partially as a stabilizer themselves — they bind water and slow ice crystal growth. Stacking the full 15g SS on top pushes the mouthfeel toward "gum-set pudding"; 10g SS gives a softer, denser, more fudge-like chew that lets the cocoa drive the texture instead of fighting it.
+- **Sweetness reads 🔴 on Scoopulator.** That's intentional — the Scoopulator target range (11-20%) is calibrated against vanilla. Cocoa's bitter compounds suppress perceived sweetness by ~20-30%, so on-paper sweetness needs to overshoot to land balanced. At 25g cocoa (lighter version), 20% sweetness was right; at 40g, 24-26% is right.
+- **Want it even darker?** Push cocoa to 50g — but drop milk to 395g to keep weight, and bump xylitol another 2-3g to keep FPDF stable. Reads as bittersweet baker's chocolate, not for everyone.
+- **Triple chocolate:** add 2 drops chocolate flavor (MAX) at step 3, or fold in 15-20g Chocolate Shell Shards via Mix-In after spinning.
+- Pairs natively with Chocolate-Oil Drizzle (stracciatella) — drizzle 20g chocolate+oil into the spinning pint during Mix-In for flake distribution.
+- Re-spin is more important here than on lighter chocolate bases — cocoa solids resist the first churn at this density.
+
+**Nutrition (per 100g):** 114 kcal | 3.9g fat (2.6g sat) | 17.5g carbs (1.2g sugars, 4.4g fiber) | 11g protein
+
+**Scoopulator:** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-35-L1Bll6:410,user-cottage-cheese-adoro-ENYtZ8:100,usdafndds-2705587:40,pure-vanilla-extract:2,glycerin:10,erythritol:30,user-hsn-whey-protein-concentrate-984009:50,xylitol:22,user-microcrystalline-cellulose-mcc-myujQ3:8,usdafndds-2710263:0.2,inulin:8.53,sodium-carboxymethyl-cellulose-cmc:0.6,guar-gum:0.4,usdaff-746775:0.33,xanthan-gum:0.13&target=low-fat-ice-cream) — Serv. -14.6°C 🟢 | Sweet 24.87% 🔴 | Solids 35.28% 🟡 | Milk Fat 2.63% 🟢 | MSNF 7.88% 🔴 | Stab 0.17% 🔴 | Emul 0% 🔴
+*(Sweetness red — intentional overshoot of vanilla-tuned target to land balanced under 40g cocoa's bitterness. Solids yellow — cocoa contributes ~40g of solids, expected for a dark-chocolate base (traditional dark chocolate runs 42-48%, we're at 35.3%, deliberately leaner). MSNF/Stab/Emul red for the same reasons as the Vanilla Cottage Base — and Stab is lower here by design to let cocoa drive the fudge texture.)*
 
 ---
 
