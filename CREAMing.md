@@ -665,7 +665,7 @@ Water-based strawberry sorbet using fresh strawberries. No dairy, no guar (acid-
 #### Cheesecake base
 
 **Base — Wet:**
-- **273g** Marata 1.5% milk
+- **273g** Marata 3.5% whole milk
 - **150g** Marata 2% strained yogurt
 - **135g** ADORO Light cream cheese
 - **10g** glycerin
@@ -701,13 +701,13 @@ Water-based strawberry sorbet using fresh strawberries. No dairy, no guar (acid-
 8. **Swirl in the strawberry sauce:** spoon sauce on top and use a butter knife to swirl it into the top 2-3 cm. Do not over-mix — visible ribbons are the goal.
 
 **Nutrition (per 100g):**
-- **Base (660g):** ~100 kcal | 3.8g fat | 3.8g carbs (sugars), 6.8g sugar alcohols, 1.1g fiber | 9.5g protein
+- **Base (660g):** ~107 kcal | 4.5g fat (3g sat) | 2g sugars, 6.8g sugar alcohols, 1.1g fiber | 9.4g protein
 - **Biscuits (35g @ 430 kcal/100g):** ~150 kcal total
 - **Strawberry sauce (~75g):** ~66 kcal total
-- **Whole pint (~770g):** ~874 kcal → **~113 kcal/100g**
+- **Whole pint (~770g):** ~923 kcal → **~120 kcal/100g**
 
-**Scoopulator (base only):** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-15-4d71c8:273,user-yogurt-straggisto-2-33939d:150,user-cream-cheese-light-adoro-HgwT7k:135,glycerin:10,pure-vanilla-extract:2,erythritol:35,user-hsn-whey-protein-concentrate-984009:35,xylitol:10,usdafndds-2710263:0.3,inulin:7.3,usdabranded-soy-lecithin:1.2,sodium-carboxymethyl-cellulose-cmc:0.6,guar-gum:0.4,usdaff-746775:0.3,xanthan-gum:0.13&target=low-fat-ice-cream) — Serv. -14.2°C 🟢 | Sweet 6.43% 🔴 | Solids 27.29% 🟡 | Sugars 10.74% 🔴 | Milk Fat 4.35% 🟢 | MSNF 5.85% 🔴 | Stab 0.17% 🔴 | Emul 0.18% 🟢
-*(Sweetness/Sugars reds are structural for sugar-free. MSNF red is inherent to cream cheese base (high fat, low MSNF). Stab red is expected — yogurt + whey + cream cheese provide body, gums are just for ice crystal prevention.)*
+**Scoopulator (base only):** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-35-L1Bll6:273,user-yogurt-straggisto-2-33939d:150,user-cream-cheese-light-adoro-HgwT7k:135,glycerin:10,pure-vanilla-extract:2,erythritol:35,user-hsn-whey-protein-concentrate-984009:35,xylitol:10,usdafndds-2710263:0.3,inulin:8.53,sodium-carboxymethyl-cellulose-cmc:0.6,guar-gum:0.4,usdaff-746775:0.33,xanthan-gum:0.13&target=low-fat-ice-cream) — Serv. -15°C 🟢 | Sweet 33.44% 🔴 | Solids 28.46% 🟢 | Milk Fat 4.15% 🟢 | MSNF 9.13% 🔴 | Stab 0.17% 🔴 | Emul 0% 🔴
+*(Sweetness red is structural for sugar-free — sucralose's high POD (sweetening power) drives the reading. MSNF red is inherent to cream cheese base (high fat, low milk-solids contribution). Stab red is expected — yogurt + whey + cream cheese provide body, gums are just for ice crystal prevention. Emul red is intentional — whey protein's built-in sunflower lecithin handles emulsification at this fat load, no need for standalone lecithin.)*
 
 ---
 
