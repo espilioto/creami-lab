@@ -28,6 +28,7 @@
   - [Vanilla Cottage Base](#vanilla-cottage-base--salty-stability-sugar-free)
   - [Chocolate Cottage Base](#chocolate-cottage-base--salty-stability-sugar-free)
   - [Froyo Base](#froyo-base--salty-stability-sugar-free)
+  - [Froyo Master Batch — Full Carton & Tub](#froyo-master-batch--full-carton--tub-sugar-free)
   - [Strawberry Froyo](#strawberry-frozen-yogurt--salty-stability-sugar-free)
   - [Orange Froyo](#orange-frozen-yogurt--salty-stability-sugar-free)
   - [Strawberry Sorbet](#strawberry-sorbet-sugar-free)
@@ -529,6 +530,66 @@ Neutral yogurt-forward base — canvas for swirls, fruit compotes, mix-ins, or d
 
 **Scoopulator:** [frozen-yogurt-regular](https://scoopulator.app/calc?ingredients=user-yogurt-straggisto-2-33939d:400,user-milk-fresh-marata-35-L1Bll6:170,glycerin:10,pure-vanilla-extract:3,erythritol:35,user-hsn-whey-protein-concentrate-984009:22,xylitol:15,inulin:13.53,sodium-carboxymethyl-cellulose-cmc:0.6,guar-gum:0.4,usdaff-746775:0.33,xanthan-gum:0.13,usdafndds-2710263:0.2&target=frozen-yogurt-regular&type=frozen_yogurt) — Serv. -14.4°C 🟢 | Sweet 7.39% 🔴 | Solids 25.96% 🟡 | Fat 2.29% ⚪ | Milk Fat 2.08% 🔴 | MSNF 9.38% 🟢 | Stab 0.17% 🔴 | Emul 0% 🔴
 *(Sweetness red is structural for sugar-free — sucralose intensity not captured. Milk Fat red — yogurt+milk base without cream. Stab/Emul red — body from yogurt+whey+inulin, emulsification from whey's natural sunflower lecithin.)*
+
+---
+
+#### Froyo Master Batch — Full Carton & Tub (Sugar-Free)
+Tags: frozen-yogurt, base, master-batch, scaled, low-fat, sugar-free, no-cook, high-protein, salty-stability, original
+
+**Scaled-up Froyo Base sized to consume an entire 1kg yogurt tub + 1L milk carton across exactly 4 Creami pints — zero leftover dairy.** Yogurt:milk ratio is rebalanced from the standard Froyo Base (250g + 257g per pint vs 400g + 170g) to fit both containers into 4 pints; whey bumps to 35g per pint to hold solids in the froyo target band. Trade-off vs the standard Froyo Base: lower yogurt tang, slightly higher protein (~9.2g/100g vs 8.3g), and lower MSNF (milk solids-non-fat) since the ratio leans milk-heavy. Blend once as a single ~2.5kg batch, divide into 4 pints, flavor each one differently.
+
+**Wet (4-pint master batch):**
+- **1000g** Marata 2% strained yogurt (entire 1kg tub)
+- **1028g** Marata 3.5% whole milk (entire 1L carton)
+- **40g** glycerin
+- **12g** vanilla extract
+
+**Dry (4-pint master batch):**
+- **140g** erythritol
+- **140g** whey protein (HSN WPC80)
+- **60g** xylitol
+- **20g** inulin
+- **0.8g** sucralose
+- Salty Stability (40g):
+  - **34.12g** inulin
+  - **2.40g** CMC
+  - **1.60g** guar gum
+  - **1.32g** salt
+  - **0.52g** xanthan gum
+
+**Per pint reference (~620g):** 250g yogurt + 257g milk + 10g glycerin + 3g vanilla + 35g erythritol + 35g whey + 15g xylitol + 5g inulin + 0.2g sucralose + 10g SS
+
+**Steps:**
+1. Combine yogurt, milk, glycerin, and vanilla in a large bowl or jar (≥3L capacity — the batch is ~2.5L liquid pre-dry).
+2. Mix dry ingredients in a separate bowl: erythritol, xylitol, whey, standalone inulin, sucralose, SS components.
+3. Add dry mix to wet. Immersion-blend 30-45s until smooth — don't over-blend (whey traps air at this volume too).
+4. Refrigerate 2-4h for gum hydration. Stir once halfway.
+5. Divide into 4 Creami pints: aim for ~620g each. Leaves ~5mm headroom for per-pint flavor adds.
+6. **Per-pint flavoring (add now, before freezing):** see variations below. Stir/swirl into the individual pint.
+7. Freeze each pint 24h.
+8. Process each pint on **Frozen Yogurt** mode. Re-spin if needed.
+
+**Per-pint flavor variations (mix and match across the 4 pints):**
+- **Plain vanilla:** no additions (base already has 3g vanilla per pint built in).
+- **Strawberry:** 2 drops strawberry flavor + 50g frozen strawberries macerated in 5g glycerin (30-60min) folded in before freezing.
+- **Chocolate:** 2 drops chocolate flavor + 10g cocoa (Bonora) bloomed into 30g warm milk drawn from the pint, then stirred back.
+- **Caramel:** 2 drops milk cream flavor.
+- **Citrus:** swap 3g vanilla for the glycerin-oleosaccharum from the Lemon recipe (zest of 1/2 lemon in 4g glycerin, rested 2-4h).
+- **Mix-ins (post-spin):** brownie cubes, biscuit chunks, meringue crisps, frozen yogurt bark, chocolate shell shards — via Mix-In cycle.
+
+**GI safety (gastrointestinal — gut tolerance, per pint):**
+- Inulin: 13.53g (8.53 SS + 5 standalone) — well under 30g limit
+- Xylitol: 15g — under 30g limit
+- Combined fermentable load: 28.53g — under 45g limit
+- Total gums: 1.13g — under 2g cheese-pull threshold
+- Erythritol: 5.6% of mix weight — under 8% crystallization threshold
+
+**Cost (per pint):** ~€2.72 — full 4-pint batch ~€10.88 (excludes 12g vanilla — price TBD). Per kg ~€4.39.
+
+**Nutrition (per 100g, base only — flavor add-ins extra):** 95 kcal | 2.6g fat (1.8g sat) | 15.6g carbs (2.1g sugars, 1.9g fiber, ~9g sugar alcohols) | 9.2g protein
+
+**Scoopulator (per pint, base only):** [frozen-yogurt-regular](https://scoopulator.app/calc?ingredients=user-yogurt-straggisto-2-33939d:250,user-milk-fresh-marata-35-L1Bll6:257,glycerin:10,pure-vanilla-extract:3,erythritol:35,user-hsn-whey-protein-concentrate-984009:35,xylitol:15,inulin:13.53,sodium-carboxymethyl-cellulose-cmc:0.6,guar-gum:0.4,usdaff-746775:0.33,xanthan-gum:0.13,usdafndds-2710263:0.2&target=frozen-yogurt-regular&type=frozen_yogurt) — Serv. -16°C 🟢 | Sweet 26.94% 🔴 | Solids 28.42% 🟡 | Milk Fat 2.26% 🔴 | MSNF 8.4% 🟡 | Stab 0.18% 🔴 | Emul 0% 🔴
+*(Sweetness red is structural for sugar-free — sucralose's high POD (sweetening power) drives the reading. Milk Fat red — yogurt+milk base without cream. MSNF yellow — the milk-heavy ratio for dairy maximization puts MSNF just under the 9% threshold (the standard Froyo Base reads 🟢 here at 9.38%). Solids yellow — sits below the 30% target band but well above the standard Froyo Base's 25.96%. Stab/Emul red — body from yogurt+whey+inulin, emulsification from whey's natural sunflower lecithin.)*
 
 ---
 
