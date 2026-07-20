@@ -387,15 +387,15 @@ Vanilla base built on cottage cheese + 3.5% whole milk instead of the milk-only 
 
 **Wet:**
 - **100g** Adoro cottage cheese (200g/cup — uses half)
-- **450g** Marata 3.5% whole milk
+- **460g** Marata 3.5% whole milk
 - **5g** vanilla extract
 - **5g** glycerin
 
 **Dry:**
 - **30g** erythritol
-- **50g** whey protein (HSN WPC80)
+- **37g** whey protein (HSN WPC80)
 - **15g** xylitol
-- **8g** MCC (microcrystalline cellulose)
+- **10g** MCC (microcrystalline cellulose)
 - **0.1g** sucralose
 - Salty Stability (15g):
   - **12.8g** inulin
@@ -404,9 +404,11 @@ Vanilla base built on cottage cheese + 3.5% whole milk instead of the milk-only 
   - **0.5g** salt
   - **0.2g** xanthan gum
 
+**Cost:** ~€4.83/kg — ~€3.27/pint (excludes 5g vanilla — price TBD). Drivers: cottage cheese €0.95, whey €0.79, milk €0.51, erythritol €0.39. Whey trimmed to 37g (from 50g) with MCC at 10g sharing the body — ~€0.24/pint (~7%) cheaper than the original 50g-whey build, while keeping Total Solids green. Note: adding *more* cottage to displace whey would *raise* cost — cottage is €0.086/g protein vs whey €0.026/g (3.3× pricier) — and hit the 100g salt cap.
+
 **Steps:**
 1. **Pre-blend cottage cheese (make-or-break step).** In the pint or a tall jar, combine 100g cottage cheese with ~150g of the milk. Immersion-blend 30-60s until completely smooth — no visible curds, slurry should look like thin yogurt. Adoro is large-curd and will NOT fully break down if added mid-blend with everything else.
-2. Add remaining 300g milk, vanilla, glycerin.
+2. Add remaining ~310g milk, vanilla, glycerin.
 3. Combine dry ingredients in a separate bowl: erythritol, xylitol, whey, MCC, sucralose, Salty Stability components. Mix well.
 4. Add dry mix to wet. Stir vigorously by hand until dissolved, then immersion-blend 15-20 sec to disperse MCC. Avoid extended blending — whey protein traps air.
 5. Refrigerate 2-4h (overnight better) for gum hydration. Stir once mid-rest to redistribute MCC (it settles).
@@ -416,11 +418,12 @@ Vanilla base built on cottage cheese + 3.5% whole milk instead of the milk-only 
 **Notes:**
 - Salt comes in heavier than the milk-only base (~0.19% total, ~75mg sodium/100g) thanks to cottage cheese's 0.8g salt/100g. Still within normal ice cream range — enhances vanilla expression and suppresses erythritol cooling.
 - Cottage cheese amount (100g) chosen to keep salt in flavor-enhancement zone. Going to 150g pushes total salt past 0.25% — starts reading as savory rather than enhancing.
-- Big upgrade over the milk-only Vanilla Base on milk fat (1.16 → 2.85% 🟢) and MSNF (2.85 → 8.43%) — closest you can get to traditional ice cream metrics without SMP or cream.
+- Big upgrade over the milk-only Vanilla Base on milk fat (1.16 → 2.94% 🟢) and MSNF (2.85 → 8.63%) — closest you can get to traditional ice cream metrics without SMP or cream.
+- **Whey set at 37g for cost** (down from 50g) — the minimum that keeps Total Solids green (28.0%) while landing ~8.6g protein/100g. Whey is the priciest ingredient per pint after cottage; MCC at 10g (top of its 3-10g/pint range) shares the body/ice-crystal load. Dropping whey to 30g saves another ~€0.14/pint but slips solids to 27.1% 🟡 (still fine for our low-fat style); restoring 50g adds ~€0.28/pint over this build for ~10g protein/100g.
 
-**Nutrition (per 100g):** 102 kcal | 3.3g fat (2.3g sat) | 13.3g carbs (1.1g sugars, 2.8g fiber) | 10.1g protein
+**Nutrition (per 100g):** 95 kcal | 3.3g fat (2.2g sat) | 13.3g carbs (1g sugars, 3.1g fiber) | 8.6g protein
 
-**Scoopulator:** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-35-L1Bll6:450,user-cottage-cheese-adoro-ENYtZ8:100,pure-vanilla-extract:5,glycerin:5,erythritol:30,user-hsn-whey-protein-concentrate-984009:50,xylitol:15,user-microcrystalline-cellulose-mcc-myujQ3:8,usdafndds-2710263:0.1,inulin:12.8,sodium-carboxymethyl-cellulose-cmc:0.9,guar-gum:0.6,usdaff-746775:0.5,xanthan-gum:0.2&target=low-fat-ice-cream) — Serv. -13.7°C 🟢 | Sweet 14.66% 🟢 | Solids 29.43% 🟢 | Milk Fat 2.85% 🟢 | MSNF 8.43% 🔴 | Stab 0.25% 🔴 | Emul 0% 🔴
+**Scoopulator:** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-35-L1Bll6:460,user-cottage-cheese-adoro-ENYtZ8:100,pure-vanilla-extract:5,glycerin:5,erythritol:30,user-hsn-whey-protein-concentrate-984009:37,xylitol:15,user-microcrystalline-cellulose-mcc-myujQ3:10,usdafndds-2710263:0.1,inulin:12.8,sodium-carboxymethyl-cellulose-cmc:0.9,guar-gum:0.6,usdaff-746775:0.5,xanthan-gum:0.2&target=low-fat-ice-cream) — Serv. -13.4°C 🟢 | Sweet 14.68% 🟢 | Solids 28.03% 🟢 | Milk Fat 2.91% 🟢 | MSNF 8.57% 🔴 | Stab 0.25% 🔴 | Emul 0% 🔴
 *(MSNF red — no SMP/condensed milk available. Stab red — conservative gum total (1.7g) to avoid stringy texture. Emul red — no soy lecithin per preference; whey's native sunflower lecithin handles low-fat emulsification.)*
 
 ---
