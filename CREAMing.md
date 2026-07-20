@@ -41,6 +41,7 @@
   - [Lemon Swirl](#sugar-free-lemon-swirl-swirltopping)
 - [Mix-ins](#mix-ins)
   - [Chocolate-Oil Drizzle](#chocolate-oil-drizzle-stracciatella)
+  - [Macerated Dried Fruit](#macerated-dried-fruit-apricot--prune)
 
 </details>
 
@@ -1020,5 +1021,31 @@ Light chocolate drizzle for stracciatella-style flakes in any pint. Oil keeps th
 - For a crackle top instead: pour over the surface after spinning, return to freezer immediately. Skip Mix-In.
 - ~120 kcal for the batch (~20 kcal per 100g of a 680g pint).
 - Works with any base — coconut, vanilla, cheesecake, etc.
+
+---
+
+#### Macerated Dried Fruit (Apricot / Prune)
+Tags: mix-in, fruit, apricot, prune, component
+
+Quick soak to keep dried fruit chewy in the pint. Un-macerated dried fruit holds ~15-30% water that freezes rock-hard at -18°C — you get little pebbles instead of chewy bites. A short hot-water soak rehydrates just enough to stay pliable when frozen. Pairs great with the tangy Vanilla Cottage Base (apricot + vanilla is classic; prune reads mellow/caramel). Add toasted nuts alongside for fruit-and-nut.
+
+**Ingredients (per pint dose):**
+- **40-60g** dried apricots or prunes (or a mix)
+- **~10g** just-boiled water (a splash)
+- **1-2g** erythritol or xylitol (a pinch)
+
+**Steps:**
+1. Dice the dried fruit to ~5mm pieces.
+2. Put in a small heatproof bowl. Add the just-boiled water and the pinch of erythritol/xylitol. Stir to coat.
+3. Cover and soak 15-20 min, until softened and pliable — the heat from the water does the work.
+4. Drain and pat the surface dry with paper towel so you're not adding free liquid to the pint.
+5. Fold into the spun pint by hand, or add on the **Mix-In** cycle. Do NOT add before the main spin — the blade smears fruit.
+
+**Notes:**
+- **Storage:** once macerated it's no longer shelf-stable (higher water activity) — refrigerate covered and use within ~4-5 days. Store submerged in the soak liquid for max softness (drain at use), or drained (re-firms slightly, grab-and-go). Toss if it smells off, fizzes, or shows fuzz.
+- **Keep nuts separate.** Never store toasted nuts in with the wet fruit — they go soggy and lose their crunch. Fruit in the fridge, nuts in an airtight jar at room temp, combine only in the pint.
+- **Sugar:** this is real natural sugar (apricot ~53g/100g, prune ~38g/100g) — not table sugar, but a conscious call against a sugar-free base. 50g apricot adds ~26g sugar to the pint.
+- **GI (gastrointestinal):** fruit sugars are absorbed, not fermented like inulin/xylitol, so they don't add to the pint's fermentable load. But the Cottage Base already carries ~27.8g inulin+xylitol — don't *also* candy the nuts in xylitol on the same pint.
+- **kcal:** apricot ~241 / prune ~240 kcal per 100g. 50g adds ~120 kcal to the pint (~16 kcal per 100g of a 680g pint).
 
 ---
