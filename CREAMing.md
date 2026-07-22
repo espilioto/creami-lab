@@ -26,6 +26,7 @@
 - [Ice Cream](#ice-cream)
   - [Vanilla Base](#vanilla-base--salty-stability-sugar-free)
   - [Vanilla Cottage Base](#vanilla-cottage-base--salty-stability-sugar-free)
+  - [Toasted Nut Cottage Base](#toasted-nut-cottage-base--salty-stability-sugar-free)
   - [Froyo Base](#froyo-base--salty-stability-sugar-free)
   - [Froyo Master Batch — Full Carton & Tub](#froyo-master-batch--full-carton--tub-sugar-free)
   - [Strawberry Froyo](#strawberry-frozen-yogurt--salty-stability-sugar-free)
@@ -424,6 +425,61 @@ Vanilla base built on cottage cheese + 3.5% whole milk instead of the milk-only 
 
 **Scoopulator:** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-35-L1Bll6:460,user-cottage-cheese-adoro-ENYtZ8:100,pure-vanilla-extract:5,glycerin:5,erythritol:30,user-hsn-whey-protein-concentrate-984009:37,xylitol:15,user-microcrystalline-cellulose-mcc-myujQ3:10,usdafndds-2710263:0.1,inulin:12.8,sodium-carboxymethyl-cellulose-cmc:0.9,guar-gum:0.6,usdaff-746775:0.5,xanthan-gum:0.2&target=low-fat-ice-cream) — Serv. -13.4°C 🟢 | Sweet 14.68% 🟢 | Solids 28.03% 🟢 | Milk Fat 2.91% 🟢 | MSNF 8.57% 🔴 | Stab 0.25% 🔴 | Emul 0% 🔴
 *(MSNF red — no SMP/condensed milk available. Stab red — conservative gum total (1.7g) to avoid stringy texture. Emul red — no soy lecithin per preference; whey's native sunflower lecithin handles low-fat emulsification.)*
+
+---
+
+#### Toasted Nut Cottage Base — Salty Stability (Sugar-Free)
+Tags: ice-cream, nut, praline, low-fat, sugar-free, no-cook, high-protein, cottage-cheese, salty-stability, original
+
+Nut variant of the Vanilla Cottage Base. The trick is splitting the nuts two ways: half ground to a paste and blended into the base, half kept as a mix-in for crunch. **The paste gives all-over toasty richness in every bite** (dispersed fat carries the toasted aroma compounds to the palate); **the crunch gives the bright top-note** (cold mutes a paste's aroma, so the crunchy pieces deliver it undiluted the moment you chew). You get both. The paste's fat + solids also let us trim whey 37→30g and MCC 10→7g while holding Total Solids green — the nuts pay for the cheaper whey. **Nut-agnostic:** almond, hazelnut, pistachio, or a mix all land within ~0.3% solids and ~1 kcal/100g of each other — swap freely.
+
+**Wet:**
+- **100g** Adoro cottage cheese (200g/cup — uses half)
+- **460g** Marata 3.5% whole milk
+- **15g** toasted nut paste (see step 1 — almond / hazelnut / pistachio / mixed)
+- **5g** vanilla extract
+- **5g** glycerin
+
+**Dry:**
+- **30g** erythritol
+- **30g** whey protein (HSN WPC80) — trimmed from 37g; nut solids backfill
+- **15g** xylitol
+- **7g** MCC (microcrystalline cellulose) — trimmed from 10g; nut fat shares the softening
+- **0.1g** sucralose
+- Salty Stability (15g):
+  - **12.8g** inulin
+  - **0.9g** CMC
+  - **0.6g** guar gum
+  - **0.5g** salt
+  - **0.2g** xanthan gum
+
+**Mix-in (after spinning):**
+- **15g** toasted crushed nuts (same nut as the paste, or a contrasting one)
+
+**Cost:** ~€4.43/kg — ~€3.09/pint (excludes vanilla 5g + nuts 30g — prices TBD). Whey trimmed to 30g saves ~€0.15/pint vs the 37g Vanilla Cottage Base; the nuts backfill the lost solids for free.
+
+**Steps:**
+1. **Toast and paste the nuts.** Toast ~30g nuts in a dry pan until fragrant and lightly colored — go **light on pistachio** (over-toasting kills the green note). While still warm, pound **15g** in a **mortar and pestle** into a coarse paste (warm nuts release their oils easier; 15g is too little for most grinders, so the mortar is the right tool). If it stays dry — especially pistachio, which is lower-oil — work in a spoonful of the base milk to loosen. Reserve the other **15g** as coarse crunch.
+2. **Pre-blend cottage cheese (make-or-break step).** In the pint or a tall jar, combine 100g cottage cheese with ~150g of the milk. Immersion-blend 30-60s until completely smooth — no visible curds.
+3. Add remaining ~310g milk, vanilla, glycerin, and the **15g nut paste**. Blend briefly to disperse the paste.
+4. Combine dry ingredients separately: erythritol, xylitol, whey, MCC, sucralose, Salty Stability components. Mix well.
+5. Add dry mix to wet. Stir vigorously, then immersion-blend 15-20 sec to disperse MCC. Avoid extended blending — whey traps air.
+6. Refrigerate 2-4h (overnight better) for gum hydration. Stir once mid-rest (MCC settles).
+7. Freeze 24h.
+8. Process on **Lite Ice Cream**. Re-spin if needed.
+9. **Add the 15g crunch after the main spin** — via the Mix-In program or folded by hand. Do NOT freeze it in from the start, or it softens and pulls moisture. Freeze the crunch briefly first so it doesn't sink.
+
+**Notes:**
+- **Why split rather than all-paste or all-crunch:** paste = background nuttiness + creaminess in every bite; crunch = the punchy toasted top-note + texture. All-paste loses the bright note (cold + dilution); all-crunch (the original 40g version) tastes intense but only when you hit a piece. 15+15 gives both.
+- **Whey trim confirmed on Scoopulator:** the plain base at whey 30g slips to 27.1% solids 🟡; the 15g paste lifts it back to **28.5% 🟢**. Trimming MCC to 7g is safe because nut fat softens overall firmness — but keep some MCC + the xanthan: nut fat does **not** control ice-crystal *size*, that's still the stabilizers' job.
+- **Nut choice:** hazelnut is richest (~61% fat, most calorie-dense, pastes smoothest — gianduja character); almond is the middle (marzipan when toasted); pistachio is leanest (~45% fat, pastes driest so add a splash of milk, toast light, ~1-2 kcal/100g lighter). Mixed almond+hazelnut is the original that started this.
+- **Calorie lever:** paste is more calorie-efficient for flavor than crunch (hits every bite vs occasionally). If cutting kcal, shift the ratio toward paste and drop total nut mass — 15+15 (~30g) reads as nutty as the original 40g all-crunch for ~60 fewer kcal.
+- Not near any limits — nuts don't touch the gum/inulin/xylitol/erythritol caps. Fermentable load unchanged from the base (~27.8g inulin+xylitol).
+
+**Nutrition (per 100g, as-eaten incl. 15g crunch):** 115 kcal | 5.5g fat (2.4g sat) | 13.8g carbs (1.1g sugars, 2.9g fiber) | 8.2g protein. *(Base alone, before the crunch mix-in: 104 kcal/100g.)*
+
+**Scoopulator:** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-35-L1Bll6:460,user-cottage-cheese-adoro-ENYtZ8:100,pure-vanilla-extract:5,glycerin:5,erythritol:30,user-hsn-whey-protein-concentrate-984009:30,xylitol:15,user-microcrystalline-cellulose-mcc-myujQ3:7,usdafndds-2710263:0.1,inulin:12.8,sodium-carboxymethyl-cellulose-cmc:0.9,guar-gum:0.6,usdaff-746775:0.5,xanthan-gum:0.2,usdafndds-2707510:30&target=low-fat-ice-cream) — Serv. -12.9°C 🟢 | Sweet 14.45% 🟢 | Solids 29.99% 🟢 | Milk Fat 2.83% 🟢 | Fat 5.51% ⚪ | Stab 0.24% 🔴 | Emul 0% 🔴
+*(As-eaten with all 30g nuts. Base-only, 15g paste: Solids 28.5% 🟢, -12.9°C 🟢. Pistachio 15g paste: Solids 28.52% 🟢, -13.5°C 🟢 — nut choice barely moves the metrics. MSNF/Stab/Emul red — same as the Vanilla Cottage Base, expected for our low-fat no-sugar style.)*
 
 ---
 
