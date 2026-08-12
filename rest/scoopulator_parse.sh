@@ -121,25 +121,22 @@ for h2 in soup.select('h2'):
 if nutrition_h2:
     table = nutrition_h2.find_next('table')
     if table:
-        # Get scoop size from header
+        # Column labels come from the page itself — currently 'per 100 g' and
+        # 'Full recipe'. Never hardcode them: col 2 is the WHOLE BATCH total,
+        # not a per-scoop figure.
         headers = [th.get_text(strip=True) for th in table.select('th')]
-        scoop_size = '66'
-        for h in headers:
-            import re
-            m = re.search(r'(\d+)\s*g', h)
-            if m and 'Scoop' in h:
-                scoop_size = m.group(1)
-                break
+        col1 = headers[1] if len(headers) > 1 else 'per 100g'
+        col2 = headers[2] if len(headers) > 2 else 'full recipe'
 
-        print(f'\nNutrition (per {scoop_size}g scoop / per 100g):')
+        print(f'\nNutrition ({col1} / {col2}):')
         for row in table.select('tbody tr'):
             cells = row.select('td')
             if len(cells) >= 3:
                 label = cells[0].get_text(strip=True)
-                scoop_val = cells[1].get_text(strip=True)
-                per100_val = cells[2].get_text(strip=True)
+                per100_val = cells[1].get_text(strip=True)
+                batch_val = cells[2].get_text(strip=True)
                 # Indent sub-rows
                 is_sub = 'pl-8' in ' '.join(cells[0].get('class', []))
                 indent = '  ' if is_sub else ''
-                print(f'{indent}{label}: {scoop_val} / {per100_val}')
+                print(f'{indent}{label}: {per100_val} / {batch_val}')
 "
