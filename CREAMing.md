@@ -27,6 +27,7 @@
   - [Vanilla Base](#vanilla-base--salty-stability-sugar-free)
   - [Vanilla Cottage Base](#vanilla-cottage-base--salty-stability-sugar-free)
   - [Toasted Nut Cottage Base](#toasted-nut-cottage-base--salty-stability-sugar-free)
+  - [Dark Chocolate Gelato](#dark-chocolate-gelato--salty-stability-sugar-free)
   - [Froyo Base](#froyo-base--salty-stability-sugar-free)
   - [Froyo Master Batch — Full Carton & Tub](#froyo-master-batch--full-carton--tub-sugar-free)
   - [Strawberry Froyo](#strawberry-frozen-yogurt--salty-stability-sugar-free)
@@ -480,6 +481,66 @@ Nut variant of the Vanilla Cottage Base. The trick is splitting the nuts two way
 
 **Scoopulator:** [low-fat-ice-cream](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-35-L1Bll6:460,user-cottage-cheese-adoro-ENYtZ8:100,pure-vanilla-extract:5,glycerin:5,erythritol:30,user-hsn-whey-protein-concentrate-984009:30,xylitol:15,user-microcrystalline-cellulose-mcc-myujQ3:7,usdafndds-2710263:0.1,inulin:12.8,sodium-carboxymethyl-cellulose-cmc:0.9,guar-gum:0.6,usdaff-746775:0.5,xanthan-gum:0.2,usdafndds-2707510:30&target=low-fat-ice-cream) — Serv. -12.9°C 🟢 | Sweet 14.45% 🟢 | Solids 29.99% 🟢 | Milk Fat 2.83% 🟢 | Fat 5.51% ⚪ | Stab 0.24% 🔴 | Emul 0% 🔴
 *(As-eaten with all 30g nuts. Base-only, 15g paste: Solids 28.5% 🟢, -12.9°C 🟢. Pistachio 15g paste: Solids 28.52% 🟢, -13.5°C 🟢 — nut choice barely moves the metrics. MSNF/Stab/Emul red — same as the Vanilla Cottage Base, expected for our low-fat no-sugar style.)*
+
+---
+
+#### Dark Chocolate Gelato — Salty Stability (Sugar-Free)
+Tags: gelato, chocolate, dark, low-fat, sugar-free, cooked, high-protein, cottage-cheese, salty-stability, original
+
+Dense, fudgy, bitter-forward chocolate — the gelato answer to the Vanilla Cottage Base rather than a chocolate variation of it. Born from the bloom paste while making a lazy chocolate conversion: 22g cocoa whisked into 70g of warm base tasted like dark Italian gelato, and this recipe chases that at pint scale. The trick is **solids, not fat** — 36.5% total solids and a hot high-concentration cocoa bloom do the work that cream does in a traditional cioccolato fondente. Erythritol is deliberately held down (20g vs the 30g in the vanilla bases): its ultra-cold mouthfeel fights the "rich and fudgy" read, and it recrystallizes to grit after ~30 min frozen. Xylitol carries the sweetness (POD 100 vs erythritol's ~75), glycerin carries the FPD (freezing point depression — how far the freezing point drops) without adding sweetness. SS at the full 15g Deluxe dose.
+
+**Wet:**
+- **375g** Marata 3.5% whole milk
+- **120g** Adoro cottage cheese
+- **14g** glycerin
+- **3g** vanilla extract
+
+**Dry:**
+- **60g** cocoa powder (Bonora)
+- **35g** whey protein (HSN WPC80)
+- **22g** xylitol
+- **20g** erythritol
+- **10g** MCC (microcrystalline cellulose)
+- **0.13g** sucralose
+- Salty Stability (15g):
+  - **12.8g** inulin
+  - **0.9g** CMC
+  - **0.6g** guar gum
+  - **0.5g** salt
+  - **0.2g** xanthan gum
+
+**Cost:** ~€6.48/kg — ~€4.37/pint (excludes 3g vanilla — price TBD). Drivers: cottage cheese €1.14, cocoa €1.03, whey €0.74, milk €0.41. The priciest pint in the file — cocoa at 60g is the flavor, don't trim it to save €0.35.
+
+**Steps:**
+1. **Pre-blend cottage cheese (make-or-break step).** Combine 120g cottage cheese with **150g of the cold milk** in a tall jar. Immersion-blend 30-60s until completely smooth — no visible curds. Set aside. Adoro is large-curd and will NOT break down later.
+2. Heat the remaining **225g milk to ~70°C** — hot, not boiling.
+3. Off heat, whisk in the **cocoa + erythritol + xylitol** until it forms a thick glossy paste. Keep whisking through the lumpy stage; it turns ganache-like. This is the bloom — cold-mixed cocoa reads dull and gritty, and this step is the entire point of the recipe.
+4. Whisk the cold cottage slurry into the hot paste. This drops the temperature fast.
+5. **Cool below 30°C** before going further (ice bath or fridge). Whey protein denatures above ~70°C and the gums are cold-process.
+6. Combine remaining dry in a bowl: whey, MCC, sucralose, SS components. Mix well.
+7. Add the dry mix to the cooled base along with glycerin + vanilla. Stir by hand until dissolved, then immersion-blend 15-20s to disperse the MCC. Avoid extended blending — whey traps air.
+8. Age **4-12h in the fridge** for gum hydration and flavor development. Stir once mid-rest (MCC settles).
+9. Freeze **36h** — cooked bases need the longer freeze.
+10. **Do NOT use the Gelato program.** On the NC501, Gelato and Ice Cream are byte-identical (120s, 226 Hz down / 205 Hz up) — the shortest, gentlest cycle, and the worst case for a hard high-solids chocolate pint. Scrape test, then process on **Sorbet** (170s @ 334 Hz downstroke), then run **Mix-In empty** as a second pass. That combo compacts instead of aerating — the dense low-overrun texture this recipe is for.
+
+**Notes:**
+- **Cocoa capped at 60g.** That's above the 50g "intense dark" archetype ceiling and about as far as this can go — more cocoa means more hardening (cocoa's hardening factor is -160) with no sweetener room left to fight it. If it's not dark enough, add **2 drops chocolate flavor** (max 2), not more cocoa.
+- **Glycerin at 14g is doing the dextrose job.** Chocolate freezes harder than any other flavor, so this base has to overshoot FPD relative to a vanilla one. If it spins crumbly, go to 17g next batch — it lands ~-15°C, softer but less dense.
+- **The paste is a dessert on its own.** Steps 2-3 at the stated ratios (~24% cocoa) is what started this recipe. Worth making a small batch as a warm pudding.
+- Cottage cheese at 120g (vs 100g in the vanilla bases) pushes MSNF and solids up. Salt lands ~0.21% total including SS — still in the flavor-enhancement zone, and dark chocolate wants it.
+- **Richness lever (changes the flavor):** swapping 30g of the milk for 30g coconut milk adds ~5.4g fat and real body. It reads as chocolate-coconut, not pure dark chocolate — a different recipe, not an upgrade.
+
+**GI safety (gastrointestinal — gut tolerance, per pint):**
+- Inulin: 12.8g (all from SS) — well under 30g limit
+- Xylitol: 22g — under 30g limit
+- Combined fermentable load: 34.8g — under 45g limit
+- Total gums: 1.7g — under 2g cheese-pull threshold
+- Erythritol: 3.0% of mix weight — well under 8% crystallization threshold
+
+**Nutrition (per 100g):** 116 kcal | 4.1g fat (2.7g sat) | 18.9g carbs (1.3g sugars, 6.4g fiber) | 10.1g protein
+
+**Scoopulator:** [gelato](https://scoopulator.app/calc?ingredients=user-milk-fresh-marata-35-L1Bll6:375,user-cottage-cheese-adoro-ENYtZ8:120,glycerin:14,pure-vanilla-extract:3,usdafndds-2705587:60,user-hsn-whey-protein-concentrate-984009:35,xylitol:22,erythritol:20,user-microcrystalline-cellulose-mcc-myujQ3:10,usdafndds-2710263:0.13,inulin:12.8,sodium-carboxymethyl-cellulose-cmc:0.9,guar-gum:0.6,usdaff-746775:0.5,xanthan-gum:0.2&target=gelato&type=gelato) — Serv. -13.9°C 🟢 | Sweet 18.46% 🟢 | Solids 36.54% 🟢 | Fat 4.14% ⚪ | Sugars 0.62% ⚪ | Milk Fat 2.59% 🔴 | MSNF 8.09% 🔴 | Stab 0.25% 🔴 | Emul 0% 🔴
+*(Solids 36.54% lands inside the gelato 36-43% band — that's what buys the density, and it's the highest-solids recipe in this file. Milk Fat/MSNF red — no cream, no SMP; the fudginess comes from solids and glycerin instead. Stab red — conservative 1.7g gum total to avoid stringy texture. Emul red — no soy lecithin per preference. Cocoa entered as generic USDA unsweetened (~13.7% fat) since there's no Bonora slug; the real 20%-fat Bonora runs slightly richer than shown.)*
 
 ---
 
